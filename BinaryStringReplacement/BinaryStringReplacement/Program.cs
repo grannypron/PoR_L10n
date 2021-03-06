@@ -35,6 +35,7 @@ namespace BinaryStringReplacement
                 XmlNode from = replacementNode.SelectNodes("node()[local-name() = 'from']")[0];
                 XmlNode to = replacementNode.SelectNodes("node()[local-name() = 'to']")[0];
                 replaceString(dataAsString, from.InnerText.Trim(), to.InnerText.Trim());
+                dataAsString = System.Text.Encoding.ASCII.GetString(data);
             }
             Console.WriteLine("Writing file.");
 
@@ -58,12 +59,31 @@ namespace BinaryStringReplacement
                 replacementStr = replacementStr.PadRight(replaceThisStr.Length, ' ');
             }
 
-            int foundIdx = inThisStr.IndexOf(replaceThisStr);
+            bool goodMatch = true;
+            int foundIdx = 0;
+            do {
+                foundIdx = inThisStr.IndexOf(replaceThisStr, foundIdx);
+                if (foundIdx > 0)
+                {
+                    if (inThisStr.ToCharArray()[foundIdx - 1] > 64 && inThisStr.ToCharArray()[foundIdx - 1] < 122) {
+                        // This match is no good if it has a letter (ish) right before it.  String should have their length right before it so this may be a string that is inside another string
+                        // Yes it is possible for a string to have a length that is between 64 & 122, but I'm not concerned about that because then it just won't get swapped
+                        goodMatch = false;
+                        // Advance the pointer and search again
+                        foundIdx++;
+                    } else {
+                        goodMatch = true;
+                    }
+                }
+            } while (!goodMatch && foundIdx >= 0 && foundIdx < inThisStr.Length) ;
+
+
             if (foundIdx < 0)
             {
                 Console.WriteLine("\"" + replaceThisStr + "\" not found in binary.  Skipping.");
                 return;
             }
+
             for (int idx = 0; idx < replacementStr.Length; idx++)
             {
                 data[foundIdx + idx] = (byte)replacementStr.ToCharArray()[idx];
