@@ -1158,4 +1158,6 @@
   <from>Restoration</from>
   <to>Djccnfyjdktybt</to>
 </replacement>
+<replacement><from>Yes</from><to>Lf</to></replacement>
+<replacement><from>No</from><to>Ytn</to></replacement>
 </replacements>
