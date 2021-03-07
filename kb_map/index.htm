@@ -1,7 +1,27 @@
-<html>
+﻿<html>
 <head>
     <title>PoR Translation Keyboard Mapper Utility</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
+    <script>
+
+        var cyr = "ЁФИСВУАПРШОЛДЬТЩЗЙКЫЕГМЦЧНЯЪХБЭЮЖ|ёфисвуапРшолдьтщзйкыегмцчняъхбэюж";
+        var lat = "@ABCDEFGHIJKLMNOPQRSTUVWXYZ][<'>;|@abcdefghijklmnopqrstuvwxyz][<'>;";
+
+        function map(str) {
+            var result = "";
+            for (var i = 0; i < str.length; i++) {
+                result += lat[cyr.indexOf(str.charAt(i))];
+            }
+            return result;
+        }
+
+        $(function () {
+            $("#toMap").keyup(function () {
+                $("#output").val(map($("#toMap").val()));
+            });
+        });
+    </script>
 </head>
 <body>
     Cyrillic Russian:<br />
