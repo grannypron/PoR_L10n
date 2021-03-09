@@ -8,6 +8,7 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		ECL3_000|Any CPU = ECL3_000|Any CPU
 		Game.ovr|Any CPU = Game.ovr|Any CPU
 		Release|Any CPU = Release|Any CPU
 		Start.exe|Any CPU = Start.exe|Any CPU
@@ -15,6 +16,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{7964D197-C00A-4761-9FDB-E15D898E1BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7964D197-C00A-4761-9FDB-E15D898E1BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7964D197-C00A-4761-9FDB-E15D898E1BA2}.ECL3_000|Any CPU.ActiveCfg = ECL3_000|Any CPU
+		{7964D197-C00A-4761-9FDB-E15D898E1BA2}.ECL3_000|Any CPU.Build.0 = ECL3_000|Any CPU
 		{7964D197-C00A-4761-9FDB-E15D898E1BA2}.Game.ovr|Any CPU.ActiveCfg = Game.ovr|Any CPU
 		{7964D197-C00A-4761-9FDB-E15D898E1BA2}.Game.ovr|Any CPU.Build.0 = Game.ovr|Any CPU
 		{7964D197-C00A-4761-9FDB-E15D898E1BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
