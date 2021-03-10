@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.IO;
 using System.Xml;
 
@@ -11,6 +12,12 @@ namespace BinaryStringReplacement
         static bool eclMode = false;
         static void Main(string[] args)
         {
+
+            foreach (byte b in writeEGABlock(new Bitmap(@"c:\Users\Shadow\Desktop\Title2.png"))) { System.Console.Write(b.ToString("X").PadLeft(2, '0')); }
+            System.Console.WriteLine();
+            System.Console.ReadLine();
+            return;
+
             string binFile = null;
             string transFile = null;
             if (args.Length <= 1)
@@ -19,7 +26,7 @@ namespace BinaryStringReplacement
                 return;
             }
 
-            if (args[0].Trim().StartsWith("-"))
+            if (args[0].Trim().StartsWith(" - "))
             {
                 if (args[0].Trim().ToUpper() == "-E" && args.Length == 3)
                 {
@@ -275,6 +282,114 @@ namespace BinaryStringReplacement
 
             return (char)arg_0;
         }
+
+
+        // The next three functions are used to substitute the images in the TITLE.DAX file.  They are one-offs and are not 
+        // meant to be end-usable features.  Just code I used to get the data in there.  I ended up writing it all out
+        // to the console and just copying and pasting the hex into my hex editor overtop the data that was already there X`D
+
+        static byte[] writeEGABlock(Bitmap img)
+        {
+
+            ushort xPos = 8;
+            ushort yPos = 0;
+
+            MemoryStream buf = new MemoryStream();
+            // Byte [0] & [1] are height
+            buf.Write(UShortToArray((ushort)img.Height), 0, 2);
+            // Byte [2] & [3] are width / 8
+            buf.Write(UShortToArray((ushort)(img.Width / 8)), 0, 2);
+            // Byte [4] & [5] are xpos / 8
+            buf.Write(UShortToArray((ushort)(xPos / 8)), 0, 2);
+            // Byte [6] & [7] are ypos / 8
+            buf.Write(UShortToArray((ushort)(yPos / 8)), 0, 2);
+
+            // Write the number of items in this DAX
+            byte itemCount = 1;  // I only need one image per block in the the TITLE.DAX
+            buf.Write(new byte[] { itemCount }, 0, 1);
+
+            // Copied these 8 from the original TITLE.DAX - don't know what it is.  Maybe the palette
+            buf.Write(new byte[] { 0x0, 0x11, 0x22, 0x13, 0x02, 0x21, 0x23, 0x33 }, 0, 8);
+
+            for (var i = 0; i < itemCount; i++)
+            {
+                for (var y = 0; y < img.Height; y++)
+                {
+                    for (var x = 0; x < img.Width; x += 2)
+                    {
+                        // Note: this will not work for images with an odd width, unless GetPixel is smart enough to wrap around, which I doubt
+                        Color c1 = img.GetPixel(x, yPos + y);
+                        Color c2 = img.GetPixel(x + 1, yPos + y);
+                        int px1Color = paletteTranslate(c1);
+                        int px2Color = paletteTranslate(c2);
+
+
+
+                        // 1st 4 bits is the first pixel's color 
+                        // 2nd 4 bits is the second pixel's color
+                        // Construct a byte number out of those bits that represent those two pixels
+                        byte b = System.Convert.ToByte((px1Color << 4) + px2Color);
+
+                        buf.Write(new byte[] { b }, 0, 1);
+                    }
+                }
+            }
+
+            return buf.ToArray();
+        }
+
+
+        static byte[] UShortToArray(ushort shrt)
+        {
+            // 16 - bit little endian
+            byte secondByte = System.Convert.ToByte(shrt >> 8);   // leftmost two bits
+            byte firstByte = System.Convert.ToByte(shrt & 0xFF);   // rightmost two bits
+            byte[] data = new byte[2];
+            data[0] = firstByte;
+            data[1] = secondByte;
+            return data;
+        }
+
+        static byte paletteTranslate(Color c)
+        {
+
+            // These are hard-coded colors that I stole from GBE.  They may not match all games
+            uint[] EgaColors = new uint[] {
+                        4278190080,
+                        4278190250,
+                        4278233600,
+                        4278233770,
+                        4289331200,
+                        4289331370,
+                        4289352960,
+                        4289374890,
+                        4283782485,
+                        4283782655,
+                        4283826005,
+                        4283826175,
+                        4294923605,
+                        4294923775,
+                        4294967125,
+                        4294967295
+            };
+
+            for (byte idx = 0; idx < EgaColors.Length; idx++)
+            {
+                Color palColor = Color.FromArgb((int)EgaColors[idx]);
+                // I do not know why this is, but the bitmaps that I have seen that come from GBE have
+                // a slight difference in their color.  They seem to be off by 3 in the R,G,B values unless
+                // the value is 255 or 0.  Idk what is going on, but I give a little leeway in choosing the
+                // color from the image
+                if (System.Math.Abs(palColor.R - c.R) <= 3 &&
+                    System.Math.Abs(palColor.G - c.G) <= 3 &&
+                    System.Math.Abs(palColor.B - c.B) <= 3)
+                {
+                    return idx;
+                }
+            }
+            throw new System.Exception("Unknown Color " + (uint)c.ToArgb() + " used.");
+        }
+
     }
 }
 
