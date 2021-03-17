@@ -8,15 +8,16 @@ namespace BinaryStringReplacement
 {
     class Program
     {
+        static byte MAX_STRING_DIFFERENCE = 5;
         static byte[] data;
         static bool eclMode = false;
         static void Main(string[] args)
         {
 
-            foreach (byte b in writeEGABlock(new Bitmap(@"c:\Users\Shadow\Desktop\Title2.png"))) { System.Console.Write(b.ToString("X").PadLeft(2, '0')); }
-            System.Console.WriteLine();
-            System.Console.ReadLine();
-            return;
+            //foreach (byte b in writeEGABlock(new Bitmap(@"c:\Users\Shadow\Desktop\Title2.png"))) { System.Console.Write(b.ToString("X").PadLeft(2, '0')); }
+            //System.Console.WriteLine();
+            //System.Console.ReadLine();
+            //return;
 
             string binFile = null;
             string transFile = null;
@@ -100,34 +101,14 @@ namespace BinaryStringReplacement
 
         private static bool replaceString(byte[] replaceThisStr, byte[] replacementStr, bool checkBoundary)
         {
-            if (replacementStr.Length > replaceThisStr.Length)
-            {
-                Console.WriteLine("Warning: truncating because replacement string \"" + replacementStr + "\" is too long.  Expected " + replaceThisStr.Length + " characters to replace \"" + replaceThisStr + "\"." );
-                //replacementStr = replacementStr.Substring(0, replaceThisStr.Length);
-                byte[] tmp = new byte[replaceThisStr.Length];
-                Array.Copy(replacementStr, tmp, tmp.Length);
-                replacementStr = tmp;
-
-            }
-            if (replacementStr.Length < replaceThisStr.Length)
-            {
-                //replacementStr = replacementStr.PadRight(replaceThisStr.Length, ' ');
-                byte[] tmp = new byte[replaceThisStr.Length];
-                Array.Copy(replacementStr, tmp, replacementStr.Length);
-                for (int idx = replacementStr.Length; idx < replaceThisStr.Length; idx++)
-                {
-                    tmp[idx] = (byte)' ';
-                }
-                replacementStr = tmp;
-            }
-
             bool goodMatch = true;
             int foundIdx = 0;
             do {
                 foundIdx = IndexOf(data, replaceThisStr, foundIdx);
                 if (foundIdx > 0 && checkBoundary)
                 {
-                    if (data[foundIdx - 1] > 64 && data[foundIdx - 1] < 122) {
+                    byte preceedingByte = data[foundIdx - 1];
+                    if (preceedingByte > 64 && preceedingByte < 122) {
                         // This match is no good if it has a letter (ish) right before it.  String should have their length right before it so this may be a string that is inside another string
                         // Yes it is possible for a string to have a length that is between 64 & 122, but I'm not concerned about that because then it just won't get swapped
                         goodMatch = false;
@@ -135,6 +116,19 @@ namespace BinaryStringReplacement
                         foundIdx++;
                     } else {
                         goodMatch = true;
+                    }
+
+                    if (Math.Abs(preceedingByte - replaceThisStr.Length) <= MAX_STRING_DIFFERENCE)
+                    {
+                        // Most strings should start with their length immediately prior.  Allow for a little wiggle room.  If that is 
+                        // the purpose of the byte then change it to be the new length
+                        data[foundIdx - 1] = (byte)replacementStr.Length;
+                        goodMatch = true;
+                    } else
+                    {
+                        // Advance the pointer and search again because I don't want to mess with strings that aren't preceeded by their length
+                        foundIdx++;
+                        goodMatch = false;
                     }
                 }
             } while (!goodMatch && foundIdx >= 0 && foundIdx < data.Length) ;
@@ -145,10 +139,41 @@ namespace BinaryStringReplacement
                 return false;
             }
 
+            // Now, find the new allowable length for the string by counting the null bytes after the string.
+            int availableLength = replaceThisStr.Length;
+            while (data[foundIdx + availableLength] == 0)
+            {
+                availableLength++;
+            }
+
+            if (replacementStr.Length > availableLength)
+            {
+                Console.WriteLine("Warning: truncating because replacement string \"" + System.Text.Encoding.ASCII.GetString(replacementStr) + "\" is too long.  " + availableLength + " characters are available to replace \"" + System.Text.Encoding.ASCII.GetString(replaceThisStr) + "\".");
+                byte[] tmp = new byte[availableLength];
+                Array.Copy(replacementStr, tmp, tmp.Length);
+                replacementStr = tmp;
+
+            }
+            if (replacementStr.Length < replaceThisStr.Length)
+            {
+                // String is shorter than the original - pad it with spaces - leave the length the same
+                byte[] tmp = new byte[replaceThisStr.Length];
+                Array.Copy(replacementStr, tmp, replacementStr.Length);
+                for (int idx = replacementStr.Length; idx < replaceThisStr.Length; idx++)
+                {
+                    tmp[idx] = (byte)' ';
+                }
+                replacementStr = tmp;
+            }
+
+
             for (int idx = 0; idx < replacementStr.Length; idx++)
             {
                 data[foundIdx + idx] = (byte)replacementStr[idx];
             }
+
+            // Assign the new length to the preceeding byte
+            data[foundIdx - 1] = (byte)replacementStr.Length;
 
             return true;
 
