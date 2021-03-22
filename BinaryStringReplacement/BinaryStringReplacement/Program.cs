@@ -63,30 +63,36 @@ namespace BinaryStringReplacement
             {
                 string from = replacementNode.SelectNodes("node()[local-name() = 'from']")[0].InnerText.Trim();
                 string to = replacementNode.SelectNodes("node()[local-name() = 'to']")[0].InnerText.Trim();
-                byte[] bFrom = System.Text.Encoding.ASCII.GetBytes(from);
-                byte[] bTo = System.Text.Encoding.ASCII.GetBytes(to);
-                if (eclMode)
+                if (from != null && from.Trim() != "" && to != null && to.Trim() != "")
                 {
-                    bFrom = CompressString(from);
-                    bTo = CompressString(to);
-                }
-                /* Debugging
-                string bytes = "";
-                foreach (byte b in bFrom)
+                    byte[] bFrom = System.Text.Encoding.ASCII.GetBytes(from);
+                    byte[] bTo = System.Text.Encoding.ASCII.GetBytes(to);
+                    if (eclMode)
+                    {
+                        bFrom = CompressString(from);
+                        bTo = CompressString(to);
+                    }
+                    /* Debugging
+                    string bytes = "";
+                    foreach (byte b in bFrom)
+                    {
+                        bytes += ((int)b).ToString("X").PadLeft(2, '0') + "/";
+                    }
+                    Console.WriteLine(bytes);
+                    */
+                    bool result = replaceString(bFrom, bTo, !eclMode);
+
+                    if (result)
+                    {
+                        Console.WriteLine("Replaced \"" + from + "\" with \"" + to + "\"");
+                    }
+                    else
+                    {
+                        Console.WriteLine("\"" + from + "\" not found in binary.  Skipping.");
+                    }
+                } else
                 {
-                    bytes += ((int)b).ToString("X").PadLeft(2, '0') + "/";
-                }
-                Console.WriteLine(bytes);
-                */
-                bool result = replaceString(bFrom, bTo, !eclMode);
-                
-                if (result)
-                {
-                    Console.WriteLine("Replaced \"" + from + "\" with \"" + to + "\"");
-                }
-                else
-                {
-                    Console.WriteLine("\"" + from + "\" not found in binary.  Skipping.");
+                    Console.WriteLine("Skipping entry with empty from/to value.");
                 }
             }
             Console.WriteLine("Writing file.");
