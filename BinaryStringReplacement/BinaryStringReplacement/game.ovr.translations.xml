@@ -5,7 +5,7 @@
   </replacement>
   <replacement>
     <from>scenario created by: tsr, inc.</from>
-    <to>c>;tn cjplfy  </to>
+    <to>c>;tn cjplfy nb'cfh byr</to>
   </replacement>
   <replacement>
     <from>jim ward</from>
@@ -21,7 +21,7 @@
   </replacement>
   <replacement>
     <from>ssi special projects</from>
-    <to>  </to>
+    <to>'c'cfq cgtik ghjl;trnc</to>
   </replacement>
   <replacement>
     <from>programming:</from>
@@ -129,7 +129,7 @@
   </replacement>
   <replacement>
     <from>INPUT THE CODE WORD:</from>
-    <to>YF;VBNT RKFDBIE DDJLF</to>
+    <to>YF;VBNT RKFDBIE DDJL</to>
   </replacement>
   <replacement>
     <from>Sorry, that's incorrect.</from>
@@ -289,24 +289,28 @@
     <to>Rfvtym d gkjnm</to>
   </replacement>
   <replacement>
+    <from>, how can we help you?</from>
+    <to> xtv dfv gjvjxm</to>
+  </replacement>
+  <replacement>
     <from>Heal Exit</from>
-    <to>Bcwtk Yfpfl</to>
+    <to>H)bcw E)yfp</to>
   </replacement>
   <replacement>
     <from>Heal View Take Pool Share Appraise Exit</from>
-    <to>Bcwtk Uthjq Dpznm Rji Lf</to>
+    <to>H)bcw V)uth T)dp P)gek S)l</to>
   </replacement>
   <replacement>
     <from>Heal View Pool Appraise Exit</from>
-    <to>Bcwtk Uthjq Rji Jwty Yf</to>
+    <to>H)bcw V)uth P)gek A)jw E)y</to>
   </replacement>
   <replacement>
     <from>~Yes</from>
-    <to>Lf</to>
+    <to>Y)lf</to>
   </replacement>
   <replacement>
     <from>~No</from>
-    <to>Ytn</to>
+    <to>N)ytn</to>
   </replacement>
   <replacement>
     <from>As you leave a priest says, "Excuse me but you have left some money here"</from>
@@ -349,9 +353,7 @@
     <to>jxrjd jgsnf</to>
   </replacement>
   <replacement>
-    <from>
-      press &lt;enter&gt;
-        /&lt;return&gt; to continue</from>
+    <from>press &lt;enter&gt;/&lt;return&gt; to continue</from>
     <to>yf;vbnt  l</to>
   </replacement>
   <replacement>
@@ -376,7 +378,7 @@
   </replacement>
   <replacement>
     <from>View Pool Exit</from>
-    <to>Uthjq Rji Yfpfl</to>
+    <to>Uthjq Gek Yfpfl</to>
   </replacement>
   <replacement>
     <from>Exit</from>
@@ -411,13 +413,11 @@
     <to>[jnbnt kb ds dthyenmcz b g</to>
   </replacement>
   <replacement>
-    <from>takes and hides his share.</from>
+    <from> takes and hides his share.</from>
     <to>&lt;th@n b ghzxtn cdj> ljk></to>
   </replacement>
   <replacement>
-    <from>
-      press &lt;enter&gt;
-        /&lt;return&gt; to continue</from>
+    <from>press &lt;enter&gt;/&lt;return&gt; to continue</from>
     <to>yf;vbnt  l</to>
   </replacement>
   <replacement>
@@ -454,19 +454,19 @@
   </replacement>
   <replacement>
     <from>Buy View Take Pool Share Appraise Exit</from>
-    <to>Regbnm Uthjq Dpznm Rji Lf</to>
+    <to>Regbnm Uthjq Dpznm Gek Lfn</to>
   </replacement>
   <replacement>
     <from>Buy View Pool Appraise Exit</from>
-    <to>Regbnm Uthjq Rji Jwty Yf</to>
+    <to>Regbnm Uthjq Gek Jwty Yfp</to>
   </replacement>
   <replacement>
     <from>~Yes</from>
-    <to>Lf</to>
+    <to>Y)lf</to>
   </replacement>
   <replacement>
     <from>~No</from>
-    <to>Ytn</to>
+    <to>N)ytn</to>
   </replacement>
   <replacement>
     <from>As you leave the shopkeeper says, "Excuse me but you have left some money here."</from>
@@ -478,7 +478,7 @@
   </replacement>
   <replacement>
     <from>Loading...Please Wait</from>
-    <to>PfuheprfJ;blfqnt</to>
+    <to>Pfuheprf J;blfqnt</to>
   </replacement>
   <replacement>
     <from>Magic On</from>
@@ -950,7 +950,7 @@
   </replacement>
   <replacement>
     <from>cannot memorize any spells</from>
-    <to>yt vj;tn pfgjvybnm pfrkbyf</to>
+    <to>yt vj;tn pfgjvybnm</to>
   </replacement>
   <replacement>
     <from>Memorize these spells?</from>
@@ -1030,7 +1030,7 @@
   </replacement>
   <replacement>
     <from>DisplayParty Order:</from>
-    <to>'rhfyJnhzl Gjhzljr</to>
+    <to>JcvJnhzl Hzl</to>
   </replacement>
   <replacement>
     <from>has been selected</from>
@@ -1102,15 +1102,15 @@
   </replacement>
   <replacement>
     <from>ExitThe party makes camp...</from>
-    <to>Ds[jlJnhzl cnfdbn kfuthm</to>
+    <to>E)Ds[Jnhzl cnfdbn kfuthm</to>
   </replacement>
   <replacement>
     <from>Camp:</from>
-    <to>Kfuthm</to>
+    <to>Kfu</to>
   </replacement>
   <replacement>
     <from>Quit TO DOS</from>
-    <to>Ds[jl d LJC</to>
+    <to>LJC</to>
   </replacement>
   <replacement>
     <from>Choose a function</from>
@@ -1146,7 +1146,7 @@
   </replacement>
   <replacement>
     <from>Keep this character?</from>
-    <to>Jcnfdbnm 'njuj uthjz</to>
+    <to>Jcnfdbnm uthjz</to>
   </replacement>
   <replacement>
     <from>Character name:</from>
@@ -1230,7 +1230,7 @@
   </replacement>
   <replacement>
     <from>Head Body Keep</from>
-    <to>Ujkjdf Ntkj Jcnfdbnm</to>
+    <to>H)uj B)nt K)jc</to>
   </replacement>
   <replacement>
     <from>old</from>
@@ -1286,7 +1286,7 @@
   </replacement>
   <replacement>
     <from>Load Which Game:</from>
-    <to>Rfre> buhe pfuhepbnm</to>
+    <to>Rfre> buhe</to>
   </replacement>
   <replacement>
     <from>Put save disk in</from>
@@ -1294,7 +1294,7 @@
   </replacement>
   <replacement>
     <from>Loading...Please Wait</from>
-    <to>PfuheprfJ;blfqnt</to>
+    <to>Pfuheprf J;blfqnt</to>
   </replacement>
   <replacement>
     <from>Save Which Game</from>
@@ -1306,7 +1306,7 @@
   </replacement>
   <replacement>
     <from>Saving...Please Wait</from>
-    <to>Cj[hfytybtJ;blfqnt</to>
+    <to>Cj[hfytybt J;blfqnt</to>
   </replacement>
   <replacement>
     <from>Save and exit  Insert disk #</from>
@@ -1418,7 +1418,7 @@
   </replacement>
   <replacement>
     <from>Movement</from>
-    <to>Gjldb;yjcnm</to>
+    <to>Crjhjcnm</to>
   </replacement>
   <replacement>
     <from>Items</from>
@@ -1426,19 +1426,19 @@
   </replacement>
   <replacement>
     <from>Spells</from>
-    <to>Pfrkbyfybz</to>
+    <to>S)pfrk</to>
   </replacement>
   <replacement>
     <from>Trade</from>
-    <to>J&lt;vty</to>
+    <to>T)j&lt;v</to>
   </replacement>
   <replacement>
     <from>Drop</from>
-    <to>Ds&lt;hjcbnm</to>
+    <to>Ds&lt;h</to>
   </replacement>
   <replacement>
     <from>Exit</from>
-    <to>Ds[jl</to>
+    <to>E)yfp</to>
   </replacement>
   <replacement>
     <from>View:Must be unreadied</from>
@@ -1454,31 +1454,31 @@
   </replacement>
   <replacement>
     <from>Ready</from>
-    <to>Gjlujnjdbnm</to>
+    <to>R)ujn</to>
   </replacement>
   <replacement>
     <from>Use</from>
-    <to>Ghbvtybnm</to>
+    <to>U)bcg</to>
   </replacement>
   <replacement>
     <from>Trade</from>
-    <to>J&lt;vtyznm</to>
+    <to>T)j&lt;v</to>
   </replacement>
   <replacement>
     <from>Drop</from>
-    <to>Ds&lt;hjcbnm</to>
+    <to>Ds&lt;h</to>
   </replacement>
   <replacement>
     <from>Halve</from>
-    <to>Hfpltkbnm</to>
+    <to>Hfpltk</to>
   </replacement>
   <replacement>
     <from>Join</from>
-    <to>J&lt;]tlbybnm</to>
+    <to>J&lt;</to>
   </replacement>
   <replacement>
     <from>Sell</from>
-    <to>Ghjlfnm</to>
+    <to>S)Ghjl</to>
   </replacement>
   <replacement>
     <from>Id</from>
@@ -1578,7 +1578,7 @@
   </replacement>
   <replacement>
     <from>Trade to?</from>
-    <to>J&lt;vtyznm yf</to>
+    <to>Rjve</to>
   </replacement>
   <replacement>
     <from>Select type of coin</from>
@@ -1590,7 +1590,7 @@
   </replacement>
   <replacement>
     <from>in Memory</from>
-    <to>d gfvznm</to>
+    <to>d gfvznb</to>
   </replacement>
   <replacement>
     <from>in Spell Book</from>
@@ -2082,15 +2082,15 @@
   </replacement>
   <replacement>
     <from>Guarding</from>
-    <to></to>
+    <to>j[hfyf</to>
   </replacement>
   <replacement>
     <from>camping</from>
-    <to></to>
+    <to>kfuthm</to>
   </replacement>
   <replacement>
     <from>search</from>
-    <to></to>
+    <to>gjbcr</to>
   </replacement>
   <replacement>
     <from>Exit</from>
