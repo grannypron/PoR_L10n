@@ -1,19 +1,19 @@
 ﻿<replacements>
   <replacement>
     <from>Please insert startup disk</from>
-    <to>Gj;fkeqcnf dcnfdmnt pfuhe</to>
+    <to>Gj;fkeqcnf, dcnfdmnt pfuhepjxysq lbcr</to>
   </replacement>
   <replacement>
     <from>Unable to find POOL.CFG</from>
-    <to>Yt elf@ncz yfqnb </to>
+    <to>Yt elf@ncz yfqnb .</to>
   </replacement>
   <replacement>
-    <from>Not enough memory to run game.  You need more bytes.</from>
-    <to>Ytljcnfnjxyj gfvznb lkz pf</to>
+    <from>Not enough memory to run game.  </from>
+    <to>Ytljcnfnjxyj gfvznb lkz pfgecrf buhs.  </to>
   </replacement>
   <replacement>
     <from>Overlay error, program abort!</from>
-    <to>Jib&lt;rf jdthktz ghjuhfvvf </to>
+    <to>Jib&lt;rf jdthktz, ghjuhfvvf jcnfyjdktyf!</to>
   </replacement>
   <replacement>
     <from>Phylactery</from>
@@ -38,11 +38,11 @@
   </replacement>
   <replacement>
     <from>Cure Disease</from>
-    <to>Ktx &lt;jktpyb</to>
+    <to>Ktx. &lt;jktpyb</to>
   </replacement>
   <replacement>
     <from>Cure Light Wounds</from>
-    <to>Ktxty k@urb[ hfy</to>
+    <to>Ktxty. k@urb[ hfy</to>
   </replacement>
   <replacement>
     <from>Cure Serious Wounds</from>
@@ -50,7 +50,7 @@
   </replacement>
   <replacement>
     <from>Cure Critical Wounds</from>
-    <to>Ktxty rhbnbx hfy</to>
+    <to>Ktxty. rhbnbx. hfy</to>
   </replacement>
   <replacement>
     <from>Neutralize Poison</from>
@@ -62,7 +62,7 @@
   </replacement>
   <replacement>
     <from>Remove Curse</from>
-    <to>Cyznm ghjrk</to>
+    <to>Cyznm ghjrk.</to>
   </replacement>
   <replacement>
     <from>Stone to Flesh</from>
@@ -142,23 +142,23 @@
   </replacement>
   <replacement>
     <from>Area Cast View Encamp Search Look</from>
-    <to>A)rfh C)pfr V)uth E)kfu S)</to>
+    <to>A)rfh C)pfr V)uth E)kfu S)bcr L)jcv</to>
   </replacement>
   <replacement>
     <from>Cast View Encamp Search Look</from>
-    <to>C)pfr V)uth E)kfu S)bcr L)</to>
+    <to>C)pfr V)uth E)kfu S)bcr L)jcv</to>
   </replacement>
   <replacement>
     <from>Save View Magic Rest Alter Exit</from>
-    <to>S)cj[ V)uth M)vfu R)jnl A)</to>
+    <to>S)cj[ V)uth M)vfu R)jnl A)jgw E)yfp</to>
   </replacement>
   <replacement>
     <from>Cast Memorize Scribe Display Rest Exit</from>
-    <to>C)pfr M)lj&lt; S)gth D)'aa R)</to>
+    <to>C)pfr M)lj&lt; S)gth D)'aa R)jnl E)yfp</to>
   </replacement>
   <replacement>
     <from>Order Drop Speed Icon Pics Exit</from>
-    <to>O)hzl D)bpu S)crjh I)pyx A</to>
+    <to>O)hzl D)bpu S)crjh I)pyx A)fdf E)yfp</to>
   </replacement>
   <replacement>
     <from>Select Exit</from>
@@ -214,7 +214,7 @@
   </replacement>
   <replacement>
     <from>Parts color-1 color-2 Size Exit</from>
-    <to>Xfcnb wdtn wdtn Hjcn Y</to>
+    <to>Xfcnb wdtn-1 wdtn-2 Hjcn Yfpfl</to>
   </replacement>
   <replacement>
     <from>Head Weapon Exit</from>
@@ -222,7 +222,7 @@
   </replacement>
   <replacement>
     <from>$Weapon Body xxxx Shield Arm Leg Exit</from>
-    <to>Jhe;bt Ntkj  Obn Herf</to>
+    <to>Jhe;bt Ntkj  Obn Herf Yjuf Yfpfl</to>
   </replacement>
   <replacement>
     <from>Keep Exit</from>
@@ -230,43 +230,43 @@
   </replacement>
   <replacement>
     <from>Next Prev Keep Exit</from>
-    <to>Cktl Ghtl Jcnfd Yfpfl</to>
+    <to>Cktl. Ghtl. Jcnfd. Yfpfl</to>
   </replacement>
   <replacement>
     <from>1st Level</from>
-    <to>q ehjdtym</to>
+    <to>1-q ehjdtym</to>
   </replacement>
   <replacement>
     <from>2nd Level</from>
-    <to>q ehjdtym</to>
+    <to>2-q ehjdtym</to>
   </replacement>
   <replacement>
     <from>3rd Level</from>
-    <to>q ehjdtym</to>
+    <to>3-q ehjdtym</to>
   </replacement>
   <replacement>
     <from>4th Level</from>
-    <to>q ehjdtym</to>
+    <to>4-q ehjdtym</to>
   </replacement>
   <replacement>
     <from>5th Level</from>
-    <to>q ehjdtym</to>
+    <to>5-q ehjdtym</to>
   </replacement>
   <replacement>
     <from>6th Level</from>
-    <to>q ehjdtym</to>
+    <to>6-q ehjdtym</to>
   </replacement>
   <replacement>
     <from>7th Level</from>
-    <to>q ehjdtym</to>
+    <to>7-q ehjdtym</to>
   </replacement>
   <replacement>
     <from>8th Level</from>
-    <to>q ehjdtym</to>
+    <to>8-q ehjdtym</to>
   </replacement>
   <replacement>
     <from>9th Level</from>
-    <to>q ehjdtym</to>
+    <to>9-q ehjdtym</to>
   </replacement>
   <replacement>
     <from>Cleric</from>
@@ -302,39 +302,39 @@
   </replacement>
   <replacement>
     <from>Cleric/Fighter</from>
-    <to>;htw&lt;jtw</to>
+    <to>;htw/&lt;jtw</to>
   </replacement>
   <replacement>
     <from>Cleric/Fighter/Magic-User</from>
-    <to>;htw&lt;jtwVfu</to>
+    <to>;htw/&lt;jtw/Vfu</to>
   </replacement>
   <replacement>
     <from>Cleric/Ranger</from>
-    <to>;htwCktljgsn</to>
+    <to>;htw/Cktljgsn</to>
   </replacement>
   <replacement>
     <from>Cleric/Magic-User</from>
-    <to>;htwVfu</to>
+    <to>;htw/Vfu</to>
   </replacement>
   <replacement>
     <from>Cleric/Thief</from>
-    <to>;htwDjh</to>
+    <to>;htw/Djh</to>
   </replacement>
   <replacement>
     <from>Fighter/Magic-User</from>
-    <to>&lt;jtwVfu</to>
+    <to>&lt;jtw/Vfu</to>
   </replacement>
   <replacement>
     <from>Fighter/Thief</from>
-    <to>&lt;jtwDjh</to>
+    <to>&lt;jtw/Djh</to>
   </replacement>
   <replacement>
     <from>Fighter/Magic-User/Thief</from>
-    <to>&lt;jtwVfuDjh</to>
+    <to>&lt;jtw/Vfu/Djh</to>
   </replacement>
   <replacement>
     <from>Magic-User/Thief</from>
-    <to>VfuDjh</to>
+    <to>Vfu/Djh</to>
   </replacement>
   <replacement>
     <from>Monster</from>
@@ -370,15 +370,15 @@
   </replacement>
   <replacement>
     <from>Lawful Good</from>
-    <to>Pfrjy lj&lt;h</to>
+    <to>Pfrjy. lj&lt;h</to>
   </replacement>
   <replacement>
     <from>Lawful Neutral</from>
-    <to>Pfrjy ytqn</to>
+    <to>Pfrjy. ytqn</to>
   </replacement>
   <replacement>
     <from>Lawful Evil</from>
-    <to>Pfrjy pkjq</to>
+    <to>Pfrjy. pkjq</to>
   </replacement>
   <replacement>
     <from>Neutral Good</from>
@@ -398,7 +398,7 @@
   </replacement>
   <replacement>
     <from>Chaotic Neutral</from>
-    <to>[fjnbx ytqnhfk</to>
+    <to>[fjnbx. ytqnhfk</to>
   </replacement>
   <replacement>
     <from>Chaotic Evil</from>
@@ -406,11 +406,11 @@
   </replacement>
   <replacement>
     <from>Male</from>
-    <to>Ve;</to>
+    <to>Ve;.</to>
   </replacement>
   <replacement>
     <from>Female</from>
-    <to>;ty</to>
+    <to>;ty.</to>
   </replacement>
   <replacement>
     <from>Copper</from>
@@ -438,7 +438,7 @@
   </replacement>
   <replacement>
     <from></from>
-    <to>Lhfujw</to>
+    <to>Lhfujw.</to>
   </replacement>
   <replacement>
     <from>Okay</from>
@@ -531,7 +531,7 @@
   </replacement>
   <replacement>
     <from>Glaive-Guisarme</from>
-    <to>Uktafubpfhvf</to>
+    <to>Uktaf-ubpfhvf</to>
   </replacement>
   <replacement>
     <from>Guisarme</from>
@@ -539,7 +539,7 @@
   </replacement>
   <replacement>
     <from>Guisarme-Voulge</from>
-    <to>Ubpfhvfrjkey</to>
+    <to>Ubpfhvf-rjkey</to>
   </replacement>
   <replacement>
     <from>Halberd</from>
@@ -635,11 +635,11 @@
   </replacement>
   <replacement>
     <from></from>
-    <to>Cjcnfdy lkby ker</to>
+    <to>Cjcnfdy. lkby. ker</to>
   </replacement>
   <replacement>
     <from></from>
-    <to>Cjcnfdy rjh ker</to>
+    <to>Cjcnfdy. rjh. ker</to>
   </replacement>
   <replacement>
     <from>Long Bow</from>
@@ -727,7 +727,7 @@
   </replacement>
   <replacement>
     <from>Stave</from>
-    <to>Vfu gjcj[</to>
+    <to>Vfu. gjcj[</to>
   </replacement>
   <replacement>
     <from>Wand</from>
@@ -895,7 +895,7 @@
   </replacement>
   <replacement>
     <from>Jewel</from>
-    <to>Lhfu</to>
+    <to>Lhfu.</to>
   </replacement>
   <replacement>
     <from>Ointment</from>
@@ -1077,12 +1077,10 @@
     <from>Wagon</from>
     <to>Ntktuf</to>
   </replacement>
-
-
-
-
-
-
+  <replacement>
+    <from>of</from>
+    <to>..</to>
+  </replacement>
   <replacement>
     <from>Cloak</from>
     <to>Gkfo</to>
@@ -1154,7 +1152,7 @@
 
   <replacement>
     <from>Extra</from>
-    <to>Ljg</to>
+    <to>Ljg.</to>
   </replacement>
   <replacement>
     <from>Gaseous Form</from>
@@ -1225,7 +1223,7 @@
   </replacement>
   <replacement>
     <from>Save</from>
-    <to>Cj[h</to>
+    <to>Cj[h.</to>
   </replacement>
   <replacement>
     <from>Clerical Scroll</from>
@@ -1237,15 +1235,15 @@
   </replacement>
   <replacement>
     <from>With 1 Spell</from>
-    <to>c  pfrkbyfybtv</to>
+    <to>c 1 pfrkbyfybtv</to>
   </replacement>
   <replacement>
     <from>With 2 Spells</from>
-    <to>c  pfrkbyfybzvb</to>
+    <to>c 2 pfrkbyfybzvb</to>
   </replacement>
   <replacement>
     <from>With 3 Spells</from>
-    <to>c  pfrkbyfybzvb</to>
+    <to>c 3 pfrkbyfybzvb</to>
   </replacement>
   <replacement>
     <from>Protection Scroll</from>
@@ -1277,19 +1275,19 @@
   </replacement>
   <replacement>
     <from>AC 2</from>
-    <to>R&lt; </to>
+    <to>R&lt; 2</to>
   </replacement>
   <replacement>
     <from>AC 6</from>
-    <to>R&lt; </to>
+    <to>R&lt; 6</to>
   </replacement>
   <replacement>
     <from>AC 4</from>
-    <to>R&lt; </to>
+    <to>R&lt; 4</to>
   </replacement>
   <replacement>
     <from>AC 3</from>
-    <to>R&lt; </to>
+    <to>R&lt; 3</to>
   </replacement>
   <replacement>
     <from>Of Protection</from>
@@ -1351,7 +1349,7 @@
   </replacement>
   <replacement>
     <from></from>
-    <to>Djccnfyjdk ehjdy</to>
+    <to>Djccnfyjdk. ehjdy.</to>
   </replacement>
   <replacement>
     <from>Flame Tongue</from>
@@ -1407,7 +1405,7 @@
     <from>Cursed</from>
     <to>Ghjrkznsq</to>
   </replacement>
-<!--  <replacement>
+  <!--  <replacement>
     <from>N</from>
     <to>C</to>
   </replacement>
@@ -1441,35 +1439,35 @@
   </replacement>-->
   <replacement>
     <from>Insert disk 1 in drive</from>
-    <to>Dcnfdmnt lbcrtne </to>
+    <to>Dcnfdmnt lbcrtne 1</to>
   </replacement>
   <replacement>
     <from>Insert disk 2 in drive</from>
-    <to>Dcnfdmnt lbcrtne </to>
+    <to>Dcnfdmnt lbcrtne 2</to>
   </replacement>
   <replacement>
     <from>Insert disk 3 in drive</from>
-    <to>Dcnfdmnt lbcrtne </to>
+    <to>Dcnfdmnt lbcrtne 3</to>
   </replacement>
   <replacement>
     <from>Insert disk 4 in drive</from>
-    <to>Dcnfdmnt lbcrtne </to>
+    <to>Dcnfdmnt lbcrtne 4</to>
   </replacement>
   <replacement>
     <from>Insert disk 5 in drive</from>
-    <to>Dcnfdmnt lbcrtne </to>
+    <to>Dcnfdmnt lbcrtne 5</to>
   </replacement>
   <replacement>
     <from>Insert disk 6 in drive</from>
-    <to>Dcnfdmnt lbcrtne </to>
+    <to>Dcnfdmnt lbcrtne 6</to>
   </replacement>
   <replacement>
     <from>Insert disk 7 in drive</from>
-    <to>Dcnfdmnt lbcrtne </to>
+    <to>Dcnfdmnt lbcrtne 7</to>
   </replacement>
   <replacement>
     <from>Insert disk 8 in drive</from>
-    <to>Dcnfdmnt lbcrtne </to>
+    <to>Dcnfdmnt lbcrtne 8</to>
   </replacement>
   <replacement>
     <from>Bless</from>
@@ -1569,7 +1567,7 @@
   </replacement>
   <replacement>
     <from>Silence, 15' Radius</from>
-    <to>Nbibyf hflbec v)</to>
+    <to>Nbibyf hflbec 4.6v)</to>
   </replacement>
   <replacement>
     <from>Slow Poison</from>
@@ -1669,11 +1667,11 @@
   </replacement>
   <replacement>
     <from>Invisibility, 10' Radius</from>
-    <to>Ytdblbvjcnm hflbec v)</to>
+    <to>Ytdblbvjcnm hflbec 3v)</to>
   </replacement>
   <replacement>
     <from>Lightning Bolt Protection From Evil, 10' Radius Protection From Good, 10' Radius</from>
-    <to>Vjkybz Pfobnf jn pkf hflb</to>
+    <to>Vjkybz Pfobnf jn pkf hflbec 3v) Pfobnf jn lj&lt;hf </to>
   </replacement>
   <replacement>
     <from>Protection From Normal Missiles</from>

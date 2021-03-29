@@ -1,0 +1,24 @@
+
+
+"(.*\n)*?.*?"
+\n.*:\s*([\w])          - replace with $1
+.* \$.*?"
+\{\$.*\}
+<\$.*>
+
+
+
+
+
+
+Archived:
+^.*\"[\r\n.\s]*
+D\:\\PoR_L10n\\ECL\\ECL_.*.txt\(.*\)\:.*?"
+
+\"(.*\n)*?.*?\"      	      		  - find all
+D\:\\PoR_L10n\\ECL\\ECL_.*.txt\(.*\)\:    - Replace with empty string
+"\r\n                                 "   - (no quotes) replace with empty string
+ \$.*?"					  - Replace with "
+\{\$.*\}  				  - Replace with empty string
+\<\$.*\>				  - Replace with empty string
+""					  - Replace with empty string

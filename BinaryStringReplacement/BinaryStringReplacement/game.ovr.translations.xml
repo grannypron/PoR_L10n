@@ -1,11 +1,11 @@
 ﻿<replacements>
   <replacement>
     <from>Time to save your game.  [return]</from>
-    <to>Gjhf cj[hfybnm dfie buhe </to>
+    <to>Gjhf cj[hfybnm dfie buhe.  </to>
   </replacement>
   <replacement>
     <from>scenario created by: tsr, inc.</from>
-    <to>c>;tn cjplfy nb'cfh byr</to>
+    <to>c>;tn cjplfy nb-'c-fh byr.</to>
   </replacement>
   <replacement>
     <from>jim ward</from>
@@ -13,7 +13,7 @@
   </replacement>
   <replacement>
     <from>david cook,steve winter,mike breault</from>
-    <to>l'dbl rercnbd dbynthvfqr</to>
+    <to>l'dbl rer,cnbd dbynth,vfqr &lt;h>kn</to>
   </replacement>
   <replacement>
     <from>game created by:</from>
@@ -21,11 +21,11 @@
   </replacement>
   <replacement>
     <from>ssi special projects</from>
-    <to>'c'cfq cgtik ghjl;trnc</to>
+    <to>'c-'c-fq cgtik ghjl;trnc</to>
   </replacement>
   <replacement>
     <from>programming:</from>
-    <to>ghjuhfvvbhjdfybt</to>
+    <to>ghjuhfvvbhjdfybt:</to>
   </replacement>
   <replacement>
     <from>original</from>
@@ -53,11 +53,11 @@
   </replacement>
   <replacement>
     <from>graphic arts:</from>
-    <to>uhfabrf</to>
+    <to>uhfabrf:</to>
   </replacement>
   <replacement>
     <from>encounter coding:</from>
-    <to>ghjuhfvvbhjdfybt &lt;j@d</to>
+    <to>ghjuhfvvbhjdfybt &lt;j@d:</to>
   </replacement>
   <replacement>
     <from>tom wahl</from>
@@ -89,11 +89,11 @@
   </replacement>
   <replacement>
     <from>project manager</from>
-    <to>herjdjlbntkm</to>
+    <to>herjdjlbntkm:</to>
   </replacement>
   <replacement>
     <from>developer:</from>
-    <to>ghjtrnbhjdobr</to>
+    <to>ghjtrnbhjdobr:</to>
   </replacement>
   <replacement>
     <from>george mac donald</from>
@@ -101,31 +101,31 @@
   </replacement>
   <replacement>
     <from>testing:</from>
-    <to>ntcns</to>
+    <to>ntcns:</to>
   </replacement>
   <replacement>
     <from>joel billings,steve salyer</from>
-    <to>l;j'k &lt;bkkbyuccnbd cfkmth</to>
+    <to>l;j'k &lt;bkkbyuc,cnbd cfkmth</to>
   </replacement>
   <replacement>
     <from>james kucera,robert daly,rick white</from>
-    <to>l;tqvc rexthfhj&lt;thn l'kb</to>
+    <to>l;tqvc rexthf,hj&lt;thn l'kb,hbr efqn</to>
   </replacement>
   <replacement>
     <from>MATCH THE ESPRUAR RUNE (OUTER RING)</from>
-    <to></to>
+    <to>...</to>
   </replacement>
   <replacement>
     <from>WITH THE DETHEK RUNE (INNER RING)</from>
-    <to></to>
+    <to>...</to>
   </replacement>
   <replacement>
     <from>AND READ THE CODE WORD UNDER THE PATH:</from>
-    <to></to>
+    <to>...</to>
   </replacement>
   <replacement>
     <from>READ FROM THE INSIDE TO THE OUTSIDE.</from>
-    <to></to>
+    <to>...</to>
   </replacement>
   <replacement>
     <from>INPUT THE CODE WORD:</from>
@@ -133,16 +133,15 @@
   </replacement>
   <replacement>
     <from>Sorry, that's incorrect.</from>
-    <to>Ghjcnbnt yj 'nj ytdthyj</to>
+    <to>Ghjcnbnt, yj 'nj ytdthyj.</to>
   </replacement>
   <replacement>
-    <from>
-      PRESS &lt;RETURN&gt; OR BUTTON TO CONTINUE</from>
-    <to>YF;VBNT  BKB RYJGR</to>
+    <from>PRESS &lt;RETURN&gt; OR BUTTON TO CONTINUE</from>
+    <to>YF;VBNT  BKB RYJGRE LKZ GHJLJK;TYBZ</to>
   </replacement>
   <replacement>
     <from>PRESS &lt;ENTER&gt;/&lt;RETURN&gt; TO CONTINUE</from>
-    <to>YF;VBNT  L</to>
+    <to>YF;VBNT / LKZ GHJLJK;TYBZ</to>
   </replacement>
   <replacement>
     <from>~COMBAT</from>
@@ -178,11 +177,11 @@
   </replacement>
   <replacement>
     <from>Both sides wait.</from>
-    <to>J&lt;t cnjhjys ;len</to>
+    <to>J&lt;t cnjhjys ;len.</to>
   </replacement>
   <replacement>
     <from>The monsters flee.</from>
-    <to>Vjycnhs e&lt;tuf>n</to>
+    <to>Vjycnhs e&lt;tuf>n.</to>
   </replacement>
   <replacement>
     <from>~HAUGHTY</from>
@@ -206,23 +205,23 @@
   </replacement>
   <replacement>
     <from>dies.</from>
-    <to>evbhftn</to>
+    <to>evbhftn.</to>
   </replacement>
   <replacement>
     <from>press &lt;enter&gt;/&lt;return&gt; to continue</from>
-    <to>yf;vbnt  l</to>
+    <to>yf;vbnt / lkz ghjljk;tybz</to>
   </replacement>
   <replacement>
     <from>The END!</from>
-    <to>RJYTW</to>
+    <to>RJYTW!</to>
   </replacement>
   <replacement>
     <from>The entire party is killed!</from>
-    <to>Dtcm jnhzl e&lt;bn</to>
+    <to>Dtcm jnhzl e&lt;bn!</to>
   </replacement>
   <replacement>
     <from>press &lt;enter&gt;/&lt;return&gt; to continue</from>
-    <to>yf;vbnt  l</to>
+    <to>yf;vbnt / lkz ghjljk;tybz</to>
   </replacement>
   <replacement>
     <from> will only cost</from>
@@ -230,7 +229,7 @@
   </replacement>
   <replacement>
     <from>gold pieces.</from>
-    <to>pjkjns[ vjytn</to>
+    <to>pjkjns[ vjytn.</to>
   </replacement>
   <replacement>
     <from>pay for cure</from>
@@ -238,7 +237,7 @@
   </replacement>
   <replacement>
     <from>Not enough money.</from>
-    <to>Yt [dfnftn ltytu</to>
+    <to>Yt [dfnftn ltytu.</to>
   </replacement>
   <replacement>
     <from>is cured.</from>
@@ -246,7 +245,7 @@
   </replacement>
   <replacement>
     <from>is not blind.</from>
-    <to>e;t yt cktgjq</to>
+    <to>e;t yt cktgjq.</to>
   </replacement>
   <replacement>
     <from>Cure Blindness</from>
@@ -254,7 +253,7 @@
   </replacement>
   <replacement>
     <from>is not Diseased.</from>
-    <to>yt &lt;jkty</to>
+    <to>yt &lt;jkty.</to>
   </replacement>
   <replacement>
     <from>Cure Disease</from>
@@ -274,7 +273,7 @@
   </replacement>
   <replacement>
     <from>is not dead.</from>
-    <to>yt v@hnd</to>
+    <to>yt v@hnd.</to>
   </replacement>
   <replacement>
     <from>Raise Dead</from>
@@ -282,7 +281,7 @@
   </replacement>
   <replacement>
     <from>is not stoned.</from>
-    <to>e;t yt jrfvtytdibq</to>
+    <to>e;t yt jrfvtytdibq.</to>
   </replacement>
   <replacement>
     <from>Stone to Flesh</from>
@@ -290,7 +289,7 @@
   </replacement>
   <replacement>
     <from>, how can we help you?</from>
-    <to> xtv dfv gjvjxm</to>
+    <to>, xtv dfv gjvjxm?</to>
   </replacement>
   <replacement>
     <from>Heal Exit</from>
@@ -298,11 +297,11 @@
   </replacement>
   <replacement>
     <from>Heal View Take Pool Share Appraise Exit</from>
-    <to>H)bcw V)uth T)dp P)gek S)l</to>
+    <to>H)bcw V)uth T)dp P)gek S)ltk A)jw E)yfp</to>
   </replacement>
   <replacement>
     <from>Heal View Pool Appraise Exit</from>
-    <to>H)bcw V)uth P)gek A)jw E)y</to>
+    <to>H)bcw V)uth P)gek A)jw E)yfp</to>
   </replacement>
   <replacement>
     <from>~Yes</from>
@@ -314,31 +313,31 @@
   </replacement>
   <replacement>
     <from>As you leave a priest says, "Excuse me but you have left some money here"</from>
-    <to>Rjulf ds e[jlbnt ;htw ujd</to>
+    <to>Rjulf ds e[jlbnt, ;htw ujdjhbn: "Bpdbybnt, yj ds j</to>
   </replacement>
   <replacement>
     <from>Do you want to go back and retrieve your money?</from>
-    <to>[jnbnt kb ds dthyenmcz b p</to>
+    <to>[jnbnt kb ds dthyenmcz b pf&lt;hfnm cdjb ltymub?</to>
   </replacement>
   <replacement>
     <from>You have lost the duel.</from>
-    <to>Ds ghjbuhfkb gjtlbyjr</to>
+    <to>Ds ghjbuhfkb gjtlbyjr.</to>
   </replacement>
   <replacement>
     <from>You have won the duel.</from>
-    <to>Ds dsbuhfkb gjtlbyjr</to>
+    <to>Ds dsbuhfkb gjtlbyjr.</to>
   </replacement>
   <replacement>
     <from>The party has won.</from>
-    <to>Jnhzl gj&lt;tlbk</to>
+    <to>Jnhzl gj&lt;tlbk.</to>
   </replacement>
   <replacement>
     <from>The party has fled.</from>
-    <to>Jnhzl c&lt;t;fk</to>
+    <to>Jnhzl c&lt;t;fk.</to>
   </replacement>
   <replacement>
     <from>The party has found treasure!</from>
-    <to>Jnhzl yfi@k cjrhjdbot</to>
+    <to>Jnhzl yfi@k cjrhjdbot!</to>
   </replacement>
   <replacement>
     <from>The duelist receives</from>
@@ -350,11 +349,11 @@
   </replacement>
   <replacement>
     <from>experience points.</from>
-    <to>jxrjd jgsnf</to>
+    <to>jxrjd jgsnf.</to>
   </replacement>
   <replacement>
     <from>press &lt;enter&gt;/&lt;return&gt; to continue</from>
-    <to>yf;vbnt  l</to>
+    <to>yf;vbnt / lkz ghjljk;tybz</to>
   </replacement>
   <replacement>
     <from>‰Loot</from>
@@ -362,7 +361,7 @@
   </replacement>
   <replacement>
     <from>Items:</from>
-    <to>Dtob</to>
+    <to>Dtob:</to>
   </replacement>
   <replacement>
     <from>Take</from>
@@ -370,7 +369,7 @@
   </replacement>
   <replacement>
     <from>Take:</from>
-    <to>Dpznm</to>
+    <to>Dpznm:</to>
   </replacement>
   <replacement>
     <from>Money Items Exit</from>
@@ -386,15 +385,15 @@
   </replacement>
   <replacement>
     <from>Detect Exit</from>
-    <to>J&lt;yfh Yfpfl</to>
+    <to>J&lt;yfh. Yfpfl</to>
   </replacement>
   <replacement>
     <from>View Take Pool Share</from>
-    <to>Uthjq Dpznm Rji Lfnm</to>
+    <to>Uthjq Dpznm Rji. Lfnm</to>
   </replacement>
   <replacement>
     <from>View Take Pool</from>
-    <to>Uthjq Dpznm Rji</to>
+    <to>Uthjq Dpznm Rji.</to>
   </replacement>
   <replacement>
     <from>~Yes</from>
@@ -406,31 +405,31 @@
   </replacement>
   <replacement>
     <from>There is still treasure left.</from>
-    <to>Nfv dc@ to@ jcnfkbcm cjrhj</to>
+    <to>Nfv dc@ to@ jcnfkbcm cjrhjdbof.</to>
   </replacement>
   <replacement>
     <from>Do you want to go back and claim your treasure?</from>
-    <to>[jnbnt kb ds dthyenmcz b g</to>
+    <to>[jnbnt kb ds dthyenmcz b gjnht&lt;jdfnm jnlfnm dfib c</to>
   </replacement>
   <replacement>
     <from> takes and hides his share.</from>
-    <to>&lt;th@n b ghzxtn cdj> ljk></to>
+    <to>&lt;th@n b ghzxtn cdj> ljk>.</to>
   </replacement>
   <replacement>
     <from>press &lt;enter&gt;/&lt;return&gt; to continue</from>
-    <to>yf;vbnt  l</to>
+    <to>yf;vbnt / lkz ghjljk;tybz</to>
   </replacement>
   <replacement>
     <from>The END!</from>
-    <to>RJYTW</to>
+    <to>RJYTW!</to>
   </replacement>
   <replacement>
     <from>The monsters rejoice for the party has been destroyed</from>
-    <to>Vjycnhs kbre>n dtlm jnhzl</to>
+    <to>Vjycnhs kbre>n, dtlm jnhzl eybxnj;ty</to>
   </replacement>
   <replacement>
     <from>Press any key to continue</from>
-    <to>Yf;vbnt k>&lt;e> rkfdbie lkz </to>
+    <to>Yf;vbnt k>&lt;e> rkfdbie lkz ghjljk;tybz</to>
   </replacement>
   <replacement>
     <from>Shop</from>
@@ -438,7 +437,7 @@
   </replacement>
   <replacement>
     <from>Items:</from>
-    <to>Dtob</to>
+    <to>Dtob:</to>
   </replacement>
   <replacement>
     <from>Buy</from>
@@ -454,11 +453,11 @@
   </replacement>
   <replacement>
     <from>Buy View Take Pool Share Appraise Exit</from>
-    <to>Regbnm Uthjq Dpznm Gek Lfn</to>
+    <to>Regbnm Uthjq Dpznm Gek Lfnm Jwty. Yfpfl</to>
   </replacement>
   <replacement>
     <from>Buy View Pool Appraise Exit</from>
-    <to>Regbnm Uthjq Gek Jwty Yfp</to>
+    <to>Regbnm Uthjq Gek Jwty. Yfpfl</to>
   </replacement>
   <replacement>
     <from>~Yes</from>
@@ -470,15 +469,15 @@
   </replacement>
   <replacement>
     <from>As you leave the shopkeeper says, "Excuse me but you have left some money here."</from>
-    <to>Rjulf ds e[jlbnt kfdjxybr</to>
+    <to>Rjulf ds e[jlbnt, kfdjxybr ujdjhbn: "Bpdbybnt, yj </to>
   </replacement>
   <replacement>
     <from>Do you want to go back and get your money?</from>
-    <to>Ds [jnbnt dthyenmcz b pf&lt;h</to>
+    <to>Ds [jnbnt dthyenmcz b pf&lt;hfnm ltymub?</to>
   </replacement>
   <replacement>
     <from>Loading...Please Wait</from>
-    <to>Pfuheprf J;blfqnt</to>
+    <to>Pfuheprf... J;blfqnt</to>
   </replacement>
   <replacement>
     <from>Magic On</from>
@@ -494,7 +493,7 @@
   </replacement>
   <replacement>
     <from>Move</from>
-    <to>Ldb;</to>
+    <to>Ldb;.</to>
   </replacement>
   <replacement>
     <from>View Aim</from>
@@ -502,19 +501,19 @@
   </replacement>
   <replacement>
     <from>Use</from>
-    <to>Ghtlv</to>
+    <to>Ghtlv.</to>
   </replacement>
   <replacement>
     <from>Cast</from>
-    <to>Pfrk</to>
+    <to>Pfrk.</to>
   </replacement>
   <replacement>
     <from>Turn</from>
-    <to>Yt;</to>
+    <to>Yt;.</to>
   </replacement>
   <replacement>
     <from>Quick Done</from>
-    <to>Fdn Ujnjd</to>
+    <to>Fdn. Ujnjd.</to>
   </replacement>
   <replacement>
     <from>Your Teammate is Dying</from>
@@ -522,15 +521,15 @@
   </replacement>
   <replacement>
     <from>Continue Battle:</from>
-    <to>Ghjljk;bnm &lt;jq</to>
+    <to>Ghjljk;bnm &lt;jq:</to>
   </replacement>
   <replacement>
     <from>Move/Attack, Move Left =</from>
-    <to>LdbuFnfrf Dktdj </to>
+    <to>Ldbu./Fnfrf, Dktdj </to>
   </replacement>
   <replacement>
     <from>Flee:</from>
-    <to>C&lt;t;fnm</to>
+    <to>C&lt;t;fnm:</to>
   </replacement>
   <replacement>
     <from>Blocked</from>
@@ -542,7 +541,7 @@
   </replacement>
   <replacement>
     <from>Delay Quit</from>
-    <to>Pflth; Yfpfl</to>
+    <to>Pflth;. Yfpfl</to>
   </replacement>
   <replacement>
     <from>Bandage</from>
@@ -550,7 +549,7 @@
   </replacement>
   <replacement>
     <from>Speed Exit</from>
-    <to>Crjh Yfpfl</to>
+    <to>Crjh. Yfpfl</to>
   </replacement>
   <replacement>
     <from>is bandaged</from>
@@ -558,7 +557,7 @@
   </replacement>
   <replacement>
     <from>GameSpeed</from>
-    <to>Crjhbuhs</to>
+    <to>Crjh.buhs</to>
   </replacement>
   <replacement>
     <from>Slower</from>
@@ -578,7 +577,7 @@
   </replacement>
   <replacement>
     <from>Move/Attack, Move Left =</from>
-    <to>LdbuFnfrf Dktdj </to>
+    <to>Ldbu./Fnfrf, Dktdj </to>
   </replacement>
   <replacement>
     <from>is forced to flee</from>
@@ -602,7 +601,7 @@
   </replacement>
   <replacement>
     <from>Loading...Please Wait</from>
-    <to>PfuheprfJ;blfqnt</to>
+    <to>Pfuheprf...J;blfqnt</to>
   </replacement>
   <replacement>
     <from>starts to train</from>
@@ -626,7 +625,7 @@
   </replacement>
   <replacement>
     <from>The air clears a little...</from>
-    <to>Djple[ ytvyjuj jxboftncz</to>
+    <to>Djple[ ytvyjuj jxboftncz...</to>
   </replacement>
   <replacement>
     <from>Avoids it</from>
@@ -678,7 +677,7 @@
   </replacement>
   <replacement>
     <from>reflects it!</from>
-    <to>jnhf;ftn 'nj</to>
+    <to>jnhf;ftn 'nj!</to>
   </replacement>
   <replacement>
     <from>is Stoned</from>
@@ -722,7 +721,7 @@
   </replacement>
   <replacement>
     <from>Turns gaseous and escapes</from>
-    <to>ghtdhfoftncz d ufp b c&lt;tuf</to>
+    <to>ghtdhfoftncz d ufp b c&lt;tuftn</to>
   </replacement>
   <replacement>
     <from>Spits Acid</from>
@@ -734,7 +733,7 @@
   </replacement>
   <replacement>
     <from>Must have Giant Strength</from>
-    <to>ljk;yj &lt;snm j&lt;kflftn cbkj</to>
+    <to>ljk;yj &lt;snm, j&lt;kflftn cbkjq dtkbrfyf</to>
   </replacement>
   <replacement>
     <from>Backstabs</from>
@@ -806,7 +805,7 @@
   </replacement>
   <replacement>
     <from>turns undead...</from>
-    <to>j;bdkztn vthndtwf</to>
+    <to>j;bdkztn vthndtwf...</to>
   </replacement>
   <replacement>
     <from>is turned</from>
@@ -818,7 +817,7 @@
   </replacement>
   <replacement>
     <from>Nothing Happens...</from>
-    <to>Ybxtuj yt ghjbc[jlbn</to>
+    <to>Ybxtuj yt ghjbc[jlbn...</to>
   </replacement>
   <replacement>
     <from>Already been targeted</from>
@@ -826,7 +825,7 @@
   </replacement>
   <replacement>
     <from>Camp Only Spell</from>
-    <to>Pfrkbyfybt njkmrj lkz kfut</to>
+    <to>Pfrkbyfybt njkmrj lkz kfuthz</to>
   </replacement>
   <replacement>
     <from>Begins Casting</from>
@@ -834,7 +833,7 @@
   </replacement>
   <replacement>
     <from>Attack Ally:</from>
-    <to>Fnfrjdfnm cj>pybrf</to>
+    <to>Fnfrjdfnm cj>pybrf:</to>
   </replacement>
   <replacement>
     <from>Range =</from>
@@ -846,15 +845,15 @@
   </replacement>
   <replacement>
     <from>Next Prev Manual</from>
-    <to>Cktl Ghtl Hexy</to>
+    <to>Cktl. Ghtl. Hexy.</to>
   </replacement>
   <replacement>
     <from>Center Exit</from>
-    <to>Wtynhbh Yfpfl</to>
+    <to>Wtynhbh. Yfpfl</to>
   </replacement>
   <replacement>
     <from>Aim:</from>
-    <to>Wtkm</to>
+    <to>Wtkm:</to>
   </replacement>
   <replacement>
     <from>Range =</from>
@@ -862,7 +861,7 @@
   </replacement>
   <replacement>
     <from>Center Exit</from>
-    <to>Wtynhbh Yfpfl</to>
+    <to>Wtynhbh. Yfpfl</to>
   </replacement>
   <replacement>
     <from>Target</from>
@@ -870,19 +869,19 @@
   </replacement>
   <replacement>
     <from>(Use Cursor keys)</from>
-    <to>Gjkmpeqntcm rkfdbifvbcnh</to>
+    <to>Gjkmpeqntcm rkfdbifvb-cnhtkrfvb)</to>
   </replacement>
   <replacement>
     <from>Rakes...</from>
-    <to>Hjtncz</to>
+    <to>Hjtncz...</to>
   </replacement>
   <replacement>
     <from>The Gods intervene!</from>
-    <to>&lt;jub dvtifkbcm</to>
+    <to>&lt;jub dvtifkbcm!</to>
   </replacement>
   <replacement>
     <from>The river's stench drives you back.</from>
-    <to>Pkjdjybt 'njq htrb jnujyzt</to>
+    <to>Pkjdjybt 'njq htrb jnujyztn dfc j&lt;hfnyj.</to>
   </replacement>
   <replacement>
     <from>Not Here</from>
@@ -906,11 +905,11 @@
   </replacement>
   <replacement>
     <from>Locked.</from>
-    <to>Pfgthnj</to>
+    <to>Pfgthnj.</to>
   </replacement>
   <replacement>
     <from>cannot cast spells in this area</from>
-    <to>ytkmpz rjkljdfnm d 'njv vt</to>
+    <to>ytkmpz rjkljdfnm d 'njv vtcnt</to>
   </replacement>
   <replacement>
     <from>is in no condition to</from>
@@ -934,19 +933,19 @@
   </replacement>
   <replacement>
     <from>can memorize:</from>
-    <to>vj;tn pfgjvybnm</to>
+    <to>vj;tn pfgjvybnm:</to>
   </replacement>
   <replacement>
     <from>Cleric Spells:</from>
-    <to>Pfrkbyfybz ;htwf</to>
+    <to>Pfrkbyfybz ;htwf:</to>
   </replacement>
   <replacement>
     <from>Magic-User Spells:</from>
-    <to>Pfrkbyfybz vfuf</to>
+    <to>Pfrkbyfybz vfuf:</to>
   </replacement>
   <replacement>
     <from>Memorize These Spells?</from>
-    <to>Pfgjvybnm 'nb pfrkbyfybz</to>
+    <to>Pfgjvybnm 'nb pfrkbyfybz?</to>
   </replacement>
   <replacement>
     <from>cannot memorize any spells</from>
@@ -954,31 +953,31 @@
   </replacement>
   <replacement>
     <from>Memorize these spells?</from>
-    <to>Pfgjvybnm 'nb pfrkbyfybz</to>
+    <to>Pfgjvybnm 'nb pfrkbyfybz?</to>
   </replacement>
   <replacement>
     <from>Scribe These Spells?</from>
-    <to>Pfgbcfnm 'nb pfrkbyfybz</to>
+    <to>Pfgbcfnm 'nb pfrkbyfybz?</to>
   </replacement>
   <replacement>
     <from>has no copyable scrolls</from>
-    <to>yt bvttn cdbnrjd lkz rjgbh</to>
+    <to>yt bvttn cdbnrjd lkz rjgbhjdfybz</to>
   </replacement>
   <replacement>
     <from>You already know that spell</from>
-    <to>Ds e;t pyftnt 'nj pfrkbyfy</to>
+    <to>Ds e;t pyftnt 'nj pfrkbyfybt</to>
   </replacement>
   <replacement>
     <from>Scribe these spells?</from>
-    <to>Pfgbcfnm 'nb pfrkbyfybz</to>
+    <to>Pfgbcfnm 'nb pfrkbyfybz?</to>
   </replacement>
   <replacement>
     <from>Funky-- Studying Manual of Bodily Health</from>
-    <to>Jnkbxyj Bpextybt cghfdjx</to>
+    <to>Jnkbxyj-- Bpextybt cghfdjxybrf gj ntktcyjve pljhjd</to>
   </replacement>
   <replacement>
     <from>Training with Manual of Bodily Health</from>
-    <to>J&lt;extybt cj cghfdjxybrjv g</to>
+    <to>J&lt;extybt cj cghfdjxybrjv gj ntktcyjve pljhjdm></to>
   </replacement>
   <replacement>
     <from>Feather Fall</from>
@@ -1030,7 +1029,7 @@
   </replacement>
   <replacement>
     <from>DisplayParty Order:</from>
-    <to>JcvJnhzl Hzl</to>
+    <to>JcvJnhzl Hzl:</to>
   </replacement>
   <replacement>
     <from>has been selected</from>
@@ -1038,7 +1037,7 @@
   </replacement>
   <replacement>
     <from>quit TO DOS:</from>
-    <to>dsqnb d LJC</to>
+    <to>dsqnb d LJC:</to>
   </replacement>
   <replacement>
     <from>will be gone</from>
@@ -1046,7 +1045,7 @@
   </replacement>
   <replacement>
     <from>Drop from party?</from>
-    <to>Elfkbnm bp jnhzlf</to>
+    <to>Elfkbnm bp jnhzlf?</to>
   </replacement>
   <replacement>
     <from>bids you farewell</from>
@@ -1058,7 +1057,7 @@
   </replacement>
   <replacement>
     <from>Breathes A sigh of relief</from>
-    <to>uke&lt;jrj j&lt;ktux@yyj dpls[ft</to>
+    <to>uke&lt;jrj j&lt;ktux@yyj dpls[ftn</to>
   </replacement>
   <replacement>
     <from>Game Speed </from>
@@ -1078,11 +1077,11 @@
   </replacement>
   <replacement>
     <from>Game Speed:</from>
-    <to>Crjhjcnm buhs</to>
+    <to>Crjhjcnm buhs:</to>
   </replacement>
   <replacement>
     <from>Alter:</from>
-    <to>Bpvtybnm</to>
+    <to>Bpvtybnm:</to>
   </replacement>
   <replacement>
     <from>Monsters on</from>
@@ -1102,15 +1101,15 @@
   </replacement>
   <replacement>
     <from>ExitThe party makes camp...</from>
-    <to>E)Ds[Jnhzl cnfdbn kfuthm</to>
+    <to>E)Ds[Jnhzl cnfdbn kfuthm...</to>
   </replacement>
   <replacement>
     <from>Camp:</from>
-    <to>Kfu</to>
+    <to>Kfu:</to>
   </replacement>
   <replacement>
     <from>Quit TO DOS</from>
-    <to>LJC</to>
+    <to>LJC?</to>
   </replacement>
   <replacement>
     <from>Choose a function</from>
@@ -1126,7 +1125,7 @@
   </replacement>
   <replacement>
     <from>I Understand, master.</from>
-    <to>Z gjybvf> ujcgjlby</to>
+    <to>Z gjybvf>, ujcgjlby.</to>
   </replacement>
   <replacement>
     <from>Pick Race</from>
@@ -1146,11 +1145,11 @@
   </replacement>
   <replacement>
     <from>Keep this character?</from>
-    <to>Jcnfdbnm uthjz</to>
+    <to>Jcnfdbnm uthjz?</to>
   </replacement>
   <replacement>
     <from>Character name:</from>
-    <to>Bvz uthjz</to>
+    <to>Bvz uthjz:</to>
   </replacement>
   <replacement>
     <from>Drop</from>
@@ -1158,11 +1157,11 @@
   </replacement>
   <replacement>
     <from>forever?</from>
-    <to>yfdtxyj</to>
+    <to>yfdtxyj?</to>
   </replacement>
   <replacement>
     <from>Are you sure?</from>
-    <to>Ds edthtys</to>
+    <to>Ds edthtys?</to>
   </replacement>
   <replacement>
     <from>You dump</from>
@@ -1170,31 +1169,31 @@
   </replacement>
   <replacement>
     <from>breathes a sigh of relief.</from>
-    <to>j&lt;ktux@yyj dpls[ftn</to>
+    <to>j&lt;ktux@yyj dpls[ftn.</to>
   </replacement>
   <replacement>
-    <from>can't be modified.</from>
-    <to>ytkmpz vjlbabwbhjdfnm</to>
+    <from> can't be modified.</from>
+    <to> ytkmpz vjlbabwbhjdfnm.</to>
   </replacement>
   <replacement>
     <from>Modify character:</from>
-    <to>Vjlba uthjz</to>
+    <to>Vjlba. uthjz:</to>
   </replacement>
   <replacement>
     <from>Keep Exit</from>
-    <to>Jcnfd Yfpfl</to>
+    <to>Jcnfd. Yfpfl</to>
   </replacement>
   <replacement>
     <from>we only train conscious people</from>
-    <to>vs vj;tv nhtybhjdfnm njkmr</to>
+    <to>vs vj;tv nhtybhjdfnm njkmrj nt[, rnj d cjpyfybb</to>
   </replacement>
   <replacement>
     <from>Training costs 1000 gp.</from>
-    <to>Nhtybhjdrf cnjbn  pjk</to>
+    <to>Nhtybhjdrf cnjbn 1000 pjk.</to>
   </replacement>
   <replacement>
     <from>We don't train that class here</from>
-    <to>Vs yt nhtybhetv 'njn rkfcc</to>
+    <to>Vs yt nhtybhetv 'njn rkfcc pltcm</to>
   </replacement>
   <replacement>
     <from>Not Enough Experience</from>
@@ -1202,7 +1201,7 @@
   </replacement>
   <replacement>
     <from>will become:</from>
-    <to>cnfytn</to>
+    <to>cnfytn:</to>
   </replacement>
   <replacement>
     <from>a level</from>
@@ -1214,19 +1213,19 @@
   </replacement>
   <replacement>
     <from>Do you wish to train?</from>
-    <to>[jnbnt gjnhtybhjdfnm</to>
+    <to>[jnbnt gjnhtybhjdfnm?</to>
   </replacement>
   <replacement>
     <from>Congratulations...</from>
-    <to>Gjplhfdkztv</to>
+    <to>Gjplhfdkztv...</to>
   </replacement>
   <replacement>
     <from>Add a character:</from>
-    <to>Lj&lt;fdbnm uthjz</to>
+    <to>Lj&lt;fdbnm uthjz:</to>
   </replacement>
   <replacement>
     <from>Add Exit</from>
-    <to>Lj&lt; Yfpfl</to>
+    <to>Lj&lt;. Yfpfl</to>
   </replacement>
   <replacement>
     <from>Head Body Keep</from>
@@ -1262,23 +1261,23 @@
   </replacement>
   <replacement>
     <from>Is this icon ok?</from>
-    <to>Jcnfdbnm 'njn pyfxjr</to>
+    <to>Jcnfdbnm 'njn pyfxjr?</to>
   </replacement>
   <replacement>
     <from>Put save disk in </from>
-    <to>Dcnfdmnt lbcrtne cj[h d </to>
+    <to>Dcnfdmnt lbcrtne cj[h. d</to>
   </replacement>
   <replacement>
     <from>Put save disk in </from>
-    <to>Dcnfdmnt lbcrtne cj[h d </to>
+    <to>Dcnfdmnt lbcrtne cj[h. d</to>
   </replacement>
   <replacement>
     <from>Put save disk in </from>
-    <to>Dcnfdmnt lbcrtne cj[h d </to>
+    <to>Dcnfdmnt lbcrtne cj[h. d</to>
   </replacement>
   <replacement>
     <from>Put save disk in </from>
-    <to>Dcnfdmnt lbcrtne cj[h d </to>
+    <to>Dcnfdmnt lbcrtne cj[h. d</to>
   </replacement>
   <replacement>
     <from>Unable to load monster</from>
@@ -1286,43 +1285,43 @@
   </replacement>
   <replacement>
     <from>Load Which Game:</from>
-    <to>Rfre> buhe</to>
+    <to>Rfre> buhe:</to>
   </replacement>
   <replacement>
     <from>Put save disk in</from>
-    <to>Dcnfdmnt lbcrtne cj[h d</to>
+    <to>Dcnfdmnt lbcrtne cj[h. d</to>
   </replacement>
   <replacement>
     <from>Loading...Please Wait</from>
-    <to>Pfuheprf J;blfqnt</to>
+    <to>Pfuheprf... J;blfqnt</to>
   </replacement>
   <replacement>
-    <from>Save Which Game</from>
-    <to>Rfre> buhe cj[hfybnm F &lt;</to>
+    <from>Save Which Game: A B C D E F G H I J</from>
+    <to>Rfre> buhe: F &lt; D U L T ; P B R</to>
   </replacement>
   <replacement>
-    <from>Put save disk in:</from>
-    <to>Dcnfdmnt lbcrtne cj[h d</to>
+    <from>Put save disk in</from>
+    <to>Dcnfdmnt lbcrtne cj[h. d</to>
   </replacement>
   <replacement>
     <from>Saving...Please Wait</from>
-    <to>Cj[hfytybt J;blfqnt</to>
+    <to>Cj[hfytybt... J;blfqnt</to>
   </replacement>
   <replacement>
     <from>Save and exit  Insert disk #</from>
-    <to>Cj[h b dsqnb  Dcnfd lbcr</to>
+    <to>Cj[h. b dsqnb  Dcnfd. lbcr. </to>
   </replacement>
   <replacement>
     <from>Mortally wounded, the dragon roars!</from>
-    <to>Cvthntkmyj hfytysq lhfrjy </to>
+    <to>Cvthntkmyj hfytysq lhfrjy htd@n!</to>
   </replacement>
   <replacement>
     <from>The spirit of Tyranthraxus flares up</from>
-    <to>Le[ Nbhfyjnhfrcf dcgs[bdft</to>
+    <to>Le[ Nbhfyjnhfrcf dcgs[bdftn,</to>
   </replacement>
   <replacement>
     <from>from the dragon's body.</from>
-    <to>dsktnfz bp ntkf lhfrjyf</to>
+    <to>dsktnfz bp ntkf lhfrjyf.</to>
   </replacement>
   <replacement>
     <from>FINAL#</from>
@@ -1330,39 +1329,39 @@
   </replacement>
   <replacement>
     <from>Fools, you have but slain the body</from>
-    <to>Lehfrb ds kbim e&lt;bkb ntkj</to>
+    <to>Lehfrb, ds kbim e&lt;bkb ntkj, rjnjhsv</to>
   </replacement>
   <replacement>
     <from>I possessed.  I cannot be defeated!"</from>
-    <to>z eghfdkzk Vtyz ytkmpz gj</to>
+    <to>z eghfdkzk. Vtyz ytkmpz gj&lt;tlbnm!"</to>
   </replacement>
   <replacement>
     <from>With the power of the pool of radiance</from>
-    <to>C vjueotcndjv cbz>otuj ghe</to>
+    <to>C vjueotcndjv cbz>otuj ghelf,</to>
   </replacement>
   <replacement>
     <from>which I moved here, to my lair,</from>
-    <to>rjnjhsq z gthty@c c>lf d </to>
+    <to>rjnjhsq z gthty@c c>lf, d vj@ kjujdj,</to>
   </replacement>
   <replacement>
     <from>I will still rule, by possessing one</from>
-    <to>z dc@ hfdyj &lt;ele ghfdbnm</to>
+    <to>z dc@ hfdyj &lt;ele ghfdbnm,</to>
   </replacement>
   <replacement>
     <from>of you!</from>
-    <to>pfdkfltd jlybv bp dfc</to>
+    <to>pfdkfltd jlybv bp dfc!</to>
   </replacement>
-  "<replacement>
+  <replacement>
     <from>
-      No Lord Bane!  I can still rule here!
+      "No Lord Bane!  I can still rule here!
       I have not failed.  Do not call me back
       through the pool!
     </from>
-    <to>Ytn dkflsrf &lt;tqy  Z dc@ </to>
+    <to>Ytn, dkflsrf &lt;tqy!  Z dc@ to@ vjueghfdbnm pltcm!Z</to>
   </replacement>"
   <replacement>
     <from>Noooo...</from>
-    <to>Yttttn</to>
+    <to>Yt-t-t-tn...</to>
   </replacement>
   <replacement>
     <from>(NPC)</from>
@@ -1442,15 +1441,15 @@
   </replacement>
   <replacement>
     <from>View:Must be unreadied</from>
-    <to>Gjrfpye;yj jnvtybnm ujnjd</to>
+    <to>Gjrfp:ye;yj jnvtybnm ujnjdyjcnm</to>
   </replacement>
   <replacement>
     <from>was going to scribe from that scroll</from>
-    <to>pfgbcsdftncz bp 'njuj cdbn</to>
+    <to>pfgbcsdftncz bp 'njuj cdbnrf</to>
   </replacement>
   <replacement>
     <from>is it Okay to lose it?</from>
-    <to>ltqcndbntkmyj bp&lt;fdbnmcz j</to>
+    <to>ltqcndbntkmyj bp&lt;fdbnmcz jn 'njuj?</to>
   </replacement>
   <replacement>
     <from>Ready</from>
@@ -1506,7 +1505,7 @@
   </replacement>
   <replacement>
     <from>Drop It?</from>
-    <to>Ds&lt;hjcbnm</to>
+    <to>Ds&lt;hjcbnm?</to>
   </replacement>
   <replacement>
     <from>It's Cursed</from>
@@ -1522,11 +1521,11 @@
   </replacement>
   <replacement>
     <from>Your hands are full!</from>
-    <to>Dfib herb pfyzns</to>
+    <to>Dfib herb pfyzns!</to>
   </replacement>
   <replacement>
     <from>Trade with Whom?</from>
-    <to>Njhujdfnm c rtv</to>
+    <to>Njhujdfnm c rtv?</to>
   </replacement>
   <replacement>
     <from>Overloaded</from>
@@ -1542,27 +1541,27 @@
   </replacement>
   <replacement>
     <from>Item:</from>
-    <to>Dtom</to>
+    <to>Dtom:</to>
   </replacement>
   <replacement>
     <from>Is It a Deal?</from>
-    <to>Ljujdjhbkbcm</to>
+    <to>Ljujdjhbkbcm?</to>
   </replacement>
   <replacement>
     <from>Sold!</from>
-    <to>Ghjlfyj</to>
+    <to>Ghjlfyj!</to>
   </replacement>
   <replacement>
     <from>Overloaded.  Money will be put in pool.</from>
-    <to>Gthtuhe;tyj Ltymub &lt;elen </to>
+    <to>Gthtuhe;tyj. Ltymub &lt;elen gjkj;tys d rjitkm.</to>
   </replacement>
   <replacement>
     <from>For 200 gold pieces I'll identify your</from>
-    <to>Pf  pjkjns[ z jgjpyf> d</to>
+    <to>Pf 200 pjkjns[ z jgjpyf> dfi</to>
   </replacement>
   <replacement>
     <from>Is It a Deal?</from>
-    <to>Ljujdjhbkbcm</to>
+    <to>Ljujdjhbkbcm?</to>
   </replacement>
   <replacement>
     <from>Not Enough Money</from>
@@ -1570,15 +1569,15 @@
   </replacement>
   <replacement>
     <from>I can't tell anything new about your</from>
-    <to>Yt vjue crfpfnm ybxtuj yjd</to>
+    <to>Yt vjue crfpfnm ybxtuj yjdjuj j dfitv</to>
   </replacement>
   <replacement>
     <from>It looks like some sort of</from>
-    <to>Gj[j;t yf rfrjqnj dbl</to>
+    <to>Gj[j;t yf rfrjq-nj dbl</to>
   </replacement>
   <replacement>
     <from>Trade to?</from>
-    <to>Rjve</to>
+    <to>Rjve?</to>
   </replacement>
   <replacement>
     <from>Select type of coin</from>
@@ -1622,7 +1621,7 @@
   </replacement>
   <replacement>
     <from>Rest Time:</from>
-    <to>Dhtvz jnls[f</to>
+    <to>Dhtvz jnls[f:</to>
   </replacement>
   <replacement>
     <from>Rest   daYs Hours Mins   Inc Dec   Exit</from>
@@ -1642,11 +1641,11 @@
   </replacement>
   <replacement>
     <from>Stop Resting?  The Party is rudely interrupted!</from>
-    <to>Jrjyxbnm jnls[  Dtxthbyrf</to>
+    <to>Jrjyxbnm jnls[?  Dtxthbyrf uhe&lt;j ghthdfyf!</to>
   </replacement>
   <replacement>
     <from>Overloaded.  Money will be put in pool.</from>
-    <to>Gthtuhe;tyj Ltymub &lt;elen </to>
+    <to>Gthtuhe;tyj. Ltymub &lt;elen gjkj;tys d rjitkm.</to>
   </replacement>
   <replacement>
     <from>‰Overloaded</from>
@@ -1686,7 +1685,7 @@
   </replacement>
   <replacement>
     <from>No gems or jewelry</from>
-    <to>Ytn cfvjwdtnjd bkb lhfujwt</to>
+    <to>Ytn cfvjwdtnjd bkb lhfujwtyyjcntq</to>
   </replacement>
   <replacement>
     <from>Gem</from>
@@ -1706,7 +1705,7 @@
   </replacement>
   <replacement>
     <from>You have a fine collection of:</from>
-    <to>E dfc [jhjifz rjkktrwbz</to>
+    <to>E dfc [jhjifz rjkktrwbz:</to>
   </replacement>
   <replacement>
     <from>Gems</from>
@@ -1722,7 +1721,7 @@
   </replacement>
   <replacement>
     <from>Appraise :</from>
-    <to>Jwtybnm </to>
+    <to>Jwtybnm :</to>
   </replacement>
   <replacement>
     <from>The gem is valued at</from>
@@ -1738,11 +1737,11 @@
   </replacement>
   <replacement>
     <from>You can :</from>
-    <to>Ds vj;tnt </to>
+    <to>Ds vj;tnt :</to>
   </replacement>
   <replacement>
     <from>The jewel is valued at</from>
-    <to>'nf lhfujwtyyjcnm jwtytyf </to>
+    <to>'nf lhfujwtyyjcnm jwtytyf d</to>
   </replacement>
   <replacement>
     <from>Cast</from>
@@ -1762,19 +1761,19 @@
   </replacement>
   <replacement>
     <from>Choose Spell: </from>
-    <to>Ds&lt;thbnt pfrkbyfybt </to>
+    <to>Ds&lt;thbnt pfrkbyfybt: </to>
   </replacement>
   <replacement>
     <from>Cast Spell on whom</from>
-    <to>Yf rjuj yfkj;bnm pfrkbyfyb</to>
+    <to>Yf rjuj yfkj;bnm pfrkbyfybt</to>
   </replacement>
   <replacement>
     <from>is a combat-only spell...</from>
-    <to> &lt;jtdjt pfrkbyfybt</to>
+    <to>- &lt;jtdjt pfrkbyfybt...</to>
   </replacement>
   <replacement>
     <from>Lose it?</from>
-    <to>Bp&lt;fdbnmcz jn 'njuj</to>
+    <to>Bp&lt;fdbnmcz jn 'njuj?</to>
   </replacement>
   <replacement>
     <from>That Item</from>
@@ -1782,11 +1781,11 @@
   </replacement>
   <replacement>
     <from>is a combat-only item...</from>
-    <to> dtom ghbujlyfz njkmrj l</to>
+    <to>- dtom, ghbujlyfz njkmrj lkz &lt;jz...</to>
   </replacement>
   <replacement>
     <from>Use it?</from>
-    <to>Ghbvtybnm 'nj</to>
+    <to>Ghbvtybnm 'nj?</to>
   </replacement>
   <replacement>
     <from>casts</from>
@@ -1794,7 +1793,7 @@
   </replacement>
   <replacement>
     <from>Abort Spell?</from>
-    <to>Ghthdfnm pfrkbyfybt</to>
+    <to>Ghthdfnm pfrkbyfybt?</to>
   </replacement>
   <replacement>
     <from>Spell Aborted</from>
@@ -1874,7 +1873,7 @@
   </replacement>
   <replacement>
     <from>Knock-Knock</from>
-    <to>Nerner</to>
+    <to>Ner-ner</to>
   </replacement>
   <replacement>
     <from>is duplicated</from>
@@ -1914,15 +1913,15 @@
   </replacement>
   <replacement>
     <from>is un-cursed</from>
-    <to> cyznj ghjrkznbt</to>
+    <to>- cyznj ghjrkznbt</to>
   </replacement>
   <replacement>
     <from>s item is un-cursed</from>
-    <to> c ghtlvtnf cyznj ghjrkzn</to>
+    <to>- c ghtlvtnf cyznj ghjrkznbt</to>
   </replacement>
   <replacement>
     <from>has been cursed!</from>
-    <to>&lt;sk ghjrkzn</to>
+    <to>&lt;sk ghjrkzn!</to>
   </replacement>
   <replacement>
     <from>is blinking</from>
@@ -1970,7 +1969,7 @@
   </replacement>
   <replacement>
     <from>Breathes!</from>
-    <to>dsls[ftn</to>
+    <to>dsls[ftn!</to>
   </replacement>
   <replacement>
     <from>Casts a Spell</from>
@@ -1978,7 +1977,7 @@
   </replacement>
   <replacement>
     <from>Spell:</from>
-    <to>Pfrkbyfybt</to>
+    <to>Pfrkbyfybt:</to>
   </replacement>
   <replacement>
     <from>starts to cough</from>
@@ -1993,12 +1992,12 @@
     <to>dsktxty</to>
   </replacement>
   <replacement>
-    <from>points of damage</from>
-    <to>jxrjd ehjyf</to>
+    <from> points of damage</from>
+    <to> jxrjd ehjyf</to>
   </replacement>
   <replacement>
     <from>takes 1 point of damage</from>
-    <to>gjkexftn  jxrj ehjyf</to>
+    <to>gjkexftn 1 jxrj ehjyf</to>
   </replacement>
   <replacement>
     <from>from Fire</from>
@@ -2030,7 +2029,7 @@
   </replacement>
   <replacement>
     <from>, and is Dying</from>
-    <to> b evbhftn</to>
+    <to>, b evbhftn</to>
   </replacement>
   <replacement>
     <from>is killed</from>
@@ -2102,11 +2101,11 @@
   </replacement>
   <replacement>
     <from>Next</from>
-    <to>Cktl</to>
+    <to>Cktl.</to>
   </replacement>
   <replacement>
     <from>Prev</from>
-    <to>Ghtl</to>
+    <to>Ghtl.</to>
   </replacement>
   <replacement>
     <from>Exit</from>
@@ -2114,30 +2113,30 @@
   </replacement>
   <replacement>
     <from>Illegal range in Show3DSprite.</from>
-    <to>Ytljgecnbvsq hzl d </to>
+    <to>Ytljgecnbvsq hzl d 3.</to>
   </replacement>
   <replacement>
     <from>Unable to load wallset in LoadWallSet.</from>
-    <to>Ytkmpz pfuhepbnm  d</to>
+    <to>Ytkmpz pfuhepbnm  d .</to>
   </replacement>
   <replacement>
     <from>Unable to load geo in Load3DMap.</from>
-    <to>Ytkmpz pfuhepbnm  d </to>
+    <to>Ytkmpz pfuhepbnm  d 3.</to>
   </replacement>
   <replacement>
     <from>Start range error in Load24x24Set</from>
-    <to>Jib&lt;rf yfxfkf hzlf d </to>
+    <to>Jib&lt;rf yfxfkf hzlf d 2424</to>
   </replacement>
   <replacement>
     <from>Unable to load 8x8D</from>
-    <to>Ytkmpz pfuhepbnm </to>
+    <to>Ytkmpz pfuhepbnm 88</to>
   </replacement>
   <replacement>
     <from>Bad symbol number in Put8x8Symbol.</from>
-    <to>Ytdthysq yjvth cbvdjkf d </to>
+    <to>Ytdthysq yjvth cbvdjkf d 88.</to>
   </replacement>
   <replacement>
     <from>Press any key to continue</from>
-    <to>Lkz ghjljk;tybz yf;vbnt k></to>
+    <to>Lkz ghjljk;tybz yf;vbnt k>&lt;e> rkfdbie</to>
   </replacement>
 </replacements>
