@@ -13,6 +13,7 @@ namespace BinaryStringReplacement
         static bool eclMode = false;
         static void Main(string[] args)
         {
+            Dictionary<char, char> characterMap = loadMapping();
 
             //foreach (byte b in writeEGABlock(new Bitmap(@"c:\Users\Shadow\Desktop\Title2.png"))) { System.Console.Write(b.ToString("X").PadLeft(2, '0')); }
             //System.Console.WriteLine();
@@ -52,47 +53,55 @@ namespace BinaryStringReplacement
             fs.Close();
 
             Console.WriteLine("Loaded binary file.");
-            
-            XmlDocument replacementDoc = new XmlDocument();
-            replacementDoc.Load(transFile);
+
+            string[] replacements = File.ReadAllLines(transFile);
             Console.WriteLine("Loaded text file.");
 
             Console.WriteLine("Beginning replacements.");
-            XmlNodeList replacementNodes = replacementDoc.SelectNodes("//node()[local-name() = 'replacement']");
-            foreach (XmlNode replacementNode in replacementNodes)
+            foreach (String replacement in replacements)
             {
-                string from = replacementNode.SelectNodes("node()[local-name() = 'from']")[0].InnerText.Trim();
-                string to = replacementNode.SelectNodes("node()[local-name() = 'to']")[0].InnerText.Trim();
-                if (from != null && from.Trim() != "" && to != null && to.Trim() != "")
-                {
-                    byte[] bFrom = System.Text.Encoding.ASCII.GetBytes(from);
-                    byte[] bTo = System.Text.Encoding.ASCII.GetBytes(to);
-                    if (eclMode)
+                if (!replacement.StartsWith("//")) {
+                    // Assumes a format of id|from|to
+                    string[] tokens = replacement.Split('|');
+                    string id = tokens[0];
+                    string from = tokens[1];
+                    string to = tokens[2];
+                    to = mapCharacters(to, characterMap, id);
+                    if (to != null)
                     {
-                        bFrom = CompressString(from);
-                        bTo = CompressString(to);
-                    }
-                    /* Debugging
-                    string bytes = "";
-                    foreach (byte b in bFrom)
-                    {
-                        bytes += ((int)b).ToString("X").PadLeft(2, '0') + "/";
-                    }
-                    Console.WriteLine(bytes);
-                    */
-                    bool result = replaceString(bFrom, bTo, !eclMode);
+                        if (from != null && from.Trim() != "" && to.Trim() != "")
+                        {
+                            byte[] bFrom = System.Text.Encoding.ASCII.GetBytes(from);
+                            byte[] bTo = System.Text.Encoding.ASCII.GetBytes(to);
+                            if (eclMode)
+                            {
+                                bFrom = CompressString(from);
+                                bTo = CompressString(to);
+                            }
+                            /* Debugging
+                            string bytes = "";
+                            foreach (byte b in bFrom)
+                            {
+                                bytes += ((int)b).ToString("X").PadLeft(2, '0') + "/";
+                            }
+                            Console.WriteLine(bytes);
+                            */
+                            bool result = replaceString(bFrom, bTo, !eclMode, id);
 
-                    if (result)
-                    {
-                        Console.WriteLine("Replaced \"" + from + "\" with \"" + to + "\"");
+                            if (result)
+                            {
+                                Console.WriteLine("Replaced \"" + from + "\" with \"" + to + "\".  id: " + id);
+                            }
+                            else
+                            {
+                                Console.WriteLine("\"" + from + "\" not found in binary.  Skipping id " + id);
+                            }
+                        }
+                        else
+                        {
+                            Console.WriteLine("Skipping entry with empty from/to value.  id: " + id);
+                        }
                     }
-                    else
-                    {
-                        Console.WriteLine("\"" + from + "\" not found in binary.  Skipping.");
-                    }
-                } else
-                {
-                    Console.WriteLine("Skipping entry with empty from/to value.");
                 }
             }
             Console.WriteLine("Writing file.");
@@ -105,7 +114,7 @@ namespace BinaryStringReplacement
             Console.Read();
         }
 
-        private static bool replaceString(byte[] replaceThisStr, byte[] replacementStr, bool checkBoundary)
+        private static bool replaceString(byte[] replaceThisStr, byte[] replacementStr, bool checkBoundary, string id)
         {
             bool goodMatch = true;
             int foundIdx = 0;
@@ -154,7 +163,7 @@ namespace BinaryStringReplacement
 
             if (replacementStr.Length > availableLength)
             {
-                Console.WriteLine("Warning: truncating because replacement string \"" + System.Text.Encoding.ASCII.GetString(replacementStr) + "\" is too long.  " + availableLength + " characters are available to replace \"" + System.Text.Encoding.ASCII.GetString(replaceThisStr) + "\".");
+                Console.WriteLine("Warning: truncating because replacement string \"" + System.Text.Encoding.ASCII.GetString(replacementStr) + "\" is too long.  " + availableLength + " characters are available to replace \"" + System.Text.Encoding.ASCII.GetString(replaceThisStr) + "\". id: " + id);
                 byte[] tmp = new byte[availableLength];
                 Array.Copy(replacementStr, tmp, tmp.Length);
                 replacementStr = tmp;
@@ -419,6 +428,135 @@ namespace BinaryStringReplacement
                 }
             }
             throw new System.Exception("Unknown Color " + (uint)c.ToArgb() + " used.");
+        }
+
+        private static string mapCharacters(string str, Dictionary<char, char> map, string id)
+        {
+            System.Text.StringBuilder newStr = new System.Text.StringBuilder(str.Length);
+            foreach(char c in str)
+            {
+                if (!map.ContainsKey(c))
+                {
+                    Console.WriteLine("Warning:  Replacement string with unmappable character found.  id: " + id + ".  ASCII code is " + (int)c + ".  Skipping this replacement.");
+                    return null;
+                }
+                newStr.Append(map[c]);
+            }
+            return newStr.ToString();
+
+        }
+
+        private static Dictionary<char, char> loadMapping()
+        {
+            Dictionary<char, char> map = new Dictionary<char, char>();
+            map.Add('Ё', '@');
+            map.Add('Ф', 'A');
+            map.Add('И', 'B');
+            map.Add('С', 'C');
+            map.Add('В', 'D');
+            map.Add('У', 'E');
+            map.Add('А', 'F');
+            map.Add('П', 'G');
+            map.Add('Р', 'H');
+            map.Add('Ш', 'I');
+            map.Add('О', 'J');
+            map.Add('Л', 'K');
+            map.Add('Д', 'L');
+            map.Add('Ь', 'M');
+            map.Add('Т', 'N');
+            map.Add('Щ', 'O');
+            map.Add('З', 'P');
+            map.Add('Й', 'Q');
+            map.Add('К', 'R');
+            map.Add('Ы', 'S');
+            map.Add('Е', 'T');
+            map.Add('Г', 'U');
+            map.Add('М', 'V');
+            map.Add('Ц', 'W');
+            map.Add('Ч', 'X');
+            map.Add('Н', 'Y');
+            map.Add('Я', 'Z');
+            map.Add('Ъ', ']');
+            map.Add('Х', '[');
+            map.Add('Б', '<');
+            map.Add('Э', '\'');
+            map.Add('Ю', '>');
+            map.Add('Ж', ';');
+            map.Add('|', '|');
+            map.Add('ё', '@');
+            map.Add('ф', 'a');
+            map.Add('и', 'b');
+            map.Add('с', 'c');
+            map.Add('в', 'd');
+            map.Add('у', 'e');
+            map.Add('а', 'f');
+            map.Add('п', 'g');
+            map.Add('р', 'h');
+            map.Add('ш', 'i');
+            map.Add('о', 'j');
+            map.Add('л', 'k');
+            map.Add('д', 'l');
+            map.Add('ь', 'm');
+            map.Add('т', 'n');
+            map.Add('щ', 'o');
+            map.Add('з', 'p');
+            map.Add('й', 'q');
+            map.Add('к', 'r');
+            map.Add('ы', 's');
+            map.Add('е', 't');
+            map.Add('г', 'u');
+            map.Add('м', 'v');
+            map.Add('ц', 'w');
+            map.Add('ч', 'x');
+            map.Add('н', 'y');
+            map.Add('я', 'z');
+            map.Add('ъ', ']');
+            map.Add('х', '[');
+            map.Add('б', '<');
+            map.Add('э', '\'');
+            map.Add('ю', '>');
+            map.Add('ж', ';');
+            map.Add(')', ')');
+            map.Add('/', '/');
+            map.Add('.', '.');
+            map.Add(':', ':');
+            map.Add('-', '-');
+            map.Add('\'', '\'');
+            map.Add('?', '?');
+            map.Add('!', '!');
+            map.Add(',', ',');
+            map.Add('0', '0');
+            map.Add('1', '1');
+            map.Add('2', '2');
+            map.Add('3', '3');
+            map.Add('4', '4');
+            map.Add('5', '5');
+            map.Add('6', '6');
+            map.Add('7', '7');
+            map.Add('8', '8');
+            map.Add('9', '9');
+            map.Add('"', '"');
+            map.Add('+', '+');
+            map.Add('*', '*');
+            map.Add('@', '@');
+            map.Add(' ', ' ');
+            map.Add('~', '~');
+            map.Add('(', '(');
+            map.Add('[', '[');
+            map.Add(']', ']');
+            map.Add('=', '=');
+            map.Add('#', '#');
+            map.Add('<', '<');
+            // add all Latin ASCII letters - even though there kinda shouldn't be any
+            for (int idx = 65; idx <= 90; idx++)
+            {
+                map.Add((char)idx, (char)idx);
+            }
+            for (int idx = 97; idx <= 122; idx++)
+            {
+                map.Add((char)idx, (char)idx);
+            }
+            return map;
         }
 
     }

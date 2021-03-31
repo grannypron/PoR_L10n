@@ -1,0 +1,558 @@
+﻿1|Time to save your game.  [return]|Пора сохранить вашу игру.  [enter]
+2|scenario created by: tsr, inc.|сюжет создан ти-эс-ар инк.
+3|jim ward|джим уорд
+4|david cook,steve winter,mike breault|дэвид кук,стив винтер,майк брюлт
+5|game created by:|игра сделана
+6|ssi special projects|эс-эс-ай спешл проджектс
+7|programming:|программирование:
+8|original|исходное
+9|scot bayless|скот бейлес
+10|brad myers|брэд майерс
+11|keith brors|кит брос
+12|russ brown|расс браун
+13|ted greer|тед грир
+14|graphic arts:|графика:
+15|encounter coding:|программирование боёв:
+16|tom wahl|том уол
+17|paul murray|пол мюррей
+18|fred butts|фред батс
+19|darla marasco|дарла мараско
+20|victor penman|виктор пенмен
+21|susan halbleib|сюзан хальбляйб
+22|dave shelley|дейв шелли
+23|project manager|руководитель:
+24|developer:|проектировщик:
+25|george mac donald|джордж мак дональд
+26|testing:|тесты:
+27|joel billings,steve salyer|джоэл биллингс,стив сальер
+28|james kucera,robert daly,rick white|джеймс кучера,роберт дэли,рик уайт
+29|USE THE TRANSLATION WHEEL TO DECIPHER|ЗАЩИТА ОТ КОПИРОВАНИЯ СНЯТА
+30|THE CODE WORD.|
+31|MATCH THE ESPRUAR RUNE (OUTER RING)|...
+32|WITH THE DETHEK RUNE (INNER RING)|...
+33|AND READ THE CODE WORD UNDER THE PATH:|...
+34|READ FROM THE INSIDE TO THE OUTSIDE.|...
+35|INPUT THE CODE WORD:|НАЖМИТЕ КЛАВИШУ ВВОД
+36|Sorry, that's incorrect.|Простите, но это неверно.
+37|PRESS  OR BUTTON TO CONTINUE|НАЖМИТЕ  ИЛИ КНОПКУ ДЛЯ ПРОДОЛЖЕНИЯ
+38|PRESS / TO CONTINUE|НАЖМИТЕ / ДЛЯ ПРОДОЛЖЕНИЯ
+39|~COMBAT|~COMBAT
+40|~WAIT|~WAIT
+41|~FLEE|~FLEE
+42|~PARLAY|~PARLAY
+43|~COMBAT|~COMBAT
+44|~WAIT|~WAIT
+45|~FLEE|~FLEE
+46|~ADVANCE|~ADVANCE
+47|Both sides wait.|Обе стороны ждут.
+48|The monsters flee.|Монстры убегают.
+49|~HAUGHTY|~HAUGHTY
+50|~SLY|~SLY
+51|~NICE|~NICE
+52|~MEEK|~MEEK
+53|~ABUSIVE|~ABUSIVE
+54|dies.|умирает.
+55|is hit for|бьёт и причиняет
+56|points of damage.|очков урона.
+57|press / to continue|нажмите / для продолжения
+58|The END!|КОНЕЦ!
+59|The entire party is killed!|Весь отряд убит!
+60|press / to continue|нажмите / для продолжения
+61|will only cost|стоит всего
+62|gold pieces.|золотых монет.
+63|pay for cure|оплатить
+64|Not enough money.|Не хватает денег.
+65|is cured.|вылечен
+66|is not blind.|уже не слепой.
+67|Cure Blindness|Снятие слепоты
+68|is not Diseased.|не болен.
+69|Cure Disease|Лечение болезни
+70|Cure Light Wounds|Лечение лёгких ран
+71|Cure Serious Wounds|Лечение тяжёлых ран
+72|Cure Critical Wounds|Лечение критических ран
+73|is not dead.|не мёртв.
+74|Raise Dead|Оживить мертвеца
+75|is not stoned.|не окаменевший.
+76|Stone to Flesh|Камень в плоть
+77|, how can we help you?|, чем вам помочь?
+78|Heal Exit|Р)исц У)наз
+79|Heal View Take Pool Share Appraise Exit|Р)исц М)гер Е)взять З)пул Ы)делить Ф)оцен У)наз
+80|Heal View Pool Appraise Exit|Р)исц М)гер З)пул Ф)оц У)наз
+81|~Yes|Н)да
+82|~No|Т)нет
+83|As you leave a priest says, "Excuse me but you have left some money here"|Когда вы уходите, жрец говорит: "Извините, но вы оставили здесь немного монет".
+84|Do you want to go back and retrieve your money?|Хотите ли вы вернуться и забрать свои деньги?
+85|You have lost the duel.|Вы проиграли поединок.
+86|You have won the duel.|Вы выиграли поединок.
+87|The party has won.|Отряд победил.
+88|The party has fled.|Отряд сбежал.
+89|The party has found treasure!|Отряд нашёл сокровище!
+90|The duelist receives|Дуэлянт получает
+91|Each character receives|Каждый герой получает
+92|experience points.|очков опыта.
+93|press / to continue|нажмите / для продолжения
+94|Loot|Добыча
+95|Items:|Вещи:
+96|Take|Взять
+97|Take:|Взять:
+98|Money Items Exit|Ь)деньги Ш)вещи У)назад
+99|View Pool Exit|М)герой З)пул У)назад
+100|Exit|У)назад
+101|Detect Exit|В)обнаружить У)назад
+102|View Take Pool Share|М)герой Е)взять З)пул Ы)разделить
+103|View Take Pool|М)герой Е)взять З)пул
+104|~Yes|~Да
+105|~No|~Нет
+106|There is still treasure left.|Там всё ещё остались сокровища.
+107|Do you want to go back and claim your treasure?|Хотите ли вы вернуться и потребовать отдать ваши сокровища?
+108|takes and hides his share.|берёт и прячет свою долю.
+109|press / to continue|нажмите / для продолжения
+110|The END!|КОНЕЦ!
+111|The monsters rejoice for the party has been destroyed|Монстры ликуют, ведь отряд уничтожен
+112|Press any key to continue|Нажмите любую клавишу для продолжения
+113|Shop|Лавка
+114|Items:|Вещи:
+115|Buy|И)купить
+116|OverLoaded|Перегружен
+117|Not enough money|Не хватает денег
+118|Buy View Take Pool Share Appraise Exit|И)куп М)гер Е)вз З)пул Ы)разд Ф)оц У)наз
+119|Buy View Pool Appraise Exit|И)купить М)герой З)пул Ф)оценить У)назад
+120|~Yes|Н)да
+121|~No|Т)нет
+122|As you leave the shopkeeper says, "Excuse me but you have left some money here."|Когда вы уходите, лавочник говорит: "Извините, но вы оставили здесь немного монет".
+123|Do you want to go back and get your money?|Вы хотите вернуться и забрать деньги?
+124|Loading...Please Wait|Загрузка... Ожидайте
+125|Magic On|Магия вкл
+126|Magic Off|Магия выкл
+127|That doesn't work|Это не работает
+128|Move|Ь)дв
+129|View Aim|М)гер Ф)цель
+130|Use|Г)пр
+131|Cast|С)закл
+132|Turn|Е)неж
+133|Quick Done|Й)авт В)гот
+134|Your Teammate is Dying|Ваш товарищ умирает
+135|Continue Battle:|Продолжить бой:
+136|Move/Attack, Move Left =|Двиг./Атака, Влево =
+137|Flee:|Сбежать:
+138|Blocked|Блокирован
+139|Guard|Страж
+140|Delay Quit|В)задерж У)назад
+141|Bandage|Бинт
+142|Speed Exit|Скор. У)наз
+143|is bandaged|перевязан
+144|GameSpeed|Скор.игры
+145|Slower|Медленнее
+146|Faster|Быстрее
+147|Exit|У)наз
+148|flees in panic|в панике сбегает
+149|Move/Attack, Move Left =|Двиг./Атака, Влево =
+150|is forced to flee|вынужден сбежать
+151|Surrenders|сдаётся
+152|DungCom|DungCom
+153|WildCom|WildCom
+154|RandCom|RandCom
+155|Loading...Please Wait|Загрузка... Ожидайте
+156|starts to train|начинает тренировку
+157|is hardier|стал отважнее
+158|is silenced|онемел
+159|dies from poison|умирает от яда
+160|Gains an item|добывает вещь
+161|The air clears a little...|Воздух немного очищается...
+162|Avoids it|избегает этого
+163|is weakened|ослаблен
+164|Dies from rot|умирает от гниения
+165|is Poisoned|отравлен
+166|is killed|убит
+167|is Paralyzed|парализован
+168|Sucks some Blood|высасывает немного крови
+169|is paralyzed with fear|оцепенел от страха
+170|is weakened by fear|ослабел от страха
+171|is paralyzed with fear|оцепенел от страха
+172|gazes|глядит
+173|reflects it!|отражает это!
+174|is Stoned|окаменел
+175|Gazes|глядит
+176|is charmed|заколдован
+177|levels|уровней
+178|a level|уровень
+179|is drained|вытянуто
+180|is dead forever|умер навсегда
+181|is killed|убит
+182|is unaffected|нет эффекта
+183|Falls dead|падает замертво
+184|Turns gaseous and escapes|превращается в газ и сбегает
+185|Spits Acid|плюёт кислотой
+186|is stronger|стал сильнее
+187|Must have Giant Strength|должно быть, обладает силой великана
+188|Backstabs|закалывает в спину
+189|slays helpless|убивает беспомощного
+190|Attacks|атакует
+191|(from behind)|(сзади)
+192|with one cruel blow|одним жестоким ударом
+193|Hitting for|Удар в
+194|point|очко
+195|points|очков
+196|of damage|урона
+197|and Misses|и промахивается
+198|lost a spell|потерял заклинание
+199|goes down|падает
+200|and is Dying|и погибает
+201|is killed|убит
+202|Got Away|ускользнул
+203|Escape is blocked|Побег блокирован
+204|sweeps|мчится
+205|turns undead...|оживляет мертвеца...
+206|is turned|оживлён
+207|Is destroyed|уничтожен
+208|Nothing Happens...|Ничего не происходит...
+209|Already been targeted|Уже нацелено
+210|Camp Only Spell|Заклинание только для лагеря
+211|Begins Casting|начинает колдовать
+212|Attack Ally:|Атаковать союзника:
+213|Range =|Дальность =
+214|Target|Мишень
+215|Next Prev Manual|Т)след З)пред Ь)вручную
+216|Center Exit|С)центрир У)наз
+217|Aim:|Цель:
+218|Range =|Дальность =
+219|Center Exit|С)центрир У)наз
+220|Target|Мишень
+221|(Use Cursor keys)|(Пользуйтесь клавишами-стрелками)
+222|Rakes...|Роется...
+223|The Gods intervene!|Боги вмешались!
+224|The river's stench drives you back.|Зловоние этой реки отгоняет вас обратно.
+225|Not Here|не здесь
+226|Bash|Ударить
+227|Pick|Собрать
+228|Knock|Стукнуть
+229|Exit|У)наз
+230|Locked.|Заперто.
+231|cannot cast spells in this area|нельзя колдовать в этом месте
+232|is in no condition to|не в состоянии
+233|cast any spells|колдовать заклинания
+234|memorize spells|запоминать заклинания
+235|scribe any scrolls|записывать в свитки
+236|has no spells memorized|не помнит заклинаний
+237|can memorize:|может запомнить:
+238|Cleric Spells:|Заклинания жреца:
+239|Magic-User Spells:|Заклинания мага:
+240|Memorize These Spells?|Запомнить эти заклинания?
+241|cannot memorize any spells|не может запомнить
+242|Memorize these spells?|Запомнить эти заклинания?
+243|Scribe These Spells?|Записать эти заклинания?
+244|has no copyable scrolls|не имеет свитков для копирования
+245|You already know that spell|Вы уже знаете это заклинание
+246|You are already scibing that spell|Вы уже записываете это заклинание
+247|You can not scribe that spell.|Вы не можете записать это заклинание.
+248|Scribe these spells?|Записать эти заклинания?
+249|Funky-- Studying Manual of Bodily Health|Отлично-- Изучение справочника по телесному здоровью
+250|Training with Manual of Bodily Health|Обучение со справочником по телесному здоровью
+251|Feather Fall|Падение пёрышком
+252|Helpless|Беспомощный
+253|Prayer|Молитва
+254|Cause Disease|Наслать болезнь
+255|Dreaded Mummy Disease|Болезнь Жуткой Мумии
+256|Repulsed|Отражён
+257|Poisoned|Отравлен
+258|Regenerating|Регенерация
+259|Fire Resistance|Огнеупорность
+260|Invisible|Невидимый
+261|Camouflaged|В маскировке
+262|Displaced|Перемещён
+264|DisplayParty Order:|ОсмОтряд Ряд:
+265|has been selected|был выбран
+266|quit TO DOS:|выйти в ДОС:
+267|will be gone|пропадёт
+268|Drop from party?|Удалить из отряда?
+269|bids you farewell|прощается с вами
+270|is dumped in a ditch|брошен в канаву
+271|Breathes A sigh of relief|глубоко облегчённо вздыхает
+272|Game Speed =|Скорость игры =
+273|(0=fastest 9=slowest)|(0=высшая 9=низшая)
+274|Faster|Быстрее
+275|Slower|Медленнее
+276|Exit|У)выход
+277|Game Speed:|Скорость игры:
+278|Alter:|Изменить:
+279|Monsters on|Монстры вкл
+280|Monsters off|Монстры выкл
+281|Portraits on|Портреты вкл
+282|Portraits off|Портреты выкл
+283|ExitThe party makes camp...|У)выхОтряд ставит лагерь...
+284|Camp:|Лаг:
+285|Quit TO DOS|ДОС?
+286|Choose a function|Выберите действие
+287|Quit to DOS|ДОС?
+288|STING|STING
+289|I Understand, master.|Я понимаю, господин.
+290|Pick Race|Выбор расы
+291|Pick Gender|Выбор пола
+292|Pick Class|Выбор класса
+293|Pick Alignment|Выбор мировоззрения
+294|Keep this character?|Оставить героя?
+295|Character name:|Имя героя:
+296|Drop|Удалить
+297|forever?|навечно?
+298|Are you sure?|Вы уверены?
+299|You dump|Вы бросаете
+300|out back.|позади.
+301|bids you farewell.|прощается с вами.
+302|breathes a sigh of relief.|облегчённо вздыхает.
+303|can't be modified.|нельзя модифицировать.
+304|Modify character:|Модиф. героя:
+305|Keep Exit|Л)ост У)наз
+306|we only train conscious people|мы можем тренировать только тех, кто в сознании
+307|Training costs 1000 gp.|Тренировка стоит 1000 зол.
+308|We don't train that class here|Мы не тренируем этот класс здесь
+309|Not Enough Experience|Не хватает опыта
+310|will become:|станет:
+311|a level|уровень
+312|and a level|и уровень
+313|Do you wish to train?|Хотите потренировать?
+314|Congratulations...|Поздравляем...
+315|Add a character:|Добавить героя:
+316|Add Exit|Ф)доб У)наз
+317|Head Body Keep|Р)го И)те Л)ос
+318|old|раньше
+319|ready   action|отдых   действие
+320|new|сейчас
+321|Small|Низкий
+322|Large|Высокий
+323|Hair|Волосы
+324|Face|Лицо
+325|Is this icon ok?|Значок ок?
+326|Put save disk in|Вставьте дискету сохр. в
+327|Put save disk in|Вставьте дискету сохр. в
+328|Put save disk in|Вставьте дискету сохр. в
+329|Put save disk in|Вставьте дискету сохр. в
+330|Unable to load monster|Нельзя загрузить монстра
+331|Load Which Game:|Какую игру:
+332|Put save disk in|Вставьте дискету сохр. в
+333|Loading...Please Wait|Загрузка... Ожидайте
+334|Save Which Game:|Какую игру:
+335|A B C D E F G H I J|А Б В Г Д Е Ж З И К
+336|Put save disk in|Вставьте дискету сохр. в
+337|Saving...Please Wait|Сохранение... Ожидайте
+338|Save and exit  Insert disk #|Сохр. и выйти  Встав. диск. #
+339|Mortally wounded, the dragon roars!|Смертельно раненый дракон ревёт!
+340|The spirit of Tyranthraxus flares up|Дух Тиранотракса вспыхивает,
+341|from the dragon's body.|вылетая из тела дракона.
+342|FINAL#|FINAL#
+343|Fools, you have but slain the body|Дураки, вы лишь убили тело, которым
+344|I possessed.  I cannot be defeated!"|я управлял. Меня нельзя победить!"
+345|With the power of the pool of radiance|С могуществом сияющего пруда,
+346|which I moved here, to my lair,|который я перенёс сюда, в моё логово,
+347|I will still rule, by possessing one|я всё равно буду править,
+348|of you!|завладев одним из вас!
+349|No Lord Bane! I can still rule here!|Нет, владыка Бейн!  Я всё ещё могу править здесь!
+350|I have not failed.|Я не проиграл.
+351|Do not call me back|Не вызывайте меня обратно
+352|through the pool!|через этот пруд!
+353|Noooo...|Не-е-е-ет...
+354|(NPC)|(NPC)
+355|Age|лет
+356|STR|СИЛ
+357|INT|ИНТ
+358|WIS|МДР
+359|DEX|ЛВК
+360|CON|ВЫН
+361|CHA|ХРЗ
+362|Level|Ур.
+363|Exp|Опыт
+364|Weapon|Оружие
+365|Armor|Доспех
+366|Status|Статус
+367|Damage|Урон
+368|Encumbrance|Ноша
+369|Movement|Скорость
+370|Items|Ш)вещи
+371|Spells|Ы)закл
+372|Trade|Е)обмен
+373|Drop|Выбр
+374|Exit|У)назад
+375|View:Must be unreadied|Показ:нужно отменить готовность
+376|was going to scribe from that scroll|записывается из этого свитка
+377|is it Okay to lose it?|действительно избавиться от этого?
+378|Ready|К)гот
+379|Use|Г)исп
+380|Trade|Е)обм
+381|Drop|Выбр
+382|Halve|Раздел
+383|Join|Объ
+384|Sell|Ы)прод
+385|Id|ID
+386|Items|Вещи
+387|Ready Item|Подготовить вещь
+388|Must be Readied|Нужно приготовить
+389|Your|Ваш
+390|will be gone forever|пропадёт навсегда
+391|Drop It?|Выбросить?
+392|It's Cursed|Оно проклято
+393|Wrong Class|Неверный класс
+394|already using|уже используется
+395|Your hands are full!|Ваши руки заняты!
+396|Trade with Whom?|Торговать с кем?
+397|Overloaded|Перегружено
+398|Can't halve that|Нельзя разделить это
+399|uses an item|применяет вещь
+400|Item:|Вещь:
+401|I'll give you|Я дам вам
+402|gold pieces for your|золотых за ваш
+403|Is It a Deal?|Договорились?
+404|Sold!|Продано!
+405|Overloaded.  Money will be put in pool.|Перегружено. Деньги будут положены в кошель.
+406|For 200 gold pieces I'll identify your|За 200 золотых я опознаю ваш
+407|Is It a Deal?|Договорились?
+408|Not Enough Money|Не хватает денег
+409|I can't tell anything new about your|Не могу сказать ничего нового о вашем
+410|It looks like some sort of|Похоже на какой-то вид
+411|Trade to?|Кому?
+412|Select type of coin|Выберите тип монет
+413|How much|Сколько
+414|will you trade?|вы дадите?
+415|Select type of coin|Выберите тип монет
+416|How much|Сколько
+417|will you drop?|вы выбросите?
+418|in Memory|в памяти
+419|in Spell Book|в книгу заклинаний
+420|on Scroll|на свиток
+421|on Scrolls|на свитки
+422|to choose from|выбирается из
+423|to be memorized|будет выучено
+424|to be scribed|будет записано
+425|Spells|Заклинания
+426|Rest Time:|Время отд:
+427|Rest   daYs Hours Mins   Inc Dec   Exit|
+428|The Whole Party Is Healed|Весь отряд исцелён
+429|has memorized|выучено
+430|has scribed|записано
+431|Stop Resting?  The Party is rudely interrupted!|Окончить отдых?  Вечеринка грубо прервана!
+432|Overloaded.  Money will be put in pool.|Перегружено. Деньги будут положены в кошель.
+433|Overloaded|перегружен
+434|gems|самоцветы
+435|gold|золото
+436|platinum|платина
+437|electrum|электрум
+438|silver|серебро
+439|copper|медяки
+440|jewelry|драгоценности
+441|Select type of coin|Выберите тип монет
+442|How much|Сколько
+443|will you take?|вы возьмёте?
+444|No gems or jewelry|Нет самоцветов или драгоценностей
+445|Gem|самоцвет
+446|Gems|самоцветы
+447|piece of jewelry|драгоценность
+448|pieces of jewelry|драгоценности
+449|You have a fine collection of:|У вас хорошая коллекция:
+450|Gems|Самоцветов
+451|Jewelry|Драгоценностей
+452|Exit|Выход
+453|Appraise :|Оценить :
+454|The gem is valued at|Этот самоцвет оценён в
+455|Sell|Продать
+456|Sell Keep|
+457|You can :|Вы можете :
+458|The jewel is valued at|Эта драгоценность оценена в
+459|Cast|Наложить
+460|Memorize|Запомнить
+461|Scribe|Записать
+462|Learn|Изучить
+463|Choose Spell:|Выберите заклинание:
+464|Cast Spell on whom|На кого наложить заклинание
+465|is a combat-only spell...|- боевое заклинание...
+466|Lose it?|Избавиться от этого?
+467|That Item|Эта вещь
+468|is a combat-only item...|- вещь, пригодная только для боя...
+469|Use it?|Применить это?
+470|casts|колдует
+471|Abort Spell?|Прервать заклинание?
+472|Spell Aborted|Заклинание прервано
+473|is Blessed|is Blessed
+474|is CursedU|is CursedU
+475|is affected|заражён
+476|is protected|защищён
+477|is cold-resistant|морозоупорен
+478|is unaffected|нет эффекта
+479|is charmed|заколдован
+480|is stronger|стал сильнее
+481|has been reduced|был уменьшен
+482|is friendly|дружелюбен
+483|is shielded|закрыт щитом
+484|falls asleep|засыпает
+485|is held|удерживается
+486|is fire resistant|огнеупорен
+487|is silenced|онемел
+488|is affected|заражён
+489|is charmed|заколдован
+490|is invisible|невидим
+491|Knock-Knock|Тук-тук
+492|is duplicated|сдублирован
+493|is weakened|ослаблен
+494|Creates a noxious cloud|создаёт гибельное облако
+495|is stronger|стал сильнее
+496|is animated|оживлён
+497|can see|может видеть
+498|is diseased|заболел
+499|is affected|заражён
+500|is praying|молится
+501|is un-cursed|- снято проклятие
+502|'s item is un-cursed|- с предмета снято проклятие
+503|has been cursed!|был проклят!
+504|is blinking|мерцает
+505|is Hasted|ускорен
+506|is Slowed|замедлен
+507|is restored|восстановлен
+508|is Speedy|стал быстрым
+509|is Healed|исцелён
+510|is stronger|стал сильнее
+511|is paralyzed|парализован
+512|is Healed|исцелён
+513|is invisible|невидим
+514|is Reading|читает
+515|Breathes!|выдыхает!
+516|Casts a Spell|колдует заклинание
+517|Spell:|Заклинание:
+518|starts to cough|начинает кашлять
+519|chokes and gags from nausea|давится и блюёт от тошноты
+520|is Cured|вылечен
+521|takes|получает
+522|points of damage|очков урона
+523|takes 1 point of damage|получает 1 очко урона
+524|from Fire|от огня
+525|from Cold|от мороза
+526|from Electricity|от электричества
+527|from Acid|от кислоты
+528|from Magic|от магии
+529|lost a spell|потерял заклинание
+530|Goes Down|падает
+531|, and is Dying|, и умирает
+532|is killed|убит
+533|is Unaffected|нет эффекта
+534|stands up and grins|
+535|gets back up|
+536|Name|Имя
+537|Hitpoints|Очки жизни
+538|AC|КБ
+539|(Helpless)|(Беззащитен)
+540|Nil Item pointer.|
+541|Tried to Lose item & couldn't find it!|
+542|is fully healed|полностью вылечен
+543|is partially healed|частично вылечен
+544|Guarding|охрана
+545|camping|лагерь
+546|search|поиск
+547|Exit|У)назад
+548|Select|Ы)выбор
+549|Next|Т)след
+550|Prev|З)пред
+551|Exit|У)назад
+552|Illegal range in Show3DSprite.|Недопустимый ряд в Show3DSprite.
+553|Unable to load wallset in LoadWallSet.|Нельзя загрузить wallset в LoadWallSet.
+554|Unable to load geo in Load3DMap.|Нельзя загрузить geo в Load3DMap.
+555|Start range error in Load24x24Set|Ошибка начала ряда в Load24x24Set
+556|Unable to load 8x8D|Нельзя загрузить 8x8D
+557|Bad symbol number in Put8x8Symbol.|Неверный номер символа в Put8x8Symbol.
+558|Press any key to continue|Для продолжения нажмите любую клавишу
+559|is not cursed.|не проклят.

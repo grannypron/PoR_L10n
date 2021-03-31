@@ -1,0 +1,444 @@
+﻿1|Please insert startup disk|Пожалуйста, вставьте загрузочный диск
+2|Unable to find POOL.CFG|Не удаётся найти POOL.CFG
+//3|Not enough memory to run game.  You need  more bytes.|Недостаточно памяти для запуска игры.  Вам нужно  больше байтов.
+3|Not enough memory to run game.  You need|Недостаточно памяти для запуска игры.  Вам нужно
+4|Overlay error, program abort!|Ошибка оверлея, программа остановлена!
+5|Phylactery|Филактерия
+6|Pipes|Трубы
+7|Hole|Дыра
+8|Token|Token
+9|Robe|Одежда
+10|Cure Blindness|Снятие слепоты
+11|Cure Disease|Лечен. болез.
+12|Cure Light Wounds|Лечен. лёгких ран
+13|Cure Serious Wounds|Лечен. тяжёлых ран
+14|Cure Critical Wounds|Лечен. критич. ран
+15|Neutralize Poison|Нейтрализация яда
+16|Raise Dead|Оживление
+17|Remove Curse|Снять прокл.
+18|Stone to Flesh|Камень в плоть
+19|Exit|У)наз
+20|KOBOLD|КОБОЛЬД
+21|KOBOLD LEADER|ВОЖАК КОБОЛЬДОВ
+22|GOBLIN|ГОБЛИН
+23|GOBLIN LEADER|ВОЖАК ГОБЛИНОВ
+24|ORC|ОРК
+25|ORC LEADER|ВОЖАК ОРКОВ
+26|GOBLIN|ГОБЛИН
+27|GOBLIN LEADER|ВОЖАК ГОБЛИНОВ
+28|HOBGOBLIN|ХОБГОБЛИН
+29|HOBGOBLIN CHIEF|ВОЖАК ХОБГОБЛИН
+30|GAGOOL|ГАГУЛА
+31|MACE|БУЛАВА
+32|OGRE|ОГР
+33|OGRE LEADER|ВОЖАК ОГРОВ
+34|TROLL|ТРОЛЛЬ
+35|FIRE GIANT|ОГНЕННЫЙ ГИГАНТ
+36|HILL GIANT|ХОЛМОВОЙ ГИГАНТ
+37|Area Cast View Encamp Search Look|Ф)кар С)закл М)гер У)лагерь Ы)иск Д)осмотр
+38|Cast View Encamp Search Look|С)зак М)гер У)лаг Ы)иск Д)осм
+39|Save View Magic Rest Alter Exit|Ы)сох М)гер Ь)маг К)отд Ф)опц У)наз
+40|Cast Memorize Scribe Display Rest Exit|С)зак Ь)доб Ы)пер В)эфф К)отд У)наз
+41|Order Drop Speed Icon Pics Exit|Щ)ряд В)изг Ы)скр Ш)знч Ф)ав У)наз
+42|Select Exit|Ы)выбрать У)назад
+43|Place Exit|З)класть У)вых
+44|Create New Character|С)новый герой
+45|Drop Character|В)удалить
+46|Modify Character|Ь)изменить
+47|Train Character|Е)тренировать
+48|View Character|М)осмотреть
+49|Add Character to Party|Ф)добавить в отряд
+50|Remove Character from Party|К)изгнать из отряда
+51|Load Saved Game|Д)загрузить игру
+52|Save Current Game|Ы)сохранить игру
+53|BEGIN Adventuring|И)приключение
+54|Exit to DOS|У)дос
+55|Parts color-1 color-2 Size Exit|З)части цвет-1 цвет-2 Ы)рост У)назад
+56|Head Weapon Exit|Голова Оружие У)наз
+//57|$Weapon Body xxxx Shield Arm Leg Exit|$Оружие Тело xxxx Щит Рука Нога У)наз
+57|Weapon Body xxxx Shield Arm Leg Exit|Оружие Тело xxxx Щит Рука Нога У)наз
+58|Keep Exit|Л)оставить У)назад
+59|Next Prev Keep Exit|След. Пред. Остав. У)наз
+60|1st Level|1-й уровень
+61|2nd Level|2-й уровень
+62|3rd Level|3-й уровень
+63|4th Level|4-й уровень
+64|5th Level|5-й уровень
+65|6th Level|6-й уровень
+66|7th Level|7-й уровень
+67|8th Level|8-й уровень
+68|9th Level|9-й уровень
+69|Cleric|Жрец
+70|Druid|Друид
+71|Fighter|Боец
+72|Paladin|Паладин
+73|Ranger|Следопыт
+74|Magic-User|Маг
+75|Thief|Вор
+76|Monk|Монах
+77|Cleric/Fighter|Жрец/Боец
+78|Cleric/Fighter/Magic-User|Жрец/Боец/Маг
+79|Cleric/Ranger|Жрец/Следопыт
+80|Cleric/Magic-User|Жрец/Маг
+81|Cleric/Thief|Жрец/Вор
+82|Fighter/Magic-User|Боец/Маг
+83|Fighter/Thief|Боец/Вор
+84|Fighter/Magic-User/Thief|Боец/Маг/Вор
+85|Magic-User/Thief|Маг/Вор
+86|Monster|Монстр
+87|Dwarf|Дворф
+88|Elf|Эльф
+89|Gnome|Гном
+90|Half-Elf|Полуэльф
+91|Halfling|Халфлинг
+92|Half-Orc|Полуорк
+93|Human|Человек
+94|Lawful Good|Закон. добр
+95|Lawful Neutral|Закон. нейт
+96|Lawful Evil|Закон. злой
+97|Neutral Good|Добрый нейтрал
+98|True Neutral|Истинный нейтрал
+99|Neutral Evil|Злой нейтрал
+100|Chaotic Good|Хаотично добрый
+101|Chaotic Neutral|Хаотично нейтр.
+102|Chaotic Evil|Хаотично злой
+103|Male|Муж.
+104|Female|Жен.
+105|Copper|Медяки
+106|Silver|Серебро
+107|Electrum|Электрум
+108|Gold|Золото
+109|Platinum|Платина
+110|Gems|Самоцветы
+111||Драгоц.
+112|Okay|ОК
+113|Animated|Оживший
+114|tempgone|tempgone
+115|Running|Бежит
+116|Unconscious|Без сознания
+117|Dying|Умирает
+118|Dead|Мёртв
+119|Stoned|Окаменел
+120|Gone|Исчез
+121|Battle Axe|Боевой топор
+122|Hand Axe|Топорик
+123|Bardiche|Бердыш
+124|Bec De Corbin|Чекан
+125|Bill-Guisarme|Секач
+126|Bo Stick|Посох Бо
+127|Club|Дубина
+128|Dagger|Кинжал
+129|Dart|Дротик
+130|Fauchard|Фошар
+131|Fauchard-Fork|Фошар с крюком
+132|Flail|Цеп
+133|Military Fork|Рогатина
+134|Glaive|Глефа
+135|Glaive-Guisarme|Глефа-гизарма
+136|Guisarme|Гизарма
+137|Guisarme-Voulge|Гизарма-колун
+138|Halberd|Алебарда
+139|Lucern Hammer|Люцернский молот
+140|Hammer|Молот
+141|Javelin|Сулица
+142|Jo Stick|Посох Джо
+143|Mace|Булава
+144|Morning Star|Моргенштерн
+145|Partisan|Протазан
+146|Military Pick|Клевец
+147|Awl Pike|Альшпис
+148|Quarrel|Болт
+149|Ranseur|Ракун
+150|Scimitar|Ятаган
+151|Spear|Копьё
+152|Spetum|Спетум
+153|Quarter Staff|Посох
+154|Bastard Sword|Полуторный меч
+155|Broad Sword|Широкий меч
+156|Long Sword|Длинный меч
+157|Short Sword|Короткий меч
+158|Two-Handed Sword|Двуручный меч
+159|Trident|Трезубец
+160|Voulge|Колун
+161||Составн. длин. лук
+162||Составн. кор. лук
+163|Long Bow|Длинный лук
+164|Short Bow|Короткий лук
+165|Heavy Crossbow|Тяжёлый арбалет
+166|Light Crossbow|Лёгкий арбалет
+167|Sling|Праща
+//168|MailArmor|ДоспехБроня
+168|Mail|Доспех
+169|Leather|Кожаная
+170|Padded|Стёганая
+171|Studded|Клёпаный
+172|Ring|Кольчатый
+173|Scale|Чешуйчатый
+174|Chain|Кольчужный
+175|Splint|Латный
+176|Banded|Наборный
+177|Plate|Пластинчатый
+178|Shield|Щит
+179|Woods|Дерева
+180|Arrow|Стрела
+181|Potion|Зелье
+182|Scroll|Свиток
+183|Ring|Кольцо
+184|Rod|Жезл
+185|Stave|Маг. посох
+186|Wand|Волшебная палочка
+187|Jug|Кувшин
+188|Amulet|Амулет
+189|Apparatus|Прибор
+190|Bag|Сумка
+191|Beaker|Рюмка
+192|Boat|Лодка
+193|Book|Книга
+194|Boots|Сапоги
+195|Bowl|Чаша
+196|Bracers|Наручи
+197|Brazier|Жаровня
+198|Brooch|Брошь
+199|Broom|Веник
+200|Purse|Кошель
+201|Candle|Свеча
+202|Carpet|Ковёр
+203|Censer|Кадило
+204|Chime|Колокольчик
+205|Cloak|Плащ
+206|Crystal|Хрусталь
+207|Cube|Куб
+208|Cubic|Кубик
+209|Fortress|Крепость
+210|Decanter|Графин
+211|Deck|Палуба
+212|Drums|Барабаны
+213|Dust|Пыль
+214|Eyes|Глаза
+215|Figurine|Фигурка
+216|Flask|Фляга
+217|Gauntlets|Рукавицы
+218|Gem|Самоцвет
+219|Girdle|Кушак
+220|Helm|Шлем
+221|Horn|Рог
+222|Horseshoes|Подковы
+223|Incense|Фимиам
+224|Stone|Камень
+225|Instrument|Инструмент
+226|Javelin|Сулица
+227|Jewel|Драг.
+228|Ointment|Мазь
+229|Libram|Либрам
+230|Lyre|Лира
+231|Manual|Руководство
+232|Mattock|Мотыга
+233|Maul|Кувалда
+234|Medallion|Медальон
+235|Mirror|Зеркало
+236|Necklace|Ожерелье
+237|Net|Сеть
+238|Pigment|Пигмент
+239|Pearl|Жемчуг
+240|Periapt|Оберег
+241|Phylactery|Филактерия
+242|Pipes|Трубы
+243|Hole|Дыра
+244|Token|Token
+245|Robe|Одеяние
+246|Rope|Верёвка
+247|Rug|Коврик
+248|Saw|Пила
+249|Scarab|Скарабей
+250|Spade|Лопата
+251|Sphere|Сфера
+252|Talisman|Талисман
+253|Tome|Том
+254|Trident|Трезубец
+255|Grimoire|Гримуар
+256|Well|Колодец
+257|Wings|Крылья
+258|Vial|Склянка
+259|Lantern|Фонарь
+260|Oil|Масло
+261|10 ft. Pole|10 ft. Pole
+//262|50 ft. RopeIron|50 ft. RopeIron
+262|50 ft. Rope|50 ft. Rope
+263|Thf Prickly Tools|Thf Prickly Tools
+264|Iron Rations|Железные пайки
+265|Standard Rations|Стандартные пайки
+266|Holy Symbol|Святой символ
+267|Holy Water vial|Склянка живой воды
+268|Unholy Water vial|Склянка мёртвой воды
+269|Barding|Фарш
+270|Dragon|Дракон
+271|Lightning|Молния
+272|Saddle|Седло
+273|Small Raft|Плотик
+274|Cart|Подвода
+275|Wagon|Телега
+//276|1|1
+//277|2|2
+//278|3|3
+//279|4|4
+//280|5|5
+281|of|..
+282|Cloak|Плащ
+283|Displacement|Ускользание
+284|Torches|Факелы
+285|Oil|Масло
+286|Speed|Скорость
+287|Tapestry|Гобелен
+288|Bodily Health|телесного здоровья
+289|Copper|медяк
+290|Silver|серебро
+291|Electrum|электрум
+292|Gold|золото
+293|Platinum|платина
+294|Ointment|Мазь
+295|Keoghtum's|Кеогтома
+296|Sheet|Полотно
+297|Strength|Сила
+298|Healing|Исцеление
+299|Holding|Holding
+300|Extra|Доп.
+301|Gaseous Form|Газообразная Форма
+302|Slipperiness|Скользкость
+303|Jewelled|С драгоценностями
+304|Flying|Полёт
+305|Treasure Finding|Поиск сокровищ
+306|Fear|Страх
+307|Disappearance|Исчезновение
+308|Statuette|Статуэтка
+309|Fungus|Гриб
+310|Chain|Цепь
+311|Pendant|Подвеска
+312|Broach|Вертел
+313|Of Seeking|Поиска
+//314|-1|-1
+//315|-2|-2
+//316|-3|-3
+317|Lightning Bolt|Молния
+318|Fire Resistance|Сопротивление огню
+319|Magic Missiles|Волшебные снаряды
+320|Save|Сохр.
+321|Clerical Scroll|Свиток жреца
+322|Magic User Scroll|Свиток мага
+323|With 1 Spell|с 1 заклинанием
+324|With 2 Spells|с 2 заклинаниями
+325|With 3 Spells|с 3 заклинаниями
+326|Protection Scroll|Свиток защиты
+327|Jewelry|Драгоценности
+328|Fine|Хороший
+329|Huge|Громадный
+330|Bone|Костяной
+331|Brass|Медный
+332|Key|Ключ
+333|AC 2|КБ 2
+334|AC 6|КБ 6
+335|AC 4|КБ 4
+336|AC 3|КБ 3
+337|Of Protection|защиты
+338|Paralyzation|Паралич
+339|Ogre Power|Мощь огров
+340|Invisibility|Невидимость
+341|Missiles|Снаряды
+342|Elvenkind|Эльфийский
+343|Rotting|Гниение
+344|Covered|Покрытый
+345|Efreeti|Ифрит
+346|Bottle|Бутылка
+347|Missile Attractor|Притяжение снарядов
+348|Of Maglubiyet|Маглубиета
+//349|Secr Door & Trap Det|Secr Door & Trap Det
+350|Gd Dragon Control|Gd Dragon Control
+351|Feather Falling|Падение пёрышком
+352|Giant Strength|Сила великана
+353||Восстановл. уровн.
+354|Flame Tongue|Язык пламени
+355|Fireballs|Огненные шары
+356|Spiritual|Духовный
+357|Boulder|Валун
+358|Diamond|Алмаз
+359|Emerald|Изумруд
+360|Opal|Опал
+361|Saphire|Сапфир
+362|Of Tyr|Тира
+363|Of Tempus|Темпуса
+364|Of Sune|Сунэ
+365|Wooden|Деревянный
+366|+3 vs Undead|+3 пр. нежити
+367|Pass|Pass
+368|Cursed|Проклятый
+//369|N|С
+//370|NE|СВ
+//371|E|В
+//372|SE|ЮВ
+//373|S|Ю
+//374|SW|ЮЗ
+//375|W|З
+//376|NW|СЗ
+377|Insert disk 1 in drive|Вставьте дискету 1
+378|Insert disk 2 in drive|Вставьте дискету 2
+379|Insert disk 3 in drive|Вставьте дискету 3
+380|Insert disk 4 in drive|Вставьте дискету 4
+381|Insert disk 5 in drive|Вставьте дискету 5
+382|Insert disk 6 in drive|Вставьте дискету 6
+383|Insert disk 7 in drive|Вставьте дискету 7
+384|Insert disk 8 in drive|Вставьте дискету 8
+385|Bless|Благословение
+386|Curse|Проклятие
+387|Cure Light Wounds|Исцеление лёгких ран
+388|Cause Light Wounds|Нанесение лёгких ран
+389|Detect Magic|Обнаружение магии
+390|Protection From Evil|Защита от зла
+391|Protection from Good|Защита от добра
+392|Resist Cold|Сопротивление холоду
+393|Burning Hands|Пылающие руки
+394|Charm Person|Очарование
+395|Detect Magic|Обнаружение магии
+396|Enlarge|Увеличение
+397|Reduce|Уменьшение
+398|Friends|Друзья
+399|Magic Missile|Волшебная стрела
+400|Protection From Evil|Защита от зла
+401|Protection From Good|Защита от добра
+402|Read Magic|Чтение магии
+403|Shield|Щит
+404|Shocking Grasp|Электрошок
+405|Sleep|Сон
+406|Find Traps|Найти ловушки
+407|Hold Person|Удержание
+408|Resist Fire|Сопротивление огню
+409|Silence, 15' Radius|Тишина (радиус 4.6м)
+410|Slow Poison|Замедление яда
+411|Snake Charm|Змеиный оберег
+412|Spiritual Hammer|Духовный молот
+413|Detect Invisibility|Обнаружение невидимого
+414|Invisibility|Невидимость
+415|Knock|Стук
+416|Mirror Image|Отражение
+417|Ray of Enfeeblement|Луч слабости
+418|Stinking Cloud|Зловонное облако
+419|Strength|Сила
+420|Animate Dead|Оживление мертвеца
+421|Cure Blindness|Снятие слепоты
+422|Cause Blindness|Ослепление
+423|Cure Disease|Снятие болезни
+424|Cause Disease|Болезнь
+425|Dispel Magic|Рассеивание магии
+426|Prayer|Молитва
+427|Remove Curse|Снятие проклятия
+428|Bestow Curse|Проклятие
+429|Blink|Мерцание
+430|Dispel Magic|Рассеивание магии
+431|Fireball|Огненный шар
+432|Haste|Спешка
+433|Hold Person|Удержание
+434|Invisibility, 10' Radius|Невидимость (радиус 3м)
+435|Lightning Bolt Protection From Evil, 10' Radius Protection From Good, 10' Radius|Молния Защита от зла (радиус 3м) Защита от добра (радиус 3м)
+436|Protection From Normal Missiles|Защита от обычных снарядов
+437|Slow|Замедление
+438|Restoration|Восстановление
+0|Yes|Да 
+439|No|Нет

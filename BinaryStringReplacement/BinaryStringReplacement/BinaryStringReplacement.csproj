@@ -84,9 +84,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="game.ovr.translations.txt" />
     <Content Include="game.ovr.translations.xml" />
+    <None Include="game.ovr.translations.xml.last" />
     <Content Include="ECL3_000.translations.xml" />
+    <Content Include="start.exe.translations.txt" />
     <Content Include="start.exe.translations.xml" />
+    <None Include="start.exe.translations.xml.last" />
     <Content Include="translations_backup.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

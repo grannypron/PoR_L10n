@@ -1,2142 +1,561 @@
 ﻿<replacements>
-  <replacement>
-    <from>Time to save your game.  [return]</from>
-    <to>Gjhf cj[hfybnm dfie buhe.  </to>
-  </replacement>
-  <replacement>
-    <from>scenario created by: tsr, inc.</from>
-    <to>c>;tn cjplfy nb-'c-fh byr.</to>
-  </replacement>
-  <replacement>
-    <from>jim ward</from>
-    <to>l;bv ejhl</to>
-  </replacement>
-  <replacement>
-    <from>david cook,steve winter,mike breault</from>
-    <to>l'dbl rer,cnbd dbynth,vfqr &lt;h>kn</to>
-  </replacement>
-  <replacement>
-    <from>game created by:</from>
-    <to>buhf cltkfyf</to>
-  </replacement>
-  <replacement>
-    <from>ssi special projects</from>
-    <to>'c-'c-fq cgtik ghjl;trnc</to>
-  </replacement>
-  <replacement>
-    <from>programming:</from>
-    <to>ghjuhfvvbhjdfybt:</to>
-  </replacement>
-  <replacement>
-    <from>original</from>
-    <to>bc[jlyjt</to>
-  </replacement>
-  <replacement>
-    <from>scot bayless</from>
-    <to>crjn &lt;tqktc</to>
-  </replacement>
-  <replacement>
-    <from>brad myers</from>
-    <to>&lt;h'l vfqthc</to>
-  </replacement>
-  <replacement>
-    <from>keith brors</from>
-    <to>rbn &lt;hjc</to>
-  </replacement>
-  <replacement>
-    <from>russ brown</from>
-    <to>hfcc &lt;hfey</to>
-  </replacement>
-  <replacement>
-    <from>ted greer</from>
-    <to>ntl uhbh</to>
-  </replacement>
-  <replacement>
-    <from>graphic arts:</from>
-    <to>uhfabrf:</to>
-  </replacement>
-  <replacement>
-    <from>encounter coding:</from>
-    <to>ghjuhfvvbhjdfybt &lt;j@d:</to>
-  </replacement>
-  <replacement>
-    <from>tom wahl</from>
-    <to>njv ejk</to>
-  </replacement>
-  <replacement>
-    <from>paul murray</from>
-    <to>gjk v>hhtq</to>
-  </replacement>
-  <replacement>
-    <from>fred butts</from>
-    <to>ahtl &lt;fnc</to>
-  </replacement>
-  <replacement>
-    <from>darla marasco</from>
-    <to>lfhkf vfhfcrj</to>
-  </replacement>
-  <replacement>
-    <from>victor penman</from>
-    <to>dbrnjh gtyvty</to>
-  </replacement>
-  <replacement>
-    <from>susan halbleib</from>
-    <to>c>pfy [fkm&lt;kzq&lt;</to>
-  </replacement>
-  <replacement>
-    <from>dave shelley</from>
-    <to>ltqd itkkb</to>
-  </replacement>
-  <replacement>
-    <from>project manager</from>
-    <to>herjdjlbntkm:</to>
-  </replacement>
-  <replacement>
-    <from>developer:</from>
-    <to>ghjtrnbhjdobr:</to>
-  </replacement>
-  <replacement>
-    <from>george mac donald</from>
-    <to>l;jhl; vfr ljyfkml</to>
-  </replacement>
-  <replacement>
-    <from>testing:</from>
-    <to>ntcns:</to>
-  </replacement>
-  <replacement>
-    <from>joel billings,steve salyer</from>
-    <to>l;j'k &lt;bkkbyuc,cnbd cfkmth</to>
-  </replacement>
-  <replacement>
-    <from>james kucera,robert daly,rick white</from>
-    <to>l;tqvc rexthf,hj&lt;thn l'kb,hbr efqn</to>
-  </replacement>
-  <replacement>
-    <from>MATCH THE ESPRUAR RUNE (OUTER RING)</from>
-    <to>...</to>
-  </replacement>
-  <replacement>
-    <from>WITH THE DETHEK RUNE (INNER RING)</from>
-    <to>...</to>
-  </replacement>
-  <replacement>
-    <from>AND READ THE CODE WORD UNDER THE PATH:</from>
-    <to>...</to>
-  </replacement>
-  <replacement>
-    <from>READ FROM THE INSIDE TO THE OUTSIDE.</from>
-    <to>...</to>
-  </replacement>
-  <replacement>
-    <from>INPUT THE CODE WORD:</from>
-    <to>YF;VBNT RKFDBIE DDJL</to>
-  </replacement>
-  <replacement>
-    <from>Sorry, that's incorrect.</from>
-    <to>Ghjcnbnt, yj 'nj ytdthyj.</to>
-  </replacement>
-  <replacement>
-    <from>PRESS &lt;RETURN&gt; OR BUTTON TO CONTINUE</from>
-    <to>YF;VBNT  BKB RYJGRE LKZ GHJLJK;TYBZ</to>
-  </replacement>
-  <replacement>
-    <from>PRESS &lt;ENTER&gt;/&lt;RETURN&gt; TO CONTINUE</from>
-    <to>YF;VBNT / LKZ GHJLJK;TYBZ</to>
-  </replacement>
-  <replacement>
-    <from>~COMBAT</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>~WAIT</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>~FLEE</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>~PARLAY</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>~COMBAT</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>~WAIT</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>~FLEE</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>~ADVANCE</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>Both sides wait.</from>
-    <to>J&lt;t cnjhjys ;len.</to>
-  </replacement>
-  <replacement>
-    <from>The monsters flee.</from>
-    <to>Vjycnhs e&lt;tuf>n.</to>
-  </replacement>
-  <replacement>
-    <from>~HAUGHTY</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>~SLY</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>~NICE</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>~MEEK</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>~ABUSIVE</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>dies.</from>
-    <to>evbhftn.</to>
-  </replacement>
-  <replacement>
-    <from>press &lt;enter&gt;/&lt;return&gt; to continue</from>
-    <to>yf;vbnt / lkz ghjljk;tybz</to>
-  </replacement>
-  <replacement>
-    <from>The END!</from>
-    <to>RJYTW!</to>
-  </replacement>
-  <replacement>
-    <from>The entire party is killed!</from>
-    <to>Dtcm jnhzl e&lt;bn!</to>
-  </replacement>
-  <replacement>
-    <from>press &lt;enter&gt;/&lt;return&gt; to continue</from>
-    <to>yf;vbnt / lkz ghjljk;tybz</to>
-  </replacement>
-  <replacement>
-    <from> will only cost</from>
-    <to> cnjbn dctuj</to>
-  </replacement>
-  <replacement>
-    <from>gold pieces.</from>
-    <to>pjkjns[ vjytn.</to>
-  </replacement>
-  <replacement>
-    <from>pay for cure</from>
-    <to>gkfnf pf ktxtybt</to>
-  </replacement>
-  <replacement>
-    <from>Not enough money.</from>
-    <to>Yt [dfnftn ltytu.</to>
-  </replacement>
-  <replacement>
-    <from>is cured.</from>
-    <to>dsktxty</to>
-  </replacement>
-  <replacement>
-    <from>is not blind.</from>
-    <to>e;t yt cktgjq.</to>
-  </replacement>
-  <replacement>
-    <from>Cure Blindness</from>
-    <to>Cyznbt cktgjns</to>
-  </replacement>
-  <replacement>
-    <from>is not Diseased.</from>
-    <to>yt &lt;jkty.</to>
-  </replacement>
-  <replacement>
-    <from>Cure Disease</from>
-    <to>Ktxtybt &lt;jktpyb</to>
-  </replacement>
-  <replacement>
-    <from>Cure Light Wounds</from>
-    <to>Bcwtktybt k@urb[ hfy</to>
-  </replacement>
-  <replacement>
-    <from>Cure Serious Wounds</from>
-    <to>Bcwtktybt nz;@ks[ hfy</to>
-  </replacement>
-  <replacement>
-    <from>Cure Critical Wounds</from>
-    <to>Bcwtktybt rhbnbxtcrb[ hfy</to>
-  </replacement>
-  <replacement>
-    <from>is not dead.</from>
-    <to>yt v@hnd.</to>
-  </replacement>
-  <replacement>
-    <from>Raise Dead</from>
-    <to>J;bdbnm vthndtwf</to>
-  </replacement>
-  <replacement>
-    <from>is not stoned.</from>
-    <to>e;t yt jrfvtytdibq.</to>
-  </replacement>
-  <replacement>
-    <from>Stone to Flesh</from>
-    <to>Rfvtym d gkjnm</to>
-  </replacement>
-  <replacement>
-    <from>, how can we help you?</from>
-    <to>, xtv dfv gjvjxm?</to>
-  </replacement>
-  <replacement>
-    <from>Heal Exit</from>
-    <to>H)bcw E)yfp</to>
-  </replacement>
-  <replacement>
-    <from>Heal View Take Pool Share Appraise Exit</from>
-    <to>H)bcw V)uth T)dp P)gek S)ltk A)jw E)yfp</to>
-  </replacement>
-  <replacement>
-    <from>Heal View Pool Appraise Exit</from>
-    <to>H)bcw V)uth P)gek A)jw E)yfp</to>
-  </replacement>
-  <replacement>
-    <from>~Yes</from>
-    <to>Y)lf</to>
-  </replacement>
-  <replacement>
-    <from>~No</from>
-    <to>N)ytn</to>
-  </replacement>
-  <replacement>
-    <from>As you leave a priest says, "Excuse me but you have left some money here"</from>
-    <to>Rjulf ds e[jlbnt, ;htw ujdjhbn: "Bpdbybnt, yj ds j</to>
-  </replacement>
-  <replacement>
-    <from>Do you want to go back and retrieve your money?</from>
-    <to>[jnbnt kb ds dthyenmcz b pf&lt;hfnm cdjb ltymub?</to>
-  </replacement>
-  <replacement>
-    <from>You have lost the duel.</from>
-    <to>Ds ghjbuhfkb gjtlbyjr.</to>
-  </replacement>
-  <replacement>
-    <from>You have won the duel.</from>
-    <to>Ds dsbuhfkb gjtlbyjr.</to>
-  </replacement>
-  <replacement>
-    <from>The party has won.</from>
-    <to>Jnhzl gj&lt;tlbk.</to>
-  </replacement>
-  <replacement>
-    <from>The party has fled.</from>
-    <to>Jnhzl c&lt;t;fk.</to>
-  </replacement>
-  <replacement>
-    <from>The party has found treasure!</from>
-    <to>Jnhzl yfi@k cjrhjdbot!</to>
-  </replacement>
-  <replacement>
-    <from>The duelist receives</from>
-    <to>Le'kzyn gjkexftn</to>
-  </replacement>
-  <replacement>
-    <from>Each character receives</from>
-    <to>Rf;lsq uthjq gjkexftn</to>
-  </replacement>
-  <replacement>
-    <from>experience points.</from>
-    <to>jxrjd jgsnf.</to>
-  </replacement>
-  <replacement>
-    <from>press &lt;enter&gt;/&lt;return&gt; to continue</from>
-    <to>yf;vbnt / lkz ghjljk;tybz</to>
-  </replacement>
-  <replacement>
-    <from>‰Loot</from>
-    <to>Lj&lt;sxf</to>
-  </replacement>
-  <replacement>
-    <from>Items:</from>
-    <to>Dtob:</to>
-  </replacement>
-  <replacement>
-    <from>Take</from>
-    <to>Dpznm</to>
-  </replacement>
-  <replacement>
-    <from>Take:</from>
-    <to>Dpznm:</to>
-  </replacement>
-  <replacement>
-    <from>Money Items Exit</from>
-    <to>Ltymub Dtob Yfpfl</to>
-  </replacement>
-  <replacement>
-    <from>View Pool Exit</from>
-    <to>Uthjq Gek Yfpfl</to>
-  </replacement>
-  <replacement>
-    <from>Exit</from>
-    <to>Ds[jl</to>
-  </replacement>
-  <replacement>
-    <from>Detect Exit</from>
-    <to>J&lt;yfh. Yfpfl</to>
-  </replacement>
-  <replacement>
-    <from>View Take Pool Share</from>
-    <to>Uthjq Dpznm Rji. Lfnm</to>
-  </replacement>
-  <replacement>
-    <from>View Take Pool</from>
-    <to>Uthjq Dpznm Rji.</to>
-  </replacement>
-  <replacement>
-    <from>~Yes</from>
-    <to>Lf</to>
-  </replacement>
-  <replacement>
-    <from>~No</from>
-    <to>Ytn</to>
-  </replacement>
-  <replacement>
-    <from>There is still treasure left.</from>
-    <to>Nfv dc@ to@ jcnfkbcm cjrhjdbof.</to>
-  </replacement>
-  <replacement>
-    <from>Do you want to go back and claim your treasure?</from>
-    <to>[jnbnt kb ds dthyenmcz b gjnht&lt;jdfnm jnlfnm dfib c</to>
-  </replacement>
-  <replacement>
-    <from> takes and hides his share.</from>
-    <to>&lt;th@n b ghzxtn cdj> ljk>.</to>
-  </replacement>
-  <replacement>
-    <from>press &lt;enter&gt;/&lt;return&gt; to continue</from>
-    <to>yf;vbnt / lkz ghjljk;tybz</to>
-  </replacement>
-  <replacement>
-    <from>The END!</from>
-    <to>RJYTW!</to>
-  </replacement>
-  <replacement>
-    <from>The monsters rejoice for the party has been destroyed</from>
-    <to>Vjycnhs kbre>n, dtlm jnhzl eybxnj;ty</to>
-  </replacement>
-  <replacement>
-    <from>Press any key to continue</from>
-    <to>Yf;vbnt k>&lt;e> rkfdbie lkz ghjljk;tybz</to>
-  </replacement>
-  <replacement>
-    <from>Shop</from>
-    <to>Kfdrf</to>
-  </replacement>
-  <replacement>
-    <from>Items:</from>
-    <to>Dtob:</to>
-  </replacement>
-  <replacement>
-    <from>Buy</from>
-    <to>Regbnm</to>
-  </replacement>
-  <replacement>
-    <from>OverLoaded</from>
-    <to>Gthtuhe;ty</to>
-  </replacement>
-  <replacement>
-    <from>Not enough money</from>
-    <to>Yt [dfnftn ltytu</to>
-  </replacement>
-  <replacement>
-    <from>Buy View Take Pool Share Appraise Exit</from>
-    <to>Regbnm Uthjq Dpznm Gek Lfnm Jwty. Yfpfl</to>
-  </replacement>
-  <replacement>
-    <from>Buy View Pool Appraise Exit</from>
-    <to>Regbnm Uthjq Gek Jwty. Yfpfl</to>
-  </replacement>
-  <replacement>
-    <from>~Yes</from>
-    <to>Y)lf</to>
-  </replacement>
-  <replacement>
-    <from>~No</from>
-    <to>N)ytn</to>
-  </replacement>
-  <replacement>
-    <from>As you leave the shopkeeper says, "Excuse me but you have left some money here."</from>
-    <to>Rjulf ds e[jlbnt, kfdjxybr ujdjhbn: "Bpdbybnt, yj </to>
-  </replacement>
-  <replacement>
-    <from>Do you want to go back and get your money?</from>
-    <to>Ds [jnbnt dthyenmcz b pf&lt;hfnm ltymub?</to>
-  </replacement>
-  <replacement>
-    <from>Loading...Please Wait</from>
-    <to>Pfuheprf... J;blfqnt</to>
-  </replacement>
-  <replacement>
-    <from>Magic On</from>
-    <to>Vfubz drk</to>
-  </replacement>
-  <replacement>
-    <from>Magic Off</from>
-    <to>Vfubz dsrk</to>
-  </replacement>
-  <replacement>
-    <from>That doesn't work</from>
-    <to>'nj yt hf&lt;jnftn</to>
-  </replacement>
-  <replacement>
-    <from>Move</from>
-    <to>Ldb;.</to>
-  </replacement>
-  <replacement>
-    <from>View Aim</from>
-    <to>Uthjq Wtkm</to>
-  </replacement>
-  <replacement>
-    <from>Use</from>
-    <to>Ghtlv.</to>
-  </replacement>
-  <replacement>
-    <from>Cast</from>
-    <to>Pfrk.</to>
-  </replacement>
-  <replacement>
-    <from>Turn</from>
-    <to>Yt;.</to>
-  </replacement>
-  <replacement>
-    <from>Quick Done</from>
-    <to>Fdn. Ujnjd.</to>
-  </replacement>
-  <replacement>
-    <from>Your Teammate is Dying</from>
-    <to>Dfi njdfhbo evbhftn</to>
-  </replacement>
-  <replacement>
-    <from>Continue Battle:</from>
-    <to>Ghjljk;bnm &lt;jq:</to>
-  </replacement>
-  <replacement>
-    <from>Move/Attack, Move Left =</from>
-    <to>Ldbu./Fnfrf, Dktdj </to>
-  </replacement>
-  <replacement>
-    <from>Flee:</from>
-    <to>C&lt;t;fnm:</to>
-  </replacement>
-  <replacement>
-    <from>Blocked</from>
-    <to>&lt;kjrbhjdfy</to>
-  </replacement>
-  <replacement>
-    <from>Guard</from>
-    <to>Cnhf;</to>
-  </replacement>
-  <replacement>
-    <from>Delay Quit</from>
-    <to>Pflth;. Yfpfl</to>
-  </replacement>
-  <replacement>
-    <from>Bandage</from>
-    <to>&lt;byn</to>
-  </replacement>
-  <replacement>
-    <from>Speed Exit</from>
-    <to>Crjh. Yfpfl</to>
-  </replacement>
-  <replacement>
-    <from>is bandaged</from>
-    <to>gthtdzpfy</to>
-  </replacement>
-  <replacement>
-    <from>GameSpeed</from>
-    <to>Crjh.buhs</to>
-  </replacement>
-  <replacement>
-    <from>Slower</from>
-    <to>Vtlktyytt</to>
-  </replacement>
-  <replacement>
-    <from>Faster</from>
-    <to>&lt;scnhtt</to>
-  </replacement>
-  <replacement>
-    <from>Exit</from>
-    <to>Yfpfl</to>
-  </replacement>
-  <replacement>
-    <from>flees in panic</from>
-    <to>d gfybrt c&lt;tuftn</to>
-  </replacement>
-  <replacement>
-    <from>Move/Attack, Move Left =</from>
-    <to>Ldbu./Fnfrf, Dktdj </to>
-  </replacement>
-  <replacement>
-    <from>is forced to flee</from>
-    <to>dsye;lty c&lt;t;fnm</to>
-  </replacement>
-  <replacement>
-    <from>Surrenders</from>
-    <to>clf@ncz</to>
-  </replacement>
-  <replacement>
-    <from>DungCom</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>WildCom</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>RandCom</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>Loading...Please Wait</from>
-    <to>Pfuheprf...J;blfqnt</to>
-  </replacement>
-  <replacement>
-    <from>starts to train</from>
-    <to>yfxbyftn nhtybhjdre</to>
-  </replacement>
-  <replacement>
-    <from>is hardier</from>
-    <to>cnfk jndf;ytt</to>
-  </replacement>
-  <replacement>
-    <from>is silenced</from>
-    <to>jytvtk</to>
-  </replacement>
-  <replacement>
-    <from>dies from poison</from>
-    <to>evbhftn jn zlf</to>
-  </replacement>
-  <replacement>
-    <from>Gains an item</from>
-    <to>lj&lt;sdftn dtom</to>
-  </replacement>
-  <replacement>
-    <from>The air clears a little...</from>
-    <to>Djple[ ytvyjuj jxboftncz...</to>
-  </replacement>
-  <replacement>
-    <from>Avoids it</from>
-    <to>bp&lt;tuftn 'njuj</to>
-  </replacement>
-  <replacement>
-    <from></from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>is weakened</from>
-    <to>jckf&lt;kty</to>
-  </replacement>
-  <replacement>
-    <from>Dies from rot</from>
-    <to>evbhftn jn uybtybz</to>
-  </replacement>
-  <replacement>
-    <from>is Poisoned</from>
-    <to>jnhfdkty</to>
-  </replacement>
-  <replacement>
-    <from>is killed</from>
-    <to>e&lt;bn</to>
-  </replacement>
-  <replacement>
-    <from>is Paralyzed</from>
-    <to>gfhfkbpjdfy</to>
-  </replacement>
-  <replacement>
-    <from>Sucks some Blood</from>
-    <to>dscfcsdftn ytvyjuj rhjdb</to>
-  </replacement>
-  <replacement>
-    <from>is paralyzed with fear</from>
-    <to>jwtgtytk jn cnhf[f</to>
-  </replacement>
-  <replacement>
-    <from>is weakened by fear</from>
-    <to>jckf&lt;tk jn cnhf[f</to>
-  </replacement>
-  <replacement>
-    <from>is paralyzed with fear</from>
-    <to>jwtgtytk jn cnhf[f</to>
-  </replacement>
-  <replacement>
-    <from>gazes</from>
-    <to>ukzlbn</to>
-  </replacement>
-  <replacement>
-    <from>reflects it!</from>
-    <to>jnhf;ftn 'nj!</to>
-  </replacement>
-  <replacement>
-    <from>is Stoned</from>
-    <to>jrfvtytk</to>
-  </replacement>
-  <replacement>
-    <from>Gazes</from>
-    <to>ukzlbn</to>
-  </replacement>
-  <replacement>
-    <from>is charmed</from>
-    <to>pfrjkljdfy</to>
-  </replacement>
-  <replacement>
-    <from>levels</from>
-    <to>ehjdytq</to>
-  </replacement>
-  <replacement>
-    <from>a level</from>
-    <to>ehjdtym</to>
-  </replacement>
-  <replacement>
-    <from>is drained</from>
-    <to>dsnzyenj</to>
-  </replacement>
-  <replacement>
-    <from>is dead forever</from>
-    <to>evth yfdctulf</to>
-  </replacement>
-  <replacement>
-    <from>is killed</from>
-    <to>e&lt;bn</to>
-  </replacement>
-  <replacement>
-    <from>is unaffected</from>
-    <to>ytn 'aatrnf</to>
-  </replacement>
-  <replacement>
-    <from>Falls dead</from>
-    <to>gflftn pfvthndj</to>
-  </replacement>
-  <replacement>
-    <from>Turns gaseous and escapes</from>
-    <to>ghtdhfoftncz d ufp b c&lt;tuftn</to>
-  </replacement>
-  <replacement>
-    <from>Spits Acid</from>
-    <to>gk>@n rbckjnjq</to>
-  </replacement>
-  <replacement>
-    <from>is stronger</from>
-    <to>cnfk cbkmytt</to>
-  </replacement>
-  <replacement>
-    <from>Must have Giant Strength</from>
-    <to>ljk;yj &lt;snm, j&lt;kflftn cbkjq dtkbrfyf</to>
-  </replacement>
-  <replacement>
-    <from>Backstabs</from>
-    <to>pfrfksdftn d cgbye</to>
-  </replacement>
-  <replacement>
-    <from>slays helpless</from>
-    <to>e&lt;bdftn &lt;tcgjvjoyjuj</to>
-  </replacement>
-  <replacement>
-    <from>Attacks</from>
-    <to>fnfretn</to>
-  </replacement>
-  <replacement>
-    <from>(from behind)</from>
-    <to>cpflb)</to>
-  </replacement>
-  <replacement>
-    <from>with one cruel blow</from>
-    <to>jlybv ;tcnjrbv elfhjv</to>
-  </replacement>
-  <replacement>
-    <from>Hitting for</from>
-    <to>Elfh d</to>
-  </replacement>
-  <replacement>
-    <from>point</from>
-    <to>jxrj</to>
-  </replacement>
-  <replacement>
-    <from>points</from>
-    <to>jxrjd</to>
-  </replacement>
-  <replacement>
-    <from>of damage</from>
-    <to>ehjyf</to>
-  </replacement>
-  <replacement>
-    <from>and Misses</from>
-    <to>b ghjvf[bdftncz</to>
-  </replacement>
-  <replacement>
-    <from>lost a spell</from>
-    <to>gjnthzk pfrkbyfybt</to>
-  </replacement>
-  <replacement>
-    <from>goes down</from>
-    <to>gflftn</to>
-  </replacement>
-  <replacement>
-    <from>and is Dying</from>
-    <to>b gjub&lt;ftn</to>
-  </replacement>
-  <replacement>
-    <from>is killed</from>
-    <to>e&lt;bn</to>
-  </replacement>
-  <replacement>
-    <from>Got Away</from>
-    <to>ecrjkmpyek</to>
-  </replacement>
-  <replacement>
-    <from>Escape is blocked</from>
-    <to>Gj&lt;tu &lt;kjrbhjdfy</to>
-  </replacement>
-  <replacement>
-    <from>sweeps</from>
-    <to>vxbncz</to>
-  </replacement>
-  <replacement>
-    <from>turns undead...</from>
-    <to>j;bdkztn vthndtwf...</to>
-  </replacement>
-  <replacement>
-    <from>is turned</from>
-    <to>j;bdk@y</to>
-  </replacement>
-  <replacement>
-    <from>Is destroyed</from>
-    <to>eybxnj;ty</to>
-  </replacement>
-  <replacement>
-    <from>Nothing Happens...</from>
-    <to>Ybxtuj yt ghjbc[jlbn...</to>
-  </replacement>
-  <replacement>
-    <from>Already been targeted</from>
-    <to>E;t yfwtktyj</to>
-  </replacement>
-  <replacement>
-    <from>Camp Only Spell</from>
-    <to>Pfrkbyfybt njkmrj lkz kfuthz</to>
-  </replacement>
-  <replacement>
-    <from>Begins Casting</from>
-    <to>yfxbyftn rjkljdfnm</to>
-  </replacement>
-  <replacement>
-    <from>Attack Ally:</from>
-    <to>Fnfrjdfnm cj>pybrf:</to>
-  </replacement>
-  <replacement>
-    <from>Range =</from>
-    <to>Lfkmyjcnm </to>
-  </replacement>
-  <replacement>
-    <from>Target</from>
-    <to>Vbitym</to>
-  </replacement>
-  <replacement>
-    <from>Next Prev Manual</from>
-    <to>Cktl. Ghtl. Hexy.</to>
-  </replacement>
-  <replacement>
-    <from>Center Exit</from>
-    <to>Wtynhbh. Yfpfl</to>
-  </replacement>
-  <replacement>
-    <from>Aim:</from>
-    <to>Wtkm:</to>
-  </replacement>
-  <replacement>
-    <from>Range =</from>
-    <to>Lfkmyjcnm </to>
-  </replacement>
-  <replacement>
-    <from>Center Exit</from>
-    <to>Wtynhbh. Yfpfl</to>
-  </replacement>
-  <replacement>
-    <from>Target</from>
-    <to>Vbitym</to>
-  </replacement>
-  <replacement>
-    <from>(Use Cursor keys)</from>
-    <to>Gjkmpeqntcm rkfdbifvb-cnhtkrfvb)</to>
-  </replacement>
-  <replacement>
-    <from>Rakes...</from>
-    <to>Hjtncz...</to>
-  </replacement>
-  <replacement>
-    <from>The Gods intervene!</from>
-    <to>&lt;jub dvtifkbcm!</to>
-  </replacement>
-  <replacement>
-    <from>The river's stench drives you back.</from>
-    <to>Pkjdjybt 'njq htrb jnujyztn dfc j&lt;hfnyj.</to>
-  </replacement>
-  <replacement>
-    <from>Not Here</from>
-    <to>yt pltcm</to>
-  </replacement>
-  <replacement>
-    <from>Bash</from>
-    <to>Elfhbnm</to>
-  </replacement>
-  <replacement>
-    <from>Pick</from>
-    <to>Cj&lt;hfnm</to>
-  </replacement>
-  <replacement>
-    <from>Knock</from>
-    <to>Cneryenm</to>
-  </replacement>
-  <replacement>
-    <from>Exit</from>
-    <to>Yfpfl</to>
-  </replacement>
-  <replacement>
-    <from>Locked.</from>
-    <to>Pfgthnj.</to>
-  </replacement>
-  <replacement>
-    <from>cannot cast spells in this area</from>
-    <to>ytkmpz rjkljdfnm d 'njv vtcnt</to>
-  </replacement>
-  <replacement>
-    <from>is in no condition to</from>
-    <to>yt d cjcnjzybb</to>
-  </replacement>
-  <replacement>
-    <from>cast any spells</from>
-    <to>rjkljdfnm pfrkbyfybz</to>
-  </replacement>
-  <replacement>
-    <from>memorize spells</from>
-    <to>pfgjvbyfnm pfrkbyfybz</to>
-  </replacement>
-  <replacement>
-    <from>scribe any scrolls</from>
-    <to>pfgbcsdfnm d cdbnrb</to>
-  </replacement>
-  <replacement>
-    <from>has no spells memorized</from>
-    <to>yt gjvybn pfrkbyfybq</to>
-  </replacement>
-  <replacement>
-    <from>can memorize:</from>
-    <to>vj;tn pfgjvybnm:</to>
-  </replacement>
-  <replacement>
-    <from>Cleric Spells:</from>
-    <to>Pfrkbyfybz ;htwf:</to>
-  </replacement>
-  <replacement>
-    <from>Magic-User Spells:</from>
-    <to>Pfrkbyfybz vfuf:</to>
-  </replacement>
-  <replacement>
-    <from>Memorize These Spells?</from>
-    <to>Pfgjvybnm 'nb pfrkbyfybz?</to>
-  </replacement>
-  <replacement>
-    <from>cannot memorize any spells</from>
-    <to>yt vj;tn pfgjvybnm</to>
-  </replacement>
-  <replacement>
-    <from>Memorize these spells?</from>
-    <to>Pfgjvybnm 'nb pfrkbyfybz?</to>
-  </replacement>
-  <replacement>
-    <from>Scribe These Spells?</from>
-    <to>Pfgbcfnm 'nb pfrkbyfybz?</to>
-  </replacement>
-  <replacement>
-    <from>has no copyable scrolls</from>
-    <to>yt bvttn cdbnrjd lkz rjgbhjdfybz</to>
-  </replacement>
-  <replacement>
-    <from>You already know that spell</from>
-    <to>Ds e;t pyftnt 'nj pfrkbyfybt</to>
-  </replacement>
-  <replacement>
-    <from>Scribe these spells?</from>
-    <to>Pfgbcfnm 'nb pfrkbyfybz?</to>
-  </replacement>
-  <replacement>
-    <from>Funky-- Studying Manual of Bodily Health</from>
-    <to>Jnkbxyj-- Bpextybt cghfdjxybrf gj ntktcyjve pljhjd</to>
-  </replacement>
-  <replacement>
-    <from>Training with Manual of Bodily Health</from>
-    <to>J&lt;extybt cj cghfdjxybrjv gj ntktcyjve pljhjdm></to>
-  </replacement>
-  <replacement>
-    <from>Feather Fall</from>
-    <to>Gfltybt g@hsirjv</to>
-  </replacement>
-  <replacement>
-    <from>Helpless</from>
-    <to>&lt;tcgjvjoysq</to>
-  </replacement>
-  <replacement>
-    <from>Prayer</from>
-    <to>Vjkbndf</to>
-  </replacement>
-  <replacement>
-    <from>Cause Disease</from>
-    <to>Yfckfnm &lt;jktpym</to>
-  </replacement>
-  <replacement>
-    <from>Dreaded Mummy Disease</from>
-    <to>&lt;jktpym ;enrjq Vevbb</to>
-  </replacement>
-  <replacement>
-    <from>Repulsed</from>
-    <to>Jnhf;@y</to>
-  </replacement>
-  <replacement>
-    <from>Poisoned</from>
-    <to>Jnhfdkty</to>
-  </replacement>
-  <replacement>
-    <from>Regenerating</from>
-    <to>Htutythfwbz</to>
-  </replacement>
-  <replacement>
-    <from>Fire Resistance</from>
-    <to>Juytegjhyjcnm</to>
-  </replacement>
-  <replacement>
-    <from>Invisible</from>
-    <to>Ytdblbvsq</to>
-  </replacement>
-  <replacement>
-    <from>Camouflaged</from>
-    <to>D vfcrbhjdrt</to>
-  </replacement>
-  <replacement>
-    <from>Displaced</from>
-    <to>Gthtvto@y</to>
-  </replacement>
-  <replacement>
-    <from>DisplayParty Order:</from>
-    <to>JcvJnhzl Hzl:</to>
-  </replacement>
-  <replacement>
-    <from>has been selected</from>
-    <to>&lt;sk ds&lt;hfy</to>
-  </replacement>
-  <replacement>
-    <from>quit TO DOS:</from>
-    <to>dsqnb d LJC:</to>
-  </replacement>
-  <replacement>
-    <from>will be gone</from>
-    <to>ghjgfl@n</to>
-  </replacement>
-  <replacement>
-    <from>Drop from party?</from>
-    <to>Elfkbnm bp jnhzlf?</to>
-  </replacement>
-  <replacement>
-    <from>bids you farewell</from>
-    <to>ghjoftncz c dfvb</to>
-  </replacement>
-  <replacement>
-    <from>is dumped in a ditch</from>
-    <to>&lt;hjity d rfyfde</to>
-  </replacement>
-  <replacement>
-    <from>Breathes A sigh of relief</from>
-    <to>uke&lt;jrj j&lt;ktux@yyj dpls[ftn</to>
-  </replacement>
-  <replacement>
-    <from>Game Speed </from>
-    <to>Crjhjcnm buhs </to>
-  </replacement>
-  <replacement>
-    <from>Faster</from>
-    <to>&lt;scnhtt</to>
-  </replacement>
-  <replacement>
-    <from>Slower</from>
-    <to>Vtlktyytt</to>
-  </replacement>
-  <replacement>
-    <from>Exit</from>
-    <to>Ds[jl</to>
-  </replacement>
-  <replacement>
-    <from>Game Speed:</from>
-    <to>Crjhjcnm buhs:</to>
-  </replacement>
-  <replacement>
-    <from>Alter:</from>
-    <to>Bpvtybnm:</to>
-  </replacement>
-  <replacement>
-    <from>Monsters on</from>
-    <to>Vjycnhs drk</to>
-  </replacement>
-  <replacement>
-    <from>Monsters off</from>
-    <to>Vjycnhs dsrk</to>
-  </replacement>
-  <replacement>
-    <from>Portraits on</from>
-    <to>Gjhnhtns drk</to>
-  </replacement>
-  <replacement>
-    <from>Portraits off</from>
-    <to>Gjhnhtns dsrk</to>
-  </replacement>
-  <replacement>
-    <from>ExitThe party makes camp...</from>
-    <to>E)Ds[Jnhzl cnfdbn kfuthm...</to>
-  </replacement>
-  <replacement>
-    <from>Camp:</from>
-    <to>Kfu:</to>
-  </replacement>
-  <replacement>
-    <from>Quit TO DOS</from>
-    <to>LJC?</to>
-  </replacement>
-  <replacement>
-    <from>Choose a function</from>
-    <to>Ds&lt;thbnt ltqcndbt</to>
-  </replacement>
-  <replacement>
-    <from>Quit to DOS</from>
-    <to>E[jl d LJC</to>
-  </replacement>
-  <replacement>
-    <from>STING</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>I Understand, master.</from>
-    <to>Z gjybvf>, ujcgjlby.</to>
-  </replacement>
-  <replacement>
-    <from>Pick Race</from>
-    <to>Ds&lt;jh hfcs</to>
-  </replacement>
-  <replacement>
-    <from>Pick Gender</from>
-    <to>Ds&lt;jh gjkf</to>
-  </replacement>
-  <replacement>
-    <from>Pick Class</from>
-    <to>Ds&lt;jh rkfccf</to>
-  </replacement>
-  <replacement>
-    <from>Pick Alignment</from>
-    <to>Ds&lt;jh vbhjdjpphtybz</to>
-  </replacement>
-  <replacement>
-    <from>Keep this character?</from>
-    <to>Jcnfdbnm uthjz?</to>
-  </replacement>
-  <replacement>
-    <from>Character name:</from>
-    <to>Bvz uthjz:</to>
-  </replacement>
-  <replacement>
-    <from>Drop</from>
-    <to>Elfkbnm</to>
-  </replacement>
-  <replacement>
-    <from>forever?</from>
-    <to>yfdtxyj?</to>
-  </replacement>
-  <replacement>
-    <from>Are you sure?</from>
-    <to>Ds edthtys?</to>
-  </replacement>
-  <replacement>
-    <from>You dump</from>
-    <to>Ds &lt;hjcftnt</to>
-  </replacement>
-  <replacement>
-    <from>breathes a sigh of relief.</from>
-    <to>j&lt;ktux@yyj dpls[ftn.</to>
-  </replacement>
-  <replacement>
-    <from> can't be modified.</from>
-    <to> ytkmpz vjlbabwbhjdfnm.</to>
-  </replacement>
-  <replacement>
-    <from>Modify character:</from>
-    <to>Vjlba. uthjz:</to>
-  </replacement>
-  <replacement>
-    <from>Keep Exit</from>
-    <to>Jcnfd. Yfpfl</to>
-  </replacement>
-  <replacement>
-    <from>we only train conscious people</from>
-    <to>vs vj;tv nhtybhjdfnm njkmrj nt[, rnj d cjpyfybb</to>
-  </replacement>
-  <replacement>
-    <from>Training costs 1000 gp.</from>
-    <to>Nhtybhjdrf cnjbn 1000 pjk.</to>
-  </replacement>
-  <replacement>
-    <from>We don't train that class here</from>
-    <to>Vs yt nhtybhetv 'njn rkfcc pltcm</to>
-  </replacement>
-  <replacement>
-    <from>Not Enough Experience</from>
-    <to>Yt [dfnftn jgsnf</to>
-  </replacement>
-  <replacement>
-    <from>will become:</from>
-    <to>cnfytn:</to>
-  </replacement>
-  <replacement>
-    <from>a level</from>
-    <to>ehjdtym</to>
-  </replacement>
-  <replacement>
-    <from>and a level</from>
-    <to>b ehjdtym</to>
-  </replacement>
-  <replacement>
-    <from>Do you wish to train?</from>
-    <to>[jnbnt gjnhtybhjdfnm?</to>
-  </replacement>
-  <replacement>
-    <from>Congratulations...</from>
-    <to>Gjplhfdkztv...</to>
-  </replacement>
-  <replacement>
-    <from>Add a character:</from>
-    <to>Lj&lt;fdbnm uthjz:</to>
-  </replacement>
-  <replacement>
-    <from>Add Exit</from>
-    <to>Lj&lt;. Yfpfl</to>
-  </replacement>
-  <replacement>
-    <from>Head Body Keep</from>
-    <to>H)uj B)nt K)jc</to>
-  </replacement>
-  <replacement>
-    <from>old</from>
-    <to>hfymit</to>
-  </replacement>
-  <replacement>
-    <from>ready   action</from>
-    <to>jnls[   ltqcndbt</to>
-  </replacement>
-  <replacement>
-    <from>new</from>
-    <to>ctqxfc</to>
-  </replacement>
-  <replacement>
-    <from>Small</from>
-    <to>Ybprbq</to>
-  </replacement>
-  <replacement>
-    <from>Large</from>
-    <to>Dscjrbq</to>
-  </replacement>
-  <replacement>
-    <from>Hair</from>
-    <to>Djkjcs</to>
-  </replacement>
-  <replacement>
-    <from>Face</from>
-    <to>Kbwj</to>
-  </replacement>
-  <replacement>
-    <from>Is this icon ok?</from>
-    <to>Jcnfdbnm 'njn pyfxjr?</to>
-  </replacement>
-  <replacement>
-    <from>Put save disk in </from>
-    <to>Dcnfdmnt lbcrtne cj[h. d</to>
-  </replacement>
-  <replacement>
-    <from>Put save disk in </from>
-    <to>Dcnfdmnt lbcrtne cj[h. d</to>
-  </replacement>
-  <replacement>
-    <from>Put save disk in </from>
-    <to>Dcnfdmnt lbcrtne cj[h. d</to>
-  </replacement>
-  <replacement>
-    <from>Put save disk in </from>
-    <to>Dcnfdmnt lbcrtne cj[h. d</to>
-  </replacement>
-  <replacement>
-    <from>Unable to load monster</from>
-    <to>Ytkmpz pfuhepbnm vjycnhf</to>
-  </replacement>
-  <replacement>
-    <from>Load Which Game:</from>
-    <to>Rfre> buhe:</to>
-  </replacement>
-  <replacement>
-    <from>Put save disk in</from>
-    <to>Dcnfdmnt lbcrtne cj[h. d</to>
-  </replacement>
-  <replacement>
-    <from>Loading...Please Wait</from>
-    <to>Pfuheprf... J;blfqnt</to>
-  </replacement>
-  <replacement>
-    <from>Save Which Game: A B C D E F G H I J</from>
-    <to>Rfre> buhe: F &lt; D U L T ; P B R</to>
-  </replacement>
-  <replacement>
-    <from>Put save disk in</from>
-    <to>Dcnfdmnt lbcrtne cj[h. d</to>
-  </replacement>
-  <replacement>
-    <from>Saving...Please Wait</from>
-    <to>Cj[hfytybt... J;blfqnt</to>
-  </replacement>
-  <replacement>
-    <from>Save and exit  Insert disk #</from>
-    <to>Cj[h. b dsqnb  Dcnfd. lbcr. </to>
-  </replacement>
-  <replacement>
-    <from>Mortally wounded, the dragon roars!</from>
-    <to>Cvthntkmyj hfytysq lhfrjy htd@n!</to>
-  </replacement>
-  <replacement>
-    <from>The spirit of Tyranthraxus flares up</from>
-    <to>Le[ Nbhfyjnhfrcf dcgs[bdftn,</to>
-  </replacement>
-  <replacement>
-    <from>from the dragon's body.</from>
-    <to>dsktnfz bp ntkf lhfrjyf.</to>
-  </replacement>
-  <replacement>
-    <from>FINAL#</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>Fools, you have but slain the body</from>
-    <to>Lehfrb, ds kbim e&lt;bkb ntkj, rjnjhsv</to>
-  </replacement>
-  <replacement>
-    <from>I possessed.  I cannot be defeated!"</from>
-    <to>z eghfdkzk. Vtyz ytkmpz gj&lt;tlbnm!"</to>
-  </replacement>
-  <replacement>
-    <from>With the power of the pool of radiance</from>
-    <to>C vjueotcndjv cbz>otuj ghelf,</to>
-  </replacement>
-  <replacement>
-    <from>which I moved here, to my lair,</from>
-    <to>rjnjhsq z gthty@c c>lf, d vj@ kjujdj,</to>
-  </replacement>
-  <replacement>
-    <from>I will still rule, by possessing one</from>
-    <to>z dc@ hfdyj &lt;ele ghfdbnm,</to>
-  </replacement>
-  <replacement>
-    <from>of you!</from>
-    <to>pfdkfltd jlybv bp dfc!</to>
-  </replacement>
-  <replacement>
-    <from>
-      "No Lord Bane!  I can still rule here!
-      I have not failed.  Do not call me back
-      through the pool!
-    </from>
-    <to>Ytn, dkflsrf &lt;tqy!  Z dc@ to@ vjueghfdbnm pltcm!Z</to>
-  </replacement>"
-  <replacement>
-    <from>Noooo...</from>
-    <to>Yt-t-t-tn...</to>
-  </replacement>
-  <replacement>
-    <from>(NPC)</from>
-    <to>)</to>
-  </replacement>
-  <replacement>
-    <from>Age</from>
-    <to>ktn</to>
-  </replacement>
-  <replacement>
-    <from>STR</from>
-    <to>CBK</to>
-  </replacement>
-  <replacement>
-    <from>INT</from>
-    <to>BYN</to>
-  </replacement>
-  <replacement>
-    <from>WIS</from>
-    <to>VLH</to>
-  </replacement>
-  <replacement>
-    <from>DEX</from>
-    <to>KDR</to>
-  </replacement>
-  <replacement>
-    <from>CON</from>
-    <to>DSY</to>
-  </replacement>
-  <replacement>
-    <from>CHA</from>
-    <to>[HP</to>
-  </replacement>
-  <replacement>
-    <from>Weapon</from>
-    <to>Jhe;bt</to>
-  </replacement>
-  <replacement>
-    <from>Armor</from>
-    <to>Ljcgt[</to>
-  </replacement>
-  <replacement>
-    <from>Status</from>
-    <to>Cnfnec</to>
-  </replacement>
-  <replacement>
-    <from>Damage</from>
-    <to>Ehjy</to>
-  </replacement>
-  <replacement>
-    <from>Encumbrance</from>
-    <to>Yjif</to>
-  </replacement>
-  <replacement>
-    <from>Movement</from>
-    <to>Crjhjcnm</to>
-  </replacement>
-  <replacement>
-    <from>Items</from>
-    <to>Dtob</to>
-  </replacement>
-  <replacement>
-    <from>Spells</from>
-    <to>S)pfrk</to>
-  </replacement>
-  <replacement>
-    <from>Trade</from>
-    <to>T)j&lt;v</to>
-  </replacement>
-  <replacement>
-    <from>Drop</from>
-    <to>Ds&lt;h</to>
-  </replacement>
-  <replacement>
-    <from>Exit</from>
-    <to>E)yfp</to>
-  </replacement>
-  <replacement>
-    <from>View:Must be unreadied</from>
-    <to>Gjrfp:ye;yj jnvtybnm ujnjdyjcnm</to>
-  </replacement>
-  <replacement>
-    <from>was going to scribe from that scroll</from>
-    <to>pfgbcsdftncz bp 'njuj cdbnrf</to>
-  </replacement>
-  <replacement>
-    <from>is it Okay to lose it?</from>
-    <to>ltqcndbntkmyj bp&lt;fdbnmcz jn 'njuj?</to>
-  </replacement>
-  <replacement>
-    <from>Ready</from>
-    <to>R)ujn</to>
-  </replacement>
-  <replacement>
-    <from>Use</from>
-    <to>U)bcg</to>
-  </replacement>
-  <replacement>
-    <from>Trade</from>
-    <to>T)j&lt;v</to>
-  </replacement>
-  <replacement>
-    <from>Drop</from>
-    <to>Ds&lt;h</to>
-  </replacement>
-  <replacement>
-    <from>Halve</from>
-    <to>Hfpltk</to>
-  </replacement>
-  <replacement>
-    <from>Join</from>
-    <to>J&lt;</to>
-  </replacement>
-  <replacement>
-    <from>Sell</from>
-    <to>S)Ghjl</to>
-  </replacement>
-  <replacement>
-    <from>Id</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>Items</from>
-    <to>Dtob</to>
-  </replacement>
-  <replacement>
-    <from>Ready Item</from>
-    <to>Gjlujnjdbnm dtom</to>
-  </replacement>
-  <replacement>
-    <from>Must be Readied</from>
-    <to>Ye;yj ghbujnjdbnm</to>
-  </replacement>
-  <replacement>
-    <from>Your</from>
-    <to>Dfi</to>
-  </replacement>
-  <replacement>
-    <from>will be gone forever</from>
-    <to>ghjgfl@n yfdctulf</to>
-  </replacement>
-  <replacement>
-    <from>Drop It?</from>
-    <to>Ds&lt;hjcbnm?</to>
-  </replacement>
-  <replacement>
-    <from>It's Cursed</from>
-    <to>Jyj ghjrkznj</to>
-  </replacement>
-  <replacement>
-    <from>Wrong Class</from>
-    <to>Ytdthysq rkfcc</to>
-  </replacement>
-  <replacement>
-    <from>already using</from>
-    <to>e;t bcgjkmpetncz</to>
-  </replacement>
-  <replacement>
-    <from>Your hands are full!</from>
-    <to>Dfib herb pfyzns!</to>
-  </replacement>
-  <replacement>
-    <from>Trade with Whom?</from>
-    <to>Njhujdfnm c rtv?</to>
-  </replacement>
-  <replacement>
-    <from>Overloaded</from>
-    <to>Gthtuhe;tyj</to>
-  </replacement>
-  <replacement>
-    <from>Can't halve that</from>
-    <to>Ytkmpz hfpltkbnm 'njn</to>
-  </replacement>
-  <replacement>
-    <from>uses an item</from>
-    <to>ghbvtyztn dtom</to>
-  </replacement>
-  <replacement>
-    <from>Item:</from>
-    <to>Dtom:</to>
-  </replacement>
-  <replacement>
-    <from>Is It a Deal?</from>
-    <to>Ljujdjhbkbcm?</to>
-  </replacement>
-  <replacement>
-    <from>Sold!</from>
-    <to>Ghjlfyj!</to>
-  </replacement>
-  <replacement>
-    <from>Overloaded.  Money will be put in pool.</from>
-    <to>Gthtuhe;tyj. Ltymub &lt;elen gjkj;tys d rjitkm.</to>
-  </replacement>
-  <replacement>
-    <from>For 200 gold pieces I'll identify your</from>
-    <to>Pf 200 pjkjns[ z jgjpyf> dfi</to>
-  </replacement>
-  <replacement>
-    <from>Is It a Deal?</from>
-    <to>Ljujdjhbkbcm?</to>
-  </replacement>
-  <replacement>
-    <from>Not Enough Money</from>
-    <to>Yt [dfnftn ltytu</to>
-  </replacement>
-  <replacement>
-    <from>I can't tell anything new about your</from>
-    <to>Yt vjue crfpfnm ybxtuj yjdjuj j dfitv</to>
-  </replacement>
-  <replacement>
-    <from>It looks like some sort of</from>
-    <to>Gj[j;t yf rfrjq-nj dbl</to>
-  </replacement>
-  <replacement>
-    <from>Trade to?</from>
-    <to>Rjve?</to>
-  </replacement>
-  <replacement>
-    <from>Select type of coin</from>
-    <to>Ds&lt;thbnt nbg vjytn</to>
-  </replacement>
-  <replacement>
-    <from>Select type of coin</from>
-    <to>Ds&lt;thbnt nbg vjytn</to>
-  </replacement>
-  <replacement>
-    <from>in Memory</from>
-    <to>d gfvznb</to>
-  </replacement>
-  <replacement>
-    <from>in Spell Book</from>
-    <to>d rybue pfrkbyfybq</to>
-  </replacement>
-  <replacement>
-    <from>on Scroll</from>
-    <to>yf cdbnjr</to>
-  </replacement>
-  <replacement>
-    <from>on Scrolls</from>
-    <to>yf cdbnrb</to>
-  </replacement>
-  <replacement>
-    <from>to choose from</from>
-    <to>ds&lt;bhftncz bp</to>
-  </replacement>
-  <replacement>
-    <from>to be memorized</from>
-    <to>&lt;eltn dsextyj</to>
-  </replacement>
-  <replacement>
-    <from>to be scribed</from>
-    <to>&lt;eltn pfgbcfyj</to>
-  </replacement>
-  <replacement>
-    <from>Spells</from>
-    <to>Pfrkbyfybz</to>
-  </replacement>
-  <replacement>
-    <from>Rest Time:</from>
-    <to>Dhtvz jnls[f:</to>
-  </replacement>
-  <replacement>
-    <from>Rest   daYs Hours Mins   Inc Dec   Exit</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>The Whole Party Is Healed</from>
-    <to>Dtcm jnhzl bcwtk@y</to>
-  </replacement>
-  <replacement>
-    <from>has memorized</from>
-    <to>dsextyj</to>
-  </replacement>
-  <replacement>
-    <from>has scribed</from>
-    <to>pfgbcfyj</to>
-  </replacement>
-  <replacement>
-    <from>Stop Resting?  The Party is rudely interrupted!</from>
-    <to>Jrjyxbnm jnls[?  Dtxthbyrf uhe&lt;j ghthdfyf!</to>
-  </replacement>
-  <replacement>
-    <from>Overloaded.  Money will be put in pool.</from>
-    <to>Gthtuhe;tyj. Ltymub &lt;elen gjkj;tys d rjitkm.</to>
-  </replacement>
-  <replacement>
-    <from>‰Overloaded</from>
-    <to>gthtuhe;ty</to>
-  </replacement>
-  <replacement>
-    <from>gems</from>
-    <to>cfvjwdtns</to>
-  </replacement>
-  <replacement>
-    <from>gold</from>
-    <to>pjkjnj</to>
-  </replacement>
-  <replacement>
-    <from>platinum</from>
-    <to>gkfnbyf</to>
-  </replacement>
-  <replacement>
-    <from>electrum</from>
-    <to>'ktrnhev</to>
-  </replacement>
-  <replacement>
-    <from>silver</from>
-    <to>ctht&lt;hj</to>
-  </replacement>
-  <replacement>
-    <from>copper</from>
-    <to>vtlzrb</to>
-  </replacement>
-  <replacement>
-    <from>jewelry</from>
-    <to>lhfujwtyyjcnb</to>
-  </replacement>
-  <replacement>
-    <from>Select type of coin</from>
-    <to>Ds&lt;thbnt nbg vjytn</to>
-  </replacement>
-  <replacement>
-    <from>No gems or jewelry</from>
-    <to>Ytn cfvjwdtnjd bkb lhfujwtyyjcntq</to>
-  </replacement>
-  <replacement>
-    <from>Gem</from>
-    <to>cfvjwdtn</to>
-  </replacement>
-  <replacement>
-    <from>Gems</from>
-    <to>cfvjwdtns</to>
-  </replacement>
-  <replacement>
-    <from>piece of jewelry</from>
-    <to>lhfujwtyyjcnm</to>
-  </replacement>
-  <replacement>
-    <from>pieces of jewelry</from>
-    <to>lhfujwtyyjcnb</to>
-  </replacement>
-  <replacement>
-    <from>You have a fine collection of:</from>
-    <to>E dfc [jhjifz rjkktrwbz:</to>
-  </replacement>
-  <replacement>
-    <from>Gems</from>
-    <to>Cfvjwdtnjd</to>
-  </replacement>
-  <replacement>
-    <from>Jewelry</from>
-    <to>Lhfujwtyyjcntq</to>
-  </replacement>
-  <replacement>
-    <from>Exit</from>
-    <to>Ds[jl</to>
-  </replacement>
-  <replacement>
-    <from>Appraise :</from>
-    <to>Jwtybnm :</to>
-  </replacement>
-  <replacement>
-    <from>The gem is valued at</from>
-    <to>'njn cfvjwdtn jwty@y d</to>
-  </replacement>
-  <replacement>
-    <from>Sell</from>
-    <to>Ghjlfnm</to>
-  </replacement>
-  <replacement>
-    <from>Sell Keep</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>You can :</from>
-    <to>Ds vj;tnt :</to>
-  </replacement>
-  <replacement>
-    <from>The jewel is valued at</from>
-    <to>'nf lhfujwtyyjcnm jwtytyf d</to>
-  </replacement>
-  <replacement>
-    <from>Cast</from>
-    <to>Yfkj;bnm</to>
-  </replacement>
-  <replacement>
-    <from>Memorize</from>
-    <to>Pfgjvybnm</to>
-  </replacement>
-  <replacement>
-    <from>Scribe</from>
-    <to>Pfgbcfnm</to>
-  </replacement>
-  <replacement>
-    <from>Learn</from>
-    <to>Bpexbnm</to>
-  </replacement>
-  <replacement>
-    <from>Choose Spell: </from>
-    <to>Ds&lt;thbnt pfrkbyfybt: </to>
-  </replacement>
-  <replacement>
-    <from>Cast Spell on whom</from>
-    <to>Yf rjuj yfkj;bnm pfrkbyfybt</to>
-  </replacement>
-  <replacement>
-    <from>is a combat-only spell...</from>
-    <to>- &lt;jtdjt pfrkbyfybt...</to>
-  </replacement>
-  <replacement>
-    <from>Lose it?</from>
-    <to>Bp&lt;fdbnmcz jn 'njuj?</to>
-  </replacement>
-  <replacement>
-    <from>That Item</from>
-    <to>'nf dtom</to>
-  </replacement>
-  <replacement>
-    <from>is a combat-only item...</from>
-    <to>- dtom, ghbujlyfz njkmrj lkz &lt;jz...</to>
-  </replacement>
-  <replacement>
-    <from>Use it?</from>
-    <to>Ghbvtybnm 'nj?</to>
-  </replacement>
-  <replacement>
-    <from>casts</from>
-    <to>rjkletn</to>
-  </replacement>
-  <replacement>
-    <from>Abort Spell?</from>
-    <to>Ghthdfnm pfrkbyfybt?</to>
-  </replacement>
-  <replacement>
-    <from>Spell Aborted</from>
-    <to>Pfrkbyfybt ghthdfyj</to>
-  </replacement>
-  <replacement>
-    <from>is Blessed</from>
-    <to> </to>
-  </replacement>
-  <replacement>
-    <from>is CursedU</from>
-    <to> </to>
-  </replacement>
-  <replacement>
-    <from>is affected</from>
-    <to>pfhf;@y</to>
-  </replacement>
-  <replacement>
-    <from>is protected</from>
-    <to>pfobo@y</to>
-  </replacement>
-  <replacement>
-    <from>is cold-resistant</from>
-    <to>vjhjpjegjhty</to>
-  </replacement>
-  <replacement>
-    <from>is unaffected</from>
-    <to>ytn 'aatrnf</to>
-  </replacement>
-  <replacement>
-    <from>is charmed</from>
-    <to>pfrjkljdfy</to>
-  </replacement>
-  <replacement>
-    <from>is stronger</from>
-    <to>cnfk cbkmytt</to>
-  </replacement>
-  <replacement>
-    <from>has been reduced</from>
-    <to>&lt;sk evtymity</to>
-  </replacement>
-  <replacement>
-    <from>is friendly</from>
-    <to>lhe;tk>&lt;ty</to>
-  </replacement>
-  <replacement>
-    <from>is shielded</from>
-    <to>pfrhsn obnjv</to>
-  </replacement>
-  <replacement>
-    <from>falls asleep</from>
-    <to>pfcsgftn</to>
-  </replacement>
-  <replacement>
-    <from>is held</from>
-    <to>elth;bdftncz</to>
-  </replacement>
-  <replacement>
-    <from>is fire resistant</from>
-    <to>juytegjhty</to>
-  </replacement>
-  <replacement>
-    <from>is silenced</from>
-    <to>jytvtk</to>
-  </replacement>
-  <replacement>
-    <from>is affected</from>
-    <to>pfhf;@y</to>
-  </replacement>
-  <replacement>
-    <from>is charmed</from>
-    <to>pfrjkljdfy</to>
-  </replacement>
-  <replacement>
-    <from>is invisible</from>
-    <to>ytdblbv</to>
-  </replacement>
-  <replacement>
-    <from>Knock-Knock</from>
-    <to>Ner-ner</to>
-  </replacement>
-  <replacement>
-    <from>is duplicated</from>
-    <to>cle&lt;kbhjdfy</to>
-  </replacement>
-  <replacement>
-    <from>is weakened</from>
-    <to>jckf&lt;kty</to>
-  </replacement>
-  <replacement>
-    <from>Creates a noxious cloud</from>
-    <to>cjplf@n ub&lt;tkmyjt j&lt;kfrj</to>
-  </replacement>
-  <replacement>
-    <from>is stronger</from>
-    <to>cnfk cbkmytt</to>
-  </replacement>
-  <replacement>
-    <from>is animated</from>
-    <to>j;bdk@y</to>
-  </replacement>
-  <replacement>
-    <from>can see</from>
-    <to>vj;tn dbltnm</to>
-  </replacement>
-  <replacement>
-    <from>is diseased</from>
-    <to>pf&lt;jktk</to>
-  </replacement>
-  <replacement>
-    <from>is affected</from>
-    <to>pfhf;@y</to>
-  </replacement>
-  <replacement>
-    <from>is praying</from>
-    <to>vjkbncz</to>
-  </replacement>
-  <replacement>
-    <from>is un-cursed</from>
-    <to>- cyznj ghjrkznbt</to>
-  </replacement>
-  <replacement>
-    <from>s item is un-cursed</from>
-    <to>- c ghtlvtnf cyznj ghjrkznbt</to>
-  </replacement>
-  <replacement>
-    <from>has been cursed!</from>
-    <to>&lt;sk ghjrkzn!</to>
-  </replacement>
-  <replacement>
-    <from>is blinking</from>
-    <to>vthwftn</to>
-  </replacement>
-  <replacement>
-    <from>is Hasted</from>
-    <to>ecrjhty</to>
-  </replacement>
-  <replacement>
-    <from>is Slowed</from>
-    <to>pfvtlkty</to>
-  </replacement>
-  <replacement>
-    <from>is restored</from>
-    <to>djccnfyjdkty</to>
-  </replacement>
-  <replacement>
-    <from>is Speedy</from>
-    <to>cnfk &lt;scnhsv</to>
-  </replacement>
-  <replacement>
-    <from>is Healed</from>
-    <to>bcwtk@y</to>
-  </replacement>
-  <replacement>
-    <from>is stronger</from>
-    <to>cnfk cbkmytt</to>
-  </replacement>
-  <replacement>
-    <from>is paralyzed</from>
-    <to>gfhfkbpjdfy</to>
-  </replacement>
-  <replacement>
-    <from>is Healed</from>
-    <to>bcwtk@y</to>
-  </replacement>
-  <replacement>
-    <from>is invisible</from>
-    <to>ytdblbv</to>
-  </replacement>
-  <replacement>
-    <from>is Reading</from>
-    <to>xbnftn</to>
-  </replacement>
-  <replacement>
-    <from>Breathes!</from>
-    <to>dsls[ftn!</to>
-  </replacement>
-  <replacement>
-    <from>Casts a Spell</from>
-    <to>rjkletn pfrkbyfybt</to>
-  </replacement>
-  <replacement>
-    <from>Spell:</from>
-    <to>Pfrkbyfybt:</to>
-  </replacement>
-  <replacement>
-    <from>starts to cough</from>
-    <to>yfxbyftn rfikznm</to>
-  </replacement>
-  <replacement>
-    <from>chokes and gags from nausea</from>
-    <to>lfdbncz b &lt;k>@n jn njiyjns</to>
-  </replacement>
-  <replacement>
-    <from>is Cured</from>
-    <to>dsktxty</to>
-  </replacement>
-  <replacement>
-    <from> points of damage</from>
-    <to> jxrjd ehjyf</to>
-  </replacement>
-  <replacement>
-    <from>takes 1 point of damage</from>
-    <to>gjkexftn 1 jxrj ehjyf</to>
-  </replacement>
-  <replacement>
-    <from>from Fire</from>
-    <to>jn juyz</to>
-  </replacement>
-  <replacement>
-    <from>from Cold</from>
-    <to>jn vjhjpf</to>
-  </replacement>
-  <replacement>
-    <from>from Electricity</from>
-    <to>jn 'ktrnhbxtcndf</to>
-  </replacement>
-  <replacement>
-    <from>from Acid</from>
-    <to>jn rbckjns</to>
-  </replacement>
-  <replacement>
-    <from>from Magic</from>
-    <to>jn vfubb</to>
-  </replacement>
-  <replacement>
-    <from>lost a spell</from>
-    <to>gjnthzk pfrkbyfybt</to>
-  </replacement>
-  <replacement>
-    <from>Goes Down</from>
-    <to>gflftn</to>
-  </replacement>
-  <replacement>
-    <from>, and is Dying</from>
-    <to>, b evbhftn</to>
-  </replacement>
-  <replacement>
-    <from>is killed</from>
-    <to>e&lt;bn</to>
-  </replacement>
-  <replacement>
-    <from>is Unaffected</from>
-    <to>ytn 'aatrnf</to>
-  </replacement>
-  <replacement>
-    <from>stands up and grins</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>gets back up</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>Name</from>
-    <to>Bvz</to>
-  </replacement>
-  <replacement>
-    <from>Hitpoints</from>
-    <to>Jxrb ;bpyb</to>
-  </replacement>
-  <replacement>
-    <from>AC</from>
-    <to>R&lt;</to>
-  </replacement>
-  <replacement>
-    <from>(Helpless)</from>
-    <to>&lt;tppfobnty)</to>
-  </replacement>
-  <replacement>
-    <from>Nil Item pointer.</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>Tried to Lose item &amp; couldn't find it!</from>
-    <to></to>
-  </replacement>
-  <replacement>
-    <from>is fully healed</from>
-    <to>gjkyjcnm> dsktxty</to>
-  </replacement>
-  <replacement>
-    <from>is partially healed</from>
-    <to>xfcnbxyj dsktxty</to>
-  </replacement>
-  <replacement>
-    <from>Guarding</from>
-    <to>j[hfyf</to>
-  </replacement>
-  <replacement>
-    <from>camping</from>
-    <to>kfuthm</to>
-  </replacement>
-  <replacement>
-    <from>search</from>
-    <to>gjbcr</to>
-  </replacement>
-  <replacement>
-    <from>Exit</from>
-    <to>Ds[jl</to>
-  </replacement>
-  <replacement>
-    <from>Select</from>
-    <to>Ds&lt;jh</to>
-  </replacement>
-  <replacement>
-    <from>Next</from>
-    <to>Cktl.</to>
-  </replacement>
-  <replacement>
-    <from>Prev</from>
-    <to>Ghtl.</to>
-  </replacement>
-  <replacement>
-    <from>Exit</from>
-    <to>Ds[jl</to>
-  </replacement>
-  <replacement>
-    <from>Illegal range in Show3DSprite.</from>
-    <to>Ytljgecnbvsq hzl d 3.</to>
-  </replacement>
-  <replacement>
-    <from>Unable to load wallset in LoadWallSet.</from>
-    <to>Ytkmpz pfuhepbnm  d .</to>
-  </replacement>
-  <replacement>
-    <from>Unable to load geo in Load3DMap.</from>
-    <to>Ytkmpz pfuhepbnm  d 3.</to>
-  </replacement>
-  <replacement>
-    <from>Start range error in Load24x24Set</from>
-    <to>Jib&lt;rf yfxfkf hzlf d 2424</to>
-  </replacement>
-  <replacement>
-    <from>Unable to load 8x8D</from>
-    <to>Ytkmpz pfuhepbnm 88</to>
-  </replacement>
-  <replacement>
-    <from>Bad symbol number in Put8x8Symbol.</from>
-    <to>Ytdthysq yjvth cbvdjkf d 88.</to>
-  </replacement>
-  <replacement>
-    <from>Press any key to continue</from>
-    <to>Lkz ghjljk;tybz yf;vbnt k>&lt;e> rkfdbie</to>
-  </replacement>
+<replacement><from>Time to save your game.  [return]</from><to>Gjhf cj[hfybnm dfie buhe.  </to></replacement>
+<replacement><from>scenario created by: tsr, inc.</from><to>c>;tn cjplfy nb-'c-fh byr.</to></replacement>
+<replacement><from>jim ward</from><to>l;bv ejhl</to></replacement>
+<replacement><from>david cook,steve winter,mike breault</from><to>l'dbl rer,cnbd dbynth,vfqr &lt;h>kn</to></replacement>
+<replacement><from>game created by:</from><to>buhf cltkfyf</to></replacement>
+<replacement><from>ssi special projects</from><to>'c-'c-fq cgtik ghjl;trnc</to></replacement>
+<replacement><from>programming:</from><to>ghjuhfvvbhjdfybt:</to></replacement>
+<replacement><from>original</from><to>bc[jlyjt</to></replacement>
+<replacement><from>scot bayless</from><to>crjn &lt;tqktc</to></replacement>
+<replacement><from>brad myers</from><to>&lt;h'l vfqthc</to></replacement>
+<replacement><from>keith brors</from><to>rbn &lt;hjc</to></replacement>
+<replacement><from>russ brown</from><to>hfcc &lt;hfey</to></replacement>
+<replacement><from>ted greer</from><to>ntl uhbh</to></replacement>
+<replacement><from>graphic arts:</from><to>uhfabrf:</to></replacement>
+<replacement><from>encounter coding:</from><to>ghjuhfvvbhjdfybt &lt;j@d:</to></replacement>
+<replacement><from>tom wahl</from><to>njv ejk</to></replacement>
+<replacement><from>paul murray</from><to>gjk v>hhtq</to></replacement>
+<replacement><from>fred butts</from><to>ahtl &lt;fnc</to></replacement>
+<replacement><from>darla marasco</from><to>lfhkf vfhfcrj</to></replacement>
+<replacement><from>victor penman</from><to>dbrnjh gtyvty</to></replacement>
+<replacement><from>susan halbleib</from><to>c>pfy [fkm&lt;kzq&lt;</to></replacement>
+<replacement><from>dave shelley</from><to>ltqd itkkb</to></replacement>
+<replacement><from>project manager</from><to>herjdjlbntkm:</to></replacement>
+<replacement><from>developer:</from><to>ghjtrnbhjdobr:</to></replacement>
+<replacement><from>george mac donald</from><to>l;jhl; vfr ljyfkml</to></replacement>
+<replacement><from>testing:</from><to>ntcns:</to></replacement>
+<replacement><from>joel billings,steve salyer</from><to>l;j'k &lt;bkkbyuc,cnbd cfkmth</to></replacement>
+<replacement><from>james kucera,robert daly,rick white</from><to>l;tqvc rexthf,hj&lt;thn l'kb,hbr efqn</to></replacement>
+<replacement><from>USE THE TRANSLATION WHEEL TO DECIPHER</from><to>PFOBNF JN RJGBHJDFYBZ CYZNF</to></replacement>
+<replacement><from>THE CODE WORD.</from><to></to></replacement>
+<replacement><from>MATCH THE ESPRUAR RUNE (OUTER RING)</from><to>...</to></replacement>
+<replacement><from>WITH THE DETHEK RUNE (INNER RING)</from><to>...</to></replacement>
+<replacement><from>AND READ THE CODE WORD UNDER THE PATH:</from><to></to></replacement>
+<replacement><from>READ FROM THE INSIDE TO THE OUTSIDE.</from><to>...</to></replacement>
+<replacement><from>INPUT THE CODE WORD:</from><to>YF;VBNT RKFDBIE DDJL</to></replacement>
+<replacement><from>Sorry, that's incorrect.</from><to>Ghjcnbnt, yj 'nj ytdthyj.</to></replacement>
+<replacement><from>PRESS &lt;RETURN&gt; OR BUTTON TO CONTINUE</from><to>YF;VBNT  BKB RYJGRE LKZ GHJLJK;TYBZ</to></replacement>
+<replacement><from>PRESS &lt;ENTER&gt;/&lt;RETURN&gt; TO CONTINUE</from><to>YF;VBNT / LKZ GHJLJK;TYBZ</to></replacement>
+<replacement><from>~COMBAT</from><to></to></replacement>
+<replacement><from>~WAIT</from><to></to></replacement>
+<replacement><from>~FLEE</from><to></to></replacement>
+<replacement><from>~PARLAY</from><to></to></replacement>
+<replacement><from>~COMBAT</from><to></to></replacement>
+<replacement><from>~WAIT</from><to></to></replacement>
+<replacement><from>~FLEE</from><to></to></replacement>
+<replacement><from>~ADVANCE</from><to></to></replacement>
+<replacement><from>Both sides wait.</from><to>J&lt;t cnjhjys ;len.</to></replacement>
+<replacement><from>The monsters flee.</from><to>Vjycnhs e&lt;tuf>n.</to></replacement>
+<replacement><from>~HAUGHTY</from><to></to></replacement>
+<replacement><from>~SLY</from><to></to></replacement>
+<replacement><from>~NICE</from><to></to></replacement>
+<replacement><from>~MEEK</from><to></to></replacement>
+<replacement><from>~ABUSIVE</from><to></to></replacement>
+<replacement><from>dies.</from><to>evbhftn.</to></replacement>
+<replacement><from>is hit for</from><to>&lt;m@n b ghbxbyztn</to></replacement>
+<replacement><from>points of damage.</from><to>jxrjd ehjyf.</to></replacement>
+<replacement><from>press &lt;enter&gt;/&lt;return&gt; to continue</from><to>yf;vbnt / lkz ghjljk;tybz</to></replacement>
+<replacement><from>The END!</from><to>RJYTW!</to></replacement>
+<replacement><from>The entire party is killed!</from><to>Dtcm jnhzl e&lt;bn!</to></replacement>
+<replacement><from>press &lt;enter&gt;/&lt;return&gt; to continue</from><to>yf;vbnt / lkz ghjljk;tybz</to></replacement>
+<replacement><from>will only cost</from><to>cnjbn dctuj</to></replacement>
+<replacement><from>gold pieces.</from><to>pjkjns[ vjytn.</to></replacement>
+<replacement><from>pay for cure</from><to>jgkfnbnm</to></replacement>
+<replacement><from>Not enough money.</from><to>Yt [dfnftn ltytu.</to></replacement>
+<replacement><from>is cured.</from><to>dsktxty</to></replacement>
+<replacement><from>is not blind.</from><to>e;t yt cktgjq.</to></replacement>
+<replacement><from>Cure Blindness</from><to>Cyznbt cktgjns</to></replacement>
+<replacement><from>is not Diseased.</from><to>yt &lt;jkty.</to></replacement>
+<replacement><from>Cure Disease</from><to>Ktxtybt &lt;jktpyb</to></replacement>
+<replacement><from>Cure Light Wounds</from><to>Ktxtybt k@urb[ hfy</to></replacement>
+<replacement><from>Cure Serious Wounds</from><to>Ktxtybt nz;@ks[ hfy</to></replacement>
+<replacement><from>Cure Critical Wounds</from><to>Ktxtybt rhbnbxtcrb[ hfy</to></replacement>
+<replacement><from>is not dead.</from><to>yt v@hnd.</to></replacement>
+<replacement><from>Raise Dead</from><to>J;bdbnm vthndtwf</to></replacement>
+<replacement><from>is not stoned.</from><to>yt jrfvtytdibq.</to></replacement>
+<replacement><from>Stone to Flesh</from><to>Rfvtym d gkjnm</to></replacement>
+<replacement><from>, how can we help you?</from><to>, xtv dfv gjvjxm?</to></replacement>
+<replacement><from>Heal Exit</from><to>H)bcw E)yfp</to></replacement>
+<replacement><from>Heal View Take Pool Share Appraise Exit</from><to>H)bcw V)uth T)dpznm P)gek S)ltkbnm A)jwty E)yfp</to></replacement>
+<replacement><from>Heal View Pool Appraise Exit</from><to>H)bcw V)uth P)gek A)jw E)yfp</to></replacement>
+<replacement><from>~Yes</from><to>Y)lf</to></replacement>
+<replacement><from>~No</from><to>N)ytn</to></replacement>
+<replacement><from>As you leave a priest says, "Excuse me but you have left some money here"</from><to>Rjulf ds e[jlbnt, ;htw ujdjhbn: "Bpdbybnt, yj ds jcnfdbkb pltcm ytvyjuj vjy</to></replacement>
+<replacement><from>Do you want to go back and retrieve your money?</from><to>[jnbnt kb ds dthyenmcz b pf&lt;hfnm cdjb ltymub?</to></replacement>
+<replacement><from>You have lost the duel.</from><to>Ds ghjbuhfkb gjtlbyjr.</to></replacement>
+<replacement><from>You have won the duel.</from><to>Ds dsbuhfkb gjtlbyjr.</to></replacement>
+<replacement><from>The party has won.</from><to>Jnhzl gj&lt;tlbk.</to></replacement>
+<replacement><from>The party has fled.</from><to>Jnhzl c&lt;t;fk.</to></replacement>
+<replacement><from>The party has found treasure!</from><to>Jnhzl yfi@k cjrhjdbot!</to></replacement>
+<replacement><from>The duelist receives</from><to>Le'kzyn gjkexftn</to></replacement>
+<replacement><from>Each character receives</from><to>Rf;lsq uthjq gjkexftn</to></replacement>
+<replacement><from>experience points.</from><to>jxrjd jgsnf.</to></replacement>
+<replacement><from>press &lt;enter&gt;/&lt;return&gt; to continue</from><to>yf;vbnt / lkz ghjljk;tybz</to></replacement>
+<replacement><from>‰Loot</from><to>Lj&lt;sxf</to></replacement>
+<replacement><from>Items:</from><to>Dtob:</to></replacement>
+<replacement><from>Take</from><to>Dpznm</to></replacement>
+<replacement><from>Take:</from><to>Dpznm:</to></replacement>
+<replacement><from>Money Items Exit</from><to>M)ltymub I)dtob E)yfpfl</to></replacement>
+<replacement><from>View Pool Exit</from><to>V)uthjq P)gek E)yfpfl</to></replacement>
+<replacement><from>Exit</from><to>E)yfpfl</to></replacement>
+<replacement><from>Detect Exit</from><to>D)j&lt;yfhe;bnm E)yfpfl</to></replacement>
+<replacement><from>View Take Pool Share</from><to>V)uthjq T)dpznm P)gek S)hfpltkbnm</to></replacement>
+<replacement><from>View Take Pool</from><to>V)uthjq T)dpznm P)gek</to></replacement>
+<replacement><from>~Yes</from><to>Lf</to></replacement>
+<replacement><from>~No</from><to>Ytn</to></replacement>
+<replacement><from>There is still treasure left.</from><to>Nfv dc@ to@ jcnfkbcm cjrhjdbof.</to></replacement>
+<replacement><from>Do you want to go back and claim your treasure?</from><to>[jnbnt kb ds dthyenmcz b gjnht&lt;jdfnm jnlfnm dfib cjrhjdbof?</to></replacement>
+<replacement><from>takes and hides his share.</from><to>&lt;th@n b ghzxtn cdj> ljk>.</to></replacement>
+<replacement><from>press &lt;enter&gt;/&lt;return&gt; to continue</from><to>yf;vbnt / lkz ghjljk;tybz</to></replacement>
+<replacement><from>The END!</from><to>RJYTW!</to></replacement>
+<replacement><from>The monsters rejoice for the party has been destroyed</from><to>Vjycnhs kbre>n, dtlm jnhzl eybxnj;ty</to></replacement>
+<replacement><from>Press any key to continue</from><to>Yf;vbnt k>&lt;e> rkfdbie lkz ghjljk;tybz</to></replacement>
+<replacement><from>Shop</from><to>Kfdrf</to></replacement>
+<replacement><from>Items:</from><to>Dtob:</to></replacement>
+<replacement><from>Buy</from><to>B)regbnm</to></replacement>
+<replacement><from>OverLoaded</from><to>Gthtuhe;ty</to></replacement>
+<replacement><from>Not enough money</from><to>Yt [dfnftn ltytu</to></replacement>
+<replacement><from>Buy View Take Pool Share Appraise Exit</from><to>B)reg V)uth T)dp P)gek S)hfpl A)jw E)yfp</to></replacement>
+<replacement><from>Buy View Pool Appraise Exit</from><to>B)regbnm V)uthjq P)gek A)jwtybnm E)yfpfl</to></replacement>
+<replacement><from>~Yes</from><to>Y)lf</to></replacement>
+<replacement><from>~No</from><to>N)ytn</to></replacement>
+<replacement><from>As you leave the shopkeeper says, "Excuse me but you have left some money here."</from><to>Rjulf ds e[jlbnt, kfdjxybr ujdjhbn: "Bpdbybnt, yj ds jcnfdbkb pltcm ytvyjuj</to></replacement>
+<replacement><from>Do you want to go back and get your money?</from><to>Ds [jnbnt dthyenmcz b pf&lt;hfnm ltymub?</to></replacement>
+<replacement><from>Loading...Please Wait</from><to>Pfuheprf... J;blfqnt</to></replacement>
+<replacement><from>Magic On</from><to>Vfubz drk</to></replacement>
+<replacement><from>Magic Off</from><to>Vfubz dsrk</to></replacement>
+<replacement><from>That doesn't work</from><to>'nj yt hf&lt;jnftn</to></replacement>
+<replacement><from>Move</from><to>M)ld</to></replacement>
+<replacement><from>View Aim</from><to>V)uth A)wtkm</to></replacement>
+<replacement><from>Use</from><to>U)gh</to></replacement>
+<replacement><from>Cast</from><to>C)pfrk</to></replacement>
+<replacement><from>Turn</from><to>T)yt;</to></replacement>
+<replacement><from>Quick Done</from><to>Q)fdn D)ujn</to></replacement>
+<replacement><from>Your Teammate is Dying</from><to>Dfi njdfhbo evbhftn</to></replacement>
+<replacement><from>Continue Battle:</from><to>Ghjljk;bnm &lt;jq:</to></replacement>
+<replacement><from>Move/Attack, Move Left =</from><to>Ldbu./Fnfrf, Dktdj </to></replacement>
+<replacement><from>Flee:</from><to>C&lt;t;fnm:</to></replacement>
+<replacement><from>Blocked</from><to>&lt;kjrbhjdfy</to></replacement>
+<replacement><from>Guard</from><to>Cnhf;</to></replacement>
+<replacement><from>Delay Quit</from><to>D)pflth; E)yfpfl</to></replacement>
+<replacement><from>Bandage</from><to>&lt;byn</to></replacement>
+<replacement><from>Speed Exit</from><to>Crjh. E)yfp</to></replacement>
+<replacement><from>is bandaged</from><to>gthtdzpfy</to></replacement>
+<replacement><from>GameSpeed</from><to>Crjh.buhs</to></replacement>
+<replacement><from>Slower</from><to>Vtlktyytt</to></replacement>
+<replacement><from>Faster</from><to>&lt;scnhtt</to></replacement>
+<replacement><from>Exit</from><to>E)yfp</to></replacement>
+<replacement><from>flees in panic</from><to>d gfybrt c&lt;tuftn</to></replacement>
+<replacement><from>Move/Attack, Move Left =</from><to>Ldbu./Fnfrf, Dktdj </to></replacement>
+<replacement><from>is forced to flee</from><to>dsye;lty c&lt;t;fnm</to></replacement>
+<replacement><from>Surrenders</from><to>clf@ncz</to></replacement>
+<replacement><from>DungCom</from><to></to></replacement>
+<replacement><from>WildCom</from><to></to></replacement>
+<replacement><from>RandCom</from><to></to></replacement>
+<replacement><from>Loading...Please Wait</from><to>Pfuheprf... J;blfqnt</to></replacement>
+<replacement><from>starts to train</from><to>yfxbyftn nhtybhjdre</to></replacement>
+<replacement><from>is hardier</from><to>cnfk jndf;ytt</to></replacement>
+<replacement><from>is silenced</from><to>jytvtk</to></replacement>
+<replacement><from>dies from poison</from><to>evbhftn jn zlf</to></replacement>
+<replacement><from>Gains an item</from><to>lj&lt;sdftn dtom</to></replacement>
+<replacement><from>The air clears a little...</from><to>Djple[ ytvyjuj jxboftncz...</to></replacement>
+<replacement><from>Avoids it</from><to>bp&lt;tuftn 'njuj</to></replacement>
+<replacement><from>is weakened</from><to>jckf&lt;kty</to></replacement>
+<replacement><from>Dies from rot</from><to>evbhftn jn uybtybz</to></replacement>
+<replacement><from>is Poisoned</from><to>jnhfdkty</to></replacement>
+<replacement><from>is killed</from><to>e&lt;bn</to></replacement>
+<replacement><from>is Paralyzed</from><to>gfhfkbpjdfy</to></replacement>
+<replacement><from>Sucks some Blood</from><to>dscfcsdftn ytvyjuj rhjdb</to></replacement>
+<replacement><from>is paralyzed with fear</from><to>jwtgtytk jn cnhf[f</to></replacement>
+<replacement><from>is weakened by fear</from><to>jckf&lt;tk jn cnhf[f</to></replacement>
+<replacement><from>is paralyzed with fear</from><to>jwtgtytk jn cnhf[f</to></replacement>
+<replacement><from>gazes</from><to>ukzlbn</to></replacement>
+<replacement><from>reflects it!</from><to>jnhf;ftn 'nj!</to></replacement>
+<replacement><from>is Stoned</from><to>jrfvtytk</to></replacement>
+<replacement><from>Gazes</from><to>ukzlbn</to></replacement>
+<replacement><from>is charmed</from><to>pfrjkljdfy</to></replacement>
+<replacement><from>levels</from><to>ehjdytq</to></replacement>
+<replacement><from>a level</from><to>ehjdtym</to></replacement>
+<replacement><from>is drained</from><to>dsnzyenj</to></replacement>
+<replacement><from>is dead forever</from><to>evth yfdctulf</to></replacement>
+<replacement><from>is killed</from><to>e&lt;bn</to></replacement>
+<replacement><from>is unaffected</from><to>ytn 'aatrnf</to></replacement>
+<replacement><from>Falls dead</from><to>gflftn pfvthndj</to></replacement>
+<replacement><from>Turns gaseous and escapes</from><to>ghtdhfoftncz d ufp b c&lt;tuftn</to></replacement>
+<replacement><from>Spits Acid</from><to>gk>@n rbckjnjq</to></replacement>
+<replacement><from>is stronger</from><to>cnfk cbkmytt</to></replacement>
+<replacement><from>Must have Giant Strength</from><to>ljk;yj &lt;snm, j&lt;kflftn cbkjq dtkbrfyf</to></replacement>
+<replacement><from>Backstabs</from><to>pfrfksdftn d cgbye</to></replacement>
+<replacement><from>slays helpless</from><to>e&lt;bdftn &lt;tcgjvjoyjuj</to></replacement>
+<replacement><from>Attacks</from><to>fnfretn</to></replacement>
+<replacement><from>(from behind)</from><to>cpflb)</to></replacement>
+<replacement><from>with one cruel blow</from><to>jlybv ;tcnjrbv elfhjv</to></replacement>
+<replacement><from>Hitting for</from><to>Elfh d</to></replacement>
+<replacement><from>point</from><to>jxrj</to></replacement>
+<replacement><from>points</from><to>jxrjd</to></replacement>
+<replacement><from>of damage</from><to>ehjyf</to></replacement>
+<replacement><from>and Misses</from><to>b ghjvf[bdftncz</to></replacement>
+<replacement><from>lost a spell</from><to>gjnthzk pfrkbyfybt</to></replacement>
+<replacement><from>goes down</from><to>gflftn</to></replacement>
+<replacement><from>and is Dying</from><to>b gjub&lt;ftn</to></replacement>
+<replacement><from>is killed</from><to>e&lt;bn</to></replacement>
+<replacement><from>Got Away</from><to>ecrjkmpyek</to></replacement>
+<replacement><from>Escape is blocked</from><to>Gj&lt;tu &lt;kjrbhjdfy</to></replacement>
+<replacement><from>sweeps</from><to>vxbncz</to></replacement>
+<replacement><from>turns undead...</from><to>j;bdkztn vthndtwf...</to></replacement>
+<replacement><from>is turned</from><to>j;bdk@y</to></replacement>
+<replacement><from>Is destroyed</from><to>eybxnj;ty</to></replacement>
+<replacement><from>Nothing Happens...</from><to>Ybxtuj yt ghjbc[jlbn...</to></replacement>
+<replacement><from>Already been targeted</from><to>E;t yfwtktyj</to></replacement>
+<replacement><from>Camp Only Spell</from><to>Pfrkbyfybt njkmrj lkz kfuthz</to></replacement>
+<replacement><from>Begins Casting</from><to>yfxbyftn rjkljdfnm</to></replacement>
+<replacement><from>Attack Ally:</from><to>Fnfrjdfnm cj>pybrf:</to></replacement>
+<replacement><from>Range =</from><to>Lfkmyjcnm </to></replacement>
+<replacement><from>Target</from><to>Vbitym</to></replacement>
+<replacement><from>Next Prev Manual</from><to>N)cktl P)ghtl M)dhexye></to></replacement>
+<replacement><from>Center Exit</from><to>C)wtynhbh E)yfp</to></replacement>
+<replacement><from>Aim:</from><to>Wtkm:</to></replacement>
+<replacement><from>Range =</from><to>Lfkmyjcnm </to></replacement>
+<replacement><from>Center Exit</from><to>C)wtynhbh E)yfp</to></replacement>
+<replacement><from>Target</from><to>Vbitym</to></replacement>
+<replacement><from>(Use Cursor keys)</from><to>Gjkmpeqntcm rkfdbifvb-cnhtkrfvb)</to></replacement>
+<replacement><from>Rakes...</from><to>Hjtncz...</to></replacement>
+<replacement><from>The Gods intervene!</from><to>&lt;jub dvtifkbcm!</to></replacement>
+<replacement><from>The river's stench drives you back.</from><to>Pkjdjybt 'njq htrb jnujyztn dfc j&lt;hfnyj.</to></replacement>
+<replacement><from>Not Here</from><to>yt pltcm</to></replacement>
+<replacement><from>Bash</from><to>Elfhbnm</to></replacement>
+<replacement><from>Pick</from><to>Cj&lt;hfnm</to></replacement>
+<replacement><from>Knock</from><to>Cneryenm</to></replacement>
+<replacement><from>Exit</from><to>E)yfp</to></replacement>
+<replacement><from>Locked.</from><to>Pfgthnj.</to></replacement>
+<replacement><from>cannot cast spells in this area</from><to>ytkmpz rjkljdfnm d 'njv vtcnt</to></replacement>
+<replacement><from>is in no condition to</from><to>yt d cjcnjzybb</to></replacement>
+<replacement><from>cast any spells</from><to>rjkljdfnm pfrkbyfybz</to></replacement>
+<replacement><from>memorize spells</from><to>pfgjvbyfnm pfrkbyfybz</to></replacement>
+<replacement><from>scribe any scrolls</from><to>pfgbcsdfnm d cdbnrb</to></replacement>
+<replacement><from>has no spells memorized</from><to>yt gjvybn pfrkbyfybq</to></replacement>
+<replacement><from>can memorize:</from><to>vj;tn pfgjvybnm:</to></replacement>
+<replacement><from>Cleric Spells:</from><to>Pfrkbyfybz ;htwf:</to></replacement>
+<replacement><from>Magic-User Spells:</from><to>Pfrkbyfybz vfuf:</to></replacement>
+<replacement><from>Memorize These Spells?</from><to>Pfgjvybnm 'nb pfrkbyfybz?</to></replacement>
+<replacement><from>cannot memorize any spells</from><to>yt vj;tn pfgjvybnm</to></replacement>
+<replacement><from>Memorize these spells?</from><to>Pfgjvybnm 'nb pfrkbyfybz?</to></replacement>
+<replacement><from>Scribe These Spells?</from><to>Pfgbcfnm 'nb pfrkbyfybz?</to></replacement>
+<replacement><from>has no copyable scrolls</from><to>yt bvttn cdbnrjd lkz rjgbhjdfybz</to></replacement>
+<replacement><from>You already know that spell</from><to>Ds e;t pyftnt 'nj pfrkbyfybt</to></replacement>
+<replacement><from>You are already scibing that spell</from><to>Ds e;t pfgbcsdftnt 'nj pfrkbyfybt</to></replacement>
+<replacement><from>You can not scribe that spell.</from><to>Ds yt vj;tnt pfgbcfnm 'nj pfrkbyfybt.</to></replacement>
+<replacement><from>Scribe these spells?</from><to>Pfgbcfnm 'nb pfrkbyfybz?</to></replacement>
+<replacement><from>Funky-- Studying Manual of Bodily Health</from><to>Jnkbxyj-- Bpextybt cghfdjxybrf gj ntktcyjve pljhjdm></to></replacement>
+<replacement><from>Training with Manual of Bodily Health</from><to>J&lt;extybt cj cghfdjxybrjv gj ntktcyjve pljhjdm></to></replacement>
+<replacement><from>Feather Fall</from><to>Gfltybt g@hsirjv</to></replacement>
+<replacement><from>Helpless</from><to>&lt;tcgjvjoysq</to></replacement>
+<replacement><from>Prayer</from><to>Vjkbndf</to></replacement>
+<replacement><from>Cause Disease</from><to>Yfckfnm &lt;jktpym</to></replacement>
+<replacement><from>Dreaded Mummy Disease</from><to>&lt;jktpym ;enrjq Vevbb</to></replacement>
+<replacement><from>Repulsed</from><to>Jnhf;@y</to></replacement>
+<replacement><from>Poisoned</from><to>Jnhfdkty</to></replacement>
+<replacement><from>Regenerating</from><to>Htutythfwbz</to></replacement>
+<replacement><from>Fire Resistance</from><to>Juytegjhyjcnm</to></replacement>
+<replacement><from>Invisible</from><to>Ytdblbvsq</to></replacement>
+<replacement><from>Camouflaged</from><to>D vfcrbhjdrt</to></replacement>
+<replacement><from>Displaced</from><to>Gthtvto@y</to></replacement>
+<replacement><from>&lt;No Spell Effects&gt;</from><to>Ytn 'aatrnjd jn pfrkbyfybq</to></replacement>
+<replacement><from>DisplayParty Order:</from><to>JcvJnhzl Hzl:</to></replacement>
+<replacement><from>has been selected</from><to>&lt;sk ds&lt;hfy</to></replacement>
+<replacement><from>quit TO DOS:</from><to>dsqnb d LJC:</to></replacement>
+<replacement><from>will be gone</from><to>ghjgfl@n</to></replacement>
+<replacement><from>Drop from party?</from><to>Elfkbnm bp jnhzlf?</to></replacement>
+<replacement><from>bids you farewell</from><to>ghjoftncz c dfvb</to></replacement>
+<replacement><from>is dumped in a ditch</from><to>&lt;hjity d rfyfde</to></replacement>
+<replacement><from>Breathes A sigh of relief</from><to>uke&lt;jrj j&lt;ktux@yyj dpls[ftn</to></replacement>
+<replacement><from>Game Speed =</from><to>Crjhjcnm buhs </to></replacement>
+<replacement><from>(0=fastest 9=slowest)</from><to>0dscifz 9ybpifz)</to></replacement>
+<replacement><from>Faster</from><to>&lt;scnhtt</to></replacement>
+<replacement><from>Slower</from><to>Vtlktyytt</to></replacement>
+<replacement><from>Exit</from><to>E)ds[jl</to></replacement>
+<replacement><from>Game Speed:</from><to>Crjhjcnm buhs:</to></replacement>
+<replacement><from>Alter:</from><to>Bpvtybnm:</to></replacement>
+<replacement><from>Monsters on</from><to>Vjycnhs drk</to></replacement>
+<replacement><from>Monsters off</from><to>Vjycnhs dsrk</to></replacement>
+<replacement><from>Portraits on</from><to>Gjhnhtns drk</to></replacement>
+<replacement><from>Portraits off</from><to>Gjhnhtns dsrk</to></replacement>
+<replacement><from>ExitThe party makes camp...</from><to>E)ds[Jnhzl cnfdbn kfuthm...</to></replacement>
+<replacement><from>Camp:</from><to>Kfu:</to></replacement>
+<replacement><from>Quit TO DOS</from><to>LJC?</to></replacement>
+<replacement><from>Choose a function</from><to>Ds&lt;thbnt ltqcndbt</to></replacement>
+<replacement><from>Quit to DOS</from><to>LJC?</to></replacement>
+<replacement><from>STING</from><to></to></replacement>
+<replacement><from>I Understand, master.</from><to>Z gjybvf>, ujcgjlby.</to></replacement>
+<replacement><from>Pick Race</from><to>Ds&lt;jh hfcs</to></replacement>
+<replacement><from>Pick Gender</from><to>Ds&lt;jh gjkf</to></replacement>
+<replacement><from>Pick Class</from><to>Ds&lt;jh rkfccf</to></replacement>
+<replacement><from>Pick Alignment</from><to>Ds&lt;jh vbhjdjpphtybz</to></replacement>
+<replacement><from>Keep this character?</from><to>Jcnfdbnm uthjz?</to></replacement>
+<replacement><from>Character name:</from><to>Bvz uthjz:</to></replacement>
+<replacement><from>Drop</from><to>Elfkbnm</to></replacement>
+<replacement><from>forever?</from><to>yfdtxyj?</to></replacement>
+<replacement><from>Are you sure?</from><to>Ds edthtys?</to></replacement>
+<replacement><from>You dump</from><to>Ds &lt;hjcftnt</to></replacement>
+<replacement><from>out back.</from><to>gjpflb.</to></replacement>
+<replacement><from>bids you farewell.</from><to>ghjoftncz c dfvb.</to></replacement>
+<replacement><from>breathes a sigh of relief.</from><to>j&lt;ktux@yyj dpls[ftn.</to></replacement>
+<replacement><from>can't be modified.</from><to>ytkmpz vjlbabwbhjdfnm.</to></replacement>
+<replacement><from>Modify character:</from><to>Vjlba. uthjz:</to></replacement>
+<replacement><from>Keep Exit</from><to>K)jcn E)yfp</to></replacement>
+<replacement><from>we only train conscious people</from><to>vs vj;tv nhtybhjdfnm njkmrj nt[, rnj d cjpyfybb</to></replacement>
+<replacement><from>Training costs 1000 gp.</from><to>Nhtybhjdrf cnjbn 1000 pjk.</to></replacement>
+<replacement><from>We don't train that class here</from><to>Vs yt nhtybhetv 'njn rkfcc pltcm</to></replacement>
+<replacement><from>Not Enough Experience</from><to>Yt [dfnftn jgsnf</to></replacement>
+<replacement><from>will become:</from><to>cnfytn:</to></replacement>
+<replacement><from>a level</from><to>ehjdtym</to></replacement>
+<replacement><from>and a level</from><to>b ehjdtym</to></replacement>
+<replacement><from>Do you wish to train?</from><to>[jnbnt gjnhtybhjdfnm?</to></replacement>
+<replacement><from>Congratulations...</from><to>Gjplhfdkztv...</to></replacement>
+<replacement><from>Add a character:</from><to>Lj&lt;fdbnm uthjz:</to></replacement>
+<replacement><from>Add Exit</from><to>A)lj&lt; E)yfp</to></replacement>
+<replacement><from>Head Body Keep</from><to>H)uj B)nt K)jc</to></replacement>
+<replacement><from>old</from><to>hfymit</to></replacement>
+<replacement><from>ready   action</from><to>jnls[   ltqcndbt</to></replacement>
+<replacement><from>new</from><to>ctqxfc</to></replacement>
+<replacement><from>Small</from><to>Ybprbq</to></replacement>
+<replacement><from>Large</from><to>Dscjrbq</to></replacement>
+<replacement><from>Hair</from><to>Djkjcs</to></replacement>
+<replacement><from>Face</from><to>Kbwj</to></replacement>
+<replacement><from>Is this icon ok?</from><to>Pyfxjr jr?</to></replacement>
+<replacement><from>Put save disk in</from><to>Dcnfdmnt lbcrtne cj[h. d</to></replacement>
+<replacement><from>Put save disk in</from><to>Dcnfdmnt lbcrtne cj[h. d</to></replacement>
+<replacement><from>Put save disk in</from><to>Dcnfdmnt lbcrtne cj[h. d</to></replacement>
+<replacement><from>Put save disk in</from><to>Dcnfdmnt lbcrtne cj[h. d</to></replacement>
+<replacement><from>Unable to load monster</from><to>Ytkmpz pfuhepbnm vjycnhf</to></replacement>
+<replacement><from>Load Which Game:</from><to>Rfre> buhe:</to></replacement>
+<replacement><from>Put save disk in</from><to>Dcnfdmnt lbcrtne cj[h. d</to></replacement>
+<replacement><from>Loading...Please Wait</from><to>Pfuheprf... J;blfqnt</to></replacement>
+<replacement><from>Save Which Game:</from><to>Rfre> buhe:</to></replacement>
+<replacement><from>A B C D E F G H I J</from><to>F &lt; D U L T ; P B R</to></replacement>
+<replacement><from>Put save disk in</from><to>Dcnfdmnt lbcrtne cj[h. d</to></replacement>
+<replacement><from>Saving...Please Wait</from><to>Cj[hfytybt... J;blfqnt</to></replacement>
+<replacement><from>Save and exit  Insert disk #</from><to>Cj[h. b dsqnb  Dcnfd. lbcr. </to></replacement>
+<replacement><from>Mortally wounded, the dragon roars!</from><to>Cvthntkmyj hfytysq lhfrjy htd@n!</to></replacement>
+<replacement><from>The spirit of Tyranthraxus flares up</from><to>Le[ Nbhfyjnhfrcf dcgs[bdftn,</to></replacement>
+<replacement><from>from the dragon's body.</from><to>dsktnfz bp ntkf lhfrjyf.</to></replacement>
+<replacement><from>FINAL#</from><to></to></replacement>
+<replacement><from>Fools, you have but slain the body</from><to>Lehfrb, ds kbim e&lt;bkb ntkj, rjnjhsv</to></replacement>
+<replacement><from>I possessed.  I cannot be defeated!"</from><to>z eghfdkzk. Vtyz ytkmpz gj&lt;tlbnm!"</to></replacement>
+<replacement><from>With the power of the pool of radiance</from><to>C vjueotcndjv cbz>otuj ghelf,</to></replacement>
+<replacement><from>which I moved here, to my lair,</from><to>rjnjhsq z gthty@c c>lf, d vj@ kjujdj,</to></replacement>
+<replacement><from>I will still rule, by possessing one</from><to>z dc@ hfdyj &lt;ele ghfdbnm,</to></replacement>
+<replacement><from>of you!</from><to>pfdkfltd jlybv bp dfc!</to></replacement>
+<replacement><from>No Lord Bane! I can still rule here!</from><to>Ytn, dkflsrf &lt;tqy!  Z dc@ to@ vjue ghfdbnm pltcm!</to></replacement>
+<replacement><from>I have not failed.</from><to>Z yt ghjbuhfk.</to></replacement>
+<replacement><from>Do not call me back</from><to>Yt dspsdfqnt vtyz j&lt;hfnyj</to></replacement>
+<replacement><from>through the pool!</from><to>xthtp 'njn ghel!</to></replacement>
+<replacement><from>Noooo...</from><to>Yt-t-t-tn...</to></replacement>
+<replacement><from>(NPC)</from><to>)</to></replacement>
+<replacement><from>Age</from><to>ktn</to></replacement>
+<replacement><from>STR</from><to>CBK</to></replacement>
+<replacement><from>INT</from><to>BYN</to></replacement>
+<replacement><from>WIS</from><to>VLH</to></replacement>
+<replacement><from>DEX</from><to>KDR</to></replacement>
+<replacement><from>CON</from><to>DSY</to></replacement>
+<replacement><from>CHA</from><to>[HP</to></replacement>
+<replacement><from>Level</from><to>Eh.</to></replacement>
+<replacement><from>Exp</from><to>Jgsn</to></replacement>
+<replacement><from>Weapon</from><to>Jhe;bt</to></replacement>
+<replacement><from>Armor</from><to>Ljcgt[</to></replacement>
+<replacement><from>Status</from><to>Cnfnec</to></replacement>
+<replacement><from>Damage</from><to>Ehjy</to></replacement>
+<replacement><from>Encumbrance</from><to>Yjif</to></replacement>
+<replacement><from>Movement</from><to>Crjhjcnm</to></replacement>
+<replacement><from>Items</from><to>I)dtob</to></replacement>
+<replacement><from>Spells</from><to>S)pfrk</to></replacement>
+<replacement><from>Trade</from><to>T)j&lt;vty</to></replacement>
+<replacement><from>Drop</from><to>Ds&lt;h</to></replacement>
+<replacement><from>Exit</from><to>E)yfpfl</to></replacement>
+<replacement><from>View:Must be unreadied</from><to>Gjrfp:ye;yj jnvtybnm ujnjdyjcnm</to></replacement>
+<replacement><from>was going to scribe from that scroll</from><to>pfgbcsdftncz bp 'njuj cdbnrf</to></replacement>
+<replacement><from>is it Okay to lose it?</from><to>ltqcndbntkmyj bp&lt;fdbnmcz jn 'njuj?</to></replacement>
+<replacement><from>Ready</from><to>R)ujn</to></replacement>
+<replacement><from>Use</from><to>U)bcg</to></replacement>
+<replacement><from>Trade</from><to>T)j&lt;v</to></replacement>
+<replacement><from>Drop</from><to>Ds&lt;h</to></replacement>
+<replacement><from>Halve</from><to>Hfpltk</to></replacement>
+<replacement><from>Join</from><to>J&lt;]</to></replacement>
+<replacement><from>Sell</from><to>S)ghjl</to></replacement>
+<replacement><from>Id</from><to></to></replacement>
+<replacement><from>Items</from><to>Dtob</to></replacement>
+<replacement><from>Ready Item</from><to>Gjlujnjdbnm dtom</to></replacement>
+<replacement><from>Must be Readied</from><to>Ye;yj ghbujnjdbnm</to></replacement>
+<replacement><from>Your</from><to>Dfi</to></replacement>
+<replacement><from>will be gone forever</from><to>ghjgfl@n yfdctulf</to></replacement>
+<replacement><from>Drop It?</from><to>Ds&lt;hjcbnm?</to></replacement>
+<replacement><from>It's Cursed</from><to>Jyj ghjrkznj</to></replacement>
+<replacement><from>Wrong Class</from><to>Ytdthysq rkfcc</to></replacement>
+<replacement><from>already using</from><to>e;t bcgjkmpetncz</to></replacement>
+<replacement><from>Your hands are full!</from><to>Dfib herb pfyzns!</to></replacement>
+<replacement><from>Trade with Whom?</from><to>Njhujdfnm c rtv?</to></replacement>
+<replacement><from>Overloaded</from><to>Gthtuhe;tyj</to></replacement>
+<replacement><from>Can't halve that</from><to>Ytkmpz hfpltkbnm 'nj</to></replacement>
+<replacement><from>uses an item</from><to>ghbvtyztn dtom</to></replacement>
+<replacement><from>Item:</from><to>Dtom:</to></replacement>
+<replacement><from>I'll give you</from><to>Z lfv dfv</to></replacement>
+<replacement><from>gold pieces for your</from><to>pjkjns[ pf dfi</to></replacement>
+<replacement><from>Is It a Deal?</from><to>Ljujdjhbkbcm?</to></replacement>
+<replacement><from>Sold!</from><to>Ghjlfyj!</to></replacement>
+<replacement><from>Overloaded.  Money will be put in pool.</from><to>Gthtuhe;tyj. Ltymub &lt;elen gjkj;tys d rjitkm.</to></replacement>
+<replacement><from>For 200 gold pieces I'll identify your</from><to>Pf 200 pjkjns[ z jgjpyf> dfi</to></replacement>
+<replacement><from>Is It a Deal?</from><to>Ljujdjhbkbcm?</to></replacement>
+<replacement><from>Not Enough Money</from><to>Yt [dfnftn ltytu</to></replacement>
+<replacement><from>I can't tell anything new about your</from><to>Yt vjue crfpfnm ybxtuj yjdjuj j dfitv</to></replacement>
+<replacement><from>It looks like some sort of</from><to>Gj[j;t yf rfrjq-nj dbl</to></replacement>
+<replacement><from>Trade to?</from><to>Rjve?</to></replacement>
+<replacement><from>Select type of coin</from><to>Ds&lt;thbnt nbg vjytn</to></replacement>
+<replacement><from>How much</from><to>Crjkmrj</to></replacement>
+<replacement><from>will you trade?</from><to>ds lflbnt?</to></replacement>
+<replacement><from>Select type of coin</from><to>Ds&lt;thbnt nbg vjytn</to></replacement>
+<replacement><from>How much</from><to>Crjkmrj</to></replacement>
+<replacement><from>will you drop?</from><to>ds ds&lt;hjcbnt?</to></replacement>
+<replacement><from>in Memory</from><to>d gfvznb</to></replacement>
+<replacement><from>in Spell Book</from><to>d rybue pfrkbyfybq</to></replacement>
+<replacement><from>on Scroll</from><to>yf cdbnjr</to></replacement>
+<replacement><from>on Scrolls</from><to>yf cdbnrb</to></replacement>
+<replacement><from>to choose from</from><to>ds&lt;bhftncz bp</to></replacement>
+<replacement><from>to be memorized</from><to>&lt;eltn dsextyj</to></replacement>
+<replacement><from>to be scribed</from><to>&lt;eltn pfgbcfyj</to></replacement>
+<replacement><from>Spells</from><to>Pfrkbyfybz</to></replacement>
+<replacement><from>Rest Time:</from><to>Dhtvz jnl:</to></replacement>
+<replacement><from>Rest   daYs Hours Mins   Inc Dec   Exit</from><to></to></replacement>
+<replacement><from>The Whole Party Is Healed</from><to>Dtcm jnhzl bcwtk@y</to></replacement>
+<replacement><from>has memorized</from><to>dsextyj</to></replacement>
+<replacement><from>has scribed</from><to>pfgbcfyj</to></replacement>
+<replacement><from>Stop Resting?  The Party is rudely interrupted!</from><to>Jrjyxbnm jnls[?  Dtxthbyrf uhe&lt;j ghthdfyf!</to></replacement>
+<replacement><from>Overloaded.  Money will be put in pool.</from><to>Gthtuhe;tyj. Ltymub &lt;elen gjkj;tys d rjitkm.</to></replacement>
+<replacement><from>‰Overloaded</from><to>gthtuhe;ty</to></replacement>
+<replacement><from>gems</from><to>cfvjwdtns</to></replacement>
+<replacement><from>gold</from><to>pjkjnj</to></replacement>
+<replacement><from>platinum</from><to>gkfnbyf</to></replacement>
+<replacement><from>electrum</from><to>'ktrnhev</to></replacement>
+<replacement><from>silver</from><to>ctht&lt;hj</to></replacement>
+<replacement><from>copper</from><to>vtlzrb</to></replacement>
+<replacement><from>jewelry</from><to>lhfujwtyyjcnb</to></replacement>
+<replacement><from>Select type of coin</from><to>Ds&lt;thbnt nbg vjytn</to></replacement>
+<replacement><from>How much</from><to>Crjkmrj</to></replacement>
+<replacement><from>will you take?</from><to>ds djpmv@nt?</to></replacement>
+<replacement><from>No gems or jewelry</from><to>Ytn cfvjwdtnjd bkb lhfujwtyyjcntq</to></replacement>
+<replacement><from>Gem</from><to>cfvjwdtn</to></replacement>
+<replacement><from>Gems</from><to>cfvjwdtns</to></replacement>
+<replacement><from>piece of jewelry</from><to>lhfujwtyyjcnm</to></replacement>
+<replacement><from>pieces of jewelry</from><to>lhfujwtyyjcnb</to></replacement>
+<replacement><from>You have a fine collection of:</from><to>E dfc [jhjifz rjkktrwbz:</to></replacement>
+<replacement><from>Gems</from><to>Cfvjwdtnjd</to></replacement>
+<replacement><from>Jewelry</from><to>Lhfujwtyyjcntq</to></replacement>
+<replacement><from>Exit</from><to>Ds[jl</to></replacement>
+<replacement><from>Appraise :</from><to>Jwtybnm :</to></replacement>
+<replacement><from>The gem is valued at</from><to>'njn cfvjwdtn jwty@y d</to></replacement>
+<replacement><from>Sell</from><to>Ghjlfnm</to></replacement>
+<replacement><from>Sell Keep</from><to></to></replacement>
+<replacement><from>You can :</from><to>Ds vj;tnt :</to></replacement>
+<replacement><from>The jewel is valued at</from><to>'nf lhfujwtyyjcnm jwtytyf d</to></replacement>
+<replacement><from>Cast</from><to>Yfkj;bnm</to></replacement>
+<replacement><from>Memorize</from><to>Pfgjvybnm</to></replacement>
+<replacement><from>Scribe</from><to>Pfgbcfnm</to></replacement>
+<replacement><from>Learn</from><to>Bpexbnm</to></replacement>
+<replacement><from>Choose Spell:</from><to>Ds&lt;thbnt pfrkbyfybt:</to></replacement>
+<replacement><from>Cast Spell on whom</from><to>Yf rjuj yfkj;bnm pfrkbyfybt</to></replacement>
+<replacement><from>is a combat-only spell...</from><to>- &lt;jtdjt pfrkbyfybt...</to></replacement>
+<replacement><from>Lose it?</from><to>Bp&lt;fdbnmcz jn 'njuj?</to></replacement>
+<replacement><from>That Item</from><to>'nf dtom</to></replacement>
+<replacement><from>is a combat-only item...</from><to>- dtom, ghbujlyfz njkmrj lkz &lt;jz...</to></replacement>
+<replacement><from>Use it?</from><to>Ghbvtybnm 'nj?</to></replacement>
+<replacement><from>casts</from><to>rjkletn</to></replacement>
+<replacement><from>Abort Spell?</from><to>Ghthdfnm pfrkbyfybt?</to></replacement>
+<replacement><from>Spell Aborted</from><to>Pfrkbyfybt ghthdfyj</to></replacement>
+<replacement><from>is Blessed</from><to> </to></replacement>
+<replacement><from>is CursedU</from><to> </to></replacement>
+<replacement><from>is affected</from><to>pfhf;@y</to></replacement>
+<replacement><from>is protected</from><to>pfobo@y</to></replacement>
+<replacement><from>is cold-resistant</from><to>vjhjpjegjhty</to></replacement>
+<replacement><from>is unaffected</from><to>ytn 'aatrnf</to></replacement>
+<replacement><from>is charmed</from><to>pfrjkljdfy</to></replacement>
+<replacement><from>is stronger</from><to>cnfk cbkmytt</to></replacement>
+<replacement><from>has been reduced</from><to>&lt;sk evtymity</to></replacement>
+<replacement><from>is friendly</from><to>lhe;tk>&lt;ty</to></replacement>
+<replacement><from>is shielded</from><to>pfrhsn obnjv</to></replacement>
+<replacement><from>falls asleep</from><to>pfcsgftn</to></replacement>
+<replacement><from>is held</from><to>elth;bdftncz</to></replacement>
+<replacement><from>is fire resistant</from><to>juytegjhty</to></replacement>
+<replacement><from>is silenced</from><to>jytvtk</to></replacement>
+<replacement><from>is affected</from><to>pfhf;@y</to></replacement>
+<replacement><from>is charmed</from><to>pfrjkljdfy</to></replacement>
+<replacement><from>is invisible</from><to>ytdblbv</to></replacement>
+<replacement><from>Knock-Knock</from><to>Ner-ner</to></replacement>
+<replacement><from>is duplicated</from><to>cle&lt;kbhjdfy</to></replacement>
+<replacement><from>is weakened</from><to>jckf&lt;kty</to></replacement>
+<replacement><from>Creates a noxious cloud</from><to>cjplf@n ub&lt;tkmyjt j&lt;kfrj</to></replacement>
+<replacement><from>is stronger</from><to>cnfk cbkmytt</to></replacement>
+<replacement><from>is animated</from><to>j;bdk@y</to></replacement>
+<replacement><from>can see</from><to>vj;tn dbltnm</to></replacement>
+<replacement><from>is diseased</from><to>pf&lt;jktk</to></replacement>
+<replacement><from>is affected</from><to>pfhf;@y</to></replacement>
+<replacement><from>is praying</from><to>vjkbncz</to></replacement>
+<replacement><from>is un-cursed</from><to>- cyznj ghjrkznbt</to></replacement>
+<replacement><from>s item is un-cursed</from><to>- c ghtlvtnf cyznj ghjrkznbt</to></replacement>
+<replacement><from>has been cursed!</from><to>&lt;sk ghjrkzn!</to></replacement>
+<replacement><from>is blinking</from><to>vthwftn</to></replacement>
+<replacement><from>is Hasted</from><to>ecrjhty</to></replacement>
+<replacement><from>is Slowed</from><to>pfvtlkty</to></replacement>
+<replacement><from>is restored</from><to>djccnfyjdkty</to></replacement>
+<replacement><from>is Speedy</from><to>cnfk &lt;scnhsv</to></replacement>
+<replacement><from>is Healed</from><to>bcwtk@y</to></replacement>
+<replacement><from>is stronger</from><to>cnfk cbkmytt</to></replacement>
+<replacement><from>is paralyzed</from><to>gfhfkbpjdfy</to></replacement>
+<replacement><from>is Healed</from><to>bcwtk@y</to></replacement>
+<replacement><from>is invisible</from><to>ytdblbv</to></replacement>
+<replacement><from>is Reading</from><to>xbnftn</to></replacement>
+<replacement><from>Breathes!</from><to>dsls[ftn!</to></replacement>
+<replacement><from>Casts a Spell</from><to>rjkletn pfrkbyfybt</to></replacement>
+<replacement><from>Spell:</from><to>Pfrkbyfybt:</to></replacement>
+<replacement><from>starts to cough</from><to>yfxbyftn rfikznm</to></replacement>
+<replacement><from>chokes and gags from nausea</from><to>lfdbncz b &lt;k>@n jn njiyjns</to></replacement>
+<replacement><from>is Cured</from><to>dsktxty</to></replacement>
+<replacement><from>takes</from><to>gjkexftn</to></replacement>
+<replacement><from>points of damage</from><to>jxrjd ehjyf</to></replacement>
+<replacement><from>takes 1 point of damage</from><to>gjkexftn 1 jxrj ehjyf</to></replacement>
+<replacement><from>from Fire</from><to>jn juyz</to></replacement>
+<replacement><from>from Cold</from><to>jn vjhjpf</to></replacement>
+<replacement><from>from Electricity</from><to>jn 'ktrnhbxtcndf</to></replacement>
+<replacement><from>from Acid</from><to>jn rbckjns</to></replacement>
+<replacement><from>from Magic</from><to>jn vfubb</to></replacement>
+<replacement><from>lost a spell</from><to>gjnthzk pfrkbyfybt</to></replacement>
+<replacement><from>Goes Down</from><to>gflftn</to></replacement>
+<replacement><from>, and is Dying</from><to>, b evbhftn</to></replacement>
+<replacement><from>is killed</from><to>e&lt;bn</to></replacement>
+<replacement><from>is Unaffected</from><to>ytn 'aatrnf</to></replacement>
+<replacement><from>stands up and grins</from><to></to></replacement>
+<replacement><from>gets back up</from><to></to></replacement>
+<replacement><from>Name</from><to>Bvz</to></replacement>
+<replacement><from>Hitpoints</from><to>Jxrb ;bpyb</to></replacement>
+<replacement><from>AC</from><to>R&lt;</to></replacement>
+<replacement><from>(Helpless)</from><to>&lt;tppfobnty)</to></replacement>
+<replacement><from>Nil Item pointer.</from><to></to></replacement>
+<replacement><from>Tried to Lose item &amp; couldn't find it!</from><to></to></replacement>
+<replacement><from>is fully healed</from><to>gjkyjcnm> dsktxty</to></replacement>
+<replacement><from>is partially healed</from><to>xfcnbxyj dsktxty</to></replacement>
+<replacement><from>Guarding</from><to>j[hfyf</to></replacement>
+<replacement><from>camping</from><to>kfuthm</to></replacement>
+<replacement><from>search</from><to>gjbcr</to></replacement>
+<replacement><from>Exit</from><to>E)yfpfl</to></replacement>
+<replacement><from>Select</from><to>S)ds&lt;jh</to></replacement>
+<replacement><from>Next</from><to>N)cktl</to></replacement>
+<replacement><from>Prev</from><to>P)ghtl</to></replacement>
+<replacement><from>Exit</from><to>Eyfpfl</to></replacement>
+<replacement><from>Illegal range in Show3DSprite.</from><to>Ytljgecnbvsq hzl d </to></replacement>
+<replacement><from>Unable to load wallset in LoadWallSet.</from><to>Ytkmpz pfuhepbnm  d </to></replacement>
+<replacement><from>Unable to load geo in Load3DMap.</from><to>Ytkmpz pfuhepbnm  d </to></replacement>
+<replacement><from>Start range error in Load24x24Set</from><to>Jib&lt;rf yfxfkf hzlf d </to></replacement>
+<replacement><from>Unable to load 8x8D</from><to>Ytkmpz pfuhepbnm </to></replacement>
+<replacement><from>Bad symbol number in Put8x8Symbol.</from><to>Ytdthysq yjvth cbvdjkf d </to></replacement>
+<replacement><from>Press any key to continue</from><to>Lkz ghjljk;tybz yf;vbnt k>&lt;e> rkfdbie</to></replacement>
+<replacement><from>is not cursed.</from><to>yt ghjrkzn</to></replacement>
 </replacements>
