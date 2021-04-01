@@ -15,11 +15,6 @@ namespace BinaryStringReplacement
         {
             Dictionary<char, char> characterMap = loadMapping();
 
-            //foreach (byte b in writeEGABlock(new Bitmap(@"c:\Users\Shadow\Desktop\Title2.png"))) { System.Console.Write(b.ToString("X").PadLeft(2, '0')); }
-            //System.Console.WriteLine();
-            //System.Console.ReadLine();
-            //return;
-
             string binFile = null;
             string transFile = null;
             if (args.Length <= 1)
@@ -52,12 +47,12 @@ namespace BinaryStringReplacement
             fs.Read(data, 0, data.Length);
             fs.Close();
 
-            Console.WriteLine("Loaded binary file.");
+            log("Loaded binary file.");
 
             string[] replacements = File.ReadAllLines(transFile);
-            Console.WriteLine("Loaded text file.");
+            log("Loaded text file.");
 
-            Console.WriteLine("Beginning replacements.");
+            log("Beginning replacements.");
             foreach (String replacement in replacements)
             {
                 if (!replacement.StartsWith("//")) {
@@ -90,27 +85,27 @@ namespace BinaryStringReplacement
 
                             if (result)
                             {
-                                Console.WriteLine("Replaced \"" + from + "\" with \"" + to + "\".  id: " + id);
+                                //log("Replaced \"" + from + "\" with \"" + to + "\".  id: " + id);
                             }
                             else
                             {
-                                Console.WriteLine("\"" + from + "\" not found in binary.  Skipping id " + id);
+                                log("\"" + from + "\" not found in binary.  Skipping id " + id);
                             }
                         }
                         else
                         {
-                            Console.WriteLine("Skipping entry with empty from/to value.  id: " + id);
+                            log("Skipping entry with empty from/to value.  id: " + id);
                         }
                     }
                 }
             }
-            Console.WriteLine("Writing file.");
+            log("Writing file.");
 
             fs = new FileStream(binFile, FileMode.Open, FileAccess.Write);
             fs.Write(data, 0, data.Length);
             fs.Close();
 
-            Console.WriteLine("Complete.  Press Enter to close.");
+            log("Complete.  Press Enter to close.");
             Console.Read();
         }
 
@@ -126,9 +121,16 @@ namespace BinaryStringReplacement
                     if (preceedingByte > 64 && preceedingByte < 122) {
                         // This match is no good if it has a letter (ish) right before it.  String should have their length right before it so this may be a string that is inside another string
                         // Yes it is possible for a string to have a length that is between 64 & 122, but I'm not concerned about that because then it just won't get swapped
-                        goodMatch = false;
-                        // Advance the pointer and search again
-                        foundIdx++;
+
+                        // UNLESS!!! the character before the string matches EXACTLY with the length.  Then, even if it is a 20-something character string, that probably is the actual length
+                        if (preceedingByte == replaceThisStr.Length)
+                        {
+                            goodMatch = true;
+                        } else {
+                            goodMatch = false;
+                            // Advance the pointer and search again
+                            foundIdx++;
+                        }
                     } else {
                         goodMatch = true;
                     }
@@ -163,7 +165,7 @@ namespace BinaryStringReplacement
 
             if (replacementStr.Length > availableLength)
             {
-                Console.WriteLine("Warning: truncating because replacement string \"" + System.Text.Encoding.ASCII.GetString(replacementStr) + "\" is too long.  " + availableLength + " characters are available to replace \"" + System.Text.Encoding.ASCII.GetString(replaceThisStr) + "\". id: " + id);
+                log("Warning: truncating because replacement string \"" + System.Text.Encoding.ASCII.GetString(replacementStr) + "\" is too long.  " + availableLength + " characters are available to replace \"" + System.Text.Encoding.ASCII.GetString(replaceThisStr) + "\". id: " + id);
                 byte[] tmp = new byte[availableLength];
                 Array.Copy(replacementStr, tmp, tmp.Length);
                 replacementStr = tmp;
@@ -196,7 +198,7 @@ namespace BinaryStringReplacement
 
         static void printUsage()
         {
-            Console.WriteLine("Usage: BinaryStringReplacement.exe [-E (for ECL/compression mode)] stringlist.txt filetomod.exe");
+            log("Usage: BinaryStringReplacement.exe [-E (for ECL/compression mode)] stringlist.txt filetomod.exe");
         }
 
         static int IndexOf(byte[] src, byte[] pattern, int startIdx)
@@ -437,7 +439,7 @@ namespace BinaryStringReplacement
             {
                 if (!map.ContainsKey(c))
                 {
-                    Console.WriteLine("Warning:  Replacement string with unmappable character found.  id: " + id + ".  ASCII code is " + (int)c + ".  Skipping this replacement.");
+                    log("Warning:  Replacement string with unmappable character found.  id: " + id + ".  ASCII code is " + (int)c + ".  Skipping this replacement.");
                     return null;
                 }
                 newStr.Append(map[c]);
@@ -547,6 +549,7 @@ namespace BinaryStringReplacement
             map.Add('=', '=');
             map.Add('#', '#');
             map.Add('<', '<');
+            map.Add('>', '>');
             // add all Latin ASCII letters - even though there kinda shouldn't be any
             for (int idx = 65; idx <= 90; idx++)
             {
@@ -559,6 +562,11 @@ namespace BinaryStringReplacement
             return map;
         }
 
+        private static void log(string message)
+        {
+            System.Diagnostics.Debug.WriteLine(message);
+        }
     }
+
 }
 
