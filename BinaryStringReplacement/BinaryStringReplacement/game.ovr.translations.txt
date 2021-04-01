@@ -1,5 +1,7 @@
 ﻿1|Time to save your game.  [return]|Пора сохранить вашу игру.  [enter]
-2|scenario created by: tsr, inc.|сюжет создан ти-эс-ар инк.
+//2|scenario created by: tsr, inc.|сюжет создан ти-эс-ар инк.
+2|scenario created by:|сюжет создан:
+1002|tsr, inc|ти-эс-ар инк
 3|jim ward|дж. уорд
 4|david cook,steve winter,mike breault|дэвид кук,стив винтер,майк брюлт
 5|game created by:|игра сделана
@@ -34,8 +36,10 @@
 34|READ FROM THE INSIDE TO THE OUTSIDE.| 
 35|INPUT THE CODE WORD:|НАЖМИТЕ КЛАВИШУ ВВОД
 36|Sorry, that's incorrect.|Это неверно.
-37|PRESS  OR BUTTON TO CONTINUE|НАЖМИТЕ  ИЛИ КНОПКУ ДЛЯ ПРОДОЛЖЕНИЯ
-38|PRESS / TO CONTINUE|НАЖМИТЕ / ДЛЯ ПРОДОЛЖЕНИЯ
+//37|PRESS  OR BUTTON TO CONTINUE|НАЖМИТЕ  ИЛИ КНОПКУ ДЛЯ ПРОДОЛЖЕНИЯ
+37|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <RETURN> ИЛИ КНОПКУ ДЛЯ ПРОДОЛЖЕНИЯ
+//38|PRESS / TO CONTINUE|НАЖМИТЕ / ДЛЯ ПРОДОЛЖЕНИЯ
+38|PRESS <ENTER>/<RETURN> TO CONTINUE|НАЖМИТЕ <ENTER>/<RETURN> ДЛЯ ПРОДОЛЖЕНИЯ
 //39|~COMBAT|БОЙ
 //40|~WAIT|ЖДАТЬ
 //41|~FLEE|БЕГ
@@ -55,17 +59,21 @@
 //53|~ABUSIVE|ОСКОРБ.
 49|~HAUGHTY ~SLY ~NICE ~MEEK ~ABUSIVE|~НАДМЕННО ~ХИТР ~КРОТК ~ОСКОРБ
 //54|dies.|умирает.
-54| dies.|умирает.
+54| dies.| умирает.
 //55|is hit for|бьёт и причиняет
-55| is hit FOR|бьёт и причиняет
+55| is hit FOR| бьёт и причиняет
 //56|points of damage.|очков урона.
-56|points of Damage.|очков урона.
-57|press / to continue|нажмите / для продолжения
+56| points of Damage.| очков урона.
+//57|press / to continue|нажмите / для продолжения
+57|press <enter>/<return> to continue|нажмите <enter>/<return> для продолжения
 58|The END!|КОНЕЦ!
 59|The entire party is killed!|Весь отряд убит!
-60|press / to continue|нажмите / для продолжения
-61|will only cost|стоит всего
-62|gold pieces.|золотых монет.
+//60|press / to continue|нажмите / для продолжения
+60|press <enter>/<return> to continue|нажмите / для продолжения
+//61|will only cost|стоит всего
+61| will only cost| стоит всего
+//62|gold pieces.|золотых монет.
+62| gold pieces.| золотых монет.
 63|pay for cure|оплатить
 64|Not enough money.|Не хватает денег.
 65|is cured.|вылечен
@@ -84,35 +92,40 @@
 78|Heal Exit|Р)ис У)н.
 79|Heal View Take Pool Share Appraise Exit|Р)исц М)гер Е)вз З)пул Ы)дел Ф)оц У)наз
 80|Heal View Pool Appraise Exit|Р)исц М)гер З)пул Ф)оц У)наз
-81|~Yes|Н)да
-82|~No|Т)нет
+//81|~Yes|Н)да
+//82|~No|Т)нет
+81|~Yes ~No|~да ~нет
 83|As you leave a priest says, "Excuse me but you have left some money here"|Когда вы уходите, жрец говорит: "Вы оставили здесь немного монет"
 84|Do you want to go back and retrieve your money?|Хотите ли вы вернуться и забрать свои деньги?
 85|You have lost the duel.|Вы проиграли поединок.
 86|You have won the duel.|Вы выиграли поединок.
 87|The party has won.|Отряд победил.
 88|The party has fled.|Отряд сбежал.
-89|The party has found treasure!|Отряд нашёл сокровище!
+//89|The party has found treasure!|Отряд нашёл сокровище!
+89|The party has found Treasure!|Отряд нашёл сокровище!
 90|The duelist receives|Дуэлянт получает
 91|Each character receives|Каждый герой получает
 92|experience points.|очков опыта.
-93|press / to continue|нажмите / для продолжения
-94|‰Loot|‰Добыча
+//93|press / to continue|нажмите / для продолжения
+93|press <enter>/<return> to continue|нажмите <enter>/<return> для продолжения
+94|Loot|Добыча
 95|Items:|Вещи:
 96|Take|Е)вз
 97|Take:|Взять
 98|Money Items Exit|Ь)ден Ш)вещ У)н.
 99|View Pool Exit|М)г З)пул У)н.
 100|Exit|У)н.
-101|Detect Exit|В)обнаружить У)назад
+101| Detect Exit|В)обнаружить У)назад
 102|View Take Pool Share|М)ге Е)вз З)пул Ы)ра
 103|View Take Pool|М)г Е)вз З)пул
-104|~Yes|~Да
-105|~No|~Нет
+//104|~Yes|~Да
+//105|~No|~Нет
+104|~Yes ~No|~Да ~Нет
 106|There is still treasure left.|Тут всё ещё осталась добыча.
 107|Do you want to go back and claim your treasure?|Хотите ли вы вернуться и забрать свою добычу?
-108|takes and hides his share.|берёт и прячет свою долю.
-109|press / to continue|нажмите / для продолжения
+108| takes and hides his share.|берёт и прячет свою долю.
+//109|press / to continue|нажмите / для продолжения
+109|press <enter>/<return> to continue|нажмите <enter>/<return> для продолжения
 110|The END!|КОНЕЦ!
 111|The monsters rejoice for the party has been destroyed|Монстры ликуют, ведь отряд уничтожен
 112|Press any key to continue|Нажмите любую клавишу
@@ -120,13 +133,16 @@
 114|Items:|Вещи:
 115|Buy|И)к
 116|OverLoaded|Перегружен
-117|Not enough money|Не хватает денег
+//117|Not enough money|Не хватает денег
+117|Not enough Money|Не хватает денег
 118|Buy View Take Pool Share Appraise Exit|И)куп М)гер Е)вз З)пул Ы)раз Ф)оц У)н.
 119|Buy View Pool Appraise Exit|И)куп М)гер З)пул Ф)оц У)н.
-120|~Yes|Н)да
-121|~No|Т)нет
-122|As you leave the shopkeeper says, "Excuse me but you have left some money here."|Когда вы уходите, лавочник говорит: "Извините, но вы оставили здесь немного монет".
-123|Do you want to go back and get your money?|Вы хотите вернуться и забрать деньги?
+//120|~Yes|Н)да
+//121|~No|Т)нет
+120|~Yes ~No|~да ~нет
+//122|As you leave the shopkeeper says, "Excuse me but you have left some money here."|Когда вы уходите, лавочник говорит: "Извините, но вы оставили здесь немного монет".
+//123|Do you want to go back and get your money?|Вы хотите вернуться и забрать деньги?
+122|RAs you leave the shopkeeper says, "Excuse me but you have left some money here." *Do you want to go back and get your money?|RКогда вы уходите, лавочник говорит: "Извините, но вы оставили здесь немного монет". *Вы хотите вернуться и забрать деньги?
 124|Loading...Please Wait|Загрузка... Ожидайте
 125|Magic On|Маг. вкл
 126|Magic Off|Маг. выкл
@@ -180,7 +196,8 @@
 174|is Stoned|окаменел
 175|Gazes|зрит
 176|is charmed|заколдован
-177|levels|уровней
+//177|levels|уровней
+177| levels|уровней
 178|a level|уровень
 179|is drained|вытянуто
 180|is dead forever|умер навсегда
@@ -191,14 +208,17 @@
 185|Spits Acid|плюёт кисл
 186|is stronger|сильнее
 187|Must have Giant Strength|нужно иметь силу гиганта
-188|Backstabs|закалывает в спину
+//188|Backstabs|закалывает в спину
+188|-Backstabs-|закалывает в спину
 189|slays helpless|убивает слаб.
 190|Attacks|атакует
 191|(from behind)|(сзади)
 192|with one cruel blow|одним мощным ударом
 193|Hitting for|Удар в
-194|point|очко
-195|points|очков
+//194|point|очко
+194| point| очко
+//195|points|очков
+195| points| очков
 196|of damage|урона
 197|and Misses|и промах
 198|lost a spell|потерял закл
@@ -231,8 +251,10 @@
 225|Not Here|не здесь
 226|Bash|И)би
 227|Pick|З)от
-228|Knock|Л)стк
-229|Exit|У)на
+//228|Knock|Л)стк
+228| Knock| Л)стк
+//229|Exit|У)на
+229| Exit| У)на
 230|Locked.|Заперто
 231|cannot cast spells in this area|нельзя колдовать в этом месте
 232|is in no condition to|не в состоянии
@@ -241,7 +263,8 @@
 235|scribe any scrolls|запис. в свитки
 236|has no spells memorized|не помнит заклинаний
 237|can memorize:|может запомн:
-238|Cleric Spells:|Заклинания жреца:
+//238|Cleric Spells:|Заклинания жреца:
+238|    Cleric Spells:| Заклинания жреца:
 239|Magic-User Spells:|Заклинания мага:
 240|Memorize These Spells?|Запомнить это?
 241|cannot memorize any spells|не может запомнить
@@ -249,7 +272,8 @@
 243|Scribe These Spells?|Записать?
 244|has no copyable scrolls|нет копируемых свитков
 245|You already know that spell|Вы уже знаете это
-246|You are already scibing that spell|Вы уже записываете это заклинание
+//246|You are already scibing that spell|Вы уже записываете это заклинание
+246|You are already scibing that spell|Вы уже записываете это заклинание
 247|You can not scribe that spell.|Вы не можете записать это.
 248|Scribe these spells?|Записать это?
 249|Funky-- Studying Manual of Bodily Health|Отлично-- Изучение справочника по телесному здоровью
@@ -267,7 +291,9 @@
 261|Camouflaged|Маскировка
 262|Displaced|Перемещён
 263||<Нет эффектов от заклинаний>
-264|DisplayParty Order:|ОсмОтряд Ряд:
+//264|DisplayParty Order:|ОсмОтряд Ряд:
+264|Party Order:|ОсмОтряд Ряд:
+//1003|Display|
 265|has been selected|был выбран
 266|quit TO DOS:|выйти в ДОС:
 267|will be gone|пропадёт
@@ -276,17 +302,22 @@
 270|is dumped in a ditch|брошен в канаву
 271|Breathes A sigh of relief|облегчённо вздыхает
 272|Game Speed =|Скор. игры =
-273|(0=fastest 9=slowest)|(0=высшая 9=низшая)
-274|Faster|Быстрее
-275|Slower|Медленнее
-276|Exit|У)выход
+//273|(0=fastest 9=slowest)|(0=высшая 9=низшая)
+273| (0=fastest 9=slowest)| (0=высшая 9=низшая)
+//274|Faster|Быстрее
+274| Faster| Быстрее
+//275|Slower|Медленнее
+275| Slower| Медленнее
+//276|Exit|У)выход
+276| Exit| У)выход
 277|Game Speed:|Скор. игры:
 278|Alter:|Измен:
 279|Monsters on|Монстры вкл
 280|Monsters off|Монстры выкл
 281|Portraits on|Портреты вкл
 282|Portraits off|Портреты выкл
-283|ExitThe party makes camp...|У)выхОтряд ставит лагерь...
+//283|ExitThe party makes camp...|У)выхОтряд ставит лагерь...
+283|The party makes camp...|выхОтряд ставит лагерь...
 284|Camp:|Лаг:
 285|Quit TO DOS|ДОС?
 286|Choose a function|Выберите действие
@@ -300,21 +331,29 @@
 294|Keep this character?|Оставить героя?
 295|Character name:|Имя героя:
 296|Drop|Уд.
-297|forever?|навечно?
-298|Are you sure?|Вы уверены?
+//297|forever?|навечно?
+297| forever?| навечно?
+//298|Are you sure?|Вы уверены?
+298|Are you sure? |Вы уверены? 
 299|You dump|бросаете
-300|out back.|позади.
-301|bids you farewell.|прощается с вами.
-302|breathes a sigh of relief.|облегчённо вздыхает.
-303|can't be modified.|нельзя модифицировать.
+//300|out back.|позади.
+300| out back.| позади.
+//301|bids you farewell.|прощается с вами.
+301| bids you farewell.| прощается с вами.
+//302|breathes a sigh of relief.|облегчённо вздыхает.
+302| breathes a sigh of relief.| облегчённо вздыхает.
+//303|can't be modified.|нельзя модифицировать.
+303| can't be modified.| нельзя модифицировать.
 304|Modify character:|Модиф. героя:
 305|Keep Exit|Л)ос У)н.
 306|we only train conscious people|герой должен быть в сознании
 307|Training costs 1000 gp.|Стоимость 1000 зм.
 308|We don't train that class here|Не тренируем этот класс здесь
 309|Not Enough Experience|Не хватает опыта
-310|will become:|станет:
-311|a level|уровень
+//310|will become:|станет:
+310| will become:| станет:
+//311|a level|уровень
+311|    a level|    уровень
 312|and a level|и уровень
 313|Do you wish to train?|Хотите потренировать?
 314|Congratulations...|Поздравляем...
@@ -339,7 +378,8 @@
 333|Loading...Please Wait|Загрузка... Ожидайте
 334|Save Which Game:|Какую игру:
 335|A B C D E F G H I J|А Б В Г Д Е Ж З И К
-336|Put save disk in :|Вставьте дискету сохр. в :
+//336|Put save disk in :|Вставьте дискету сохр. в :
+336|Put save disk in |Вставьте дискету сохр. в 
 337|Saving...Please Wait|Сохранение... Ждите
 338|Save and exit  Insert disk #|Сохр. и выйти  Встав. диск. #
 339|Mortally wounded, the dragon roars!|Смертельно раненый дракон ревёт!
@@ -352,10 +392,13 @@
 346|which I moved here, to my lair,|который я перенёс в моё логово,
 347|I will still rule, by possessing one|я всё же буду править, владея одним
 348|of you!|из вас!
-349|No Lord Bane! I can still rule here!|Нет, владыка Бейн!  Я всё ещё могу править здесь!
-350|I have not failed.|Я не проиграл.
-351|Do not call me back|Не вызывайте меня обратно
-352|through the pool!|через этот пруд!
+//349|No Lord Bane! I can still rule here!|Нет, владыка Бейн!  Я всё ещё могу править здесь!
+349|"No Lord Bane!  I can still rule here!|"Нет, владыка Бейн!  Я всё ещё могу править здесь!
+//350|I have not failed.|Я не проиграл.
+//351|Do not call me back|Не вызывайте меня обратно
+350|I have not failed.  Do not call me back|Я не проиграл.  Не вызывайте меня обратно
+//352|through the pool!|через этот пруд!
+352|through the pool!"|через этот пруд!""
 353|Noooo...|Нееет...
 354|(NPC)|(NPC)
 355|Age|лет
@@ -370,31 +413,39 @@
 364|Weapon|Оружие
 365|Armor|Броня
 366|Status|Статус
-367|Damage|Урон
-368|Encumbrance|Ноша
+//367|Damage|Урон
+367|Damage        |Урон        
+//368|Encumbrance|Ноша
+368|Encumbrance      |Ноша      
 369|Movement|Скорость
 370|Items|Ш)вещ
 371|Spells|Ы)закл
 372|Trade|Е)обм
 373|Drop|Выбр
 374|Exit|У)назад
-375|View:Must be unreadied|Показ:нужно отменить готовность
+//375|View:Must be unreadied|Показ:нужно отменить готовность
+375|View:|Показ:
+1004|Must be unreadied|нужно отменить готовность
 376|was going to scribe from that scroll|записывается из этого свитка
 377|is it Okay to lose it?|действительно удалить?
 378|Ready|К)гот
 379|Use|Г)и
 380|Trade|Е)обм
 381|Drop|Выбр
-382|Halve|Разд.
-383|Join|Объ
+//382|Halve|Разд.
+382| Halve| Разд.
+//383|Join|Объ
+383| Join| Объ
 384|Sell|Ы)пр
-385|Id|ID
+//385|Id|ID
+385| Id| ID
 386|Items|Вещи
 387|Ready Item|Подготов.
 388|Must be Readied|Нужно подготов.
 389|Your|Ваш
 390|will be gone forever|пропадёт навсегда
-391|Drop It?|Выбросить?
+//391|Drop It?|Выбросить?
+391|Drop It? |Выбросить? 
 392|It's Cursed|проклято
 393|Wrong Class|Непр. класс
 394|already using|уже использ.
@@ -405,7 +456,8 @@
 399|uses an item|прим. вещь
 400|Item:|Вещь:
 401|I'll give you|Я дам вам
-402|gold pieces for your|золотых за ваш
+//402|gold pieces for your|золотых за ваш
+402| gold pieces for your | золотых за ваш 
 403|Is It a Deal?|Договорились?
 404|Sold!|Прод!
 405|Overloaded.  Money will be put in pool.|Перегруз. Деньги помещены в общий пул.
@@ -434,34 +486,51 @@
 428|The Whole Party Is Healed|Весь отряд исцелён
 429|has memorized|выучено
 430|has scribed|записано
-431|Stop Resting?  The Party is rudely interrupted!|Окончить отдых?  Вечеринка грубо прервана!
+//431|Stop Resting?  The Party is rudely interrupted!|Окончить отдых?  Вечеринка грубо прервана!
+431|Stop Resting? |Окончить отдых? 
+1005|The Party is rudely interrupted!|Вечеринка грубо прервана!
 432|Overloaded.  Money will be put in pool.|Перегружено. Деньги будут положены в кошель.
-433|‰Overloaded|‰перегружен
-434|gems|самоцветы
+//433|‰Overloaded|‰перегружен
+433|Overloaded|перегружен
+//434|gems|самоцветы
+434|Gems|самоцветы
+//435|Gold|золото
 435|gold|золото
+//436|Platinum|платина
 436|platinum|платина
 437|electrum|электрум
 438|silver|сереб.
-439|copper|медяки
+//439|copper|медяки
+439|Copper|медяки
 440|jewelry|драгоценности
 441|Select type of coin|Выберите тип монет
 442|How much|Сколько
 443|will you take?|вы возьмёте?
-444|No gems or jewelry|Нет самоцветов или драгоценностей
-445|Gem|смц
-446|Gems|самоцветы
-447|piece of jewelry|драгоценность
-448|pieces of jewelry|драгоценности
+//444|No gems or jewelry|Нет самоцветов или драгоценностей
+444|No Gems or Jewelry|Нет самоцветов или драгоценностей
+//445|Gem|смц
+445| Gem| смц
+//446|Gems|самоцветы
+446| Gems| самоцветы
+//447|piece of jewelry|драгоценность
+447| piece of jewelry| драгоценность
+//448|pieces of jewelry|драгоценности
+448| pieces of jewelry| драгоценности
 449|You have a fine collection of:|У вас хорошая коллекция:
-450|Gems|Самоцветов
-451|Jewelry|Драг.
-452|Exit|Выход
+//450|Gems|Самоцветов
+450|  Gems|  Самоцветов
+//451|Jewelry|Драг.
+451|  Jewelry|  Драг.
+//452|Exit|Выход
+452| Exit| Выход
 453|Appraise :|Оценить :
-454|The gem is valued at|Этот самоцвет оценён в
+//454|The gem is valued at|Этот самоцвет оценён в
+454|The Gem is Valued at |Этот самоцвет оценён в 
 455|Sell|Прод
 456|Sell Keep|
 457|You can :|можете :
-458|The jewel is valued at|Эта драгоценность оценена в
+//458|The jewel is valued at|Эта драгоценность оценена в
+458|The Jewel is Valued at |Эта драгоценность оценена в 
 459|Cast|С)зк
 460|Memorize|Ь)Запомн
 461|Scribe|Ы)Запи
@@ -525,7 +594,8 @@
 519|chokes and gags from nausea|давится и блюёт от тошноты
 520|is Cured|вылечен
 521|takes|берёт
-522|points of damage|очков урона
+//522|points of damage|очков урона
+522| points of damage | очков урона 
 523|takes 1 point of damage|получает 1 очко урона
 524|from Fire|от огня
 525|from Cold|от мороза
@@ -552,9 +622,12 @@
 546|search|поиск
 547|Exit|У)назад
 548|Select|Ы)выбор
-549|Next|Т)след
-550|Prev|З)пред
-551|Exit|У)назад
+//549|Next|Т)след
+549| Next| Т)след
+//550|Prev|З)пред
+550| Prev| З)пред
+//551|Exit|У)назад
+551| Exit| У)назад
 552|Illegal range in Show3DSprite.|Недопустимый диапазон.
 553|Unable to load wallset in LoadWallSet.|Нельзя загрузить.
 554|Unable to load geo in Load3DMap.|Нельзя загрузить.
