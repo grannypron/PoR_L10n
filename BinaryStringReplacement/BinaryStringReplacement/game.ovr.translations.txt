@@ -29,11 +29,11 @@
 27|joel billings,steve salyer|джоэл биллингс,стив сальер
 28|james kucera,robert daly,rick white|джеймс кучера,роберт дэли,рик уайт
 29|USE THE TRANSLATION WHEEL TO DECIPHER|ЗАЩИТА ОТ КОПИРОВАНИЯ СНЯТА
-30|THE CODE WORD.| 
-31|MATCH THE ESPRUAR RUNE (OUTER RING)| 
-32|WITH THE DETHEK RUNE (INNER RING)| 
-33|AND READ THE CODE WORD UNDER THE PATH:| 
-34|READ FROM THE INSIDE TO THE OUTSIDE.| 
+30|THE CODE WORD.|-
+31|MATCH THE ESPRUAR RUNE (OUTER RING)|-
+32|WITH THE DETHEK RUNE (INNER RING)|-
+33|AND READ THE CODE WORD UNDER THE PATH:|-
+34|READ FROM THE INSIDE TO THE OUTSIDE.|-
 35|INPUT THE CODE WORD:|НАЖМИТЕ КЛАВИШУ ВВОД
 36|Sorry, that's incorrect.|Это неверно.
 //37|PRESS  OR BUTTON TO CONTINUE|НАЖМИТЕ  ИЛИ КНОПКУ ДЛЯ ПРОДОЛЖЕНИЯ
@@ -141,8 +141,9 @@
 //121|~No|Т)нет
 120|~Yes ~No|~да ~нет
 //122|As you leave the shopkeeper says, "Excuse me but you have left some money here."|Когда вы уходите, лавочник говорит: "Извините, но вы оставили здесь немного монет".
+122|As you Leave the Shopkeeper says, "Excuse me but you have Left Some Money here."  |Когда вы уходите, лавочник говорит: "Извините, но вы оставили здесь немного монет".  
 //123|Do you want to go back and get your money?|Вы хотите вернуться и забрать деньги?
-122|RAs you leave the shopkeeper says, "Excuse me but you have left some money here." *Do you want to go back and get your money?|RКогда вы уходите, лавочник говорит: "Извините, но вы оставили здесь немного монет". *Вы хотите вернуться и забрать деньги?
+123|Do you want to go back and get your Money?|Вы хотите вернуться и забрать деньги?
 124|Loading...Please Wait|Загрузка... Ожидайте
 125|Magic On|Маг. вкл
 126|Magic Off|Маг. выкл
@@ -158,7 +159,7 @@
 //132|Turn|Е)не
 132|Turn |Е)не 
 //133|Quick Done|Й)авт В)гот - Had to shorten this by one character because using the null space after this string ends up completely screwing the combat menu for reasons that I don't understand
-133|Quick Done|Й)авт В)го
+133|Quick Done|Й)ав В)гот
 134|Your Teammate is Dying|Ваш товарищ умирает
 135|Continue Battle:|Продолжить бой:
 136|Move/Attack, Move Left =|Двиг./Атака, Влево =
@@ -256,7 +257,7 @@
 224|The river's stench drives you back.|Зловоние этой реки отгоняет вас обратно.
 225|Not Here|не здесь
 226|Bash|И)би
-227|Pick|З)от
+//227|Pick|З)от  - Had to move under 290 "Pick Race"
 //228|Knock|Л)стк
 228| Knock| Л)стк
 //229|Exit|У)на
@@ -282,7 +283,9 @@
 246|You are already scibing that spell|Вы уже записываете это заклинание
 247|You can not scribe that spell.|Вы не можете записать это.
 248|Scribe these spells?|Записать это?
-249|Funky-- Studying Manual of Bodily Health|Отлично-- Изучение справочника по телесному здоровью
+//249|Funky-- Studying Manual of Bodily Health|Отлично-- Изучение справочника по телесному здоровью
+249|Funky|Отлично
+1006|Studying Manual of Bodily Health|Изучение справочника по телесному здоровью
 250|Training with Manual of Bodily Health|Обуч. со справочн. по телесн. здоров.
 251|Feather Fall|Паден. пером
 252|Helpless|Беспом.
@@ -296,10 +299,11 @@
 260|Invisible|Невидимый
 261|Camouflaged|Маскировка
 262|Displaced|Перемещён
-263||<Нет эффектов от заклинаний>
+//263|<No Spell Effects>|<Нет эффектов от заклинаний>
+263| <No Spell Effects>| <Нет эффектов от заклинаний>
 //264|DisplayParty Order:|ОсмОтряд Ряд:
 264|Party Order:|ОсмОтряд Ряд:
-//1003|Display|
+1003|Display|"-JEANS:Stillneedtranslationforthis-"
 265|has been selected|был выбран
 266|quit TO DOS:|выйти в ДОС:
 267|will be gone|пропадёт
@@ -496,15 +500,15 @@
 //431|Stop Resting?  The Party is rudely interrupted!|Окончить отдых?  Вечеринка грубо прервана!
 431|Stop Resting? |Окончить отдых? 
 1005|The Party is rudely interrupted!|Вечеринка грубо прервана!
-432|Overloaded.  Money will be put in pool.|Перегружено. Деньги будут положены в кошель.
+432|Overloaded.  Money will be put in Pool.|Перегружено. Деньги будут положены в кошель.
 //433|‰Overloaded|‰перегружен
 433|Overloaded|перегружен
 //434|gems|самоцветы
 434|Gems|самоцветы
-//435|Gold|золото
-435|gold|золото
-//436|Platinum|платина
-436|platinum|платина
+//435|gold|золото
+435|Gold|золото
+//436|platinum|платина
+436|Platinum|платина
 437|electrum|электрум
 438|silver|сереб.
 //439|copper|медяки
@@ -520,9 +524,9 @@
 //446|Gems|самоцветы
 446| Gems| самоцветы
 //447|piece of jewelry|драгоценность
-447| piece of jewelry| драгоценность
+447| piece of Jewelry| драгоценность
 //448|pieces of jewelry|драгоценности
-448| pieces of jewelry| драгоценности
+448| pieces of Jewelry| драгоценности
 449|You have a fine collection of:|У вас хорошая коллекция:
 //450|Gems|Самоцветов
 450|  Gems|  Самоцветов
@@ -643,3 +647,5 @@
 557|Bad symbol number in Put8x8Symbol.|Неверный номер символа.
 558|Press any key to continue|Для продолжения нажмите любую клавишу
 559|is not cursed.|не проклят.
+// Had to move 227 under 290 "Pick Race"
+227|Pick|З)от
