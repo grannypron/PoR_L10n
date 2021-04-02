@@ -407,7 +407,8 @@
 358|WIS|МДР
 359|DEX|ЛВК
 360|CON|ВЫН
-361|CHA|ХРЗ
+//361|CHA|ХРЗ  - important to have a space here because CHA is used in several places
+361|CHA |ХРЗ 
 362|Level|Ур.
 363|Exp|Оп.
 364|Weapon|Оружие
