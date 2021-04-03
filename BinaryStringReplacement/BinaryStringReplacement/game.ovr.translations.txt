@@ -48,8 +48,8 @@
 //44|~WAIT|ЖДАТЬ
 //45|~FLEE|БЕГ
 //46|~ADVANCE|ПРОДВ.
-39|~COMBAT ~WAIT ~FLEE ~PARLAY|~БОЙ ~ЖДАТЬ ~БЕГ ~ПАРИ
-43|~COMBAT ~WAIT ~FLEE ~ADVANCE|~БОЙ ~ЖДАТЬ ~БЕГ ~ПРОДВ
+39|~COMBAT ~WAIT ~FLEE ~PARLAY|~СРАЖ. ~ВЫЖД ~УБЕЖ ~РАЗГОВ
+43|~COMBAT ~WAIT ~FLEE ~ADVANCE|~СРАЖ. ~ВЫЖД ~УБЕЖ ~ПРОДВ
 47|Both sides wait.|Обе стороны ждут
 48|The monsters flee.|Монстры убегают.
 //49|~HAUGHTY|НАДМЕННО
@@ -57,7 +57,7 @@
 //51|~NICE|МИЛО
 //52|~MEEK|КРОТК
 //53|~ABUSIVE|ОСКОРБ.
-49|~HAUGHTY ~SLY ~NICE ~MEEK ~ABUSIVE|~НАДМЕННО ~ХИТР ~КРОТК ~ОСКОРБ
+49|~HAUGHTY ~SLY ~NICE ~MEEK ~ABUSIVE|~НАДМЕНН ~ЛУК ~МИЛО ~СМИР ~ОСКОРБЛ
 //54|dies.|умирает.
 54| dies.| умер.
 //55|is hit for|бьёт и причиняет
