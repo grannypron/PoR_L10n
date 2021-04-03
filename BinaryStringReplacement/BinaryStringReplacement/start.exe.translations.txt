@@ -17,7 +17,7 @@
 16|Raise Dead|Оживление
 17|Remove Curse|Снять прокл.
 18|Stone to Flesh|Камень в плоть
-19|Exit|У)наз
+19|Exit|Уйти
 20|KOBOLD|КОБОЛЬД
 21|KOBOLD LEADER|ВОЖАК КОБОЛЬДОВ
 22|GOBLIN|ГОБЛИН
@@ -37,12 +37,12 @@
 36|HILL GIANT|ХОЛМОВОЙ ГИГАНТ
 37|Area Cast View Encamp Search Look|Ф)кар С)закл М)гер У)лагерь Ы)иск Д)осмотр
 38|Cast View Encamp Search Look|С)зак М)гер У)лаг Ы)иск Д)осм
-39|Save View Magic Rest Alter Exit|Ы)сох М)гер Ь)маг К)отд Ф)опц У)наз
-40|Cast Memorize Scribe Display Rest Exit|С)зак Ь)доб Ы)пер В)эфф К)отд У)наз
-41|Order Drop Speed Icon Pics Exit|Щ)ряд В)изг Ы)скр Ш)знч Ф)ав У)наз
-42|Select Exit|Ы)выбрать У)назад
-43|Place Exit|З)класть У)вых
-44|Create New Character|С)новый герой
+39|Save View Magic Rest Alter Exit|Ы)сох М)гер Ь)маг К)отд Ф)опц Уйти
+40|Cast Memorize Scribe Display Rest Exit|С)зак Ь)доб Ы)пер В)эфф К)отд Уйти
+41|Order Drop Speed Icon Pics Exit|Щ)ряд В)изг Ы)скр Ш)знч Ф)ав Уйти
+42|Select Exit|Ы)выбрать Уйти
+43|Place Exit|З)класть Уйти
+44|Create New Character|Создать нового героя
 45|Drop Character|В)удалить
 46|Modify Character|Ь)изменить
 47|Train Character|Е)тренировать
@@ -51,14 +51,14 @@
 50|Remove Character from Party|К)изгнать из отряда
 51|Load Saved Game|Д)загрузить игру
 52|Save Current Game|Ы)сохранить игру
-53|BEGIN Adventuring|И)приключение
-54|Exit to DOS|У)дос
-55|Parts color-1 color-2 Size Exit|З)части цвет-1 цвет-2 Ы)рост У)назад
-56|Head Weapon Exit|Голова Оружие У)наз
+53|BEGIN Adventuring|Играть
+54|Exit to DOS|Уйти в ДОС
+55|Parts color-1 color-2 Size Exit|З)части цвет-1 цвет-2 Ы)рост Уйти
+56|Head Weapon Exit|Голова Оружие Уйти
 //57|$Weapon Body xxxx Shield Arm Leg Exit|$Оружие Тело xxxx Щит Рука Нога У)наз
-57|Weapon Body xxxx Shield Arm Leg Exit|Оружие Тело xxxx Щит Рука Нога У)наз
-58|Keep Exit|Л)оставить У)назад
-59|Next Prev Keep Exit|След. Пред. Остав. У)наз
+57|Weapon Body xxxx Shield Arm Leg Exit|Оружие Тело xxxx Щит Рука Нога Уйти
+58|Keep Exit|Л)оставить Уйти
+59|Next Prev Keep Exit|След. Пред. Остав. Уйти
 60|1st Level|1-й уровень
 61|2nd Level|2-й уровень
 62|3rd Level|3-й уровень
@@ -169,6 +169,7 @@
 167|Sling|Праща
 //168|MailArmor|ДоспехБроня
 168|Mail|Доспех
+1001|Armor|Броня
 169|Leather|Кожаная
 170|Padded|Стёганая
 171|Studded|Клёпаный
@@ -378,6 +379,7 @@
 //374|SW|ЮЗ
 //375|W|З
 //376|NW|СЗ
+// NOTE: should be something like C�CDD�>D>�>PP�CP af F469-F65F
 377|Insert disk 1 in drive|Вставьте дискету 1
 378|Insert disk 2 in drive|Вставьте дискету 2
 379|Insert disk 3 in drive|Вставьте дискету 3
