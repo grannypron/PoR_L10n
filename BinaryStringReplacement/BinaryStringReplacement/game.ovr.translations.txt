@@ -59,9 +59,9 @@
 //53|~ABUSIVE|ОСКОРБ.
 49|~HAUGHTY ~SLY ~NICE ~MEEK ~ABUSIVE|~НАДМЕННО ~ХИТР ~КРОТК ~ОСКОРБ
 //54|dies.|умирает.
-54| dies.| умирает.
+54| dies.| умер.
 //55|is hit for|бьёт и причиняет
-55| is hit FOR| бьёт и причиняет
+55| is hit FOR| наносит
 //56|points of damage.|очков урона.
 56| points of Damage.| очков урона.
 //57|press / to continue|нажмите / для продолжения
@@ -80,7 +80,7 @@
 66|is not blind.|не слепой.
 67|Cure Blindness|Снятие слепоты
 68|is not Diseased.|не болен.
-69|Cure Disease|Лечен. болез.
+69|Cure Disease|Лечен. болез
 70|Cure Light Wounds|Лечен. лёгких ран
 71|Cure Serious Wounds|Лечен. тяжёлых ран
 72|Cure Critical Wounds|Лечен. критич. ран
@@ -116,7 +116,7 @@
 99|View Pool Exit|М)г З)пул Уйти
 100|Exit|Уйти
 //101|Detect Exit|В)обнар Уйти
-101| Detect Exit| В)обнар Уйти
+101| Detect Exit| В)опр. Уйти
 102|View Take Pool Share|М)ге Е)вз З)пул Ы)ра
 103|View Take Pool|М)г Е)вз З)пул
 //104|~Yes|~Да
@@ -142,7 +142,7 @@
 //121|~No|Т)нет
 120|~Yes ~No|~да ~нет
 //122|As you leave the shopkeeper says, "Excuse me but you have left some money here."|Когда вы уходите, лавочник говорит: "Извините, но вы оставили здесь немного монет".
-122|As you Leave the Shopkeeper says, "Excuse me but you have Left Some Money here."  |Когда вы уходите, лавочник говорит: "Извините, но вы оставили здесь немного монет".  
+122|As you Leave the Shopkeeper says, "Excuse me but you have Left Some Money here."  |Когда вы уходите, лавочник говорит: "Вы оставили здесь немного монет".  
 //123|Do you want to go back and get your money?|Вы хотите вернуться и забрать деньги?
 123|Do you want to go back and get your Money?|Вы хотите вернуться и забрать деньги?
 124|Loading...Please Wait|Загрузка... Ожидайте
@@ -258,7 +258,7 @@
 221|(Use Cursor keys)|(Исп. стрелки)
 222|Rakes...|Роется..
 223|The Gods intervene!|Боги вмешались!
-224|The river's stench drives you back.|Зловоние этой реки отгоняет вас обратно.
+224|The river's stench drives you back.|Зловоние этой реки отгоняет вас.
 225|Not Here|не здесь
 226|Bash|И)би
 //227|Pick|З)от  - Had to move under 290 "Pick Race"
@@ -288,8 +288,8 @@
 247|You can not scribe that spell.|Вы не можете записать это.
 248|Scribe these spells?|Записать это?
 //249|Funky-- Studying Manual of Bodily Health|Отлично-- Изучение справочника по телесному здоровью
-249|Funky|Отлично
-1006|Studying Manual of Bodily Health|Изучение справочника по телесному здоровью
+249|Funky|Боясь
+1006|Studying Manual of Bodily Health|Изучение руководства по здоровью
 250|Training with Manual of Bodily Health|Обуч. со справочн. по телесн. здоров.
 251|Feather Fall|Паден. пером
 252|Helpless|Беспом.
@@ -304,10 +304,10 @@
 261|Camouflaged|Маскировка
 262|Displaced|Перемещён
 //263|<No Spell Effects>|<Нет эффектов от заклинаний>
-263| <No Spell Effects>| <Нет эффектов от заклинаний>
+263| <No Spell Effects>| <Нет эффектов>
 //264|DisplayParty Order:|ОсмОтряд Ряд:
-264|Party Order:|ОсмОтряд Ряд:
-1003|Display|"-JEANS:Stillneedtranslationforthis-"
+264|Party Order:|Ряд:
+1003|Display|В)эфф
 265|has been selected|был выбран
 266|quit TO DOS:|выйти в ДОС:
 267|will be gone|пропадёт
@@ -321,7 +321,7 @@
 //274|Faster|Быстрее
 274|Faster|Быстр.
 //275|Slower|Медленнее
-275|Slower|Медлен.
+275|Slower|Медл.
 //276|Exit|У)выход
 276|Exit|Уйти
 277|Game Speed:|Скор. игры:
@@ -331,14 +331,14 @@
 281|Portraits on|Портреты вкл
 282|Portraits off|Портреты выкл
 //283|ExitThe party makes camp...|У)выхОтряд ставит лагерь...
-283|The party makes camp...|выхОтряд ставит лагерь...
+283|The party makes camp...|Отряд ставит лагерь...
 284|Camp:|Лаг:
 285|Quit TO DOS|ДОС?
 286|Choose a function|Выберите действие
 287|Quit to DOS|ДОС?
 288|STING|STING
 289|I Understand, master.|Я понимаю, господин.
-290|Pick Race|Выбор расы
+290|Pick Race|Выб. расы
 291|Pick Gender|Выбор пола
 292|Pick Class|Выб. класс
 293|Pick Alignment|Выб. мировоззр.
@@ -393,7 +393,7 @@
 334|Save Which Game:|Какую игру:
 335|A B C D E F G H I J|А Б В Г Д Е Ж З И К
 //336|Put save disk in :|Вставьте дискету сохр. в :
-336|Put save disk in |Вставьте дискету сохр. в 
+336|Put save disk in |Вставь диск. в 
 337|Saving...Please Wait|Сохранение... Ждите
 338|Save and exit  Insert disk #|Сохр. и выйти  Встав. диск. #
 339|Mortally wounded, the dragon roars!|Смертельно раненый дракон ревёт!
@@ -407,7 +407,7 @@
 347|I will still rule, by possessing one|я всё же буду править, владея одним
 348|of you!|из вас!
 //349|No Lord Bane! I can still rule here!|Нет, владыка Бейн!  Я всё ещё могу править здесь!
-349|"No Lord Bane!  I can still rule here!|"Нет Лорд Бэйн!  Я ещё могу править тут!
+349|"No Lord Bane!  I can still rule here!|"Нет, Бэйн! Я ещё могу править тут!
 //350|I have not failed.|Я не проиграл.
 //351|Do not call me back|Не вызывайте меня обратно
 350|I have not failed.  Do not call me back|Я не проиграл.  Не вызывайте обратно
@@ -503,15 +503,15 @@
 429|has memorized|выучено
 430|has scribed|записано
 //431|Stop Resting?  The Party is rudely interrupted!|Окончить отдых?  Вечеринка грубо прервана!
-431|Stop Resting? |Заверш. отдых? 
+431|Stop Resting? |Зав. отдых? 
 1005|The Party is rudely interrupted!|Отдых прерван!
-432|Overloaded.  Money will be put in Pool.|Перегружено. Деньги будут положены в кошель.
+432|Overloaded.  Money will be put in Pool.|Перегруз. Деньги будут сброшены в пул.
 //433|‰Overloaded|‰перегружен
 433|Overloaded|перегружен
 //434|gems|самоцветы
 434|Gems|кам.
 //435|gold|золото
-435|Gold|золото
+435|Gold|зол.
 //436|platinum|платина
 436|Platinum|платина
 437|electrum|электрум
@@ -545,10 +545,10 @@
 454|The Gem is Valued at |Этот самоцвет стоит 
 455|Sell|Ы)пр
 //456|Sell Keep|Ы)пр Л)ос
-456| Keep| Л)ос
+//456| Keep| Л)ос - This one I had to actually do manually because it looks like the string length is set to 4??
 457|You can :|можете :
 //458|The jewel is valued at|Эта драгоценность оценена в
-458|The Jewel is Valued at |драгоценность оценена в 
+458|The Jewel is Valued at |драгоценность стоит 
 459|Cast|С)зк
 460|Memorize|Ь)Запомн
 461|Scribe|Ы)Запи
