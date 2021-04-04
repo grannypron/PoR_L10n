@@ -1,0 +1,41 @@
+- I used cygwin's strings with a minimum length of 3: strings -a -n 3 GAME.OVR
+WARNING: Insufficient Memory
+Insufficient Memory. Exiting Program
+version 1.3
+title
+Unable to find item file
+cast cure anyway: 
+is not poisoned.
+Neutralize Poison
+Remove Curse
+Not with that weapon
+Magic On	Magic Off
+A battle begins...
+lost an image
+is coughing
+collapses
+BUGBEAR
+GNOLL
+Rots...
+Dies rots away
+max,cur,lost
+is Diseased
+(NPC)
+HP    
+THAC0   
+Use
+Trade
+Drop
+Sell
+ID
+Overloaded
+S)gh Keep
+is Blessed
+is Cursed
+is blind
+stands up and grins
+gets back up
+Exit
+Yes No
+HEAD
+BODY

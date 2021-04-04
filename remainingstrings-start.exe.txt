@@ -1,0 +1,44 @@
+- I used cygwin's strings with a minimum length of 3: strings -a -n 3 START.EXE
+ 	Hitpoints
+(Helpless)
+Nil Item pointer...
+Tried to Lose item & couldn't find it!
+is fully healed
+is partially healedU
+Guarding
+ camping
+ search
+ Exit
+Select
+ more bytes.
+Press any key to continue
+Please insert overlay disk.
+Runtime error 
+ at 
+Portions Copyright (c) 1983,91 Borland
+BEWARE
+ZOMBIE
+NOTNOW
+COPPER	
+DRAGON
+EFREET
+FRIEND
+JUNGLE
+KNIGHT
+SAVIOR
+TEMPLE
+VULCAN
+WYVERN
+ Keep Exit
+10 ft. Pole
+50 ft. Rope
+Iron
+Thf Prickly Tools
+Holding
+Secr Door & Trap Det
+Gd Dragon Control
+Restoring Level(s)
+Lightning Bolt
+ Protection From Evil, 10' Radius
+ Protection From Good, 10' Radius
+			
