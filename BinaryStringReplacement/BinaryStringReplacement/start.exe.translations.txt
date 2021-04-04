@@ -379,7 +379,7 @@
 //374|SW|ЮЗ
 //375|W|З
 //376|NW|СЗ
-// NOTE: should be something like C�CDD�>D>�>PP�CP af F469-F65F
+// NOTE: should be something like C�CDD�>D>�>PP�CP at F649-F65F
 377|Insert disk 1 in drive|Вставьте дискету 1
 378|Insert disk 2 in drive|Вставьте дискету 2
 379|Insert disk 3 in drive|Вставьте дискету 3
@@ -442,5 +442,9 @@
 436|Protection From Normal Missiles|Защита от обычных снарядов
 437|Slow|Замедление
 438|Restoration|Восстановление
-0|Yes|Да 
-439|No|Нет
+0| Yes  | Да   
+439| No   | Нет  
+1002|AC  HP|КБ  ОЗ
+1003|Name|Имя 
+1004| search| поиск
+1005| camping| лагерь
