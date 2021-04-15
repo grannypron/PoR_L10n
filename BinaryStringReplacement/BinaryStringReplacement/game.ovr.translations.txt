@@ -310,7 +310,8 @@
 1003|Display|В)эфф
 265|has been selected|был выбран
 266|quit TO DOS:|выйти в ДОС:
-267|will be gone|пропадёт
+//267|will be gone|пропадёт - added a space - Github issue #3
+267|will be gone| пропадёт
 268|Drop from party?|Изгнать?
 269|bids you farewell|прощается с вами
 270|is dumped in a ditch|брошен в канаву
@@ -344,7 +345,6 @@
 293|Pick Alignment|Выб. мировоззр.
 294|Keep this character?|Оставить героя?
 295|Character name:|Имя героя:
-296|Drop|Уд.
 //297|forever?|навечно?
 297| forever?| навечно?
 //298|Are you sure?|Вы уверены?
@@ -459,7 +459,8 @@
 387|Ready Item|Подготов.
 388|Must be Readied|Нужно подготов.
 389|Your|Ваш
-390|will be gone forever|пропадёт навсегда
+//390|will be gone forever|пропадёт навсегда - added a space - Github issue #3
+390|will be gone forever| пропадёт навсегда
 //391|Drop It?|Выбросить?
 391|Drop It? |Выбросить? 
 392|It's Cursed|проклято
@@ -656,3 +657,8 @@
 559|is not cursed.|не проклят.
 // Had to move 227 under 290 "Pick Race"
 227|Pick|З)от
+// Had to move 296 Drop under 391 Drop It? - Github issue #4
+296|Drop|Уд.
+// Added 563 for Github issue #4
+//563|Yes No|да нет
+// Location-specific byte replacements below

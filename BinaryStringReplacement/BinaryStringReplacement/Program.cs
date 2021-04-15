@@ -55,7 +55,17 @@ namespace BinaryStringReplacement
             log("Beginning replacements.");
             foreach (String replacement in replacements)
             {
-                if (!replacement.StartsWith("//")) {
+                if (replacement.StartsWith("**")) {
+                    // Location-specific byte replacement
+                    string[] tokens = replacement.Split('|');
+                    int loc = Convert.ToInt32(tokens[0].Substring(2), 16);
+                    byte[] bytes = new byte[tokens.Length - 1];
+                    for (int idx = 1; idx < tokens.Length; idx++)
+                    {
+                        bytes[idx - 1] = (byte)Convert.ToInt32(tokens[idx], 16);
+                    }
+                    byteReplace(loc, bytes);
+                } else if (!replacement.StartsWith("//")) {
                     // Assumes a format of id|from|to
                     string[] tokens = replacement.Split('|');
                     string id = tokens[0];
@@ -85,7 +95,7 @@ namespace BinaryStringReplacement
 
                             if (result)
                             {
-                                //log("Replaced \"" + from + "\" with \"" + to + "\".  id: " + id);
+                                log("Replaced \"" + from + "\" with \"" + to + "\".  id: " + id);
                             }
                             else
                             {
@@ -193,6 +203,16 @@ namespace BinaryStringReplacement
             data[foundIdx - 1] = (byte)replacementStr.Length;
 
             return true;
+
+        }
+
+        private static void byteReplace(int loc, byte[] replaceData)
+        {
+            log("Replacing " + replaceData.Length + " bytes at " + loc.ToString("X"));
+            for (int idx = 0; idx < replaceData.Length; idx++)
+            {
+                data[loc + idx] = replaceData[idx];
+            }
 
         }
 

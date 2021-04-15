@@ -448,3 +448,8 @@
 1003|Name|Имя 
 1004| search| поиск
 1005| camping| лагерь
+// Location-specific byte replacements below
+// Compass directions
+**F649|43|00|02|43|44|01|44|00|02|3E|44|01|3E|00|02|3E|50|01|50|00|02|43|50
+// Plurals
+**18C0|6A|64
