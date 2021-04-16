@@ -659,6 +659,9 @@
 227|Pick|З)от
 // Had to move 296 Drop under 391 Drop It? - Github issue #4
 296|Drop|Уд.
-// Added 563 for Github issue #4
-//563|Yes No|да нет
+// Added 563-565 for Github issue #4
+563|Yes No|Да Нет
 // Location-specific byte replacements below
+// These next 2 are for Github issue #4
+**2D989|10
+**2241F|4C
