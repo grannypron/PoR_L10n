@@ -1,0 +1,3 @@
+﻿// Location-specific byte replacements below
+// For GitHub #6 & #7 - used byte-specific change here for Yes/No because of the different lengths of the strings (specifically "NO" had to grow by 1)
+**1566|02|30|60|80|03|65|43|80
