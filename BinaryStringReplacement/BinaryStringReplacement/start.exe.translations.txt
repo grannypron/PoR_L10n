@@ -57,7 +57,8 @@
 56|Head Weapon Exit|Голова Оружие Уйти
 //57|$Weapon Body xxxx Shield Arm Leg Exit|$Оружие Тело xxxx Щит Рука Нога У)наз
 57|Weapon Body xxxx Shield Arm Leg Exit|Оружие Тело xxxx Щит Рука Нога Уйти
-58|Keep Exit|Л)оставить Уйти
+//58|Keep Exit|Л)оставить Уйти - Fix for #8
+58| Keep Exit| Л)оставить Уйти
 59|Next Prev Keep Exit|След. Пред. Остав. Уйти
 60|1st Level|1-й уровень
 61|2nd Level|2-й уровень
@@ -448,6 +449,7 @@
 1003|Name|Имя 
 1004| search| поиск
 1005| camping| лагерь
+1006| Exit| Уйти
 // Location-specific byte replacements below
 // Compass directions
 **F649|43|00|02|43|44|01|44|00|02|3E|44|01|3E|00|02|3E|50|01|50|00|02|43|50

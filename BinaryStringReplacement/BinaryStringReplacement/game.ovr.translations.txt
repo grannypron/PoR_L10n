@@ -661,6 +661,8 @@
 296|Drop|Уд.
 // Added 563-565 for Github issue #4
 563|Yes No|Да Нет
+// Added 563-565 for Github issue #8
+564| Exit| Уйти
 // Location-specific byte replacements below
 // These next 2 are for Github issue #4
 **2D989|10
