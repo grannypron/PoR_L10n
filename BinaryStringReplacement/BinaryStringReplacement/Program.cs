@@ -23,7 +23,7 @@ namespace BinaryStringReplacement
                 return;
             }
 
-            if (args[0].Trim().StartsWith(" - "))
+            if (args[0].Trim().StartsWith("-"))
             {
                 if (args[0].Trim().ToUpper() == "-E" && args.Length == 3)
                 {
@@ -235,7 +235,7 @@ namespace BinaryStringReplacement
         }
 
         /** Next 4 functions stolen from Simeon Pilgrim at https://github.com/simeonpilgrim/coab **/
-        internal string DecompressString(byte[] data)
+        static internal string DecompressString(byte[] data)
         {
             var sb = new System.Text.StringBuilder();
             int state = 1;
@@ -335,7 +335,7 @@ namespace BinaryStringReplacement
             return output;
         }
 
-        internal char inflateChar(uint arg_0)
+        static internal char inflateChar(uint arg_0)
         {
             if (arg_0 <= 0x1f)
             {
