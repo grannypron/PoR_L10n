@@ -150,17 +150,17 @@
 126|Magic Off|Маг. выкл
 127|That doesn't work|Это не работает
 //128|Move|Ь)дв
-128|Move |Ь)дв 
+128|Move |Движ 
 //129|View Aim|М)г Ф)ц.
-129|View Aim |М)г Ф)ц. 
+129|View Aim |Гер Цел 
 //130|Use|Г)п
-130|Use |Г)п 
+130|Use |Ппп 
 //131|Cast|С)за
-131|Cast |С)за 
+131|Cast |Зааа 
 //132|Turn|Е)не
-132|Turn |Е)не 
+132|Turn |Неее 
 //133|Quick Done|Й)авт В)гот - Had to shorten this by one character because using the null space after this string ends up completely screwing the combat menu for reasons that I don't understand
-133|Quick Done|Й)ав В)гот
+133|Quick Done|Авто Всё
 134|Your Teammate is Dying|Ваш товарищ умирает
 135|Continue Battle:|Продолжить бой:
 136|Move/Attack, Move Left =|Двиг./Атака, Влево =
@@ -669,3 +669,22 @@
 **2241F|4C
 // Next one is for Github issue #9
 **1B7A6|4C
+// Next are for changing keyboard shortcuts on the Combat menu
+// This somehow allows "enables" all hotkeys
+**9E55|FF|FF|FF
+//M for Move -> L
+**9BA2|4C
+//V for View -> U
+**9BB8|55
+//A for Aim -> W
+**9BDF|57
+//U for Use -> G
+**9C04|47
+//C for Cast -> P
+**9C2B|50
+//T for Turn -> Y
+**9C42|59
+//Q for Quick - > F
+**9C62|46
+//D for Done not necessary
+//**9C95|
