@@ -249,11 +249,11 @@
 212|Attack Ally:|Атак. союзн:
 213|Range =|Дальн =
 214|Target|Мишень
-215|Next Prev Manual|Т)сл З)пр Ь)вруч
-216|Center Exit|С)цнтр Уйти
+215|Next Prev Manual|Сл Пр Вруч
+216|Center Exit|Цнтр Уйти
 217|Aim:|Цель
 218|Range =|Дальн =
-219|Center Exit|С)цнтр Уйти
+219|Center Exit|Цнтр Уйти
 220|Target|Мишень
 221|(Use Cursor keys)|(Исп. стрелки)
 222|Rakes...|Роется..
@@ -721,5 +721,18 @@
 **1CDF9|4E
 //K -> J
 **1CE1D|4A
-// This is also required for the K -> J check.  It is a comparison against K that we have to change to a J
+//This is also required for the K -> J check.  It is a comparison against K that we have to change to a J
 **1CE39|4A
+//This is for the Combat Aim sub-menu
+// C -> W
+**15F3C|57
+//This is for the Combat Aim / Manual sub-menu
+// C -> W
+**15AB8|57
+//Next three are for the Next/Prev/Manual Aim sub-menu
+// N -> C
+**15E83|43
+// P -> G
+**15E94|47
+// M -> D
+**15EA5|44
