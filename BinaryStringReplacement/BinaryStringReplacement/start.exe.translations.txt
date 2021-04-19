@@ -42,16 +42,16 @@
 41|Order Drop Speed Icon Pics Exit|Щ)ряд В)изг Ы)скр Ш)знч Ф)ав Уйти
 42|Select Exit|Ы)выбрать Уйти
 43|Place Exit|З)класть Уйти
-44|Create New Character|Создать нового героя
-45|Drop Character|В)удалить
-46|Modify Character|Ь)изменить
-47|Train Character|Е)тренировать
-48|View Character|М)осмотреть
-49|Add Character to Party|Ф)добавить в отряд
-50|Remove Character from Party|К)изгнать из отряда
-51|Load Saved Game|Д)загрузить игру
-52|Save Current Game|Ы)сохранить игру
-53|BEGIN Adventuring|Играть
+44|Create New Character|Новый герой
+45|Drop Character|Удалить
+46|Modify Character|Модифицировать
+47|Train Character|Тренировать
+48|View Character|Осмотреть
+49|Add Character to Party|Добавить в отряд
+50|Remove Character from Party|Изгнать из отряда
+51|Load Saved Game|Загрузить игру
+52|Save Current Game|Сохранить игру
+53|BEGIN Adventuring|Приключение
 54|Exit to DOS|Уйти в ДОС
 55|Parts color-1 color-2 Size Exit|З)части цвет-1 цвет-2 Ы)рост Уйти
 56|Head Weapon Exit|Голова Оружие Уйти
@@ -450,6 +450,8 @@
 1004| search| поиск
 1005| camping| лагерь
 1006| Exit| Уйти
+// This string is for the main menu hotkeys - not sure what the "J" is used for in the original
+1007|C D M T V A R L S B E J|Y E V N J L B P C G D X
 // Location-specific byte replacements below
 // Compass directions
 **F649|43|00|02|43|44|01|44|00|02|3E|44|01|3E|00|02|3E|50|01|50|00|02|43|50

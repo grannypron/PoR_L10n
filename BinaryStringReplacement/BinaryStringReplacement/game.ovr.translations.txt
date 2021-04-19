@@ -373,7 +373,8 @@
 314|Congratulations...|Поздравляем...
 315|Add a character:|Добавить героя:
 316|Add Exit|Ф)дб Уйт
-317|Head Body Keep|Р)го И)те Л)ос
+//317|Head Body Keep|Р)го И)те Л)ос
+317|Head Body Keep|Ли Те Ок
 318|old|до
 319|ready   action|отдых действие
 320|new|нов
@@ -688,3 +689,37 @@
 **9C62|46
 //D for Done not necessary
 //**9C95|
+//The next 12 are for Main Menu hotkeys
+//C -> Y
+**19CCC|59
+//D -> E
+**19CDE|45
+//M -> V
+**19CF0|56
+//T -> N
+**19D02|4E
+//V -> J
+**19D14|4A
+//A -> L
+**19D2C|4C
+//R -> B
+**19D3E|42
+//L -> P
+**19D7B|50
+//S -> C
+**19D9D|43
+//B -> G
+**19DB9|47
+//E -> D
+**19DDE|44
+//J -> X - I don't know what J is supposed to do on the main menu, but I am changing it here because J is used for something else
+**19E2D|58
+//The next 3 are for the Head/Body/Keep hotkeys
+//H -> K
+**1CDD5|4B
+//B -> N
+**1CDF9|4E
+//K -> J
+**1CE1D|4A
+// This is also required for the K -> J check.  It is a comparison against K that we have to change to a J
+**1CE39|4A
