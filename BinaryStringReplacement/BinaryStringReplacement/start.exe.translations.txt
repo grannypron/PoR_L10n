@@ -35,7 +35,7 @@
 34|TROLL|ТРОЛЛЬ
 35|FIRE GIANT|ОГНЕННЫЙ ГИГАНТ
 36|HILL GIANT|ХОЛМОВОЙ ГИГАНТ
-37|Area Cast View Encamp Search Look|Ф)кар С)закл М)гер У)лагерь Ы)иск Д)осмотр
+37|Area Cast View Encamp Search Look|Кар Закл Гер У)лагерь Иск Осмотр
 38|Cast View Encamp Search Look|С)зак М)гер У)лаг Ы)иск Д)осм
 39|Save View Magic Rest Alter Exit|Ы)сох М)гер Ь)маг К)отд Ф)опц Уйти
 40|Cast Memorize Scribe Display Rest Exit|С)зак Ь)доб Ы)пер В)эфф К)отд Уйти

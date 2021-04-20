@@ -723,12 +723,14 @@
 **1CE1D|4A
 //This is also required for the K -> J check.  It is a comparison against K that we have to change to a J
 **1CE39|4A
+//
 //This is for the Combat Aim sub-menu
 // C for Center -> W
 **15F3C|57
 //This is for the Combat Aim / Manual sub-menu
 // C for Center -> W
 **15AB8|57
+//
 //Next three are for the Next/Prev/Manual Aim sub-menu
 // N for Next-> C
 **15E83|43
@@ -736,8 +738,23 @@
 **15E94|47
 // M for Manual -> D
 **15EA5|44
+//
 //Next two are for the Combat Use sub-menu
 //R for Ready -> U
 **222E0|55
 //U for Use -> B
 **222F1|42
+//
+//Next are for the main 3D-travel menu
+// A for Area -> R
+**170B0|52
+// C for Cast -> P
+**170F9|50
+// V for View -> U
+**17110|55
+// E for Encamp -> K
+//**17120|4B - this one does not work right now for an unknown reason
+// S for Search -> B
+**1712A|42
+// L for Look -> J
+**17145|4A
