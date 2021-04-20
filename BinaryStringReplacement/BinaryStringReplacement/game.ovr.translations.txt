@@ -445,10 +445,10 @@
 1004|Must be unreadied|снимите это
 376|was going to scribe from that scroll|записывается из этого свитка
 377|is it Okay to lose it?|действительно удалить?
-378|Ready|К)гот
-379|Use|Г)и
-380|Trade|Е)обм
-381|Drop|Выбр
+378|Ready|Гот
+379| Use| Иии
+380| Trade| Е)обм
+381| Drop| Выбр
 //382|Halve|Разд.
 382| Halve| Разд.
 //383|Join|Объ
@@ -724,15 +724,20 @@
 //This is also required for the K -> J check.  It is a comparison against K that we have to change to a J
 **1CE39|4A
 //This is for the Combat Aim sub-menu
-// C -> W
+// C for Center -> W
 **15F3C|57
 //This is for the Combat Aim / Manual sub-menu
-// C -> W
+// C for Center -> W
 **15AB8|57
 //Next three are for the Next/Prev/Manual Aim sub-menu
-// N -> C
+// N for Next-> C
 **15E83|43
-// P -> G
+// P for Previous -> G
 **15E94|47
-// M -> D
+// M for Manual -> D
 **15EA5|44
+//Next two are for the Combat Use sub-menu
+//R for Ready -> U
+**222E0|55
+//U for Use -> B
+**222F1|42
