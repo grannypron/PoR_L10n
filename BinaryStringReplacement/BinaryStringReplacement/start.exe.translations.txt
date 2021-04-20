@@ -36,7 +36,7 @@
 35|FIRE GIANT|ОГНЕННЫЙ ГИГАНТ
 36|HILL GIANT|ХОЛМОВОЙ ГИГАНТ
 37|Area Cast View Encamp Search Look|Кар Закл Гер У)лагерь Иск Осмотр
-38|Cast View Encamp Search Look|С)зак М)гер У)лаг Ы)иск Д)осм
+38|Cast View Encamp Search Look|Закл Гер У)лагерь Иск Осмотр
 39|Save View Magic Rest Alter Exit|Ы)сох М)гер Ь)маг К)отд Ф)опц Уйти
 40|Cast Memorize Scribe Display Rest Exit|С)зак Ь)доб Ы)пер В)эфф К)отд Уйти
 41|Order Drop Speed Icon Pics Exit|Щ)ряд В)изг Ы)скр Ш)знч Ф)ав Уйти
@@ -52,7 +52,7 @@
 51|Load Saved Game|Загрузить игру
 52|Save Current Game|Сохранить игру
 53|BEGIN Adventuring|Приключение
-54|Exit to DOS|Уйти в ДОС
+54|Exit to DOS|Выйти в дос
 55|Parts color-1 color-2 Size Exit|З)части цвет-1 цвет-2 Ы)рост Уйти
 56|Head Weapon Exit|Голова Оружие Уйти
 //57|$Weapon Body xxxx Shield Arm Leg Exit|$Оружие Тело xxxx Щит Рука Нога У)наз

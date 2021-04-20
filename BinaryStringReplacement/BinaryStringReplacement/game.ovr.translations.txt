@@ -758,3 +758,15 @@
 **1712A|42
 // L for Look -> J
 **17145|4A
+//
+//Next are for the main 3D-travel menu with no Area option
+// C for Cast -> P
+**1731D|50
+// V for View -> U
+**17328|55
+// E for Encamp -> K
+//**17338|4B - this one MIGHT not work right now for an unknown reason
+// S for Search -> B
+**17342|42
+// L for Look -> J
+**1735D|4A
