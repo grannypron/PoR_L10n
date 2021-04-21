@@ -773,3 +773,8 @@
 //
 // This changes the hotkey for Yes to be L on the Exit To DOS Yes/No prompt
 **19E0B|4C
+// This changes the hotkey for Yes to be L on the Keep this character? prompt - GitHub #11
+**1D8A1|4C
+// These two change the hotkey for Yes to be L on the Drop this character? and Are you sure? prompts - GitHub #11
+**1B906|4C
+**1B92B|4C
