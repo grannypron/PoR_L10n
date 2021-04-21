@@ -346,7 +346,7 @@
 294|Keep this character?|Оставить героя?
 295|Character name:|Имя героя:
 //297|forever?|навечно?
-297| forever?| навечно?
+297| forever?| ?
 //298|Are you sure?|Вы уверены?
 298|Are you sure? |Вы уверены? 
 299|You dump|бросаете
@@ -374,7 +374,7 @@
 315|Add a character:|Добавить героя:
 316|Add Exit|Ф)дб Уйт
 //317|Head Body Keep|Р)го И)те Л)ос
-317|Head Body Keep|Ли Те Ок
+317|Head Body Keep|Лицо Тело Ок
 318|old|до
 319|ready   action|отдых действие
 320|new|нов
@@ -664,6 +664,8 @@
 563|Yes No|Да Нет
 // Added 563-565 for Github issue #8
 564| Exit| Уйти
+// Github issue #12
+1008|THAC0   |NYFC0   
 // Location-specific byte replacements below
 // These next 2 are for Github issue #4
 **2D989|10
