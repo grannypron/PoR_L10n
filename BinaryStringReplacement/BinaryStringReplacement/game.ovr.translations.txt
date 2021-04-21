@@ -37,9 +37,9 @@
 35|INPUT THE CODE WORD:|НАЖМИТЕ КЛАВИШУ ВВОД
 36|Sorry, that's incorrect.|Это неверно.
 //37|PRESS  OR BUTTON TO CONTINUE|НАЖМИТЕ  ИЛИ КНОПКУ ДЛЯ ПРОДОЛЖЕНИЯ
-37|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВВОД> ДЛЯ ПРОДОЛЖЕНИЯ
+37|PRESS RETURN OR BUTTON TO CONTINUE|НАЖМИТЕ ВВОД ДЛЯ ПРОДОЛЖЕНИЯ
 //38|PRESS / TO CONTINUE|НАЖМИТЕ / ДЛЯ ПРОДОЛЖЕНИЯ
-38|PRESS <ENTER>/<RETURN> TO CONTINUE|НАЖМИТЕ <ВВОД> ДЛЯ ПРОДОЛЖЕНИЯ
+38|PRESS ENTER/RETURN TO CONTINUE|НАЖМИТЕ ВВОД ДЛЯ ПРОДОЛЖЕНИЯ
 //39|~COMBAT|БОЙ
 //40|~WAIT|ЖДАТЬ
 //41|~FLEE|БЕГ
@@ -65,11 +65,11 @@
 //56|points of damage.|очков урона.
 56| points of Damage.| очков урона.
 //57|press / to continue|нажмите / для продолжения
-57|press <enter>/<return> to continue|нажмите <ВВОД> для продолжения
+57|press <enter>/<return> to continue|нажмите ВВОД для продолжения
 58|The END!|КОНЕЦ!
 59|The entire party is killed!|Весь отряд убит!
 //60|press / to continue|нажмите / для продолжения
-60|press <enter>/<return> to continue|нажмите <ВВОД> для продолжения
+60|press <enter>/<return> to continue|нажмите ВВОД для продолжения
 //61|will only cost|стоит всего
 61| will only cost| стоит всего
 //62|gold pieces.|золотых монет.
@@ -107,7 +107,7 @@
 91|Each character receives|Каждый герой получает
 92|experience points.|очков опыта.
 //93|press / to continue|нажмите / для продолжения
-93|press <enter>/<return> to continue|нажмите <ВВОД> для продолжения
+93|press <enter>/<return> to continue|нажмите ВВОД для продолжения
 94|Loot|Доб.
 95|Items:|Вещи:
 96|Take|Е)вз
@@ -126,7 +126,7 @@
 107|Do you want to go back and claim your treasure?|Хотите ли вы вернуться и забрать свою добычу?
 108| takes and hides his share.|берёт и прячет свою долю.
 //109|press / to continue|нажмите / для продолжения
-109|press <enter>/<return> to continue|нажмите <ВВОД> для продолжения
+109|press <enter>/<return> to continue|нажмите ВВОД для продолжения
 110|The END!|КОНЕЦ!
 111|The monsters rejoice for the party has been destroyed|Монстры ликуют, ведь отряд уничтожен
 112|Press any key to continue|Нажмите любую клавишу
@@ -304,7 +304,7 @@
 261|Camouflaged|Маскировка
 262|Displaced|Перемещён
 //263|<No Spell Effects>|<Нет эффектов от заклинаний>
-263| <No Spell Effects>| <Нет эффектов>
+263| <No Spell Effects>| Нет эффектов
 //264|DisplayParty Order:|ОсмОтряд Ряд:
 264|Party Order:|Ряд:
 1003|Display|В)эфф
@@ -437,7 +437,8 @@
 370|Items|Ш)вещ
 371|Spells|Ы)закл
 372|Trade|Е)обм
-373|Drop|Выбр
+//373|Drop|Выбр - Github #15
+373|Drop|Уд.
 //374|Exit|Уйти
 374| Exit| Уйти
 //375|View:Must be unreadied|Показ:нужно отменить готовность
@@ -448,7 +449,8 @@
 378|Ready|Гот
 379| Use| Иии
 380| Trade| Е)обм
-381| Drop| Выбр
+//381| Drop| Выбр - Github #15
+381| Drop| Уд.
 //382|Halve|Разд.
 382| Halve| Разд.
 //383|Join|Объ
@@ -459,7 +461,8 @@
 386|Items|Вещи
 387|Ready Item|Подготов.
 388|Must be Readied|Нужно подготов.
-389|Your|Ваш
+//389|Your|Ваш - Github #14
+389|Your|    
 //390|will be gone forever|пропадёт навсегда - added a space - Github issue #3
 390|will be gone forever| пропадёт навсегда
 //391|Drop It?|Выбросить?
@@ -780,3 +783,7 @@
 // These two change the hotkey for Yes to be L on the Drop this character? and Are you sure? prompts - GitHub #11
 **1B906|4C
 **1B92B|4C
+//
+// At least one of these changes the hotkey for the End Battle Yes/No? prompt - Github #16
+**A1AB|4C
+**27D36|4C
