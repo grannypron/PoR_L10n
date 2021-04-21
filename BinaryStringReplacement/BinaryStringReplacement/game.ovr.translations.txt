@@ -770,3 +770,6 @@
 **17342|42
 // L for Look -> J
 **1735D|4A
+//
+// This changes the hotkey for Yes to be L on the Exit To DOS Yes/No prompt
+**19E0B|4C
