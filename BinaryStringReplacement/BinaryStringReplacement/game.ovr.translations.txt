@@ -323,7 +323,7 @@
 274|Faster|Быстр.
 //275|Slower|Медленнее
 275|Slower|Медл.
-//276|Exit|У)выход
+//276|Exit|У)выход  - Note:  This Exit is actually the substitution for the one with the Items / Spells / Trade / Drop / Exit / View string
 276|Exit|Уйти
 277|Game Speed:|Скор. игры:
 278|Alter:|Измен:
@@ -450,7 +450,7 @@
 379| Use| Иии
 380| Trade| Е)обм
 //381| Drop| Выбр - Github #15
-381| Drop| Уд.
+381| Drop| Наз
 //382|Halve|Разд.
 382| Halve| Разд.
 //383|Join|Объ
@@ -749,6 +749,8 @@
 **222E0|55
 //U for Use -> B
 **222F1|42
+// Change Drop hotkey to Н in Наз (Latin "Y") - Github #15
+**22392|59
 //
 //Next are for the main 3D-travel menu
 // A for Area -> R
