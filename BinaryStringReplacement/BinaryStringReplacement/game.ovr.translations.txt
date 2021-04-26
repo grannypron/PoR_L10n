@@ -448,9 +448,9 @@
 377|is it Okay to lose it?|действительно удалить?
 378|Ready|Гот
 379| Use| Иии
-380| Trade| Е)обм
+380| Trade| Обм
 //381| Drop| Выбр - Github #15
-381| Drop| Наз
+381| Drop| Уд.
 //382|Halve|Разд.
 382| Halve| Разд.
 //383|Join|Объ
@@ -666,7 +666,7 @@
 // Added 563-565 for Github issue #4
 563|Yes No|Да Нет
 // Added 563-565 for Github issue #8
-564| Exit| Уйти
+564| Exit| Наз.
 // Github issue #12
 1008|THAC0   |NYFC0   
 // Location-specific byte replacements below
@@ -749,6 +749,10 @@
 **222E0|55
 //U for Use -> B
 **222F1|42
+//T for Trade -> J
+**22369|4A
+//D for Drop -> E
+**22392|45
 //
 //Next are for the main 3D-travel menu
 // A for Area -> R
@@ -799,3 +803,5 @@
 **21D0E|4A
 // D for drop - should be E
 **21D18|45
+// This lets the Y command exit the View Character screen - Github #15
+**2D930|59
