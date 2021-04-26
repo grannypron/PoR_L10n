@@ -323,8 +323,8 @@
 274|Faster|Быстр.
 //275|Slower|Медленнее
 275|Slower|Медл.
-//276|Exit|У)выход  - Note:  This Exit is actually the substitution for the one with the Items / Spells / Trade / Drop / Exit / View string
-276|Exit|Уйти
+//276|Exit|У)выход  - Note:  This Exit is actually the substitution for the one with the Items / Spells / Trade / Drop / Exit / View string - Github #17
+276|Exit|Наз.
 277|Game Speed:|Скор. игры:
 278|Alter:|Измен:
 279|Monsters on|Монстры вкл
@@ -434,9 +434,9 @@
 //368|Encumbrance|Ноша
 368|Encumbrance      |Ноша      
 369|Movement|Скорость
-370|Items|Ш)вещ
-371|Spells|Ы)закл
-372|Trade|Е)обм
+370|Items|Вещ
+371|Spells|Закл
+372|Trade|Обм
 //373|Drop|Выбр - Github #15
 373|Drop|Уд.
 //374|Exit|Уйти
@@ -749,8 +749,6 @@
 **222E0|55
 //U for Use -> B
 **222F1|42
-// Change Drop hotkey to Н in Наз (Latin "Y") - Github #15
-**22392|59
 //
 //Next are for the main 3D-travel menu
 // A for Area -> R
@@ -789,3 +787,15 @@
 // At least one of these changes the hotkey for the End Battle Yes/No? prompt - Github #16
 **A1AB|4C
 **27D36|4C
+// This byte allows the "Y" to be used as an exit on the view character screen menu - Github #17
+**21A91|02
+// This byte stops the "E" from being used as an exit on the view character screen menu - Github #17
+**21A8E|00
+// I for Items should be D
+**21CE2|44
+// S for Spells should be P
+**21CF1|50
+// T for Trade should be J
+**21D0E|4A
+// D for drop - should be E
+**21D18|45
