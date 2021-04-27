@@ -805,3 +805,25 @@
 **21D18|45
 // This lets the Y command exit the View Character screen - Github #15
 **2D930|59
+//These are the Encamp menu commands - Save View Magic Rest Alter Exit
+// S for Save -> C
+**1977A|43
+// V for View -> U
+**197AB|55
+// M for Magic -> V
+**197BB|56
+// R for Rest -> J
+**197CA|4A
+// A for Alter -> Not changing now because of duplicate J
+//**197D9|4A
+//These are the Magic menu commands - Cast Memorize Scribe Display Rest Exit
+// C for Cast -> P
+**18C9D|50
+// M for Memorize -> L
+**18CA7|4C
+// S for Scribe -> G
+**18CB1|47
+// D for Display -> '
+**18CBB|27
+// R for Rest -> J
+**18CC5|4A

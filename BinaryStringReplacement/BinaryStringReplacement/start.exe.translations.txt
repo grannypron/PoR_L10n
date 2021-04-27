@@ -37,8 +37,8 @@
 36|HILL GIANT|ХОЛМОВОЙ ГИГАНТ
 37|Area Cast View Encamp Search Look|Кар Закл Гер У)лагерь Иск Осмотр
 38|Cast View Encamp Search Look|Закл Гер У)лагерь Иск Осмотр
-39|Save View Magic Rest Alter Exit|Ы)сох М)гер Ь)маг К)отд Ф)опц Уйти
-40|Cast Memorize Scribe Display Rest Exit|С)зак Ь)доб Ы)пер В)эфф К)отд Уйти
+39|Save View Magic Rest Alter Exit|Сох Гер Маг Отд Ф)опц Уйти
+40|Cast Memorize Scribe Display Rest Exit|Зак Доб Пер Эфф Отд Уйти
 41|Order Drop Speed Icon Pics Exit|Щ)ряд В)изг Ы)скр Ш)знч Ф)ав Уйти
 42|Select Exit|Ы)выбрать Уйти
 43|Place Exit|З)класть Уйти
