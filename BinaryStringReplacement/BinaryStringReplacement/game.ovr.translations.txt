@@ -824,6 +824,6 @@
 // S for Scribe -> G
 **18CB1|47
 // D for Display -> '
-**18CBB|27
+**18CBB|41
 // R for Rest -> J
 **18CC5|4A
