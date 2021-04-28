@@ -90,8 +90,8 @@
 76|Stone to Flesh|Камень в плоть
 77|, how can we help you?|, чем вам помочь?
 78|Heal Exit|Р)ис Уйти
-79|Heal View Take Pool Share Appraise Exit|Р)исц М)гер Е)вз З)пул Ы)дел Ф)оце Уйти
-80|Heal View Pool Appraise Exit|Р)исц М)гер З)пул Ф)оц Уйти
+79|Heal View Take Pool Share Appraise Exit|Исц Гер Вз Пул Дел Оце Уйти
+80|Heal View Pool Appraise Exit|Исц Гер Пул Оц Уйти
 //81|~Yes|Н)да
 //82|~No|Т)нет
 81|~Yes ~No|~да ~нет
@@ -838,3 +838,16 @@
 **1951C|50
 // P for Pics - > F
 **1952D|46
+// These are for the Temple menu - Github #24
+// H for Heal - > B
+**5328|42
+// V for View - > U
+**5339|55
+// T for Take - > D
+**534A|44
+// P for Pool - > G
+**5356|47
+// S for Share - > L
+**5368|4C
+// A for Appraise - > J
+**5374|4A
