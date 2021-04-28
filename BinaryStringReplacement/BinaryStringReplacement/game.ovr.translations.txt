@@ -503,7 +503,7 @@
 424|to be scribed|будет записано
 425|Spells|Закл.
 426|Rest Time:|Время отд:
-427|Rest   daYs Hours Mins   Inc Dec   Exit|К)от .дНи Р)чс Ь)мн Ш)аг Внз Уйти
+427|Rest   daYs Hours Mins   Inc Dec   Exit|От .дНи Чс Мн Аг Внз Уйти
 428|The Whole Party Is Healed|Весь отряд исцелён
 429|has memorized|выучено
 430|has scribed|записано
@@ -864,3 +864,14 @@
 **7334|48
 // A for Appraise - > J
 **7340|4A
+// These are for the Rest menu - Github #30
+// R for Rest - > J
+**2459A|4A
+// H for Hours - > X
+**245AE|58
+// M for Mins - > V
+**245B8|56
+// I for Inc - > F
+**245C2|46
+// D for Dec - > D
+**245E5|44
