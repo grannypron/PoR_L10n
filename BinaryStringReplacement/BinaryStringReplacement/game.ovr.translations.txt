@@ -827,3 +827,14 @@
 **18CBB|41
 // R for Rest -> J
 **18CC5|4A
+// These are for the Alter menu - Github #20
+// O for Order - > H
+**194FB|48
+// D for Drop - > B
+**19506|42
+// S for Speed - > C
+**19511|43
+// I for Icon - > P
+**1951C|50
+// P for Pics - > F
+**1952D|46
