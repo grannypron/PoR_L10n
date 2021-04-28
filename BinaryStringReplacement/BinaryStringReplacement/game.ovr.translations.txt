@@ -864,7 +864,7 @@
 **7334|48
 // A for Appraise - > J
 **7340|4A
-// These are for the Rest menu - Github #30
+// These are for the Rest menu - Github #33
 // R for Rest - > J
 **2459A|4A
 // H for Hours - > X
