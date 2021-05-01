@@ -112,7 +112,7 @@
 95|Items:|Вещи:
 96|Take|Е)вз
 97|Take:|Взять
-98|Money Items Exit|Ь)ден Ш)вещ Уйти
+98|Money Items Exit|Ден Вещ Уйти
 99|View Pool Exit|М)г З)пул Уйти
 100|Exit|Уйти
 //101|Detect Exit|В)обнар Уйти
@@ -875,3 +875,8 @@
 **245C2|46
 // D for Dec - > D
 **245E5|44
+// These are for the Money Items menu - Github #26
+// M for Money - > L
+**6316|55
+// I for Items - > D
+**6326|44
