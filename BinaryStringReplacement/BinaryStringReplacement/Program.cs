@@ -114,9 +114,8 @@ namespace BinaryStringReplacement
             fs = new FileStream(binFile, FileMode.Open, FileAccess.Write);
             fs.Write(data, 0, data.Length);
             fs.Close();
-
-            log("Complete.  Press Enter to close.");
-            Console.Read();
+            
+            log("Completed");
         }
 
         private static bool replaceString(byte[] replaceThisStr, byte[] replacementStr, bool checkBoundary, string id)
@@ -584,7 +583,7 @@ namespace BinaryStringReplacement
 
         private static void log(string message)
         {
-            System.Diagnostics.Debug.WriteLine(message);
+            Console.WriteLine(message);
         }
     }
 
