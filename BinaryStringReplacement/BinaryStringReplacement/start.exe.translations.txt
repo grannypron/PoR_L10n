@@ -41,7 +41,7 @@
 40|Cast Memorize Scribe Display Rest Exit|Зак Доб Пер эФф Отд Уйти
 41|Order Drop Speed Icon Pics Exit|Ряд Изг Скр Знч Ав Уйти
 42|Select Exit|Ы)выбрать Уйти
-43|Place Exit|З)класть Уйти
+43|Place Exit|Ставить Уйти
 44|Create New Character|Новый герой
 45|Drop Character|Удалить
 46|Modify Character|Модифицировать

@@ -899,3 +899,5 @@
 **1D413|48
 // This is to blank out the "Your" - the string replacement routine skips blank entries and we want the string to be blank - Github #14
 **21F0E|20|20|20|20
+// Need this to change the P hotkey for the Place Exit menu - GitHub #22/#45
+**18F87|FF
