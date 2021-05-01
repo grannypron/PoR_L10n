@@ -814,8 +814,8 @@
 **197BB|56
 // R for Rest -> J
 **197CA|4A
-// A for Alter -> Not changing now because of duplicate J
-//**197D9|4A
+// A for Alter
+**197D9|59
 //These are the Magic menu commands - Cast Memorize Scribe Display Rest Exit
 // C for Cast -> P
 **18C9D|50
