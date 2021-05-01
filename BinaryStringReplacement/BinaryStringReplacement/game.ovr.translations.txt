@@ -116,7 +116,7 @@
 99|View Pool Exit|М)г З)пул Уйти
 100|Exit|Уйти
 //101|Detect Exit|В)обнар Уйти
-101| Detect Exit| В)опр. Уйти
+101| Detect Exit| Опред. Уйти
 102|View Take Pool Share|М)ге Е)вз З)пул Ы)ра
 103|View Take Pool|М)г Е)вз З)пул
 //104|~Yes|~Да
@@ -880,3 +880,6 @@
 **6316|55
 // I for Items - > D
 **6326|44
+// This is for the Detect Exit menu - Github #30/#44
+// D for Detect - > J
+**65F1|4A
