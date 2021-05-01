@@ -324,7 +324,7 @@
 //275|Slower|Медленнее
 275|Slower|Медл.
 //276|Exit|У)выход  - Note:  This Exit is actually the substitution for the one with the Items / Spells / Trade / Drop / Exit / View string - Github #17
-276|Exit|Наз.
+276|Exit| Наз.
 277|Game Speed:|Скор. игры:
 278|Alter:|Измен:
 279|Monsters on|Монстры вкл
@@ -434,9 +434,9 @@
 //368|Encumbrance|Ноша
 368|Encumbrance      |Ноша      
 369|Movement|Скорость
-370|Items|Вещ
-371|Spells|Закл
-372|Trade|Обм
+370|Items|Вещи
+371|Spells|Закл. 
+372|Trade|Обмен
 //373|Drop|Выбр - Github #15
 373|Drop|Уд.
 //374|Exit|Уйти
@@ -662,7 +662,7 @@
 // Had to move 227 under 290 "Pick Race"
 227|Pick|З)от
 // Had to move 296 Drop under 391 Drop It? - Github issue #4
-296|Drop|Уд.
+296|Drop| Уд.
 // Added 563-565 for Github issue #4
 563|Yes No|Да Нет
 // Added 563-565 for Github issue #8
