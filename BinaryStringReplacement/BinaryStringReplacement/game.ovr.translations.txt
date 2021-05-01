@@ -113,12 +113,12 @@
 96|Take|Е)вз
 97|Take:|Взять
 98|Money Items Exit|Деньг Вещи Уйти
-99|View Pool Exit|М)г З)пул Уйти
+99|View Pool Exit|Гер. Пул Уйти
 100|Exit|Уйти
 //101|Detect Exit|В)обнар Уйти
 101| Detect Exit| Опред. Уйти
-102|View Take Pool Share|М)ге Е)вз З)пул Ы)ра
-103|View Take Pool|М)г Е)вз З)пул
+102|View Take Pool Share|Гер. Вз. Пул Дел.
+103|View Take Pool|Гер. Вз. Пул
 //104|~Yes|~Да
 //105|~No|~Нет
 104|~Yes ~No|~Да ~Нет
@@ -883,3 +883,12 @@
 // This is for the Detect Exit menu - Github #30/#44
 // D for Detect - > J
 **65F1|4A
+// These are for the Loot menus - Github #27/#31/#32/#43/#41/#40
+// V for View - > U
+**65AB|55
+// T for Take - > D
+**65BD|44
+// P for Pool - > G
+**65D2|47
+// S for Share -> H
+**65E5|48
