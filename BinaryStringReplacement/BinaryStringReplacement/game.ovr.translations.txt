@@ -112,7 +112,7 @@
 95|Items:|Вещи:
 96|Take|Е)вз
 97|Take:|Взять
-98|Money Items Exit|Ден Вещ Уйти
+98|Money Items Exit|Деньг Вещи Уйти
 99|View Pool Exit|М)г З)пул Уйти
 100|Exit|Уйти
 //101|Detect Exit|В)обнар Уйти
