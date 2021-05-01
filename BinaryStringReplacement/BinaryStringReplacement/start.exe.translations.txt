@@ -53,7 +53,7 @@
 52|Save Current Game|Сохранить игру
 53|BEGIN Adventuring|Приключение
 54|Exit to DOS|Выйти в дос
-55|Parts color-1 color-2 Size Exit|З)части цвет-1 цвет-2 Ы)рост Уйти
+55|Parts color-1 color-2 Size Exit|Части цвет-1 цвет-2 Размер Уйти
 56|Head Weapon Exit|Голова Оружие Уйти
 //57|$Weapon Body xxxx Shield Arm Leg Exit|$Оружие Тело xxxx Щит Рука Нога У)наз
 57|Weapon Body xxxx Shield Arm Leg Exit|Оружие Тело xxxx Щит Рука Нога Уйти

@@ -892,3 +892,8 @@
 **65D2|47
 // S for Share -> H
 **65E5|48
+// These are for the character icons selection menu - Github #34/#39
+// P for Parts - > X
+**1D39B|58
+// S for Inc - > H
+**1D413|48
