@@ -264,7 +264,7 @@
 226|Bash|бИть
 //227|Pick|З)от  - Had to move under 290 "Pick Race"
 //228|Knock|Л)стк
-228| Knock| Л)стк
+228| Knock| Стук
 //229|Exit|У)на
 229|Exit|Уйти
 230|Locked.|Заперто
@@ -504,7 +504,7 @@
 424|to be scribed|будет записано
 425|Spells|Закл.
 426|Rest Time:|Время отд:
-427|Rest   daYs Hours Mins   Inc Dec   Exit|От .дНи Чс Мн Аг Внз Уйти
+427|Rest   daYs Hours Mins   Inc Dec   Exit|Сон Дни Часы Мин Шаг Обр Уйти
 428|The Whole Party Is Healed|Весь отряд исцелён
 429|has memorized|выучено
 430|has scribed|записано
@@ -868,16 +868,16 @@
 // A for Appraise - > J
 **7340|4A
 // These are for the Rest menu - Github #33
-// R for Rest - > J
-**2459A|4A
+// R for Rest - > C
+**2459A|43
+// D for Days - > L
+**245A4|4C
 // H for Hours - > X
 **245AE|58
 // M for Mins - > V
 **245B8|56
-// I for Inc - > F
-**245C2|46
-// D for Dec - > D
-**245E5|44
+// D for Dec - > J
+**245E5|4A
 // These are for the Money Items menu - Github #26
 // M for Money - > L
 **6316|55
@@ -906,3 +906,5 @@
 **18F87|FF
 // Pick hotkey change - Github #52
 **1759E|44
+// Pick hotkey change - Github #53
+**175AB|43
