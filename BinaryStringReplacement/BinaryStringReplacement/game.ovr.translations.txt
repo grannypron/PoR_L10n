@@ -669,7 +669,9 @@
 // Added 563-565 for Github issue #8
 564| Exit| Наз.
 // Github issue #12
-1008|THAC0   |NYFC0   
+1008|THAC0   |NYFC0
+// Github issue #52
+1009| Pick| Взл.
 // Location-specific byte replacements below
 // These next 2 are for Github issue #4
 **2D989|10
@@ -902,5 +904,5 @@
 **21F0E|20|20|20|20
 // Need this to change the P hotkey for the Place Exit menu - GitHub #22/#45
 **18F87|FF
-// Bash hotkey change - Github #50
-**17591|42
+// Pick hotkey change - Github #52
+**1759E|44
