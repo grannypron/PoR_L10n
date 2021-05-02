@@ -906,5 +906,5 @@
 **18F87|FF
 // Pick hotkey change - Github #52
 **1759E|44
-// Pick hotkey change - Github #53
+// Knock hotkey change - Github #51
 **175AB|43
