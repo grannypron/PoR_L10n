@@ -260,7 +260,8 @@
 223|The Gods intervene!|Боги вмешались!
 224|The river's stench drives you back.|Зловоние этой реки отгоняет вас.
 225|Not Here|не здесь
-226|Bash|И)би
+//226|Bash|И)би - Github #50
+226|Bash|бИть
 //227|Pick|З)от  - Had to move under 290 "Pick Race"
 //228|Knock|Л)стк
 228| Knock| Л)стк
@@ -901,3 +902,5 @@
 **21F0E|20|20|20|20
 // Need this to change the P hotkey for the Place Exit menu - GitHub #22/#45
 **18F87|FF
+// Bash hotkey change - Github #50
+**17591|42
