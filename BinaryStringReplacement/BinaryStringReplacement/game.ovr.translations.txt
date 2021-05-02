@@ -137,7 +137,7 @@
 //117|Not enough money|Не хватает денег
 117|Not enough Money|Не хватает денег
 118|Buy View Take Pool Share Appraise Exit|Куп Гер Вз Пул Раз Оце Уйти
-119|Buy View Pool Appraise Exit|Куп Гер Пул Оце Уйти
+119|Buy View Pool Appraise Exit|Куп Гер Пул Оценить Уйти
 //120|~Yes|Н)да
 //121|~No|Т)нет
 120|~Yes ~No|~да ~нет
