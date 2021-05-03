@@ -132,7 +132,8 @@
 112|Press any key to continue|Нажмите любую клавишу
 113|Shop|Лавк
 114|Items:|Вещи:
-115|Buy|И)к
+//115|Buy|И)к - Github #49
+115|Buy|Куп
 116|OverLoaded|Перегружен
 //117|Not enough money|Не хватает денег
 117|Not enough Money|Не хватает денег
@@ -646,9 +647,9 @@
 546|search|поиск
 547|Exit|Уйти
 548|Select|Ы)выбор
-//549|Next|Т)след
+//549|Next|Т)след - hotkey is probably at 2D91E
 549| Next| Т)сл
-//550|Prev|З)пред
+//550|Prev|З)пред - hotkey is probably at 2D910
 550| Prev| З)пр
 //551|Exit|У)назад
 551| Exit| Уйти
@@ -908,3 +909,5 @@
 **1759E|44
 // Knock hotkey change - Github #51
 **175AB|43
+// This is they Buy command in the shop menu - Github #49
+**7070|52
