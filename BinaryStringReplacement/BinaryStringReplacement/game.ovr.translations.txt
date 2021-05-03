@@ -886,7 +886,7 @@
 **245E5|4A
 // These are for the Money Items menu - Github #26
 // M for Money - > L
-**6316|55
+**6316|4C
 // I for Items - > D
 **6326|44
 // This is for the Detect Exit menu - Github #30/#44
