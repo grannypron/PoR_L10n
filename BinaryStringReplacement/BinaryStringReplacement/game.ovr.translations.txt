@@ -137,7 +137,7 @@
 116|OverLoaded|Перегружен
 //117|Not enough money|Не хватает денег
 117|Not enough Money|Не хватает денег
-118|Buy View Take Pool Share Appraise Exit|Куп Гер Вз Пул Раз Оце Уйти
+118|Buy View Take Pool Share Appraise Exit|Куп Гер Вз Пул Дел Оценить Уйти
 119|Buy View Pool Appraise Exit|Куп Гер Пул Оценить Уйти
 //120|~Yes|Н)да
 //121|~No|Т)нет
@@ -864,8 +864,8 @@
 **7316|44
 // P for Pool - > G
 **7322|47
-// S for Share - > H
-**7334|48
+// S for Share - > L
+**7334|4C
 // A for Appraise - > J
 **7340|4A
 // These are for the Rest menu - Github #33
