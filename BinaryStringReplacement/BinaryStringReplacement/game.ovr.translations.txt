@@ -458,7 +458,7 @@
 382| Halve| Разд.
 //383|Join|Объ
 383| Join| Объ
-384|Sell|Ы)пр
+384|Sell|Прод
 //385|Id|ID
 385| Id| ID
 386|Items|Вещи
@@ -517,7 +517,7 @@
 //433|‰Overloaded|‰перегружен
 433|Overloaded|перегружен
 //434|gems|самоцветы
-434|Gems|кам.
+434|Gems|Кам. 
 //435|gold|золото
 435|Gold|зол.
 //436|platinum|платина
@@ -527,7 +527,7 @@
 //439|copper|медяки
 439|Copper|медяки
 //440|jewelry|драгоценности
-440|Jewelry |Драг. 
+440|Jewelry |Драг.
 441|Select type of coin|Выберите тип монет
 442|How much|Сколько
 443|will you take?|вы возьмёте?
@@ -536,14 +536,14 @@
 //445|Gem|смц
 445| Gem| смц
 //446|Gems|самоцветы
-446| Gems| кам.
+446| Gems| Кам.
 //447|piece of jewelry|драгоценность
 447| piece of Jewelry| драгоценность
 //448|pieces of jewelry|драгоценности
 448| pieces of Jewelry| драгоценности
 449|You have a fine collection of:|У вас хорошая коллекция:
 //450|Gems|Самоцветов
-450|  Gems|кам.
+450|  Gems|Кам.
 //451|Jewelry|Драг.
 451|  Jewelry|  Драг.
 //452|Exit|Выход
@@ -674,6 +674,8 @@
 1008|THAC0   |NYFC0
 // Github issue #52
 1009| Pick| Взл.
+// This is the Sell that goes with Ready Trade Drop Halve Join Sell ID Exit
+1010| Sell| Прод
 // Location-specific byte replacements below
 // These next 2 are for Github issue #4
 **2D989|10
@@ -749,7 +751,7 @@
 // M for Manual -> D
 **15EA5|44
 //
-//Next two are for the Combat Use sub-menu
+//Next two are for the Combat Use sub-menu and Items menu on the Shop screen
 //R for Ready -> U
 **222E0|55
 //U for Use -> B
@@ -758,6 +760,8 @@
 **22369|4A
 //D for Drop -> E
 **22392|45
+//S for Sell -> G
+**22473|47
 //
 //Next are for the main 3D-travel menu
 // A for Area -> R
@@ -919,3 +923,8 @@
 **A795|47
 // Q for Quit -> E
 **A7AF|45
+// This is for the Appraise sub-menu for selling gems/jewelry
+// G for Gems -> R
+**268D7|52
+// J for Jewelry -> L
+**26B64|4C
