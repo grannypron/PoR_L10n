@@ -167,8 +167,9 @@
 136|Move/Attack, Move Left =|Двиг./Атака, Влево =
 137|Flee:|Бег:
 138|Blocked|Блок
-139|Guard|Страж
-140|Delay Quit|В)за У)наз
+139|Guard |Страж 
+//140|Delay Quit|В)за У)наз - Github #53
+140|Delay Quit |Позже Уйти 
 141|Bandage|Бинт
 142|Speed Exit|Ы)cкр Уйти
 143|is bandaged|перевязан
@@ -911,3 +912,10 @@
 **175AB|43
 // This is they Buy command in the shop menu - Github #49
 **7070|52
+// Fixes for Done combat submenu
+// G for Guard -> C
+**A77E|43
+// D for Delay -> G
+**A795|47
+// Q for Quit -> E
+**A7AF|45
