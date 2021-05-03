@@ -927,3 +927,5 @@
 **268D7|52
 // J for Jewelry -> L
 **26B64|4C
+// Fix for Y/N reversal of Shop sell menu - Github #63
+**22E1A|4C
