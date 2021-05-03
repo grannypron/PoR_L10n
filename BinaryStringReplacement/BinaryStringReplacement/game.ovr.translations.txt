@@ -169,7 +169,7 @@
 138|Blocked|Блок
 139|Guard |Страж 
 //140|Delay Quit|В)за У)наз - Github #53
-140|Delay Quit |Позже Уйти 
+140|Delay Quit |Позже Всё 
 141|Bandage|Бинт
 142|Speed Exit|Ы)cкр Уйти
 143|is bandaged|перевязан
@@ -920,8 +920,8 @@
 **A77E|43
 // D for Delay -> G
 **A795|47
-// Q for Quit -> E
-**A7AF|45
+// Q for Quit -> D
+**A7AF|44
 // This is for the Appraise sub-menu for selling gems/jewelry
 // G for Gems -> R
 **268D7|52
