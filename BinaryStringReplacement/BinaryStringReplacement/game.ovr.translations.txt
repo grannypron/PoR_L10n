@@ -551,8 +551,7 @@
 453|Appraise :|Оценить :
 //454|The gem is valued at|Этот самоцвет оценён в
 454|The Gem is Valued at |Этот самоцвет стоит 
-455|Sell|Ы)пр
-//456|Sell Keep|Ы)пр Л)ос
+456|Sell Keep|Прод Ост.
 //456| Keep| Л)ос - This one I had to actually do manually because it looks like the string length is set to 4??
 457|You can :|можете :
 //458|The jewel is valued at|Эта драгоценность оценена в
