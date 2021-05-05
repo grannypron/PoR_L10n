@@ -323,7 +323,7 @@
 //273|(0=fastest 9=slowest)|(0=высшая 9=низшая)
 273| (0=fastest 9=slowest)| (0=высшая 9=низшая)
 //274|Faster|Быстрее
-274|Faster|Быстр.
+274|Faster|бЫстр.
 //275|Slower|Медленнее
 275|Slower|Медл.
 //276|Exit|У)выход  - Note:  This Exit is actually the substitution for the one with the Items / Spells / Trade / Drop / Exit / View string - Github #17
@@ -931,3 +931,13 @@
 **26B64|4C
 // Fix for Y/N reversal of Shop sell menu - Github #63
 **22E1A|4C
+// Fix for Slower / Faster menu item hotkeys in the Combat Speed menu
+// S for Slower -> V
+**AA1A|56
+// F for Faster -> S
+**AA24|53
+// Fix for Slower / Faster menu item hotkeys in the Encamp / Alter Speed menu
+// S for Slower -> V
+**193FE|56
+// F for Faster -> S
+**193F4|53
