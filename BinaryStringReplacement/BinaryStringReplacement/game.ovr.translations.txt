@@ -171,7 +171,7 @@
 //140|Delay Quit|В)за У)наз - Github #53
 140|Delay Quit |Позже Всё 
 141|Bandage|Бинт
-142|Speed Exit|Ы)cкр Уйти
+142|Speed Exit|сКор Уйти
 143|is bandaged|перевязан
 144|GameSpeed|Скор.игры
 //145|Slower|Медл.
@@ -922,6 +922,8 @@
 **A795|47
 // Q for Quit -> D
 **A7AF|44
+// S for Speed -> R
+**A7EA|52
 // This is for the Appraise sub-menu for selling gems/jewelry
 // G for Gems -> R
 **268D7|52
