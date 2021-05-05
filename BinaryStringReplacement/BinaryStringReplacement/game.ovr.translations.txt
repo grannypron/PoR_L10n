@@ -310,7 +310,7 @@
 263| <No Spell Effects>| Нет эффектов
 //264|DisplayParty Order:|ОсмОтряд Ряд:
 264|Party Order:|Ряд:
-1003|Display|В)эфф
+1003|Display|Анализ
 265|has been selected|был выбран
 266|quit TO DOS:|выйти в ДОС:
 //267|will be gone|пропадёт - added a space - Github issue #3
