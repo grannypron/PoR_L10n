@@ -497,13 +497,15 @@
 415|Select type of coin|Выберите тип монет
 416|How much|Сколько
 417|will you drop?|вы выбросите?
-418|in Memory|в памяти
+//418|in Memory|в памяти
+418|in Memory|в  памяти
 419|in Spell Book|в книгу
 420|on Scroll|на свиток
 421|on Scrolls|на свитки
 422|to choose from|выбирается из
 423|to be memorized|будет выучено
-424|to be scribed|будет записано
+//424|to be scribed|будет записано
+424|to be scribed|будет записа.
 425|Spells|Закл.
 426|Rest Time:|Время отд:
 427|Rest   daYs Hours Mins   Inc Dec   Exit|Сон Дни Часы Мин Шаг Обр Уйти
