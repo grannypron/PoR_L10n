@@ -558,8 +558,8 @@
 457|You can :|можете :
 //458|The jewel is valued at|Эта драгоценность оценена в
 458|The Jewel is Valued at |драгоценность стоит 
-459|Cast|С)зк
-460|Memorize|Ь)Запомн
+459|Cast|Закл
+460|Memorize|Запомн.
 461|Scribe|Ы)Запи
 462|Learn|Д)изу
 463|Choose Spell:|Выбр. закл:
@@ -650,9 +650,9 @@
 547|Exit|Уйти
 548|Select|Ы)выбор
 //549|Next|Т)след - hotkey is probably at 2D91E
-549| Next| Т)сл
+549| Next| Сл
 //550|Prev|З)пред - hotkey is probably at 2D910
-550| Prev| З)пр
+550| Prev| Пр
 //551|Exit|У)назад
 551| Exit| Уйти
 552|Illegal range in Show3DSprite.|Недопустимый диапазон.
@@ -943,3 +943,10 @@
 **193FE|56
 // F for Faster -> S
 **193F4|53
+// These are Next/Previous on Memorize (and possibly others) menu
+// N for Next -> C
+**2D91E|43
+// P for Prev -> G
+**2D910|47
+// This allows P to be used for the Memorize hotkey - Github #57
+**2706C|09
