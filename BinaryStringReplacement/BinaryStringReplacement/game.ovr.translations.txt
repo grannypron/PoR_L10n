@@ -561,7 +561,7 @@
 459|Cast|Закл
 460|Memorize|Запомн.
 461|Scribe|Ы)Запи
-462|Learn|Д)изу
+462|Learn|Изуч.
 463|Choose Spell:|Выбр. закл:
 464|Cast Spell on whom|На кого наложить
 465|is a combat-only spell...|- боевое заклинание...
@@ -950,3 +950,5 @@
 **2D910|47
 // This allows P to be used for the Memorize hotkey - Github #57
 **2706C|09
+// This allows P to be used for the Learn hotkey - Github #59
+**2706A|34
