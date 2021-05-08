@@ -952,3 +952,5 @@
 **2706C|09
 // This allows P to be used for the Learn hotkey - Github #59
 **2706A|34
+// Fix for Y/N reversal of training confirmation menu - Github #65
+**1C81D|4C
