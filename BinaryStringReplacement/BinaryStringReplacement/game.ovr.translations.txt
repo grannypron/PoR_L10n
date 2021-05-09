@@ -560,7 +560,7 @@
 458|The Jewel is Valued at |драгоценность стоит 
 459|Cast|Закл
 460|Memorize|Запомн.
-461|Scribe|Ы)Запи
+461|Scribe|Запис.
 462|Learn|Изуч.
 463|Choose Spell:|Выбр. закл:
 464|Cast Spell on whom|На кого наложить
