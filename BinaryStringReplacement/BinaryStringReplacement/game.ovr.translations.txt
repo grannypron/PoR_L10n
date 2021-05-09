@@ -954,3 +954,20 @@
 **2706A|34
 // Fix for Y/N reversal of training confirmation menu - Github #65
 **1C81D|4C
+// Fix for Parts/Head/Weapon/Next/Prev/Keep hotkeys - Github #48
+// H for Head -> U
+**1D543|55
+// N for Next -> C
+**1D571|43
+// P for Prev -> G
+**1D54D|47
+// K for Keep -> J
+**1D595|4A
+// W for Weapon -> J
+**1D5E2|4A
+// N for Next -> C
+**1D610|43
+// P for Prev -> G
+**1D5EC|47
+// K for Keep -> J
+**1D634|4A
