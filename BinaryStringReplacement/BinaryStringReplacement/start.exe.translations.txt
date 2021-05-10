@@ -452,6 +452,8 @@
 1006| Exit| Уйти
 // This string is for the main menu hotkeys - not sure what the "J" is used for in the original
 1007|C D M T V A R L S B E J|Y E V N J L B P C G D X
+//"Select" left untranslated thus far - Github #60
+1008|Select|вЫбор
 // Location-specific byte replacements below
 // Compass directions
 **F649|43|00|02|43|44|01|44|00|02|3E|44|01|3E|00|02|3E|50|01|50|00|02|43|50
