@@ -362,7 +362,7 @@
 //303|can't be modified.|нельзя модифицировать.
 303| can't be modified.| нельзя изменить.
 304|Modify character:|Модиф. героя:
-305|Keep Exit|Л)ос Уйти
+305|Keep Exit|Ост. Уйти
 306|we only train conscious people|герой должен быть в сознании
 307|Training costs 1000 gp.|Стоимость 1000 зм.
 308|We don't train that class here|Не тренируем этот класс здесь
@@ -375,7 +375,7 @@
 313|Do you wish to train?|Хотите потренировать?
 314|Congratulations...|Поздравляем...
 315|Add a character:|Добавить героя:
-316|Add Exit|Ф)дб Уйт
+316|Add Exit|Доб Уйти
 //317|Head Body Keep|Р)го И)те Л)ос
 317|Head Body Keep|Лицо Тело Ок
 318|old|до
@@ -971,3 +971,9 @@
 **1D5EC|47
 // K for Keep -> J
 **1D634|4A
+// This is the hotkey for Keep Exit in the Modify Character main menu option - Github #55
+// K for Keep -> J
+**1C259|4A
+// This is the hotkey for Add Exit in the Add Character main menu option - Github #66
+// A for Add -> L
+**1CA8B|4C
