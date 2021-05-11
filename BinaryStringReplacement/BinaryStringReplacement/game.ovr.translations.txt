@@ -982,3 +982,6 @@
 // This is the Keep in the Sell/Keep menu for appraising gems/jewelry - Github #56
 // K for Keep -> J
 **26A50|4A
+// This is for the Keep hotkey on the Parts/Size menu in the character icon design menu - Github #35
+// K for Keep -> J
+**1D4F0|4A

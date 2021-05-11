@@ -58,7 +58,7 @@
 //57|$Weapon Body xxxx Shield Arm Leg Exit|$Оружие Тело xxxx Щит Рука Нога У)наз
 57|Weapon Body xxxx Shield Arm Leg Exit|Оружие Тело xxxx Щит Рука Нога Уйти
 //58|Keep Exit|Л)оставить Уйти - Fix for #8
-58| Keep Exit| Л)оставить Уйти
+58| Keep Exit| Оставить Уйти
 59|Next Prev Keep Exit|След. Пред. Остав. Уйти
 60|1st Level|1-й уровень
 61|2nd Level|2-й уровень
