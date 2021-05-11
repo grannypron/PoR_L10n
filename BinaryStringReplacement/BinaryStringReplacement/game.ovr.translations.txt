@@ -395,7 +395,7 @@
 332|Put save disk in|Вставь диск. в
 333|Loading...Please Wait|Загрузка... Ожидайте
 334|Save Which Game:|Какую игру:
-335|A B C D E F G H I J|А Б В Г Д Е Ж З И К
+//335|A B C D E F G H I J|А Б В Г Д Е Ж З И К
 //336|Put save disk in :|Вставьте дискету сохр. в :
 336|Put save disk in |Вставь диск. в 
 337|Saving...Please Wait|Сохранение... Ждите
