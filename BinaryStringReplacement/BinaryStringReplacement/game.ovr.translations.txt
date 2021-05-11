@@ -263,7 +263,7 @@
 224|The river's stench drives you back.|Зловоние этой реки отгоняет вас.
 225|Not Here|не здесь
 //226|Bash|И)би - Github #50
-226|Bash|бИть
+226|Bash|Удар
 //227|Pick|З)от  - Had to move under 290 "Pick Race"
 //228|Knock|Л)стк
 228| Knock| Стук
@@ -442,8 +442,8 @@
 372|Trade|Обмен
 //373|Drop|Выбр - Github #15
 373|Drop|Уд.
-//374|Exit|Уйти
-374| Exit| Уйти
+//374|Exit|Уйти - This is actually the Exit for the Bash/Pick/Knock menu
+374| Exit| Наз.
 //375|View:Must be unreadied|Показ:нужно отменить готовность
 375|View:|Гер:
 1004|Must be unreadied|снимите это
@@ -911,6 +911,8 @@
 **21F0E|20|20|20|20
 // Need this to change the P hotkey for the Place Exit menu - GitHub #22/#45
 **18F87|FF
+// Bash hotkey change - Github #50
+**17591|45
 // Pick hotkey change - Github #52
 **1759E|44
 // Knock hotkey change - Github #51
