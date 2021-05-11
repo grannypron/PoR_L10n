@@ -977,3 +977,6 @@
 // This is the hotkey for Add Exit in the Add Character main menu option - Github #66
 // A for Add -> L
 **1CA8B|4C
+// This is the Keep in the Sell/Keep menu for appraising gems/jewelry - Github #56
+// K for Keep -> J
+**26A50|4A
