@@ -391,10 +391,10 @@
 328|Put save disk in|Вставь диск. в
 329|Put save disk in|Вставь диск. в
 330|Unable to load monster|Нельзя загруз. монстра
-331|Load Which Game:|Какую игру:
+331|Load Which Game:|Загрузить из:
 332|Put save disk in|Вставь диск. в
 333|Loading...Please Wait|Загрузка... Ожидайте
-334|Save Which Game:|Какую игру:
+334|Save Which Game:|Сохранить в:
 //335|A B C D E F G H I J|А Б В Г Д Е Ж З И К
 //336|Put save disk in :|Вставьте дискету сохр. в :
 336|Put save disk in |Вставь диск. в 
