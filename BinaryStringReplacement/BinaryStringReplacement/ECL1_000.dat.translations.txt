@@ -1,0 +1,213 @@
+﻿1| GOBLINS| ГОБЛИНЫ
+2|THE AUCTIONEER CRIES 'CREATURES OF ALL AGES, WELCOME TO THIS AUCTION FOR AN ITEM BOTH MAGICAL AND POWERFUL!'|АУКЦИОНЕР ПЛАЧЕТ: "ТВОРЕНИЯ ВСЕХ ВОЗРАСТОВ, ДОБРО ПОЖАЛОВАТЬ НА ЭТОТ АУКЦИОН ЗА ВОЛШЕБНЫМ И МОЩНЫМ ПРЕДМЕТОМ!"
+3|THE AUCTIONEER HAS EITHER A WAND OR STAFF.|У АУКЦИОНЕРА ЕСТЬ ЖЕЗЛО ИЛИ ПЕРСОНАЛ.
+4|DO YOU WISH TO:|ВЫ ХОТИТЕ:
+5|STAND AND LISTEN|СТЕНД И СЛУШАЙТЕ
+6|MOVE IN CLOSER|ПОДЪЕМ БЛИЖЕ
+7|LISTEN TO COMMENTS|СЛУШАТЬ КОММЕНТАРИИ
+8|LEAVE|ПОКИНУТЬ
+9|THE BIDDING ESCALATES TO 5,000 GOLD PIECES -- HIGH BID FROM A MAN IN PLAIN CLOTHES, NEXT TO AN OGRE.|ТОРГ ПОВЫШАЕТСЯ ДО 5000 ЧАСТЕЙ ЗОЛОТА - ВЫСОКАЯ СТАВКА ОТ МУЖЧИНЫ В ОБЫЧНОЙ ОДЕЖДЕ, СЛЕДУЮЩИЙ С ОГРЕ.
+10|DO YOU WISH TO:|ВЫ ХОТИТЕ:
+11|MAKE A BID|СДЕЛАТЬ СТАВКУ
+12|WAIT FOR WINNER|ЖДЕМ ПОБЕДИТЕЛЯ
+13|TRY TO LEAVE|ПОПЫТАЙТЕСЬ УЙТИ
+14|YOU UP THE BID. MONSTERS NEARBY TURN, STARE,|ВЫ ПОДНИМАЕТЕ СТАВКУ. МОНСТРЫ РЯДОМ ПОВОРОТА, СМОТРЕТЬ,
+15|THE MAN THEN SPEAKS A WORD AND THE AUCTIONEER'S BLOCK IS ENVELOPED IN DARKNESS.|ЧЕЛОВЕК ГОВОРИТ СЛОВО, И БЛОК АУКЦИОНЕРА окутан тьмой.
+16|THERE IS MASS CONFUSION. SUDDENLY, THE OGRE SPRINTS FROM THE DARKNESS.|ЕСТЬ МАССОВАЯ ЗАБОТА. ВНЕЗАПНО ОГРЕ СПРИНЕТСЯ ИЗ ТЬМЫ.
+17|DO YOU:|ТЫ:
+18|FOLLOW THE OGRE|ПОСЛЕДУЮЩИЕ ЗА ОГРЕ
+19|MOVE QUIETLY AWAY|ТИХОЙ УХОД
+20|LOOK FOR THE MAN IN PLAIN CLOTHES|ПОИСК МУЖЧИНЫ В ОДНОЙ ОДЕЖДЕ
+21|THE OGRE IS TACKLED AND SEARCHED. HE DOESN'T HAVE THE ITEM ON HIM.|ОГРЕ ОБРАЩАЕТСЯ И ПОИСК. У Него НЕТ ПРЕДМЕТА НА НЕМ.
+22|THE MONSTERS LOOK AROUND FOR A SCAPEGOAT. THEIR EYES FALL UPON YOUR PARTY, THEN THEY |ЧУДОВИЩА СМОТРИТ НА СКАПЕГОС. ИХ ГЛАЗА ЗАПАДАЮТ НА ВАШУ ПАРТНЮ, ТОГДА ОНИ
+23|YOU HAVE ENTERED A CROWDED TAVERN.|ВЫ ВОшли в переполненную таверну.
+24|YOU OPENED THE DOOR INTO A DRUNK BUCCANEER.|ВЫ ОТКРЫЛИ ДВЕРЬ В НАПИТОЙ БУКАНЕР.
+25|HE GLARES AT YOU,'ONE OF YOU SHALL PAY FOR THIS INSULT. WHO WILL IT BE?'WHAT DO YOU DO?|ОН СМОТРИТ НА ВАС: "ОДИН ИЗ ВАС ПЛАТИТ ЗА ЭТОТ НАРУШЕНИЕ. КТО ЭТО БУДЕТ? "ЧТО ВЫ ДЕЛАЕТЕ?
+26|CHALLENGE|ВЫЗОВ
+27|ATTACK|АТАКА
+28|FLEE|БЕЖАТЬ
+29|BRIBE|ВЗЯТЬ
+30|WHO WILL CHALLENGE THE BUCCANEER?|КТО БУДЕТ ВЫЗОВАТЬ БУКАНЕР?
+31|THAT ONE IS UNACCEPTABLE. CHOOSE ANOTHER.|ЭТО НЕДОПУСТИМО. ВЫБРАТЬ ДРУГОЙ.
+32|OVER THIS DOOR IS A CRUDE SIGN SAYING, 'THE PITT.'|НАД ЭТОЙ ДВЕРЬЮ ГРОМКИЙ ЗНАК ГОВОРИТ: "ПИТТ".
+33|THIS IS A HIDDEN TEMPLE OF ILMATER. YOU FEEL SAFE HERE.|ЭТО СКРЫТЫЙ ХРАМ ИЛМАТЕРА. ВЫ ЧУВСТВУЕТЕ ЗДЕСЬ В БЕЗОПАСНОСТИ.
+34|A YOUNG WOMAN COMES FORWARD 'WE PROVIDE HELP FOR THOSE WHO CAN REACH US. ARE YOU IN NEED OF HEALING?|МОЛОДАЯ ЖЕНЩИНА идет вперед "МЫ ОКАЗЫВАЕМ ПОМОЩЬ ТЕМ, КТО МОЖЕТ ДОСТУПИТЬ К НАМ. ВАМ НУЖНО ИСЦЕЛЕНИЕ?
+35|YES|ДА
+36|NO|НЕТ
+37|'YOU CAN REST HERE AS LONG AS YOU WISH.' SHE THEN LEAVES.|"ВЫ МОЖЕТЕ ОТДЫХАТЬ ЗДЕСЬ СКОЛЬКО ХОТИТЕ". ОНА ТОГДА УХОДИТ.
+38|THIS IS A SMALL SHRINE. SYMBOLS OF BANE HAVE REPLACED THOSE OF ILMATER.|ЭТО НЕБОЛЬШОЙ СВЯТОЙ. СИМВОЛЫ БЕЙНА ЗАМЕНИЛИ ИЛМАТЕР.
+39|A ROBED ORC IS SITTING HERE. WHAT DO YOU DO?|ЗДЕСЬ СИДЕТ БЕЗОПАСНЫЙ ОРК. ЧТО ВЫ ДЕЛАЕТЕ?
+40|LEAVE|ПОКИНУТЬ
+41|GREET|ПРИВЕТСТВОВАТЬ
+42|ATTACK|АТАКА
+43|THE ORC SMILES CROOKEDLY.'GREETINGS FROM BANE.|ОРК криво улыбается: "ПРИВЕТ ОТ БЕЙНА.
+44| WE ARE RECRUITING CREATURES FOR OUR TEMPLE TO THE NORTHEAST. ARE YOU INTERESTED?'| МЫ НАБИРАЕМ СУЩЕСТВ ДЛЯ НАШЕГО ХРАМА НА СЕВЕРО-ВОСТОКЕ. ВАС ЗАИНТЕРЕСОВАН? '
+45|YES|ДА
+46|NO|НЕТ
+47| WE ARE HIRING CREATURES TO RECOVER OUR TEMPLE. ARE YOU INTERESTED?'| МЫ НОРМАЕМ СУЩЕСТВ, ЧТОБЫ ВОССТАНОВИТЬ НАШ ХРАМ. ВАС ЗАИНТЕРЕСОВАН? '
+48|AN ABANDONED SHOP. BROKEN SHELVES ARE ALL THAT REMAIN.|ЗАБРОШЕННЫЙ МАГАЗИН. ВСЕ, ЧТО ОСТАЛОСЬ - СЛОМАННЫЕ ПОЛКИ.
+49|A DECAYED BUILDING LEFT TO THE RATS.|РАЗРУШЕННОЕ ЗДАНИЕ ОСТАЛОСЬ КРЫСАМ.
+50|AS YOU MOVE YOU OVERHEAR SOME|КАК ВЫ ПЕРЕМЕЩАЕТЕ, ВЫ НЕ СЛУШАЕТЕ НЕКОТОРЫЕ
+51| SAY, | СКАЗАТЬ,
+52|'DO YOU THINK HE'LL REALLY SHOW UP -- THE BOSS I MEAN?'|"ВЫ ДУМАЕТЕ, ЧТО ОН ДЕЙСТВИТЕЛЬНО ПОКАЗЫВАЕТСЯ - БОССА, Я ХОЧУ?"
+53|THEY GLARE AT YOUR PARTY, |ОНИ СМОТРИТ НА ВАШУ ПАРТИЮ,
+54|THE PLAZA AHEAD IS CROWDED WITH MONSTERS. HOW WILL YOU PROCEDE?|ПЛОЩАДЬ ВПЕРЕДИ НАПОЛНЕНА МОНСТРАМИ. КАК ВЫ БУДЕТЕ ПРОЦЕДУРА?
+55|STRIDE BOLDLY FORWARD!|СМОТРИТЕ ВПЕРЕД!
+56|DISGUISE PARTY AS MONSTERS.|ЗАКРЫВАЙТЕ ВЕЧЕРИНКУ КАК МОНСТРОВ.
+57|SNEAK, REMAINING UNSEEN|КРОССОВКА, ОСТАЮЩАЯСЯ НЕВИДИМОЙ
+58| ORCS| ORCS
+59| HOBGOBLINS| ХОБГОБЛИНЫ
+60| OGRES| ОГРЭС
+61| RUSH TO ATTACK.| БЕГАТЬ В АТАКУ.
+62|YOUR COVER IS BLOWN.|ВАША КРЫШКА ВДУВАЕТСЯ.
+63|THE PARTY RUNS AND ESCAPES.|ВЕЧЕРИНКА УБЕГАЕТ И УБЕГАЕТ.
+64|YOUR COVER IS BLOWN.|ВАША КРЫШКА ВДУВАЕТСЯ.
+65|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+66|THE MONSTERS SHOOT YOU ANGRY LOOKS, |МОНСТРЫ СТРЕЛЯЮТ ВАС ЗЛОЙ ВИДОМ,
+67|YOU NOW SEE THE WAND ISN'T A MAJOR ARTIFACT, IT'S ONLY A WAND OF FEAR!|ВЫ СЕЙЧАС ВИДЕТЕ ЖЕЛОК - НЕ ГЛАВНЫЙ АРТЕФАКТ, ЭТО ТОЛЬКО ЖЕЗЛО СТРАХА!
+68|'IT'S A WAND OF ILLUMINATION. WHO CARES, I SEE IN THE DARK ANYWAY!'|"ЭТО ЖЕЗЛО ОСВЕЩЕНИЯ. КТО ЗАБОТИТСЯ, Я ВСЕ ВИДЮ В ТЕМНОМ! '
+69|AS YOU MOVE AWAY THE MONSTERS GLANCE YOUR WAY, |КОГДА ВЫ УХОДИТЕ, МОНСТРЫ ВЗЛЯЮТ НА ВАШУ ПУТЬ,
+70|THE AUCTION ENDS. YOU DON'T SEE WHO BOUGHT THE ITEM.|АУКЦИОН ЗАКОНЧИЛСЯ. ВЫ НЕ ВИДИТЕ, КТО КУПИЛ ПРЕДМЕТ.
+71|'GOING... GOING... GONE!' THE AUCTIONEER CRIES.|ИДЕТ ... ИДЕТ ... ПРОЙДЕТ! АУКЦИОНЕР плачет.
+72|A MAN AND OGRE EXCHANGE THE WAND AND A LARGE BAG, THEN DISAPPEAR INTO THE CROWD.|ЧЕЛОВЕК И ОГРЕ ОБМЕНЯЮТСЯ ПАЛОЧКОЙ И БОЛЬШОЙ СУМКОЙ, ПОТОМ ИСЧЕЗДАЮТСЯ В ТОЛПЕ.
+73| AND YELL 'SETTLERS! KILL THEM!'| И КРИЧАТЬ ПОСЕЛЕНИЯМ! УБЕЙ ИХ!'
+74|'THE AUCTION IS CANCELLED!' YELLS THE AUCTIONEER AS HE FLEES.|"АУКЦИОН ОТМЕНЕН!" КРИЧИТ АУКЦИОНЕР, УБЕГАЯ.
+75|GRUMBLE, AND TURN AWAY.|Ворчать и отвернуться.
+#NAME?
+77|THE AUCTION OVER, THE MONSTERS GRUMBLE AND TURN AWAY.'|АУКЦИОН ЗАКОНЧИЛСЯ, МОНСТРЫ ВОРЧАЮТСЯ И УБЕГАЮТ.
+78|THE CREATURES IGNORE YOU FOR THE MOMENT.|СОЗДАНИЯ ИГНОРИРУЮТ ВАС НА МГНОВЕНИИ.
+79|WHAT DO YOU DO?|ЧТО ВЫ ДЕЛАЕТЕ?
+80|MIX WITH MONSTERS|СМЕШАТЬ С МОНСТРАМИ
+81|DRINK HEAVILY|ПЕЙТЕ НАСЫЩЕННО
+82|ATTACK|АТАКА
+83|LEAVE|ПОКИНУТЬ
+84|MONSTERS INSULT YOUR ABILITIES AND PARENTAGE.|МОНСТРЫ ОСТАВЛЯЮТ ВАШИ СПОСОБНОСТИ И РОДИТЕЛЬСТВО.
+85|WHAT DO YOU DO?|ЧТО ВЫ ДЕЛАЕТЕ?
+86|ATTACK|АТАКА
+87|TRY TO LEAVE|ПОПЫТАЙТЕСЬ УЙТИ
+88|INSULT BACK|НАЗАД НАЗАД
+89|JOIN IN HEAVY DRINKING|ПРИСОЕДИНЯЙТЕСЬ К ПИТЬЮ
+90|YOU HAD A GREAT TIME UNTIL YOU ALL PASSED OUT. YOUR PURSE IS MISSING.|У ВАС БЫЛО ОТЛИЧНОЕ ВРЕМЯ, ЧТО ВЫ ВСЕ НЕ ПРОШЛИ. ВАШЕГО КОШЕЛЬКА ОТСУТСТВУЕТ.
+91|YOUR ACTIONS ANGER THE PATRONS AND THEY ATTACK.|ВАШИ ДЕЙСТВИЯ ГНУТ ЗАЩИТНИКОВ, И ОНИ НАПАДАЮТ.
+92|'A TENTH OF YOUR MONEY THEN.'DO YOU ACCEPT?|ЗАТЕМ ДЕСЯТУЮ ДЕНЕГ. ВЫ ПРИНИМАЕТЕ?
+93|YES|ДА
+94|NO|НЕТ
+95|THE BATTLE IS OVER, THE PATRONS RETURN TO DRINKING.|БИТВА ОКОНЧЕНА, ЗАЩИТНИКИ возвращаются к питью.
+96|MANY CREATURES HAVE GATHERED. THE ROBED ORC STANDS AND CALLS OUT,'FIRST, TO SHOW YOUR LOYALTIES, KILL THE UNBELIEVERS.' HE POINTS AT YOUR GROUP.|СОБЕРИЛО МНОГИЕ СУЩЕСТВА. ОПАСНЫЙ ОРК ВЫСТАВЛЯЕТСЯ И ПРИЗЫВАЕТ: "ПРЕЖДЕ ЧТОБЫ ПРОЯВИТЬ СВОЮ ЛОЯЛЬНОСТЬ, УБИВАЙТЕ НЕВЕРУЮЩИХ" ОН УКАЗЫВАЕТ НА ВАШУ ГРУППУ.
+97|'MEET HERE IN TWO HOURS. YOU MAY MEET HIGH PRIEST MACE.' HE ESCORTS YOU OUT.|"ВСТРЕЧАЕТСЯ ЗДЕСЬ ЧЕРЕЗ ДВА ЧАСА. ВЫ МОЖЕТЕ ВСТРЕЧИТЬСЯ ВСТРЕЧИ МАКУ. ОН ВЫСТУПАЕТ ВАС.
+98|'IF YOU CHANGE YOUR MIND, RETURN IN TWO HOURS.' HE ESCORTS YOU OUT.|"Если ты изменишь свой разум, вернись через два часа". ОН ВЫСТУПАЕТ ВАС.
+99|'MORE OGRES ON THE STREET, SINCE THE GIANTS TOOK OVER THE CASTLE.'|"БОЛЬШЕ ОГРОВ НА УЛИЦЕ, С тех пор, как ГИГАНТЫ ЗАНЯЛИ ЗАМОК".
+100|'THE PLAZA'S BANE TEMPLE IS RECRUITING FOR MACE AGAIN. GRISHNAK WON'T BE HAPPY.'|ХРАМ БЕЙНА ПЛАЗЫ СНОВА НАБИРАЕТСЯ ДЛЯ MACE. ГРИШНАК НЕ БУДЕТ СЧАСТЛИВЫ.
+101|'HE MELTED INTO A PUDDLE OF LARD WHEN HE TOUCHED THE THING!'|"Он растаял в лужице сала, когда прикоснулся к ней!"
+102|'THE BOSS WILL BE THE GUY BIDDING UP THE PRICE.'|"БОСС БУДЕТ ПАРНЕМ, УДОВЛЕТВАЮЩИМ ЦЕНУ".
+103|THE MONSTERS STAND READY|МОНСТРЫ ГОТОВЫ
+104|THE MONSTERS PREPARE|МОНСТРЫ ГОТОВЯТСЯ
+105|YOU SPOT A GROUP OF|ВЫ УВИДИТЕ ГРУППУ
+106|. |.
+107|YOUR PARTY SLIPS PAST THEM.|ВАША ПАРТИЯ ПРОИСХОДИТ МИНИМУМ.
+108|THEY CHECK OUT YOUR PARTY, |ОНИ ПРОВЕРЯЮТ ВАШУ СТОРОНУ,
+109|AND DEMAND, 'WHO ARE YOU?'|И ТРЕБУЙТЕ: "КТО ВЫ?"
+110|THEY YELL 'SETTLERS! KILL THEM!'|ОНИ ОЧИЩАЮТ ПОСЕЛЕНИЙ! УБЕЙ ИХ!'
+111|'IT'S A STAFF OF COMMAND. I COULD HAVE MY OWN ARMY!'|"ЭТО КОМАНДНЫЙ ПЕРСОНАЛ. МОЖЕТ БЫТЬ СОБСТВЕННАЯ АРМИЯ!
+112|THE BAR LOOKS LIKE IT WAS DESTROYED BY EXPERTS.|БАР ВЫГЛЯДИТ, КАК БЫЛ РАЗРУШЕН ЭКСПЕРТАМИ.
+113|YOUR ACTIONS TRIGGER A FREE FOR ALL.|ВАШИ ДЕЙСТВИЯ БЕСПЛАТНЫ ДЛЯ ВСЕХ.
+114|THE BAR LOOKS LIKE IT WAS DESTROYED BY EXPERTS.|БАР ВЫГЛЯДИТ, КАК БЫЛ РАЗРУШЕН ЭКСПЕРТАМИ.
+115|THE BUCCANEER SMILES.'THAT IS SUFFICIENT PAYMENT.' HE LEAVES.|БУКАНЕР УЛЫБАЕТСЯ. "ЭТО ДОСТАТОЧНАЯ ПЛАТА". ОН УХОДИТ.
+116|'WE'LL LET YOU OFF THIS TIME.' THE MONSTERS SCUTTLE AWAY.|"МЫ ДАВАЕМ ВАМ НА ЭТОЙ ВРЕМЯ". МОНСТРЫ УБЕГАЮТ.
+117|YOU STOP, AND THEY MOVE ON.|ВЫ ОСТАНАВЛИВАЕТЕСЬ, И ОНИ ДВИГАЮТСЯ.
+118|AND WALK ON.|И ПРОЙДИТЕ.
+119|THEY GRUMBLE AND MOVE ON.|Они ворчат и двигаются дальше.
+120|'OH, YOU'RE HERE FOR THE BOSS.'|"О, ВЫ ЗДЕСЬ ДЛЯ БОССА".
+121|'MOVE IT, TROLL-BAIT!' THEY SNARL AND MOVE OFF.|"ДВИГАЙТЕ ЭТО, ТРОЛЛЬ-ПРИМАНКА!" Они рычат и уезжают.
+122|LAUGH TO THEMSELVES AND WALK ON.|СМЕЙТЕ СЕБЯ И ИДИТЕ.
+123|'WE'RE GONNA HAVE TA TEACH YOU A LESSON!'|"МЫ СОБИРАЕМСЯ НАУЧИТЬ ВАС УРОК!"
+124|WHILE IN CAMP YOU ARE SUDDENLY ATTACKED BY ORCS.|ВО ВРЕМЯ ЛАГЕРЯ НА ВАС ВНЕЗАПНО НАПАДАЮТ ОРКИ.
+125|AS YOU ENTER THE BUILDING YOU SEE A LARGE GROUP OF FOUL ORCS.  THEY SNARL AT YOU AND ATTACK!|КАК ВЫ ВХОДИТЕ В ЗДАНИЕ, ВЫ ВИДИТЕ БОЛЬШУЮ ГРУППУ НЕПРАВИЛЬНЫХ ОРКОВ. ОНИ УКАЗЫВАЮТ НА ВАС И НАПАДАЮТ!
+126|YOU ARE IN A ROOM FILLED WITH RUBBLE AND WASTE.|ВЫ В НОМЕРЕ ЗАПОЛНЕНЫ РЕЗИНОМ И ОТХОДАМИ.
+127|  IN THE RUBBLE YOU SPOT A BEAUTIFUL TAPESTRY.  WILL YOU TAKE IT?|  В РУБЛЕ ВЫ УВИДИТЕ КРАСИВЫЙ ГОБЕЛЕН. ВЫ ПРИНИМАЕТЕ ЭТО?
+128|TAKE|БРАТЬ
+129|LEAVE|ПОКИНУТЬ
+130|AS YOU ENTER THE ROOM YOU SEE SIX ORCS LED BY A LARGE OGRE.  THEY LUNGE FOWARD AND ATTACK.|ВО ВХОДЕ В КОМНАТУ, ВЫ ВИДИТЕ ШЕСТЬ ОРКОВ, СВЕТОДИОДНЫХ БОЛЬШОЙ ОГРЕ. ОНИ делают выпад и атакуют.
+131|YOU FIND A PIECE OF PAPER ON THE FLOOR IN THE ROOM.  YOU PLACE IT IN YOUR JOURNAL UNDER ENTRY 53|ВЫ НАХОДИТЕ КЛАСС БУМАГИ НА ПОЛУ В КОМНАТЕ. ВЫ РАЗМЕЩАЕТЕ ЕГО В СВОЕМ ЖУРНАЛЕ ПОД ЗАПИСЬЮ 53
+132|IN THIS ROOM ARE SOME GOBLIN SLAVES THAT ARE COWERING IN THE CORNER.  THEY ALL SCREAM 'PLEASE DON'T KILL US.'  WHAT WILL YOU DO?|В этой комнате несколько рабов-гоблинов, которые прячутся в углу. ОНИ ВСЕ КРИЧИТ: "ПОЖАЛУЙСТА, НЕ УБИВАЙТЕ НАС". ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
+133|KILL THEM|УБЕЙ ИХ
+134|LET THEM GO|ОТПУСТИ ИХ
+135|YOU COLDLY KILL THE DEFENCELESS GOBLINS.|ВЫ ХОЛОДНО УБИВАЕТЕ БЕЗОПАСНЫХ ГОБЛИНОВ.
+136|YOU STAND OUTSIDE A LARGE MANSION.  ON THE WALLS OF THE MANSION ARE CRUDE BLACK HAND PRINTS.|ВЫ СТОИТ ВНЕ БОЛЬШОГО ОСОБНЯКА. НА СТЕНАХ ОСОБНЯКА ГЫРЫЕ ЧЕРНЫЕ ПРИНТЫ РУК.
+137|YOU ENTER INTO A FILTHY ROOM.  EIGHT ORC GUARDS ATTACK YOU IMMEDIATELY.|ВЫ входите в грязную комнату. ВОСЕМЬ ОРКОВ СТРАЖЕЙ НЕМЕДЛЕННО НАПАДАЮТ НА ВАС.
+138|YOU ENTER A ROOM THAT HAS SOME CRUDE HAY BEDS. WHAT WILL YOU DO?|ВЫ заходите в комнату, в которой есть кровати из сырого сена. ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
+139|SEARCH THE BEDS|ПОИСК КРОВАТЕЙ
+140|LEAVE THEM|ОСТАВЬ ИХ
+141|AS YOU SEARCH THE BEDS A GROUP OF ORCS COMES INTO THE ROOM.  THEY ATTACK IMMEDIATELY.|КОГДА ВЫ ИЩЕТЕ КРОВАТИ, В КОМНАТУ ВХОДИТ ГРУППА ОРКОВ. ОНИ НАПАДАЮТ НЕМЕДЛЕННО.
+142|YOU FINISH SEARCHING THE BEDS BUT YOU FIND NOTHING BUT LICE AND HAIR.|ВЫ ЗАКОНЧИЛИ ПОИСК КРОВАТЕЙ, НО НИЧЕГО НЕ НАХОДИЛИ, КРОМЕ ВШИХ И ВОЛОС.
+143|YOU ENTER A ROOM THAT HAS BEEN COVERTED INTO A CELL.|ВЫ ВОЙДЕТЕ В КОМНАТУ, ЗАКРЫТУЮ В КАМЕРУ.
+144|ON THE WALL HERE IS A POORLY SCRATCHED OUT MESSAGE.  YOU CAN BARELEY MAKE OUT THE WORDS|НА СТЕНЕ ЗДЕСЬ СЛАБО НАЦАРСАННОЕ СООБЩЕНИЕ. ВЫ МОЖЕТЕ СЛОВИТЬ СЛОВА
+145|AS YOU ENTER THE BUILDING YOU SEE A LARGE GROUP OF ORCS WHO ARE SURPRISED THAT YOU'RE HERE.  WITH CONFUSED LOOKS ON THEIR FACES THEY STARE AT YOU|КАК ВЫ ВХОДИТЕ В ЗДАНИЕ, ВЫ ВИДИТЕ БОЛЬШУЮ ГРУППУ ОРКОВ, УДИВЛЕННЫХ ТЕБЯ ЗДЕСЬ. С ЗАСТУПАЮЩИМ ВИДОМ ОНИ ГЛЯДЯТ НА ВАС
+146|YOU ARE IN A ROOM FILLED WITH RUBBLE AND WASTE.|ВЫ В НОМЕРЕ ЗАПОЛНЕНЫ РЕЗИНОМ И ОТХОДАМИ.
+147|  IN THE RUBBLE YOU SPOT A BEAUTIFUL TAPESTRY.  WILL YOU TAKE IT?|  В РУБЛЕ ВЫ УВИДИТЕ КРАСИВЫЙ ГОБЕЛЕН. ВЫ ПРИНИМАЕТЕ ЭТО?
+148|TAKE|БРАТЬ
+149|LEAVE|ПОКИНУТЬ
+150|YOU STAND IN FRONT OF THE ENTRANCE TO A LARGE SHADOWY TEMPLE.  AN OLD BLIND DECREPIT ORC STANDS OUTSIDE WITH EIGHT ORC GUARDS.|ВЫ СТОИТЕ ПЕРЕД ВХОДОМ В БОЛЬШОЙ ТЕНЕВОЙ ХРАМ. СТАРЫЙ СЛЕПЫЙ ОРК СТОИТ СНАРУЖИ С ВОСЕМЬМИ ОРКОВ ОХРАННИКА.
+151|  THE AGED ORC COMES GRASPING TOWARD YOU.  WILL YOU LET HIM TOUCH YOU?|  ПРЕСТАРЕЛЫЙ ОРК ПРИСТУПАЕТ К ВАМ. ВЫ ПОЗВОЛИТЕ ЕГО ПРИКАСАТЬСЯ К ВАМ?
+152|LET HIM TOUCH YOU|ПОЗВОЛЬТЕ ЕГО ПРИКАСАТЬСЯ К ВАМ
+153|BACK OFF|ОТВАЛИ
+154|ATTACK|АТАКА
+155|AS YOU BACK AWAY THE BLIND ORC SAYS, 'I MUST CHECK IF YOU ARE WORTHY TO ENTER THE TEMPLE OF BANE, DO NEED NOT BE AFRAID.'|КАК ВЫ ОТЪЕЗЖАЕТЕ, СЛЕПЫЙ ОРК ГОВОРИТ: "Я ДОЛЖЕН ПРОВЕРИТЬ, ДОЛЖНЫ ЛИ ВЫ ВОЙТИ В ХРАМ БЕЙНА, НЕ НУЖНО Бояться".
+156|LET HIM CHECK|ДАВАЙТЕ ЕГО ПРОВЕРИТЬ
+157|BACK OFF AGAIN|ОТКЛЮЧИТЬСЯ СНОВА
+158|ATTACK|АТАКА
+159|  AS YOU APPROACH THEY MOVE, ALLOWING YOU ENTRANCE INTO THE TEMPLE.|  Когда вы приближаетесь, они движутся, позволяя вам войти в храм.
+160|YOU ARE IN THE REMAINS OF A ONCE GREAT DINING ROOM.  FURNITURE LIES BURNED AND BROKEN THROUGHOUT THE ROOM.  |ВЫ ОСТАЕТСЯ В ОСТАВШИХСЯ РАЗ ОТЛИЧНОЙ СТОЛОВОЙ. МЕБЕЛЬ СГОРАЕТ И РАЗБИВАЕТСЯ ВО ВСЕЙ КОМНАТЕ.
+161|BEFORE YOU IS A GREAT HALL.  THE FLOOR IS LITTERED WITH ORC TRASH AND THE WALLS HAVE CRUDE BLACK HANDS PAINTED ON THEM.  |ПЕРЕД ВАМ БОЛЬШОЙ ЗАЛ. ПОЛ ЗАСЫПАН МУСОРОМ ORC, И НА СТЕНАХ НАПИСАНЫ ГИРНЫЕ ЧЕРНЫЕ РУКИ.
+162|YOU FIND A TRAP DOOR.  WILL YOU OPEN IT?|ВЫ НАХОДИЛИ ДВЕРЬ-ЛОВУШКУ. ВЫ ОТКРОЙТЕ ЕГО?
+163|OPEN|ОТКРЫТО
+164|LEAVE|ПОКИНУТЬ
+165|YOU ARE IN A ROOM THAT IS FILLED WITH THE DEAD BODIES OF THE ORC'S PREVIOUS VICTIMS.  |ВЫ В КОМНАТЕ, ЗАПОЛНЕННОЙ МЕРТВЫМИ ТЕЛАМИ ПРЕДЫДУЩИХ ЖЕРТВ ОРК.
+166|ADMIST THE BODIES YOU FIND SOME JEWELRY.  WILL YOU TAKE IT?|ПОСМОТРЕТЬ ТЕЛА, КОТОРЫЕ ВЫ НАХОДИЛИ НЕКОТОРЫЕ ЮВЕЛИРНЫЕ ИЗДЕЛИЯ. ВЫ ПРИНИМАЕТЕ ЭТО?
+167|TAKE|БРАТЬ
+168|LEAVE|ПОКИНУТЬ
+169|YOU LET THE GOBLINS GO.  AS THEY LEAVE ONE OF THEM SAYS 'TO ENTER THE TEMPLE YOU NEED A HOLY SYMBOL OF BANE.'|ВЫ ОТПУСТИТЕ ГОБЛИНОВ. ОНИ УХОДИТ ОДИН ИЗ НИХ ГОВОРИТ: "ЧТОБЫ ВОЙТИ В ХРАМ, ВАМ НУЖЕН СВЯТЫЙ СИМВОЛ БЕЙНА".
+170|YOU SEARCH THE BEDS BUT FIND NOTHING.|ВЫ ИЩЕТЕ КРОВАТИ, НО НИЧЕГО НЕ НАХОДИТЕ.
+171|IN FRONT OF YOU IS AN ALTAR THAT IS SMEARED WITH BLOOD AND COVERED WITH CRUDE BLACK HAND PRINTS.  WHAT WILL YOU DO?|ПЕРЕД ВАМИ АЛТАРЬ, ИЗПЫТАННЫЙ КРОВЬЮ И ПОКРЫТЫЙ ГИБЫМИ ЧЕРНЫМИ ОТПЕЧАТАМИ РУК. ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
+172|DESTROY ALTAR|УНИЧТОЖИТЬ АЛТАРЬ
+173|LEAVE IT|ОСТАВЬ ЭТО
+174|AS YOU DESTROY THE ALTAR, THE TEMPLE DOORS FLY OPEN AND A SCREAMING HORDE OF ORCS LED BY A HALF-ORC CLERIC ATTACK.  YOU TURN TO FACE THEM.|КАК ВЫ УНИЧТОЖИВАЕТЕ АЛТАРЬ, ДВЕРИ ХРАМА ОТКРЫВАЮТСЯ, И КРИЧАТЕЛЬНАЯ ОРДА ОРКОВ ВОДИТСЯ КЛЕРИЧЕСКОЙ АТАКОЙ ПОЛОВИНЫ ОРКОВ. ВЫ ОБРАЩАЕТЕСЬ К НИМ.
+175|ON THE FLOOR YOU FIND A TRAP DOOR.  WILL YOU OPEN IT?|НА ЭТАЖЕ ВЫ НАЙДЕТЕ ДВЕРЬ-ЛОВУШКУ. ВЫ ОТКРОЙТЕ ЕГО?
+176|OPEN TRAPDOOR|ОТКРЫТЫЙ ЛЮК
+177|LEAVE TRAPDOOR|ПОКИНУТЬ ЛЮК
+178|AS YOU EXIT THE TEMPLE YOU ARE ATTACKED BY A VERY LARGE GROUP OF ORCS.  LEADING THEM IS A HALF-ORC WHO IS SCREAMING 'KILL!  KILL, THE UNBELIEVING TOADS.  KILL THEM OR SUFFER MY WRATH!'|КАК ВЫ ВЫХОДИТЕ ИЗ ХРАМА, НА ВАС НАПАДАЕТ ОЧЕНЬ БОЛЬШАЯ ГРУППА ОРКОВ. ИМИ ВЕДЕТ ПОЛОВИНКА, КРИЧУЩАЯ "УБИЙ!" УБИТЬ, НЕВЕРОЯТНЫЕ ЖАБЫ. УБЕЙ ИХ ИЛИ МОЙ ГНЕВ!
+179|THE OLD BLIND ORC PAWS THE PARTY AS IF LOOKING FOR SOMETHING.  AFTER A CAREFULL PAWING, HE BACKS AWAY AND YELLS 'GUARDS, IN THE NAME OF BANE, KILL THESE UNBELIEVERS!'|СТАРЫЙ СЛЕПЫЙ ОРК ЗАМЕТИЛ ПАРТИЮ, КАК ИЩЕТ ЧТО-ТО. ПОСЛЕ ТЩАТЕЛЬНОЙ МАШИНЫ, ОН ОТКЛОНЯЕТСЯ И КРИЧЕТ: "ОТ ИМЕНИ БЕЙНА:" ОХРАННИКИ УБИВАЮТ ЭТИХ НЕВЕРУЮЩИХ! "
+180|AS YOU BACK AWAY AGAIN THE OLD BLIND ORC IS CONVINCED YOU ARE NOT WORSHIPPERS.  HE GRUNTS AN ORDER TO ATTACK.|Когда вы снова встретились со старым слепым орком, убеждены, что вы не поклоняетесь. ОН ОТВЕТАЕТ ПРИКАЗ НА АТАКУ.
+181|YOU SPOT A GROUP OF |ВЫ УВИДИТЕ ГРУППУ
+182|.|.
+183|THE MONSTERS STAND READY|МОНСТРЫ ГОТОВЫ
+184|YOU SEE A GROUP OF FOUR ORCS WHOSE SHIELDS BEAR A BLACK HAND ON A RED FIELD.  THEY CAUTIOSLY LOOK YOU OVER.|ВЫ ВИДИТЕ ГРУППУ ИЗ ЧЕТЫРЕХ ОРКОВ, ЩИТЫ которых НОСИТ ЧЕРНУЮ РУКУ НА КРАСНОМ ПОЛЕ. ОНИ ОСТОРОЖНО НА ВАС СМОТРИТ.
+185|PRESS <RETURN> TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+186|THE ORCS READY THEIR SPEARS|ОРКИ ПОДГОТОВИЛИ СВОИ КОПЬЯ
+187|YOU ARE SURPRISED BY |ТЫ УДИВЛЕН
+188|.|.
+189|THE MINUTE YOU FIND THE TREASURE A LARGE GROUP OF ORCS CHARGE THROUGH THE TEMPLE DOORS.  LEADING THEM IS A HALF-ORC WHO IS SCREAMING 'KILL!  KILL, THESE SCUM WHO WOULD STEAL FROM OUR TEMPLE.'|В МИНУТУ ВЫ НАХОДИТЕ СОКРОВИЩЕ, БОЛЬШАЯ ГРУППА ОРКОВ ПРОХОДИТ ЧЕРЕЗ ХРАМ ДВЕРИ. ИМИ ВЕДЕТ ПОЛОВИНКА, КРИЧУЩАЯ "УБИЙ!" УБИВАЙТЕ, ЭТУ ОПАСНУЮ, КОТОРАЯ УБИРАЕТ ИЗ НАШЕГО ХРАМА.
+190|ON THE DEAD BODY OF THE HALF-ORC CLERIC YOU FIND A PIECE OF PAPER.  YOU PUT THE PAPER IN YOUR JOURNAL UNDER ENTRY 25.|НА МЕРТВОМ ТЕЛЕ КЛЕРИКА ПОЛУОРКА ВЫ НАХОДИЛИ КУСОК БУМАГИ. ВЫ ПОМЕЩАЕТЕ БУМАГУ В ЖУРНАЛ ПОД ЗАПИСЬЮ 25.
+191|DIRTEN|ГРЯЗНЫЙ
+192|THE REMAINS OF AN EVIL ALTAR ARE NEARBY.|ОСТАТКИ ЗЛОГО АЛТАРА РЯДОМ.
+193|YOU DESTROY THE EVIL ALTAR AND THE UNEASY FEELING LEAVES YOU.|ВЫ УНИЧТОЖАЕТЕ ЗЛОЙ АЛТАР, И НЕУДОБНОЕ ЧУВСТВО УХОДИТ ОТ ВАС.
+194|THE OLD BLIND ORC PAWS THE CHARACTERS LOOKING FOR SOMETHING.  FINDING THE LEATHER HOLY SYMBOL, HE SMILES THEN GRUNTS 'WELCOME TO THE TEMPLE OF BANE, SUPREME GOD OF THE REALMS.'|СТАРЫЙ СЛЕПЫЙ ОРК ЛАПЫВАЕТ ПЕРСОНАЖЕЙ, ИЩУЩИХ ЧЕГО. НАХОДЯЩИЙ КОЖАНЫЙ СВЯТОЙ СИМВОЛ, ОН УЛЫБЛЯЕТСЯ, ПОТОМ ВЕРХИВАЕТ: "ДОБРО ПОЖАЛОВАТЬ В ХРАМ БЕЙНА, ВЕРХОВНОГО БОГА Царств".
+195|GOBLINS|ГОБЛИНЫ
+196|YOU SPOT A GROUP OF |ВЫ УВИДИТЕ ГРУППУ
+197|.|.
+198|YOU HAVE SURPRISED THEM.|ВЫ ИХ УДИВИЛИ.
+199|YOU ARE SUDDENLY FACE TO FACE WITH A GROUP OF |ВЫ ВНЕЗАПНО встретились лицом к лицу с группой
+200|.|.
+201|THEY ARE AS SURPRISED AS YOU.|ОНИ ТАКЖЕ УДИВЛЕННЫ, как и ВЫ.
+202|YOU INTIMIDATE THE MONSTERS SO MUCH THEY RUN AWAY!|ВЫ ЗАПРЕЩАЕТЕ МОНСТРОВ ТАК, ЧТО ОНИ УБЕГАЕТ!
+203|THE ORCS YELL OUT, 'WE HAVE ORDERS TO CHECK OUT SUSPICIOUS INDIVIDUALS, BUT YOUSE GUYS LOOK HARMLESS ENOUGH.'  AFTER TALKING THE FOUR ORCS WANDER AWAY.|Орки кричат: "У нас есть приказы, чтобы проверить подозрительных лиц, но вы, парни, выглядите достаточно безвредными". После разговора с четырьмя орками уходят прочь.
+204|DIRTEN SAYS, 'THANK YOU FOR HELPING US REGAIN OUR TEMPLE.  I MUST STAY HERE NOW.  I BID YOU FAREWELL.'|ГРЯЗНЫЙ ГОВОРИТ: "СПАСИБО ЗА ПОМОЩЬ НАМ ВОССТАНОВИТЬ НАШ ХРАМ. Я ДОЛЖЕН ОСТАТЬСЯ ЗДЕСЬ СЕЙЧАС. ПРОЩАЙСЯ С ВАМИ ".
+205|ORCS|ORCS
+206|ORCS|ORCS
+207|HOBGOBLINS|ХОБГОБЛИНЫ
+208|OGRES|ОГРЭС
+209|'WE GOTTA KEEP ALL YOU NONBELIVERS OUTA HERE' THE MONSTERS SAY AS THEY BEGIN TO LEAVE.  'SO HIT THE ROAD YA BUMS.'  THE MONSTERS TURN AND LEAVE.|"МЫ ДОЛЖНЫ ВЫДЕРЖАТЬ ЗДЕСЬ ВСЕХ НЕВЕРНЫХ", - ГОВОРЯТ МОНСТРЫ, НАЧИНАЯ УХОДИТЬ. "ТАК ПОПАДАЙТЕ В ДОРОГУ Я БУМС." МОНСТРЫ ПОВОРАЧИВАЮТСЯ И УЕЗЖАЮТ.
+210|IN A DEEP THREATENING VOICE ONE OF THE ORCS SAYS 'YOU MOLES BETTER WATCH YOUR STEP OR YOU SHALL FEEL THE WRATH OF BANE!'  AFTER SAYING THIS HE SPITS AND LEAVES.|ГЛУБОКОМ УГРОЖАЮЩИМ ГОЛОСОМ ОДИН ИЗ ОРКОВ ГОВОРИТ: "ВЫ ЛУЧШЕ СМОТРИТЕ СВОЙ ШАГ, ИЛИ ВЫ ЧУВСТВУЕТЕ Гнев Бэйна!" Сказав это, он плюет и уходит.
+211|ONE OF THE ORCS SAYS, 'OH, YEAH YOUSE THEM GUYS WHO KNOW WHERE DE TREASURE IS.  WE NOT SUPPOSED TO KILL YOU YET.'  THE ORCS THEN WANDER AWAY.|ОДИН ИЗ ОРКОВ СКАЗЫВАЕТ: "О, ДА, ВЫ, ПАРНИ, ЗНАЮЩИЕ ГДЕ СОКРОВИЩА. МЫ НЕ ДОЛЖНЫ УБИТЬ ВАС ". ОРКИ ТОГДА БУДУТ.
+212|'GET OUTA HERE BEFORE WE MAKE YOU LEAVE' THE MONSTERS YELL.  'AND YOU WONT COME BACK IF YOU KNOW WHATS GOOD FER YA'  THE MONSTERS THEN LEAVE.|"УБЕГАЙТЕ ЗДЕСЬ, ПРЕЖДЕ ЧЕМ МЫ Заставим вас уйти", - кричат ​​монстры. "И ВЫ НЕ ВОЗВРАЩАЕТЕСЬ, ЕСЛИ ЗНАЕТЕ, ЧТО ДЛЯ ВАС ХОРОШЕЕ", МОНСТРЫ УЕЗЖАЮТ.
+213|THE MONSTERS SCREAM 'OH YEAH, WELL I GUESS WERE JUST GONNA HAVE TO TEACH YOUSE GUYS A LESSON OR TWO'  THEY RUSH FOWARD TO ATTACK.|МОНСТРЫ КРИЧАТЬ: "О да, ну, я думаю, это просто нужно было научить ваших парней УРОК ИЛИ ДВА", И они устремляются в атаку.

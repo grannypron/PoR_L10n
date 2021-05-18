@@ -6,10 +6,12 @@ using System.Xml;
 
 namespace BinaryStringReplacement
 {
+
     class Program
     {
         static byte MAX_STRING_DIFFERENCE = 5;
         static byte[] data;
+        static int originalDataSize = 0;
         static bool eclMode = false;
         static void Main(string[] args)
         {
@@ -45,6 +47,7 @@ namespace BinaryStringReplacement
             FileStream fs = new FileStream(binFile, FileMode.Open, FileAccess.Read);
             data = new byte[fs.Length];
             fs.Read(data, 0, data.Length);
+            originalDataSize = data.Length;
             fs.Close();
 
             log("Loaded binary file.");
@@ -65,7 +68,10 @@ namespace BinaryStringReplacement
                         bytes[idx - 1] = (byte)Convert.ToInt32(tokens[idx], 16);
                     }
                     byteReplace(loc, bytes);
-                } else if (!replacement.StartsWith("//")) {
+                }
+                else if (!replacement.StartsWith("@@")) {
+                }
+                else if (!replacement.StartsWith("//")) {
                     // Assumes a format of id|from|to
                     string[] tokens = replacement.Split('|');
                     string id = tokens[0];
@@ -76,6 +82,7 @@ namespace BinaryStringReplacement
                     {
                         if (from != null && from.Trim() != "" && to.Trim() != "")
                         {
+                            log("from.Length:" + from.Length);
                             byte[] bFrom = System.Text.Encoding.ASCII.GetBytes(from);
                             byte[] bTo = System.Text.Encoding.ASCII.GetBytes(to);
                             if (eclMode)
@@ -83,15 +90,22 @@ namespace BinaryStringReplacement
                                 bFrom = CompressString(from);
                                 bTo = CompressString(to);
                             }
+
                             /* Debugging
-                            string bytes = "";
+                            string bytes = "FROM: ";
                             foreach (byte b in bFrom)
                             {
                                 bytes += ((int)b).ToString("X").PadLeft(2, '0') + "/";
                             }
-                            Console.WriteLine(bytes);
+                            log(bytes);
+                            bytes = "TO: ";
+                            foreach (byte b in bTo)
+                            {
+                                bytes += ((int)b).ToString("X").PadLeft(2, '0') + "/";
+                            }
+                            log(bytes);
                             */
-                            bool result = replaceString(bFrom, bTo, !eclMode, id);
+                            bool result = replaceString(bFrom, bTo, true, id);
 
                             if (result)
                             {
@@ -111,7 +125,12 @@ namespace BinaryStringReplacement
             }
             log("Writing file.");
 
-            fs = new FileStream(binFile, FileMode.Open, FileAccess.Write);
+            if (eclMode && originalDataSize != data.Length)
+            {
+                throw new Exception("Error: ECL file size must match original size!  Adjust translations to use the same number of characters overall in the file.  Use blank spaces if necessary.  New data size is " + data.Length + ".  Adjust to fit orignal file size of " + originalDataSize);
+            }
+
+            fs = new FileStream(binFile, FileMode.Truncate, FileAccess.Write);
             fs.Write(data, 0, data.Length);
             fs.Close();
             
@@ -174,24 +193,38 @@ namespace BinaryStringReplacement
 
             if (replacementStr.Length > availableLength)
             {
-                log("Warning: truncating because replacement string \"" + System.Text.Encoding.ASCII.GetString(replacementStr) + "\" is too long.  " + availableLength + " characters are available to replace \"" + System.Text.Encoding.ASCII.GetString(replaceThisStr) + "\". id: " + id);
-                byte[] tmp = new byte[availableLength];
-                Array.Copy(replacementStr, tmp, tmp.Length);
-                replacementStr = tmp;
+                if (!eclMode)
+                {
+                    log("Warning: truncating because replacement string \"" + System.Text.Encoding.ASCII.GetString(replacementStr) + "\" is too long.  " + availableLength + " characters are available to replace \"" + System.Text.Encoding.ASCII.GetString(replaceThisStr) + "\". id: " + id);
+                    byte[] tmp = new byte[availableLength];
+                    Array.Copy(replacementStr, tmp, tmp.Length);
+                    replacementStr = tmp;
+                } else {
+                    
+                    // Increase data size and make room for the new characters.  The characters that are within the limit will get copied over below
+                    int lengthDifference = replacementStr.Length - availableLength;
+                    Array.Resize(ref data, data.Length + lengthDifference);
+                    Array.Copy(data, 0, data, 0, foundIdx + replaceThisStr.Length);
+                    Array.Copy(data, foundIdx + lengthDifference - 1, data, foundIdx + lengthDifference + lengthDifference - 1, data.Length - (foundIdx + lengthDifference) - lengthDifference);
+                }
 
             }
             if (replacementStr.Length < replaceThisStr.Length)
             {
-                // String is shorter than the original - pad it with spaces - leave the length the same
-                byte[] tmp = new byte[replaceThisStr.Length];
-                Array.Copy(replacementStr, tmp, replacementStr.Length);
-                for (int idx = replacementStr.Length; idx < replaceThisStr.Length; idx++)
+                if (!eclMode)
                 {
-                    tmp[idx] = (byte)' ';
+                    // String is shorter than the original - pad it with spaces - leave the length the same
+                    byte[] tmp = new byte[replaceThisStr.Length];
+                    Array.Copy(replacementStr, tmp, replacementStr.Length);
+                    for (int idx = replacementStr.Length; idx < replaceThisStr.Length; idx++)
+                    {
+                        tmp[idx] = (byte)' ';
+                    }
+                    replacementStr = tmp;
+                } else {
+                    deleteByte(foundIdx + replacementStr.Length, replaceThisStr.Length - replacementStr.Length);
                 }
-                replacementStr = tmp;
             }
-
 
             for (int idx = 0; idx < replacementStr.Length; idx++)
             {
@@ -203,6 +236,12 @@ namespace BinaryStringReplacement
 
             return true;
 
+        }
+
+        public static void deleteByte(int idx, int length)
+        {
+            Array.Copy(data, idx + length, data, idx, data.Length - idx - length);
+            Array.Resize(ref data, data.Length - length);
         }
 
         private static void byteReplace(int loc, byte[] replaceData)
@@ -583,6 +622,7 @@ namespace BinaryStringReplacement
 
         private static void log(string message)
         {
+            System.Diagnostics.Debug.WriteLine(message);
             Console.WriteLine(message);
         }
     }

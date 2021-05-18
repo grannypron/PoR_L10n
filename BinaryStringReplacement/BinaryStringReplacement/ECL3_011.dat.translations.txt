@@ -1,0 +1,40 @@
+﻿184|YOU ARE ROUSTED BY THE CITY WATCH AND TOLD TO MOVE ALONG. WHAT DO YOU DO?|ГОРОДСКИЕ ЧАСЫ ЗАПРЕЩАЮТ ВАС И СКАЗАТЬ ПЕРЕМЕЩАТЬСЯ. ЧТО ВЫ ДЕЛАЕТЕ?
+185|GO|ИДТИ
+186|FIGHT|БОРЬБА
+187|NOTICES FOR TEACHERS AND STUDENTS ARE POSTED ON THE WALLS.  A NOTE DIRECTS MAGIC USERS AND CLERICS TO GO NORTH AND FIGHTERS AND 'ROGUES' TO GO EAST.|НА СТЕНАХ РАЗМЕЩАЮТСЯ УВЕДОМЛЕНИЯ ДЛЯ УЧИТЕЛЕЙ И СТУДЕНТОВ. ПРИМЕЧАНИЕ НАПРАВЛЯЕТ ПОЛЬЗОВАТЕЛЕЙ МАГИИ И КЛЕРИКОВ НА СЕВЕР, а БОРЬБЫ И "РОГОВ" - НА ВОСТОК.
+188|A SIGN ON THE WALL DIRECTS MAGIC USERS TO GO THROUGH THE EAST DOOR AND CLERICS TO GO THROUGH THE WEST DOOR.|ЗНАК НА СТЕНЕ УПРАВЛЯЕТ ВОЛШЕБНЫХ ПОЛЬЗОВАТЕЛЕЙ ПРОХОДИТЬ ЧЕРЕЗ ВОСТОЧНУЮ ДВЕРЬ, А КЛЕРИКОВ - ЧЕРЕЗ ЗАПАДНУЮ ДВЕРЬ.
+189|CLERICS |КЛЕРИКИ
+190|MAGIC USERS |ВОЛШЕБНЫЕ ПОЛЬЗОВАТЕЛИ
+191|THE ROOM IS FILLED WITH DUELING PAIRS.|НОМЕР ЗАПОЛНЕН ДВОЙНЫМИ ПАРАМИ.
+192|THE ARENA MASTER ASKS IF YOU WISH TO DUEL.  'THE DUELS  ARE EVENLY MATCHED AND NORMALLY NOT TO THE DEATH. DO YOU DUEL?'|МАСТЕР АРЕНЫ СПРАШИВАЕТ, ХОТИТЕ ЛИ ВЫ ДУЭЛЬ. "ДУЭЛИ РАВНОМЕРНЫ И ОБЫЧНО НЕ ДО СМЕРТИ. ВЫ ДУЭЛЬ?
+193|WHO WILL DUEL?|КТО БУДЕТ ДУЭЛЬ?
+194|I CANNOT ARRANGE SUCH A DUEL.|Я НЕ МОГУ УСТАНОВИТЬ ТАКОЙ ДУЭЛЬ.
+195|A SIGN ON THE NORTH DOOR READS 'FIGHTERS'.|ЗНАК НА СЕВЕРНОЙ ДВЕРИ ЧИТАЕТ "БОЙЦЫ".
+196|FIGHTERS |БОЙЦЫ
+197|THIEVES |ВОРЫ
+198|A SIGN ON THE NORTH DOOR READS 'ROGUES'.|ЗНАК НА СЕВЕРНОЙ ДВЕРИ СЧИТЫВАЕТ "РОГОВ".
+199|'WE TRAIN ONLY |'ТРЕНИРУЕМ ТОЛЬКО
+200|HERE. DO YOU WANT TO TRAIN?'|ЗДЕСЬ. ХОТИТЕ ТРЕНИРОВАТЬСЯ?
+201|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+202|'DO YOU SEEK A PARTNER FOR YOUR ADVENTURING?'|"ВЫ ИЩЕТЕ ПАРТНЕРА ДЛЯ ВАШЕГО ПРИКЛЮЧЕНИЯ?"
+203|'THERE IS NO ONE WHO WILL GO WITH YOU.'|"С ВАМИ НИКТО НЕ ПОЙДЕТ".
+204|YES|ДА
+205|NO|НЕТ
+206|ACOLYTE|ACOLYTE
+207|WARRIOR|ВОИН
+208|EVOKER|EVOKER
+209|SWORDSMAN|ФЕХТОВАЛЬЩИК
+210|ROBBER|ГРАБИТЕЛЬ
+211|CURATE|CURATE
+212|HERO|ГЕРОЙ
+213|THEURGIST|ТЕУРГ
+214|1 SHARE|1 ПОДЕЛИТЬСЯ
+215|2 SHARES|2 АКЦИИ
+216|3 SHARES |3 АКЦИИ
+217| PLUS A PICK OF SPECIAL ITEMS| ПЛЮС НАБОР СПЕЦИАЛЬНЫХ ПРЕДМЕТОВ
+218|4 SHARES |4 АКЦИИ
+219|'THERE IS A FINE |'ЕСТЬ ШТРАФ
+220| WHO WILL JOIN YOU FOR | КТО ПРИСОЕДИНЯЕТСЯ К ВАМ
+221|. IS THIS ACCEPTABLE?'|. ЭТО ДОПУСТИМО?
+222|'WOULD YOU LIKE TO CONSIDER SOMEONE ELSE?'|"ХОТИТЕ ЛИ ВЫ ПОСМОТРЕТЬ КТО-ТО ЕЩЕ?"
+223|'YOUR PARTY IS TOO LARGE TO JOIN AT THIS TIME.  RETURN WHEN IT IS SMALLER.'|"ВАША ПАРТИЯ СЛИШКОМ БОЛЬШАЯ, ЧТОБЫ ПРИСОЕДИНЯТЬСЯ В ЭТО ВРЕМЯ. ВОЗВРАЩЕНИЕ, КОГДА ОНА МЕНЬШЕ ".            

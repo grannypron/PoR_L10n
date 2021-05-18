@@ -1,0 +1,83 @@
+﻿101|YOU ARE INTERCEPTED BY THE COUNCIL GUARD. 'HALT.  YOUR PRESENCE IS NOT AUTHORIZED.  LEAVE.'  DO YOU LEAVE?|ВАС ЗАХВАТЫВАЕТ СОВЕТ. 'HALT. ВАШЕ ПРИСУТСТВИЕ НЕ РАЗРЕШЕНО. ПОКИНУТЬ.' ТЫ УХОДИШЬ?                    
+102|YES|ДА
+103|NO|НЕТ
+104|THE REMAINING GUARDS DECIDE TO LEAVE YOU ALONE.|ОСТАВШИЕСЯ ОХРАННИКИ ПРИНИМАЮТ ВАС ОСТАВИТЬСЯ.                    
+105|YOU ENTER THE CITY HALL.  AS YOU FACE DOWN THE HALLWAY, YOU SEE A GUARDED DOOR.|ВЫ ВОЙДИТЕ В ГОРОДСКОЙ ЗАЛ. КАК ВЫ ВИДИТЕ В КОРИДОР, ВЫ ВИДИТЕ ЗАЩИЩЕННУЮ ДВЕРЬ.                    
+106|YOU ARE OUTSIDE THE CLERK'S OFFICE. GUARDS POSTED AROUND A DOOR IN THE SOUTH WALL WATCH YOU CLOSELY.|ВЫ НАХОДИТЕСЬ ВНЕ ОФИСА КЛЕРКА. ОХРАННИКИ, РАСПОЛОЖЕННЫЕ ВОКРУГ ДВЕРИ В ЮЖНОЙ СТЕНЕ, БУДУТ НА ВАС ПРИСУТСТВУЮТ.                    
+107|AT YOUR ENTRY, THE COUNCIL CLERK BEGINS LOOKING THROUGH A STACK OF PAPERS.  'BEFORE I CAN OFFER ANY COMMISSIONS, I MUST SEE IF YOU ARE DUE A CURRENT REWARD.|ПРИ ВАШЕМ ВСТУПЛЕНИИ СОВЕТНИК НАЧИНАЕТ ПРОСМОТРЕТЬ СТУПКУ ДОКУМЕНТОВ. "ПРЕЖДЕ ЧЕМ Я МОГУ ПРЕДЛОЖИТЬ ЛЮБЫЕ КОМИССИИ, Я ДОЛЖЕН УЗНАТЬ, ПРИЧИНА ЛИ ВАМ ТЕКУЩАЯ НАГРАДА.                    
+108|'WE HAVE BEEN INFORMED YOU HAVE ELIMINATED SOME UNDEAD FROM THE GRAVEYARD.|"НАМ СООБЩИЛИ, ЧТО ВЫ УБИРАЛИ НЕКОТОРЫЕ НЕМЕРТЫЕ С КЛАДБИЩА.                    
+109|'WHEN OLD PHLAN WAS OVERRUN, A FAMILY TREASURE WAS HIDDEN IN THE WESTERN BUILDING OF THE TEXTILE COMPLEX.|"КОГДА СТАРЫЙ ФЛАН БЫЛ ПЕРЕПОЛНЕН, В ЗАПАДНОМ ЗДАНИИ ТЕКСТИЛЬНОГО КОМПЛЕКСА было спрятано семейное сокровище.                    
+110|'THE FAITHFUL SERVANT SENT TO FETCH IT NEVER RETURNED.  THE COMPLEX IS JUST SOUTH OF PODOL PLAZA.  BRING THE TREASURE TO ME AND YOU WILL BE WELL REWARDED.'|"ВЕРНЫЙ СЛУГА, ПОСЛАННЫЙ ЗА ЕГО, НИКОГДА НЕ ВОЗВРАЩАЕТСЯ. КОМПЛЕКС НАХОДИТСЯ ТОЛЬКО ЮЖНО ОТ PODOL PLAZA. ПРИОБРЕСТИ МНЕ СОКРОВИЩЕНИЕ, И ВЫ БУДЕТЕ НАГРАДИТЬСЯ ".                    
+111|'IT IS IMPERATIVE THAT A MESSAGE BE DELIVERED TO THE ZHENTIL OUTPOST TO THE WEST.  I AM SENDING YOU AS DIPLOMATIC ENVOYS.|"ОБЯЗАТЕЛЬНО ДОСТАВЬТЕ СООБЩЕНИЕ НА ОТВЕРСТИЕ ЖЕНТИЛ НА ЗАПАД. ОТПРАВЛЯЮ ВАС КАК ДИПЛОМАТИЧЕСКИЕ УЧАСТНИКИ.                    
+112|'WHEN YOU GET TO ZHENTIAL KEEP, PRESENT THIS PACKET TO ITS COMMANDANT.  DO NOT BREAK THE SEALS OR YOU WILL BE SEIZED AS SPIES.'|"КОГДА ВЫ НАХОДИТЕСЬ НА ZHENTIAL KEEP, ПРЕДСТАВЬТЕ ДАННЫЙ ПАКЕТ ЕГО КОМАНДУЮ. НЕ СРЫВАЙТЕ ПЕЧАТИ, Иначе вас схватят как шпионов ".                    
+113|'THANK YOU FOR COMING.  I MUST BE BRIEF FOR OUR NEED IS URGENT.  OUR ONE CHANCE TO DEFEAT THE ENEMY IS THROUGH AN ASSAULT ON THE CASTLE. TO DO THIS, WE MUST FIRST SECURE STOJANOW GATE.|'СПАСИБО ЧТО ПРИШЛИ. Я ДОЛЖЕН БЫТЬ КОРОТКО, ЧТО НАША НЕОБХОДИМА СРОЧНО. НАШ ОДИН ШАНС ПОБЕДИТЬ ВРАГА - НАПАДЕНИЕ НА ЗАМОК. ДЛЯ ЭТОГО МЫ ДОЛЖНЫ СНАЧАЛА ЗАЩИТИТЬ СТОДЖАНОВСКИЕ ВОРОТА.                    
+114|'THE GATE IS TOO STRONG TO BE TAKEN BY STORM. A SMALL BAND MUST SLIP INSIDE AND HOLD UNTIL RELIEVED. YOU ARE THE BEST AND THE BRAVEST. THE COUNCIL HAS INSTRUCTED ME TO ENTRUST THE TASK TO YOU.'|"ВОРОТА СЛИШКОМ СИЛЬНЫ, чтобы их взяла буря. МАЛЕНЬКАЯ ЛЕНТА ДОЛЖНА ЗАСЛУЖИВАТЬСЯ ВНУТРИ И ДЕРЖАТЬ, ДО НАПРАВЛЕНИЯ. ВЫ САМЫЙ ЛУЧШИЙ И САМЫЙ. СОВЕТ НАУЧИЛ МЕНЯ ДОВЕРЯТЬ ЗАДАЧУ ВАМ ".                    
+115|IN THE COUNCIL CHAMBERS, THE ENTIRE CITY COUNCIL IS WAITING FOR YOU. THE LORD HIGH MAYOR, ULRICH EBERHARD, SPEAKS: 'OUR FORCES ARE MARSHALLED FOR THE ASSAULT ON VALJEVO CASTLE.|В ПАЛАТАХ СОВЕТА ВАС ЖДЕТ ВЕСЬ ГОРОДСКОЙ СОВЕТ. ГОСПОДЬ Верховный мэр Ульрих ЭБЕРХАРД ГОВОРИТ: "НАШИ СИЛЫ БУДУТ МАРШРУТНЫМИ ДЛЯ НАПАДЕНИЯ НА ЗАМОК ВАЛЬЕВО.                    
+116|'IT IS THE UNANIMOUS REQUEST OF THE COUNCIL THAT YOU LEAD THE ATTACK. YOUR SKILL AND BRAVERY HAVE WON THE ADMIRATION OF ALL PHLAN.  WE LOOK TO YOU TO HELP US WIN OUR FREEDOM.'|"ЭТО ЕДИНОГЛАСНАЯ ПРОСЬБА СОВЕТА, ЧТО ВЫ РУКОВОДИТЕ АТАКУ. ВАШИ НАВЫКИ И ХАРАКТЕРИСТИКА ВЫЗЫВАЛИ ВОПРОСЫ ВСЕХ ФЛАНОВ. МЫ СМОЖЕМ НА ВАС ПОМОЧЬ В ОБЕСПЕЧЕНИИ СВОБОДЫ ".                    
+117|YOU ARE INTERCEPTED BY THE COUNCIL GUARD. 'HALT.  YOUR PRESENCE IS NOT AUTHORIZED.  LEAVE.'  DO YOU LEAVE?|ВАС ЗАХВАТЫВАЕТ СОВЕТ. 'HALT. ВАШЕ ПРИСУТСТВИЕ НЕ РАЗРЕШЕНО. ПОКИНУТЬ.' ТЫ УХОДИШЬ?                    
+118|THE WAY IS BLOCKED.|ПУТЬ ЗАБЛОКИРОВАН.                    
+119|COUNCILMAN CADORNA CONFRONTS YOU. 'YOU HAVE TAKEN MY FAMILY TREASURE. I DON'T FORGET SUCH THINGS.' HE STRIDES OFF.|СОВЕТНИК КАДОРНА ПРЕПЯТСТВУЕТ ВАМ. "ВЫ ПРИНЯЛИ МОЕ СЕМЕЙНОЕ СОКРОВИЩЕ. Я ТАКОГО НЕ ЗАБЫВАЮ ". ОН УБИВАЕТСЯ.                    
+120|'BACK SO SOON? I CAN ONLY REPEAT THE EARLIER OFFERS: '|"СКОРО ВЕРНУТЬСЯ? Я МОГУ ТОЛЬКО ПОВТОРИТЬ РАННЕЕ ПРЕДЛОЖЕНИЕ: '
+121|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+122| HERE IS YOUR REWARD.'| ВОТ ВАША НАГРАДА.
+123|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+124|'THESE ARE ALL OF THE COMMISSIONS CURRENTLY AVAILABLE.'|"ЭТИ КОМИССИИ В НАСТОЯЩЕЕ ВРЕМЯ ДОСТУПНЫ".                    
+125|'THESE ARE ALL OF THE COMMISSIONS CURRENTLY AVAILABLE.'|"ЭТИ КОМИССИИ В НАСТОЯЩЕЕ ВРЕМЯ ДОСТУПНЫ".                    
+126|THE SLUMS IMMEDIATELY TO OUR WEST NEED TO BE CLEARED OF MONSTERS.'|СРАЗУ НА НАШ ЗАПАД НЕОБХОДИМО ОЧИСТИТЬ ОТ МОНСТРОВ ".                    
+127|SOKAL KEEP ON THORN ISLAND MUST BE CLEARED.'|СОКАЛ ХРАНИТЬ НА ОСТРОВЕ ТОРН ДОЛЖЕН БЫТЬ РАСШИРЕН ".                    
+128|THE COUNCIL IS OFFERING A REWARD FOR BOOKS, MAPS, TOMES, ETC. WHICH PROVIDE USEFUL INFORMATION ABOUT PHLAN BEFORE THE FALL.  THE REWARD IS TIED TO THE VALUE OF THE INFORMATION.'|СОВЕТ ПРЕДЛАГАЕТ НАГРАДУ ЗА КНИГИ, КАРТЫ, ФОМУ И Т.Д. КОТОРЫЕ ПРЕДОСТАВЛЯЮТ ПОЛЕЗНУЮ ИНФОРМАЦИЮ О PHLAN ДО ПАДЕНИЯ. НАГРАДА СВЯЗАНА СО ЦЕННОСТЬЮ ИНФОРМАЦИИ ".                    
+129|A WEAPON OF GREAT POWER IS TO BE AUCTIONED TO OUR ENEMIES. THIS AUCTION IS TO BE HELD IN PODAL PLAZA.  FIND OUT WHAT THE WEAPON IS AND RETURN.'|НАШИМ ВРАГАМ БУДЕТ ПРОДАВАТЬ ОРУЖИЕ БОЛЬШОЙ СИЛЫ. ЭТОТ АУКЦИОН ПРОВОДИТСЯ НА PODAL PLAZA. УЗНАЙТЕ, ЧТО ЭТО ОРУЖИЕ, И ВОЗВРАЩАЙТЕ ".           
+130|JUNIOR COUNCILMAN CADORNA HAS A SPECIAL COMMISSION FOR YOU.  HIS CHAMBERS ARE THROUGH THE EAST DOOR.'|МЛАДШИЙ СОВЕТНИК КАДОРНА ИМЕЕТ ДЛЯ ВАС СПЕЦИАЛЬНУЮ КОМИССИЮ. ЕГО КАМЕРЫ ПРОХОДЯТ ЧЕРЕЗ ВОСТОЧНУЮ ДВЕРЬ.
+131|YOU ARE SUMMONED BY THE BISHOP OF BRACCIO OF TYR. REPORT TO HIM AT TYR'S TEMPLE.'|ВАС ПРИЗЫВАЕТ ЕПИСКОП ТИРСКИЙ БРАЧЧИО. ДОКЛАДАТЬ ЕМУ В ХРАМ ТИРА.
+132|A LARGE GROUP OF THIEVES OPERATES OUT OF THE OLD KOVEL MANSION. THE COUNCIL WILL PAY TO HAVE THEM CLEANED OUT.'|БОЛЬШАЯ ГРУППА ВОРОВ ДЕЙСТВУЕТ ИЗ СТАРОГО КОВЕЛЯ. СОВЕТ ПЛАТИТ ЗА ИХ УБИРАТЬ ".
+133|FIND THE NOMADS AND STOP THEM FROM JOINING FORCES WITH OUR ENEMIES.'|Найдите кочевников и остановите их от объединения сил с нашими врагами ".
+134|A LARGE TRIBE OF KOBOLDS IS BEING RECRUITED BY THE ENEMY.  MAKE SURE THEY DON'T JOIN THE ENEMY FORCES.'|БОЛЬШАЯ ЧАСТЬ КОБОЛДОВ НАБИРАЕТСЯ ВРАГОМ. УБЕДИТЕСЬ, ЧТО ОНИ НЕ ПРИСОЕДИНЯЮТСЯ К СИЛАМ ВРАГА ".
+135|FIND THE SOURCE OF THE RIVER'S POLLUTION AND END IT.'|НАЙДИТЕ ИСТОЧНИК ЗАГРЯЗНЕНИЯ РЕКИ И ПОКОНЧИТЕ ЕГО ".
+136|A TRIBE OF LIZARDMEN IS PREPARING TO JOIN THE ENEMY.  PREVENT THIS.'|Племя ящериц готовится присоединиться к врагу. ПРЕДОТВРАЩАЙТЕ ЭТО.
+137|THE HEIR TO THE HOUSE OF BIVANT MUST BE RESCUED.  WE WILL PAY GENEROUSLY FOR HIS SAFE RETURN.'|НАСЛЕДНИКА ДОМА БИВАНТА ДОЛЖЕН БЫТЬ СПАСЕН. МЫ ЩЕДРО ПЛАТИТЕ ЗА ЕГО БЕЗОПАСНЫЙ ВОЗВРАТ ".
+138|LORD CADORNA HAS A DELICATE DIPLOMATIC MISSION THAT REQUIRES YOUR PARTICULAR SKILLS.  YOU ARE SUMMONED TO HIS CHAMBERS. GO THROUGH THE SOUTH DOOR.'|У ЛОРДА КАДОРНЫ ИСКУССТВЕННАЯ ДИПЛОМАТИЧЕСКАЯ МИССИЯ, КОТОРАЯ ТРЕБУЕТ ВАШИ ОСОБЕННЫЕ НАВЫКИ. ВЫ ПРИЗЫВАЕТЕ В ЕГО КАМЕРЫ. ПРОЙДИТЕ ЧЕРЕЗ ЮЖНУЮ ДВЕРЬ.
+139|LORD URSLINGEN WISHES URGENTLY TO SPEAK WITH YOU.  GO THROUGH THE SOUTH DOOR OF THE TRAITOR CADORNA'S OLD QUARTERS.'|ГОСПОДЬ УРСЛИНГЕН НАСТОЯТЕЛЬНО ЖЕЛАЕТ ПОГОВОРИТЬ С ВАМИ. ПРОЙДИТЕ ЧЕРЕЗ ЮЖНУЮ ДВЕРЬ СТАРОГО КВАРТАЛА ПРЕДАТЕЛЯ КАДОРНЫ.
+140|YOU ARE SUMMONED TO A SPECIAL COUNCIL MEETING.  YOU ARE TO BE AWARDED A VALUABLE COMMISSION. THE CITY GUARDS WILL SHOW YOU THE WAY.'|ВЫ ВЫЗВАНЫ НА СПЕЦИАЛЬНОЕ ЗАСЕДАНИЕ СОВЕТА. ВЫ ДОЛЖНЫ ПОЛУЧИТЬ ЦЕННУЮ КОМИССИЮ. ГОРОДСКАЯ ОХРАНА ПОКАЖЕТ ВАМ ПУТЬ ".
+141|'BY THE WAY, YOUR BUNGLING THE BIVANT RESCUE HAS COST US.'|"Кстати, ваше спасение на биванте обошлось нам".
+142|LIBRARY.'|БИБЛИОТЕКА.'
+143|WE NEED YOU TO DELIVER A MESSAGE TO THE ZHENTIL KEEP TO THE WEST. BE CAREFUL, THE TRAITOR CADORNA MAY HAVE TAMPERED WITH THE MESSAGE PACKET BEFORE HE FLED.'|НАМ НУЖНО ДОСТАВИТЬ СООБЩЕНИЕ ЖЕНТИЛЬСКОМУ ХРАНИНУ НА ЗАПАД. БУДЬТЕ ОСТОРОЖНЫ, ПРЕДАТЕЛЬ КАДОРНА МОЖЕТ ИЗМЕНИТЬ ПАКЕТ СООБЩЕНИЙ ДО УБЕГА ".
+144|THE GUARD CAPTAIN STEPS FORWARD. 'PLEASE LET US SHOW YOU THE WAY.'|КАПИТАН ОХРАННИКА ШАГАЕТ ВПЕРЕД. "ПОЖАЛУЙСТА, ДАВАЙТЕ НАМ ПОКАЗАТЬ ВАМ ПУТЬ".
+145|PODAL PLAZA.'|PODAL PLAZA. '
+146|'THERE IS A REWARD FOR CLEARING THE |"ЕСТЬ НАГРАДА ЗА ПОЛУЧЕНИЕ
+147|PUTTING DOWN THE PAPERS, SHE SAYS, 'I MUST BRING TO YOUR ATTENTION THE FOLLOWING CONCERNING VALHINGEN GRAVEYARD: '|ПОДСТАВЛЯЯ ДОКУМЕНТЫ, ОНА ГОВОРЯТ: "Я ДОЛЖНА ОБРАТИТЬ ВАШЕ ВНИМАНИЕ СЛЕДУЮЩИЕ, КАСАЮЩИЕСЯ ВАЛХИНГЕНСКОГО КЛАДБИЩА:"
+148|THE UNDEAD ARE CROSSING THE RIVER IN HORDES AND KILLING OR CARRYING OFF OUR SETTLERS.  THE COUNCIL DEMANDS THESE ATTACKS BE STOPPED. A GENEROUS REWARD IS OFFERED.'|НЕМЕРТЫЕ пересекают реку ордами и убивают или уносят наших поселенцев. СОВЕТ ТРЕБУЕТ ПРЕКРАЩЕНИЯ ЭТИ АТАКИ. ПРЕДЛАГАЕТСЯ ЩЕДРАЯ НАГРАДА ".
+149|CADORNA TEXTILE HOUSE.'|КАДОРНА ТЕКСТИЛЬНЫЙ ДОМ ".
+150|'THERE IS A REWARD FOR CLEARING THE |"ЕСТЬ НАГРАДА ЗА ПОЛУЧЕНИЕ
+151| HERE IS YOUR REWARD.'| ВОТ ВАША НАГРАДА.
+152|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+153|THE CLERK SHUFFLES THROUGH HER PAPERS. 'ON THE MATTER OF COMMISSION,' SHE SAYS, 'I CAN OFFER THE FOLLOWING: '|КЛЕРК ПРОСЫПАЕТ СВОИ БУМАГИ. "ПО ВОПРОСАМ КОМИССИИ, - ГОВОРЯЕТ ОНА, - Я МОГУ ПРЕДЛОЖИТЬ СЛЕДУЮЩЕЕ:"
+154|UNDEAD FROM THE GRAVEYARD HAVE GROWN MORE DANGEROUS THAN ALL OF THE OTHER FORCES WHICH CONFRONT US.|НЕМЕРТВЫЕ С КЛАДБИЩА СТАНОВИЛИ БОЛЕЕ ОПАСНЕЕ, ЧЕМ ВСЕ ДРУГИЕ СИЛЫ, КОТОРЫЕ НАС НАМ.
+155|'I HAVE BEEN AUTHORIZED TO GIVE YOU AN ENCHANTED WEAPON IF YOU ACCEPT THE COMMISSION TO END THE GRAVEYARD MENACE.  DO YOU ACCEPT?'|"Я РАЗРЕШЕНО ПОДАВАТЬ ВАМ ЗАЧАРОВАННОЕ ОРУЖИЕ, ЕСЛИ ВЫ ПРИНИМАЕТЕ КОМИССИЮ ПО ПРЕКРАЩЕНИЮ НАГРУЗЧИКА. ВЫ ПРИНИМАЕТЕ?'
+156|'EXCELLENT.'|'ОТЛИЧНО.'
+157|THE CLERK SHUFFLES THROUGH HER PAPERS. 'ON THE MATTER OF COMMISSION,' SHE SAYS, 'I CAN OFFER THE FOLLOWING: '|КЛЕРК ПРОСЫПАЕТ СВОИ БУМАГИ. "ПО ВОПРОСАМ КОМИССИИ, - ГОВОРЯЕТ ОНА, - Я МОГУ ПРЕДЛОЖИТЬ СЛЕДУЮЩЕЕ:"
+158|THE CLERK SPEAKS. '|КЛЕРК ГОВОРИТ. '
+159|THE COUNCIL HAS AWARDED A BONUS FOR YOUR ELIMINATING NORRIS THE GRAY.|СОВЕТ НАГРАЖДЕН БОНУСОМ ЗА УНИЧТОЖЕНИЕ НОРРИСА СЕРЫХ.
+160|WITH SOKAL KEEP IN OUR HANDS, WE CAN USE BOATS TO BYPASS THE BARREN RIVER.|СОКАЛЬ В НАШИХ РУКАХ МЫ МОЖЕМ ИСПОЛЬЗОВАТЬ ЛОДКИ, ЧТОБЫ ОБОЙТИ БАРРЕН.
+161|YOU HAVE CLEARED THE AREA NEXT TO THE EVIL TEMPLE.|ВЫ РАСЧИЛИЛИ ПЛОЩАДЬ ПОСЛЕ ЗЛОГО ХРАМА.
+162|BIVANT WAS DELIGHTED WITH THE CHILD'S RESCUE.  THEY LEFT SOME TRINKETS FOR YOU.|БИВАНТ БЫЛ ПОРАЖЕН СПАСЕНИЕМ РЕБЕНКА. ОНИ ОСТАЛИ ДЛЯ ВАС НЕКОТОРЫЕ БРЮКИ.
+163|WE FIND THESE DISCOURSES VALUABLE.|МЫ НАХОДИМ ЭТИ СКИДКИ ЦЕННЫМИ.
+164|THE COUNCIL WILL BE AMUSED BY THE DESCRIPTIONS.|СОВЕТ ПОНРАВИТСЯ НА ОПИСАНИЕ.
+165|THESE MAPS SHOULD HELP US TO LOCATE SEVERAL LEGENDARY BUILDINGS.|ЭТИ КАРТЫ ДОЛЖНЫ ПОМОЧЬ НАМ НАЙТИ НЕСКОЛЬКО ЛЕГЕНДАРНЫХ ЗДАНИЙ.
+166|THESE HISTORIES CONTAIN MUCH USEFUL INFORMATION.|ЭТИ ИСТОРИИ СОДЕРЖАТ МНОГО ПОЛЕЗНОЙ ИНФОРМАЦИИ.
+167|THE RECORDS PROVIDE INSIGHTS INTO MUCH THAT WAS PUZZLING.|ОТЧЕТЫ ПОЛУЧИЛИ ИНФОРМАЦИЮ, КОТОРАЯ ВЫЗЫВАЛА ЗАДАЧУ.
+168|THIS MATERIAL IS OF SMALL VALUE.|ЭТОТ МАТЕРИАЛ НЕБОЛЬШОЙ ЦЕННОСТИ.
+169|YOUR SUCCESS AT PODAL PLAZA IS NOTED.|ВАШ УСПЕХ НА PODAL PLAZA ОТМЕТИЛСЯ.
+170|THE COUNCIL HAS VOTED A SPECIAL PRIZE FOR ENDING THE GRAVEYARD MENACE.|СОВЕТ ГОЛОСОВАЛ СПЕЦИАЛЬНЫЙ ПРИЗ ЗА ЗАКОНЧЕНИЕ МОГИЛЬНИКА.
+171|THE COUNCIL WAS PLEASED BY THE ELIMINATION OF THE THIEVES IN KOVEL MANSION.|СОВЕТ БЫЛ УДОВЛЕТВОРЕН УСТРАНЕНИЕМ ВОРОВ В ОСОБНЯКЕ КОВЕЛА.
+172|WITH THE CLEARING OF THE STOJONOW RIVER, WE CAN OPEN UP THE HINTERLANDS FOR TRADE.|С ОЧИСТКОЙ РЕКИ СТОЖОНОВ МЫ МОЖЕМ ОТКРЫТЬ ВНУТРЕННИЕ ЗЕМЛИ ДЛЯ ТОРГОВЛИ.
+173|WE WERE PLEASANTLY SURPRISED THAT YOU COMPLETED YOUR MISSION SO SWIFTLY.  CADORNA WAS WAGERING YOUR RETURN WOULD BE MUCH DELAYED.|МЫ ПРИЯТНО УДИВИЛИСЬ, ЧТО ВЫ ТАК БЫСТРО ВЫПОЛНИЛИ СВОЮ МИССИЮ. КАДОРНА СТАЛАЛАСЬ, ВАШ ВОЗВРАЩЕНИЕ БЫЛО ЗАДЕРЖЕНО.
+174|YOUR ELIMINATION OF THE LIZARDMEN MENACE HAS GREATLY IMPROVED OUR STRATEGIC POSITION.|ВАШЕ УСТРАНЕНИЕ МУЖЧИН ЯЩЕРЧЕК НАМ УЛУЧШЕНО НАШЕ СТРАТЕГИЧЕСКОЕ ПОЛОЖЕНИЕ.
+175|THIS LOSS OF THE KOBOLD FORCES WILL BE A MAJOR BLOW TO THE ENEMY.|ЭТА ПОТЕРЯ СИЛ КОБОЛЬДОВ БУДЕТ СЕРЬЕЗНЫМ УДАРОМ ДЛЯ ВРАГА.
+176|WE WERE MUCH RELIEVED BY THE NEWS YOU BRING FROM THE NOMAD CAMP.|НАС НАМ ОЧЕНЬ ПОРАЖИЛИ НОВОСТИ, ПРИВЕДЕННЫЕ ВЫ ИЗ ЛАГЕРЯ NOMAD.
+177|COUNCILMAN CADORNA LEFT THIS PAYMENT FOR SOME SERVICE YOU HAD RENDERED.|СОВЕТНИК КАДОРНА ОСТАВИЛ ЭТУ ПЛАТУ ЗА НЕКОТОРЫЕ УСЛУГИ, КОТОРЫЕ ВЫ ПРЕДОСТАВИЛИ.
+178|YOUR TAKING THE GATE WILL ENABLE OUR FORCES TO ASSAULT THE ENEMY STRONGHOLD. RETURN THERE TO LEAD THE ATTACK.|ВАШЕ ВРАЩЕНИЕ ДАЕТ НАШИ СИЛЫ НАПАДАТЬ НА СИЛЬНУЮ СИЛЬНУЮ ВРАГ. ВЕРНУТЬСЯ В АТАКУ.
+179|CONGRATULATIONS! YOUR QUEST IS OVER! TYRANTHRAXUS IS DEFEATED! PHLAN IS FREE! IF YOU WISH, YOU MAY CONTINUE TO HELP US CLEAR ANY REMAINING MONSTERS. ALL PHLAN SALUTES YOU!|ПОЗДРАВЛЯЕМ! ВАШ ПОИСК ЗАВЕРШЕН! ТИРАНТРАКС ПОБЕДЕН! PHLAN БЕСПЛАТНО! ЕСЛИ ВЫ ХОТИТЕ, ВЫ МОЖЕТЕ ПРОДОЛЖИТЬ ПОМОЩЬ НАМ УБИРАТЬ ЛЮБЫХ ОСТАВШИХСЯ МОНСТРОВ. ВСЕ ФЛАНЫ ПРЕДЛАГАЮТ ВАС!
+180|YOUR CLEARING OF THE SLUM AREAS PERMITS US TO EXPAND.|ВАША ОЧИСТКА ТРУБОПРОВОДОВ РАЗРЕШАЕТ НАМ РАСШИРЯТЬСЯ.
+181|CONGRATULATIONS, YOU MAY KEEP ALL YOU FOUND IN THE TEMPLE OF BANE AS A REWARD.'|ПОЗДРАВЛЯЕМ, ВЫ МОЖЕТЕ СОХРАНИТЬ В НАГРАДУ ВСЕ, ЧТО ВЫ НАЙДЕТЕ В ХРАМЕ БЕЙНА ".
+182|PORPHYRYS CADORNA IS A TRAITOR TO THE CITY. IF YOU FIND HIM, KILL HIM.'|PORPHYRYS CADORNA - ПРЕДАТЕЛЬ ГОРОДА. ЕСЛИ ВЫ НАЙДЕТЕ ЕГО, УБИТЬ ЕГО ".
+183|THE COUNCIL HAS NOTED THE PASSING OF THE TRAITOR CADORNA.'|СОВЕТ ОТМЕТИЛ УДАЛЕНИЕ ПРЕДАТЕЛЯ КАДОРНЫ ".

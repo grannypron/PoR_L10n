@@ -1,0 +1,250 @@
+﻿1|YOU ARE ENTERING A WEEDY, GARBAGE STREWN COURTYARD. A DRUM BEGINS TO BEAT AND HOBGOBLINS ATTACK.|ВЫ ВХОДИТЕ НА СЛОЖНЫЙ, ПОЛОЖЕННЫЙ МУСОР ДВОР. БАРАБАН НАЧИНАЕТ БИТЬ И ХОБГОБЛИНЫ АТАКУЮТ.
+2|THINGS SEEM STRANGELY QUIET. THE DRUM HAS FADED TO SILENCE.|Вещи кажутся странно тихими. БАРАБАН ПРИМолчал.
+3|THIS CAVERNOUS BUILDING SERVES AS A BARRACKS.|ЭТО ПОМЕЩЕННОЕ ЗДАНИЕ СЛУЖИТ БАРРАКОМ.
+4|YOU ARE APPALLED BY THE STENCH IN THIS DAMP BUILDING.|ВАС ПРИВЕТСТВУЕТ ШТОР В ЭТОМ ВЛАЖНОМ ЗДАНИИ.
+5|YOU ARE IN A DETERIORATED BUILDING.|ВЫ НАХОДИТЕСЬ В ОБЛАСТИ ЗДАНИЯ.
+6|WHEN YOU ENTER, A FEW FADED, MOTHEATEN TAPESTRIES FLUTTER MOURNFULLY.|КОГДА ВЫ входите, несколько потускневших матерых гобеленов уныло трепещут.
+7|SEVERAL BABY HOBGOBLINS FLEE, SCREAMING IN FEAR!|НЕСКОЛЬКО МЛАДЕНЦЕВ-ХОБГОБЛИНОВ БЕГАЮТ, КРИКАЯ ОТ СТРАХА!
+8|THE FLOOR IS SLIPPERY FROM DUNG AND REEKS OF URINE.|ПОЛ скользкий от навоза и пахнет мочой.
+9|'SKULLCRUSHER WAS HERE' IS CARVED INTO THE NORTH WALL.|НА СЕВЕРНОЙ СТЕНЕ ВЫРЕЗАНО "ЗДЕСЬ ЧЕРЕПОДКАТЧИК".
+10| SKULLCRUSHER PROUDLY POINTS OUT HIS HANDIWORK.| SKULLCRUSHER ГОРДО УКАЗЫВАЕТ СВОЮ РУЧНУЮ РАБОТУ.
+11|GRAFFITI COVERS THE WALLS IN MEANINGLESS ABANDON.|GRAFFITI ЗАКРЫВАЕТ СТЕНЫ БЕССМЫСЛЕННЫМ ЗАБРОСОМ.
+12|YOU CAN BARELY SEE A DARK OBJECT TO THE WEST.|ЕДИНСТВЕННО ВИДЕТЬ ТЕМНЫЙ ОБЪЕКТ НА ЗАПАД.
+13|YOU SEE A DEAD HOBGOBLIN WITH ITS HEAD CRUSHED. WRITTEN IN BLOOD IS A MESSAGE: 'SKULLCRUSHER WAS HERE.'|ВЫ ВИДИТЕ МЕРТВОГО ХОБГОБЛИНА С РАЗМОЛЕННОЙ ГОЛОВОЙ. НАПИСАНО КРОВЬЮ СООБЩЕНИЕ: "ЗДЕСЬ БЫЛ ДРОБИТЕЛЬ ЧЕРЕПОВ".
+14|SKULLCRUSHER LAUGHS AND CRACKS HIS KNUCKLES.|Череподробитель смеется и трещит костяшками пальцев.
+15|WHAT DO YOU DO WITH THE BODY?|ЧТО ТЫ ДЕЛАЕШЬ С ТЕЛОМ?
+16|SEARCH|ПОИСК
+17|DESTROY|РАЗРУШАТЬ
+18|LEAVE|ПОКИНУТЬ
+19|YOU FIND NOTHING OF ANY VALUE.|ВЫ НИЧЕГО НЕ НАЙДЕТЕ КАКОЙ-ЛИБО ЦЕННОСТИ.
+20|A SIMPLE KITCHEN, A FEW CLAY BOWLS ADORN THE FLOOR.|ПРОСТАЯ КУХНЯ, ПОЛ УКРАШЕНЫ НЕСКОЛЬКО ГЛИНЯНЫХ ЧАШЕЙ.
+21|THE REMAINS OF A SMOKING FIRE.|ОСТАЕТСЯ ДЫМЯЩИЙСЯ ОГОНЬ.
+22|BREAD AND MEAT LIE ABOUT, AS WELL AS PIECES OF HUMAN ANATOMY.|О ХЛЕБЕ И МЯСЕ ЛОЖЬ, А ТАКЖЕ, КАК ОБЪЕКТЫ АНАТОМИИ ЧЕЛОВЕКА.
+23|YOU ARE IN A VERY SMALL, DARK ROOM.|ВЫ В ОЧЕНЬ МАЛЕНЬКОЙ, ТЕМНОЙ КОМНАТЕ.
+24|A MUSCULAR MAN LOCKED IN CHAINS LIES HERE. NEAR HIM IS A PAGE THAT YOU PLACE IN YOUR JOURNAL UNDER ENTRY 47.|Мускулистый мужчина, запертый в цепях, находится здесь. РЯДОМ С НЕМ ЯВЛЯЕТСЯ СТРАНИЦЕЙ, КОТОРОЙ ВЫ РАЗМЕЩАЕТЕ В ВАШЕМ ЖУРНАЛЕ ПОД ЗАПИСЕЙ 47.
+25|WHAT DO YOU DO WITH THE MAN?|ЧТО ТЫ ДЕЛАЕШЬ С МУЖЧИНОЙ?
+26|FREE|БЕСПЛАТНО
+27|ATTACK|АТАКА
+28|PARLAY|ПАРЛАЙ
+29|LEAVE|ПОКИНУТЬ
+30|YOU ARE IN A LARGE ROOM WHICH SERVES AS A CRUDE TEMPLE, AND CAUSES A VAGUE FEELING OF DISQUIET.|ВЫ НАХОДИТЕСЬ В БОЛЬШОЙ КОМНАТЕ, КОТОРЫЕ СЛУЖАЕТ ГРОМКОГО ХРАМА И ВЫЗЫВАЕТ ЧУВСТВИТЕЛЬНОСТЬ ЧУВСТВА НЕПРЕРЫВНОСТИ.
+31|ATOP A SMALL BONE ALTAR, STANDS AN ANCIENT, HOBGOBLIN. SHE SCREAMS 'I AM THE MIGHTY GRISHNAK! YOU HAVE INTERRUPTED MY UNHOLY RITES! FEEL MY INFERNAL WRATH!'|АТОП МАЛЕНЬКИЙ КОСТНЫЙ АЛТАР, СТОИТ ДРЕВНИЙ, ХОБГОБЛИН. ОНА КРИЧИТ: "Я МОГУЩЕСТВЕННЫЙ ГРИШНАК! ВЫ ПРЕРЫВАЛИ МОИ НЕЧЕСТНЫЕ ОБРЯДЫ! ПОЧУВСТВУЙ МОЙ адский гнев!
+32|THIS ROOM HAS HAD BLOOD SMEARED ON THE FLOOR AND WALLS IN A RITUAL, UNHOLY MANNER.|В ЭТОЙ НОМЕРЕ ИМЕЕТСЯ КРОВЬ НА ПОЛУ И СТЕНАХ ПО РИТУАЛЬНОМУ НЕЧАСТНЫМ ОБЫЧАМ.
+33|'IN THE EAST WALL IS THE SECRET DOOR.' SAYS SKULLCRUSHER.'IF WE GO THROUGH WE CAN SURPRISE THEM.'|"В ВОСТОЧНОЙ СТЕНЕ СЕКРЕТНАЯ ДВЕРЬ". ГОВОРИТ SKULLCRUSHER. "ЕСЛИ МЫ ПРОХОДИМ, МЫ МОЖЕМ ИХ УДИВИТЬ".
+34|THIS ROOM IS DIMLY LIT WITH GUTTERING TORCHES.|ДАННАЯ КОМНАТА ТУМНО ОСВЕЩЕНА ФАКЕРАМИ.
+35|YOU SEE THE CHIEF OF THE HOBGOBLINS, A HUGE OGRE. AS YOU ENTER, HE RISES TO HIS FULL, TEN FEET OF HEIGHT; HIS HEAD WREATHED IN THE FLICKERING SHADOWS.|ВЫ ВИДЕТЕ НАЧАЛЬНИКА ХОБГОБЛИНОВ, ОГРОМНОГО ОГРА. Когда вы входите, он поднимается в ДЕСЯТЬ ФУТОВ ВЫСОТЫ; Его голова плыла в мерцающих тенях.
+36|'PUNY CREATURES,' HE BELLOWS.'I ALLOWED YOU TO TOY WITH MY MINIONS, BUT NOW I'LL CRUSH THE LIFE FROM YOUR LIMBS.'|"PUNY CREATURES", - СООБЩАЕТ ОН, - "Я РАЗРЕШАЮ ВАМ ИГРАТЬ С МОИМИ МИНЬОНАМИ, НО СЕЙЧАС Я РАЗРУШЬ ЖИЗНЬ ВАШИМИ КОНЕЧНОСТЯМИ".
+37|YOU FIND AN IRON BOX, ACROSS THE LOCK IS THE SEAL OF THE FAMILY OF CADORNA. OPENING THE BOX WILL DAMAGE THE SEAL BEYOND REPAIR. WHAT DO YOU DO?|ВЫ НАХОДИТЕ ЖЕЛЕЗНЫЙ ЯЩИК, ЧЕРЕЗ ЗАМОК НАХОДИТСЯ ПЕЧАТЬ СЕМЬИ КАДОРНА. ОТКРЫТИЕ КОРОБКИ ПРИВЕСТИ К ПОВРЕЖДЕНИЮ УПЛОТНЕНИЯ. ЧТО ВЫ ДЕЛАЕТЕ?
+38|OPEN IT|ОТКРОЙ ЭТО
+39|TAKE IT UNOPENED|ПРИНИМАЙТЕ ЭТО НЕОТКРЫТО
+40|YOU FIND A PAGE FROM A DIARY AND PLACE IT IN YOUR JOURNAL UNDER ENTRY 11.|ВЫ НАХОДИТЕ СТРАНИЦУ ИЗ ДНЕВНИКА И РАЗМЕЩАЕТЕ ЕЕ В СВОЕМ ЖУРНАЛЕ ПОД ЗАПИСЕЙ 11.
+41|ON THE WELL IS A NOTE,'THIEVES ONLY.' THE WELL HAS NO RUNGS OR ROPE AND SEEMS VERY DEEP. ONLY A SKILLFUL CLIMBER COULD SURVIVE THE DESCENT. WHAT DO YOU DO?|НА СКЛАДЕ НОТА "ТОЛЬКО ВОРЫ". У КОЛОДКИ НЕТ НИЖНЕЙ ВЕРЕВКИ И КАЖЕТСЯ ОЧЕНЬ ГЛУБОКОЙ. Выжить на спуске может только опытный альпинист. ЧТО ВЫ ДЕЛАЕТЕ?
+42|LEAVE|ПОКИНУТЬ
+43|CLIMB DOWN|СЛЕЗАТЬ
+44|WHO WILL CLIMB DOWN?|КТО СПАСИТСЯ?
+45|THAT ONE IS NOT WELL ENOUGH TO CLIMB.|ЭТОГО НЕДОСТАТОЧНО, чтобы подняться.
+46|EVIL LOOKING FROGS BOIL UP FROM BELOW.|ЗЛО СМОТРЕТЬ ЛЯГУШКИ КИПАТЬСЯ НИЖЕ.
+47|PRESS <RETURN> OR BUTTON TO CONTINUE.|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ.
+48|YOU ARE CHASED OUT INTO THE STREETS.|ВАС ВЫГОНЯЮТ НА УЛИЦЫ.
+49|YOU ENCOUNTER HOBGOBLINS!|ВЫ ВСТРЕЧАЕТЕ ХОБГОБЛИНЫ!
+50|THE HOBGOBLINS RESPOND WITH A PIERCING BATTLE CRY!|ХОБГОБЛИНЫ ОТВЕЧАЮТ БИТВЫМ КРИКОМ!
+51|SKULLCRUSHER|Дробилка Черепов
+52|YOU DESTROY EVERYTHING OF VALUE.|ВЫ УНИЧТОЖАЕТЕ ВСЮ ЦЕННОСТЬ.
+53|THERE IS A FREE MAN HERE. WHAT DO YOU DO?|ЗДЕСЬ СВОБОДНЫЙ ЧЕЛОВЕК. ЧТО ВЫ ДЕЛАЕТЕ?
+54|ATTACK|АТАКА
+55|WAIT|ЖДАТЬ
+56|FLEE|БЕЖАТЬ
+57|PARLAY|ПАРЛАЙ
+58|LEAVE|ПОКИНУТЬ
+59|HOW WILL YOU FREE HIM?|КАК ВЫ ОСВОБОДИТЕ ЕГО?
+60|UNLOCK|РАЗБЛОКИРОВАТЬ
+61|PICK LOCK|ВЫБРАТЬ ЗАМОК
+62|BREAK CHAINS|РАЗРЫВ ЦЕПИ
+63|LEAVE|ПОКИНУТЬ
+64|YOU HAVE NO KEY TO UNLOCK THE PADLOCKS.|У ВАС НЕТ КЛЮЧА ДЛЯ РАЗБЛОКИРОВКИ ЗАМКОВ.
+65|THE MAN DIES A CRUEL DEATH.|ЧЕЛОВЕК УМИРАЕТ ЖЕСТКОЙ СМЕРТЬЮ.
+66| 'WHATS YOUR PROBLEM?'| 'В ЧЕМ ТВОЯ ПРОБЛЕМА?'
+67|THE HOBGOBLINS GIVE CHASE, BUT YOU ESCAPE.|ХОБГОБЛИНЫ ДАЮТ УДАЧУ, НО ВЫ УБЕГАЕТЕ.
+68|YOU BEGIN A LONG FALL.|ВЫ НАЧИНАЕТЕ ДЛИТЕЛЬНУЮ ПАДЕНИЕ.
+69|HOBGOBLINS CHARGE SCREAMING.|ХОБГОБЛИНЫ ЗАРЯДНЫЙ КРИК.
+70|A SKELETAL FORCE SPOTS YOU AND ATTACKS.|СКЕЛЕТНАЯ СИЛА ОБЪЕДИНЯЕТ ВАС И НАПАДАЕТ.
+71|SOME GHOULS DECIDE TO ADD YOU TO THEIR MENU.|НЕКОТОРЫЕ ГУЛЫ РЕШАЮТ ДОБАВИТЬ ВАС В СВОЕ МЕНЮ.
+72|SCORPIONS APPROACH HUNGRILY.|СКОРПИОНЫ ПОДХОДЯТ ЖЕЛО.
+73|THE MAN WAITS IMPATIENTLY.|ЧЕЛОВЕК НОЖАЛЕНО ЖДЕТ.
+74|YOU FLEE THE ROOM.|ВЫ ВЫБЕГАЕТЕ ИЗ КОМНАТЫ.
+75|'THANKS FOR FREEING ME. I'M LORD CADORNA'S SERVANT.|СПАСИБО ЗА МЕНЯ ОСВОБОДИТЬ. Я СЛУГА ЛОРДА КАДОРНЫ.
+76|ADD HIM TO YOUR PARTY?|ДОБАВИТЬ ЕГО В СВОЮ ПАРТИЮ?
+77|YES|ДА
+78|NO|НЕТ
+79|THERE IS NO ROOM IN YOUR PARTY FOR HIM.|НА ВАШЕЙ ВЕЧЕРИНЕ НЕТ КОМНАТЫ ДЛЯ НЕГО.
+80|NO ONE IS ABLE TO PICK ALL THE PADLOCKS.|НИКТО НЕ МОЖЕТ ВЫБРАТЬ ВСЕ ЗАМКИ.
+81|DESPITE GREAT EFFORT, THE CHAINS HOLD.|НЕСМОТРЯ НА БОЛЬШИЕ УСИЛИЯ, ЦЕПИ ДЕРЖАТСЯ.
+82|THE BRASS KEY YOU FOUND OPENS ALL OF THE PADLOCKS.|НАЙДЕННЫЙ ЛАТУННЫЙ КЛЮЧ ОТКРЫВАЕТ ВСЕ НАВЕСНЫЕ ЗАМКИ.
+83| 'DON'T TRY TO FOOL ME.' HE GROWLS.| "НЕ ПЫТАЙТЕСЬ ОБУЧАТЬ МЕНЯ". Он рычит.
+84| 'I ALMOST KILLED THE LEADER OF THESE SCUMMY HOBGOBLINS, BUT THE REST JUMPED ME!'| "Я ПОЧТИ УБИЛ ЛИДЕРА ЭТИХ ПОДТЯННЫХ ХОБГОБЛИНОВ, НО ОТДЫХ НА МЕНЯ СКАЧАЛСЯ!"
+85| 'FREE ME AND I'LL HELP YOU.'| "ОСВОБОДИТЕ МЕНЯ, И Я ПОМОГУ ВАМ".
+86| 'WORDS DON'T BREAK CHAINS!' HE SNARLS.| "СЛОВАМИ НЕ РАЗРЫВАЙТЕ ЦЕПИ!" ОН ШИКАЛ.
+87|AN OLD THIEF STANDS HERE.'WELCOME TO MY GUILD. I AM RESTAL.' HE BOWS LOW.|СТАРИК ВОР СТОИТ. ДОБРО ПОЖАЛОВАТЬ В МОЮ ГИЛЬДЮ. Я ЕСМЬ РЕСТАЛ ". ОН НИЗКОГО ЛУКА.
+88|'WE CAN DUPLICATE THE SEAL ON THAT CHEST -- FOR HALF THE TREASURE -- NO ONE WILL EVER KNOW. INTERESTED?'|"МЫ МОЖЕМ ДУБЛИРОВАТЬ ПЕЧАТЬ НА ЭТОМ СУНДУКЕ - НА ПОЛОВИНУ СОКРОВИЩА - НИКТО НИКОГДА НЕ ЗНАЕТ. ЗАИНТЕРЕСОВАН?
+89|YES|ДА
+90|NO|НЕТ
+91|THE OLD THIEF LAUGHS, 'PERHAPS WE SHALL MEET AGAIN.'|СТАРЫЙ ВОР СМЕЕТ: "МОЖЕТ БЫТЬ, МЫ ВСТРЕТИМСЯ СНОВА".
+92|YOU FLOAT DOWN THE WELL.|ВЫ ПЛАВАЕТЕ В СКВАЖИНЕ.
+93|FROM AN ARCHWAY AT THE BOTTOM COME ARROWS.|ИЗ АРХВИ ВНИЗ ПРИХОДЯТ СТРЕЛЫ.
+94|YOU HIT AN UNYIELDING STONE FLOOR.|ВЫ ПОПАДАЕТЕ НА НЕПРЕРЫВНЫЙ КАМЕННЫЙ ПОЛ.
+95|YOUR FRIEND FLOATS OUT OF THE WELL.|ВАШ ДРУГ ВЫЛЕТАЕТ ИЗ СКВАЖИНЫ.
+96|THERE IS A FREE MAN HERE. WHAT DO YOU DO?|ЗДЕСЬ СВОБОДНЫЙ ЧЕЛОВЕК. ЧТО ВЫ ДЕЛАЕТЕ?
+97|ATTACK|АТАКА
+98|WAIT|ЖДАТЬ
+99|FLEE|БЕЖАТЬ
+100|PARLAY|ПАРЛАЙ
+101|LEAVE|ПОКИНУТЬ
+102|'I DON'T LIKE YOUR TONE.'|"МНЕ НРАВИТСЯ ВАШ ТОН".
+103|'OH WELL.' HE LEAVES.|'НУ ЧТО Ж.' ОН УХОДИТ.
+104|'GREAT! MY NAME IS SKULLCRUSHER. THERE'S A SECRET DOOR TO THE SOUTHEAST. THAT'S WHERE I MET THE HOBGOBLIN LEADER.'|БОЛЬШОЙ! МОЕ ИМЯ ЧЕРЕПОВОДИТЕЛЬ. ЕСТЬ СЕКРЕТНАЯ ДВЕРЬ НА ЮГО-ВОСТОК. ТАМ ГДЕ Я ВСТРЕТИЛСЯ С ЛИДЕРОМ ХОБГОБЛИНОВ ".
+105|'YOU ARE SEEKING THE TEXTILE HOUSE. WE CAN GET YOU IN UNSEEN AND POSSIBLY HELP YOU WITH THE TREASURE. INTERESTED?'|"ВЫ ИЩЕТЕ ТЕКСТИЛЬНЫЙ ДОМ. МЫ МОЖЕМ ПОЛУЧИТЬ ВАС НЕВИДИМЫМ И ВОЗМОЖНО ПОМОЧЬ С СОКРОВИЩЕМ. ЗАИНТЕРЕСОВАН?
+106|YES|ДА
+107|NO|НЕТ
+108|A ROPE IS TOSSED UP AND THE REST OF THE PARTY COMES DOWN. THE OLD THIEF SAYS 'OUR RULES REQUIRE YOU TO BE BLINDFOLDED IN OUR GUILD HOUSE, OKAY?'|ВЕРЕВКА ПОДБИВАЕТСЯ, И НАХОДИТСЯ ОТДЫХ ПАРТИИ. СТАРИК ВОР ГОВОРЯЕТ: "НАШИ ПРАВИЛА ТРЕБУЮТ, ЧТО ВАМ ЗАСЛУЖИВАЮТ В НАШЕЙ ГИЛЬДИИ, ОК?"
+109|YES|ДА
+110|NO|НЕТ
+111|YOU ARE BLINDFOLDED AND TAKEN ON A LONG, TWISTING WALK, THEN UP A LADDER.'ONLY MEET US AT THE MAIN WELL.'|Вам завязаны глаза, и вы совершите долгую, извилистую прогулку, а затем поднимитесь по лестнице. "ВСТРЕЧАЙТЕ НАС ТОЛЬКО У ГЛАВНОЙ АППАРАТУРЫ".
+112| HE POINTS HIS RING AT YOU AND YOU RISE UP AND OUT THE WELL.| ОН НАПРАВЛЯЕТ НА ВАС КОЛЬЦО, и ВЫ ВОССТАНАВЛИВАЕТЕ И ВЫХОДИТЕ ИЗ НОЖА.
+113|HERE IS A LAUGHING THIEF.|ЗДЕСЬ СМЕЮЩИЙСЯ ВОР.
+114|A PACK OF HUNGRY GHOULS LOPES TOWARD YOU.|ПАКЕТ ГОЛОДНЫХ ГУЛОВ НАПРАВЛЯЕТСЯ НА ВАС.
+115|THE SPECTRE HAS NOTICED YOU.|СПЕКТР ВАС ЗАМЕТИЛ.
+116|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+117|THE SKY DARKENS. |НЕБО ТЕМНЕТ.
+118|FIERCE GUSTS OF WIND HOWL PAST AND THE GROUND SHAKES AS PEALS OF THUNDER ROCK THE LAND.  THE SWIRLING MURK HIDES WHAT LIES AHEAD.|Яростные порывы ветра пронеслись мимо, и земля сотряслась, как раскаты грома сотрясли землю. КРУТЯЩИЙСЯ МУРК скрывает то, что впереди.
+119|UNTIL AN EXPLOSION OF LIGHTNING REVEALS THE NIGHTMARE SCENE OF A GRAVEYARD TURNED UPSIDE DOWN.|ПОКА ВЗРЫВ МОЛНИИ не откроет кошмарную сцену, когда кладбище перевернуто вверх дном.
+120| SKELETONS.| СКЕЛЕТЫ.
+121|CLAWS RISE FROM THE SOIL AND ATTEMPT TO DRAG YOU DOWN.|Когти поднимаются из-под почвы и пытаются утащить вас вниз.
+122|THE ENCLAVE IS GUARDED BY A SKELETON ARMY!|АНКЛАВ ОХРАНЯЕТ АРМИЯ СКЕЛЕТОВ!
+123|YOU FIND A GIANT SKELETON|ВЫ НАЙДЕТЕ ГИГАНТСКИЙ СКЕЛЕТ
+124| AND ITS RETAINERS.| И ЕГО ФИКСАТОРЫ.
+125|YOU FIND A MARBLE CHEST.  OPEN IT?|ВЫ НАХОДИЛИ МРАМОРНЫЙ СУНДУК. ОТКРОЙ ЭТО?
+126| ZOMBIES.| ЗОМБИ.
+127|ZOMBIES SHUFFLE DOWN THE STAIRS!|ЗОМБИ СПУСКАЮТСЯ ПО ЛЕСТНИЦАМ!
+128|A ZOMBIE WITH GRAY, LEATHERY-HARD SKIN GAZES AT YOU WITH HATE-FILLED EYES.|ЗОМБИ С СЕРЫМ, ЖЕСТКОЙ КОЖЕЙ СМОТРИТ НА ВАС НАПОЛНЕННЫМИ НЕНАВИЕЙ ГЛАЗАМИ.
+129|VARIOUS OBJECTS ARE SCATTERED ABOUT. WILL YOU PICK THEM UP?|РАЗЛИЧНЫЕ ОБЪЕКТЫ РАСПРОСТРАНЯЮТСЯ ОКОЛО. ВЫ ЗАБЕРИТЕ ИХ?
+130| WIGHTS.| ПЕРЧАТКИ.
+131|YOU STAND BEFORE A HUGE TOWER. THE SINGLE ENTRANCE IS LOCKED AND STRONGLY BUILT.|ВЫ стоите перед огромной башней. ЕДИНЫЙ ВХОД ЗАБЛОКИРОВАН И ПРОЧНО СОЗДАН.
+132|WARNING VOICES CRY FROM WITHIN.  'WE ARE THE SPIRITS OF THOSE WHO FOUGHT THE DRAGONS.  LEAVE US OR DIE.'|ПРЕДУПРЕЖДАЮЩИЕ ГОЛОСА плачут изнутри. "МЫ - ДУХИ БОРЬБОВ С ДРАКОНАМИ. УЙДИТЕ ОТ НАС ИЛИ УМЕРТЬ ".
+133|DO YOU LEAVE?|ТЫ УХОДИШЬ?
+134|YOU ARE ATTACKED BY WIGHTS.|НА ВАС НАПАДАЮТ ПЛОЩАДКИ.
+135|IN THE CHAMBER IS A SINGLE CRYPT.  FLOATING ABOVE THE CRYPT IS A WRAITH. 'I AM THE PROTECTOR OF THE PALADIN. I GUARD HIS REMAINS FOR ALL ETERNITY.  LEAVE OR SUFFER.'  WHAT DO YOU DO?|В КАМЕРЕ ЕДИНЫЙ КРИПТ. ПЛАВАЕТ НАД КРИПТОМ - ПРИЗРАК. "Я ЗАЩИТНИК ПАЛАДИНА. Я СТРАЖУ ЕГО ОСТАТКИ НА ВСЮ ВЕЧНОСТЬ. УЙДИТЕ ИЛИ ПОСТРАДАЙТЕ ". ЧТО ВЫ ДЕЛАЕТЕ?
+136|LEAVE|ПОКИНУТЬ
+137|STAY|ОСТАТЬСЯ
+138|A TOWER STANDS CLEARLY ABOVE ALL CRYPTS IN THE AREA.  HUGE PILES OF HUMAN BONES ARE STREWN ABOUT.|БАШНЯ СТОИТ ЯВНО НАД ВСЕМИ КРИПТАМИ В ОБЛАСТИ. ОГРОМНЫЕ КУЧИ ЧЕЛОВЕЧЕСКИХ КОСТИ ВСЕГО.
+139|A SMALL ARMY OF SKELETONS RUSHES FROM THE TOWER.|МАЛЕНЬКАЯ АРМИЯ СКЕЛЕТОВ УБИВАЕТСЯ ОТ БАШНЯ.
+140|NOXIOUS FUMES TEAR AT YOUR THROAT AS YOU CRUNCH THROUGH PILES OF DRIED BONES.|Ядовитый дым разрывает вам горло, когда вы прогуливаетесь сквозь груды высушенных костей.
+141| YOU SURPRISE A SHADOWY FORM CREATING NEW SKELETONS.| ВЫ УДИВИТЕ ОТТЕННУЮ ФОРМУ, СОЗДАВАЯ НОВЫЕ СКЕЛЕТЫ.
+142|ALL AROUND THE TOWER, PILES OF HAIR AND FUR COVER THE AREA.|ВОКРУГ БАШНЯ ВОЛОСЫ И МЕХА ПОКРЫВАЮТ ПЛОЩАДЬ.
+143|THE TOWER DOOR SWINGS OPEN AND A SMALL ARMY OF ZOMBIES SHUFFLES OUT.  THE DOOR CLOSES WITH A CLAMOR OF LOCKS FALLING INTO PLACE.|ДВЕРЬ БАШНИ ОТКРЫВАЕТСЯ, И ВЫХОДИТ МАЛЕНЬКАЯ АРМИЯ ЗОМБИ. ДВЕРЬ ЗАКРЫВАЕТСЯ С ЗАХВАТОМ ЗАМКОВ.
+144|THE CHAMBER IS FILLED WITH USELESS CLOTHING AND RUSTING ARMOR.|КАМЕРА ЗАПОЛНЕНА БЕЗОПАСНОЙ ОДЕЖДОЙ И РЖАВЧИНОЙ БРОНЕЙ.
+145|IN A CHAMBER FILLED WITH RUINED PARCHMENTS, YOU SURPRISE A SHAPE THAT IS CREATING ZOMBIES.|В КАМЕРЕ, ЗАПОЛНЕННОЙ РАЗРУШЕННЫМИ ПАРКАМЕНТАМИ, ВЫ УДИВИТЕ ФОРМУ, КОТОРАЯ СОЗДАЕТ ЗОМБИ.
+146|WITH SLOW, OMINOUS CREAKS, MUMMIES OPEN THEIR SARCOPHOGI.|Медленными зловонными тресками мумии открывают свои саркофоги.
+147|THE AIR AROUND THE TOWER IS CHARGED WITH STATIC ELECTRICITY AND BALL LIGHTNING. |ВОЗДУХ ВОКРУГ БАШНЯ ЗАРЯЖЕН СТАТИЧЕСКИМ ЭЛЕКТРИЧЕСТВОМ И ШАРОВЫМ МОЛНИЕЙ.
+148| WIGHTS APPEAR FROM BEHIND THE TOWER.| ИЗ-ЗА БАШНИ ПОЯВЛЯЮТСЯ ПЛАТЫ.
+149|THE LOWER CHAMBER IS FILLED WITH GLASS AND FUR OBJECTS OF ALL TYPES. |НИЖНЯЯ КАМЕРА ЗАПОЛНЕНА СТЕКЛЯННЫМИ И МЕХОВЫМИ ПРЕДМЕТАМИ ВСЕХ ТИПОВ.
+150|A SHARP CRACK SPLITS THE AIR AND YOU ARE STUNG.|ОСТРАЯ ТРЕЩИНА РАЗДЕЛЯЕТ ВОЗДУХ, И ВЫ УЖАЛИТЕСЬ.
+151|YOU SURPRISE A FIGURE AS IT SUMMONS A WIGHT.|ВЫ УДИВИТЕ ФИГУРУ, КАК ОНА ВЫЗЫВАЕТ УМЕР.
+152|IN THE ENTRY IS SET A HUGE PAIR OF BRASS DOORS.|В ПОДЪЕМЕ УСТАНАВЛИВАЕТСЯ ОГРОМНАЯ ПАРА ЛАТУННЫХ ДВЕРЕЙ.
+153|SHADOWY FORMS FLOW FROM BETWEEN THE DOORS AND ATTACK.|ТЕНЕВЫЕ ФОРМЫ ПОТОКАЮТ МЕЖДУ ДВЕРЬЮ И АТАКУЮТ.
+154|A VOICE SPEAKS, 'COME, MY BRAVE ADVENTURERS.  YOU MUST TAKE MY GIFTS TO BETTER FIGHT THE EVIL THAT HAS COME TO THE CITY.'|ГОЛОС ГОВОРИТ: "Приходите, МОИ ХРАБШИЕ ПРИКЛЮЧАТЕЛИ. ВЫ ДОЛЖНЫ ПРИНИМАТЬ МОИ ПОДАРКИ, ЧТОБЫ БОРОТЬСЯ со злом, которое пришло в город ".
+155|FROM THE MAGICALLY-LIT TOMB OF A BRAVE KNIGHT, A BODY RISES FROM ITS RESTING PLACE TO LAY WEAPONS BEFORE THE PARTY.|ИЗ ВОЛШЕБНО ОСВЕЩЕННОЙ Гробницы Храброго Рыцаря поднимается тело, чтобы заложить оружие перед партией.
+156|INSIDE THE RUINS OF A BLACK MARBLE CRYPT IS A COFFIN FILLED WITH DUST.  AMONG THE PILES OF DUST ARE SEVERAL BROKEN CROSSES, VIALS OF SPILLED HOLY WATER, AND A SCROLL.|ВНУТРИ РУИН ЧЕРНОГО МРАМОРНОГО КРИПТА НАХОДИТСЯ ГРОБ, ЗАПОЛНЕННЫЙ ПЫЛЬЮ. СРЕДИ КУПОК ПЫЛИ НЕСКОЛЬКО СЛОМАННЫХ КРЕСТОВ, ФУНКЦИЙ С ПРОЛИВОМ СВЯТОЙ ВОДЫ И СВИТОК.
+157|DO YOU READ THE SCROLL?|ВЫ ЧИТАЕТЕ СВИТОК?
+158|THE SCROLL IS PLACED IN YOUR JOURNAL AS ENTRY 43.|СВИТОК РАЗМЕЩЕНА В ВАШЕМ ЖУРНАЛЕ КАК ЗАПИСЬ 43.
+159|DO YOU WANT TO DO ANYTHING WITH THE COFFIN?|ВЫ ХОТИТЕ ЧТО ДЕЛАТЬ С ГРОБОМ?
+160|WHAT DO YOU WANT TO DO TO IT?|ЧТО ВЫ ХОТИТЕ С ЭТОМ ДЕЛАТЬ?
+161|EXAMINE|ИССЛЕДОВАТЬ
+162|SANCTIFY|Освящать
+163|OVERTURN|ПЕРЕВОЗКА
+164|YOU FIND NOTHING.|ВЫ НИЧЕГО НЕ НАХОДИТЕ.
+165|YOU ARE APPROACHED BY A MAN CLAD IN MYSTIC ROBES.|К ВАМ ОБРАЩАЕТСЯ ЧЕЛОВЕК, ЗАКРЫТЫЙ В ТАИНСТВЕННЫХ РЯДАХ
+166|'HAIL, NOBLE ADVENTURERS,' HE CALLS. 'I WOULD ASK YOU TO HELP ME END THIS FOUL UNDEAD CURSE.'|"ПРИВЕТ, благородные авантюристы", - ПРИЗЫВАЕТ ОН. "Я ПРОСЬБА ВАС ПОМОЧЬ МНЕ ПРЕКРАТИТЬ ЭТО ФОЛЬШОЕ НЕМЕРТНОЕ ПРОКЛЯТИЕ".
+167|DO YOU LET HIM JOIN THE PARTY OR SEND HIM AWAY?|ВЫ РАЗРЕШАЕТЕ ЕГО ПРИСОЕДИНЯТЬСЯ К ПАРТИИ ИЛИ ОТПРАВИТЬ ЕГО?
+168|LET HIM JOIN|ПОЗВОЛЬТЕ ЕМУ ПРИСОЕДИНЯТЬСЯ
+169|SEND HIM AWAY|ОТПРАВИТЬ ЕГО
+170|'THE UNDEAD ARE CONTROLLED BY A VAMPIRE WHO LURKS IN THE NORTHEAST CORNER OF THE GRAVEYARD,' THE MAN SAYS.|"НЕМЕРТЫМИ контролирует вампир, который прячется в северо-восточном углу кладбища", - ГОВОРИТ ЧЕЛОВЕК.
+171|WOODEN STAIRS LEAD INTO A PIT.  DO YOU GO DOWN?|ДЕРЕВЯННАЯ ЛЕСТНИЦА ВЕДУТ В ЯМУ. ВЫ ПОПАДАЕТЕ?
+172|THE CHAMBER LIGHTS UP TO REVEAL A TALL, PALE MAN WITH VERY WHITE TEETH.|КАМЕРА СВЕТАЕТСЯ, ЧТОБЫ ВЫЯВИТЬ ВЫСОКОГО БЕЛОГО ЧЕЛОВЕКА С ОЧЕНЬ БЕЛЫМИ ЗУБАМИ.
+173|THE VAMPIRE TURNS INTO A VAPOR CLOUD AND FLOATS AWAY.|ВАМПИР превращается в паровое облако и улетает прочь.
+174|THE MYSTIC MAN SPEAKS, 'THE VAMPIRE IS BEHIND THE NORTHERN WALL.'|МИСТИЧЕСКИЙ ЧЕЛОВЕК ГОВОРИТ: "ВАМПИР ЗА СЕВЕРНОЙ СТЕНОЙ".
+175|YOU ARE SUDDENLY CONFRONTED BY |ВАМ ВНЕЗАПНО ПРОТИВОПОКАЗЫВАЕТ
+176|YES|ДА
+177|NO|НЕТ
+178|IN THE CRYPT LIES THE FULLY-EQUIPPED BODY OF A MIGHTY WARRIOR.  DO YOU STRIP THE BODY?|В КРИПТЕ ПОЛНОСТЬЮ ОБОРУДОВАННОЕ ТЕЛО МОГУЩЕГО ВОИНА. ТЫ РАЗДЕЛЯЕТЕ ТЕЛО?
+179|IN THE CRYPT LIES THE FULLY-EQUIPPED BODY OF A MIGHTY WARRIOR.  DO YOU STRIP THE BODY?|В КРИПТЕ ПОЛНОСТЬЮ ОБОРУДОВАННОЕ ТЕЛО МОГУЩЕГО ВОИНА. ТЫ РАЗДЕЛЯЕТЕ ТЕЛО?
+180|NOXIOUS FUMES POUR FROM THE TOWER DOORWAY, MAKING IT IMPOSSIBLE TO SEE INSIDE.|ЯДЕРНЫЙ ДЫМ ВЫХОДИТ ИЗ ДВЕРНОГО ПРОЕМА БАШНИ, НЕВОЗМОЖНО ВИДЕТЬ ВНУТРИ.
+181|WRITTEN ON THE DOOR (IN THE COMMON TONGUE) IS: 'DO NOT OPEN THIS DOOR. A GREAT EVIL HAS BEEN LAID TO REST HERE.'|НА ДВЕРИ (НА ОБЩЕСТВЕННОМ ЯЗЫКЕ) НАПИСАНО: "НЕ ОТКРЫВАЙТЕ ЭТУ ДВЕРЬ. БОЛЬШОЕ ЗЛО ЗАЛОЖЕНО ЗДЕСЬ ОТДЫХАТЬ ".
+182|THERE ARE LARGE SILVER HOLY SYMBOLS UP AND DOWN THE CRACK IN THE DOORWAY.|ЕСТЬ БОЛЬШИЕ СЕРЕБРЯНЫЕ СВЯТЫЕ СИМВОЛЫ ВВЕРХ И ВНИЗ ТРЕЩИНУ В ДВЕРИ.
+183|IN THE MIDDLE OF A DOOR IS A PANEL OF A POWERFUL KNIGHT FIGHTING SEVERAL UNDEAD.|ПОСРЕДНЕЙ ДВЕРИ - ПАНЕЛЬ МОЩНОГО РЫЦАРЯ, БОРЬШЕГО С НЕСКОЛЬКО НЕМЕРТВЫХ.
+184|YOU ARE IN THE DUSTY REMAINS OF A BLACK MARBLE CRYPT.|ВЫ В ПЫЛИ ОСТАВАЕТСЯ ЧЕРНОМРАМОРНЫЙ КРИПТ.
+185|THERE IS A VAMPIRE HERE.|ЗДЕСЬ ВАМПИР.
+186|YOU SCATTER THE DUST AND PLACE WHAT HOLY ITEMS YOU CAN SPARE INSIDE.|ВЫ РАССЕРИВАЕТЕ ПЫЛЬ И РАЗМЕЩАЙТЕ СВЯТЫЕ ПРЕДМЕТЫ ВНУТРИ.
+187|THE COFFIN MAKES A MESS ON THE FLOOR.|ГРОБ ДЕЛАЕТ МЕССУ НА ПОЛУ.
+188|'THEN DIE YOU SCUM,' THE MAN SPITS.|"ТОГДА УМЕРЬ ВЫ, ПОДНИЗЬ", - ПЛЮЧИЛ ЧЕЛОВЕК.
+189|YOUR PARTY IS TOO LARGE FOR ME TO JOIN.|ВАША ПАРТИЯ слишком велика, чтобы я мог присоединиться к ней.
+190|YOU FIND THE VAMPIRE'S TREASURE TROVE.  DO YOU TAKE IT?|ВЫ НАХОДИТЕ БУМАГУ СОКРОВИЩА ВАМПИРА. ВЫ ПРИНИМАЕТЕ?
+191|SKELETONS SILENTLY ATTACK.|СКЕЛЕТЫ БЕСШУМНАЯ АТАКА.
+192|LUMBERING FIGURES REACH FOR YOU.|ДОРОЖНЫЕ ЦИФРЫ ДОСТУПАЮТ ДЛЯ ВАС.
+193|DARK, BENT CREATURES RUSH SWIFTLY AT YOU.|DARK, BENT CREATURES БЫСТРО БЫСТРО НА ВАС.
+194|YOU HAVE MANAGED TO SNEAK UP ON SOME |ВАМ УДАЛИЛИСЬ НА НЕКОТОРЫХ
+195|YOU ARE NOTICED.|ВАС ЗАМЕТИЛИ.
+196|YOU FIND SOME UNDEAD.|ВЫ НАЙДЕТЕ НЕКОТОРЫЕ НЕМЕРТЫЕ.
+197|THEY DON'T LISTEN.|ОНИ НЕ СЛУШАЮТ.
+198|NOXIOUS FUMES POUR FROM THE TOWER DOORWAY, MAKING IT IMPOSSIBLE TO SEE INSIDE.|ЯДЕРНЫЙ ДЫМ ВЫХОДИТ ИЗ ДВЕРНОГО ПРОЕМА БАШНИ, НЕВОЗМОЖНО ВИДЕТЬ ВНУТРИ.
+199|THE BOAT DISEMBARKS YOU AT SOKAL KEEP.|ЛОДКА РАЗБИРАЕТ ВАС НА SOKAL KEEP.
+200|DO YOU WANT TO TAKE A BOAT BACK TO PHLAN?|ХОТИТЕ ВЕРНУТЬСЯ НА ЛОДКУ НА ФЛАН?
+201|YOU BOARD A BOAT.|ВЫ садитесь на лодку.
+202|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+203|AN UNDEAD PATROL CONFRONTS YOU.  DO YOU GIVE THE PASSWORD?|НЕМЕРТЫЙ ПАТРУЛЬ ПРЕПЯТСТВУЕТ ВАМ. ВЫ ДАЕТЕ ПАРОЛЬ?
+204|A PACK OF UNDEAD SUDDENLY APPEARS.|ВНЕЗАПНО ПОЯВЛЯЕТСЯ ПАКЕТ НЕМЕРТЫХ.
+205|WHAT DO YOU SAY? (TYPE A SINGLE WORD)|ЧТО ТЫ ГОВОРИШЬ? (НАПИСАТЬ ЕДИНОЕ СЛОВО)
+206|YES|ДА
+207|NO|НЕТ
+208|THE UNDEAD LEAVE.|НЕМЕРТЫЙ ЛИСТЬЕВ.
+209|THE SKELETON OF A LONG-DEAD ELF LIES HIDDEN BY ROCKS AND REEDS.  ITS WEAPONS AND EQUIPMENT ARE BADLY RUSTED AND CORRODED BY SALT, ITS LEATHERS ARE WORM EATEN AND CRUSTED IN DIRT.|СКЕЛЕТ ДОЛГОМЕРТВОГО ЭЛЬФА, СКРЫТОЙ КАМНЯМИ И ТРОСТИНЯМИ. ЕГО ОРУЖИЕ И ОБОРУДОВАНИЕ СЛОЖНО РЖАВЧЕНЫ И ИСПОЛЬЗУЮТСЯ СОЛИ, ЕГО КОЖИ ЕСТЬ ЧЕРВЬЯ И ОБОРУДОВАНЫ ГРЯЗЬЮ.
+210|IN A POUCH ON THE REMAINS IS A CRUMBLING PARCHMENT SCROLL WITH THE WORDS ...|В ЧАШКЕ ОСТАЕТСЯ КРОШКА ПЕРГАМЕНТОВ СО СЛОВАМИ ...
+211|YOU STAND BELOW THE ROTTING REMAINS OF THE ONCE-MIGHTY GATES OF SOKAL KEEP.|ВЫ стоите ниже гниющих останков могучих ворот SOKAL KEEP.
+212| ECHOING FOOTSTEPS ARE DIMLY HEARD WITHIN THE KEEP.  TO THE WEST RISES A MOUND OF REEDS.| ЭХОТОВЫЕ ШАГИ ТУМНО СЛЫШАЮТ НА КРЕПЕЖЕ. НА ЗАПАД Восходит Тростник.
+213|UNWHOLESOME MOLD AND FUNGI COVER THE DECAYING RUINS OF THE KEEP'S STABLE.  A PUTRID SMELL OF SICKNESS RISES AS YOU ENTER THE BUILDING.|НЕБЕЗОПАСНАЯ ПЛЕСЕНЬ И ГРИБКИ ЗАКРЫВАЮТ РАЗРУШАЮЩИЕСЯ РАЗВАЛЫ ХРАНИЛИЩА. ПОЛУЧЕНИЕ ЗАПАХА БОЛЕЗНИ ПОДНИМАЕТСЯ, КАК ВЫ ВОЙДИТЕ В ЗДАНИЕ.
+214|A THICK CARPET OF FUNGUS COVERS THE FLOOR OF THIS ROOM.|ТОЛСТЫЙ КОВЕР ГРИБОВ ПОКРЫВАЕТ ПОЛ ЭТОЙ КОМНАТЫ.
+215|A BROKEN HEARTH AND BELLOWS DOMINATES THE COLLAPSED REMAINS OF A BLACKSMITH'S SHOP.  THE FLOOR IS SPONGEY AND DAMP.  THE CROAKING OF FROGS GREETS YOUR ENTRY.|СЛОМАННОЕ СЕРДЦЕ И СИЛЫ доминируют над Свернутыми ОСТАВЛЯМИ КУЗНИЦА. ПОЛ ГУБЧАТЫЙ И ВЛАЖНЫЙ. ВАШ ВХОД ПРИВЕТСТВУЕТ КРЕЩЕНИЕ ЛЯГУШЕК.
+216|THIS BUILDING IS FILLED WITH BROKEN AND SPLINTERED WOOD, THE REMAINS OF THE BUNKS AND CHESTS OF THE ORIGINAL DEFENDERS.  IT SEEMS EVERYTHING HAS BEEN WELL LOOTED.|ДАННОЕ ЗДАНИЕ ЗАПОЛНЕНО СЛОМАННЫМ И ОБРЕЗАННЫМ ДРЕВЕСИКОМ, ОСТАВШИЛИСЯ НАРЫ И СУНДУКИ ОРИГИНАЛЬНЫХ ЗАЩИТНИКОВ. Кажется, все было хорошо разграблено.
+217|THE INTERIOR IS OVERRUN WITH INSECTS.  AT YOUR FOOTSTEP, THEY FALL FROM THE WALLS AND CEILING.|ИНТЕРЬЕР ЗАПОЛНЕН НАСЕКОМЫМИ. ОНИ ВЫПАДАЮТ СО СТЕНЫ И ПОТОЛКА.
+218|A LOUD COMMOTION RISES FROM THE COURTYARD.  BASHING OPEN THE DOOR, A LARGE FORCE OF ORCS AND HOBGOBLINS RUSHES YOU.|ГРОМКОЕ СОВЕЩАНИЕ поднимается со двора. ОТКРЫВАЯ ДВЕРЬ, БОЛЬШАЯ СИЛА ОРКОВ И ХОБГОБЛИНОВ БРОСАЕТ ВАС.
+219|YOU ENTER THE KEEP'S OLD ARMORY.  ALL OF THE WEAPONS AND ARMOR HAVE DECAYED INTO USELESSNESS.|ВЫ ВОЙДИТЕ В СТАРУЮ АРМАТУРУ ХРАНИЛИЩА. ВСЕ ОРУЖИЕ И БРОНЯ БЫЛИ БЕСПОЛЕЗНЫ.
+220|THIS WAS ONCE THE CHAPEL OF THE KEEP.  INSIDE THE DOORWAY ARE THE DRIED HUSKS OF TWO ORCS, THEIR FACES TWISTED WITH TERROR.  A LARGE ALTAR DOMINATES THE SOUTHERN WALL.|ЭТО БЫЛА ОДИН РАЗ ЧАСОВНЯ ХРАНИ. ВНУТРИ ДВЕРНОГО ПРОЕМА - СУХИЕ КОЛОДКИ ДВУХ ОРКОВ, ЛИЦА ИХ ОБЪЯВЛЕННЫМ ТЕРРОРОМ. БОЛЬШОЙ АЛТАР ДОМИНИРУЕТ ЮЖНУЮ СТЕНУ.
+221|A PALE FORM RISES BEFORE YOU.|Бледная форма поднимается перед вами.
+222|WHAT DO YOU SAY? (TYPE A SINGLE WORD)|ЧТО ТЫ ГОВОРИШЬ? (НАПИСАТЬ ЕДИНОЕ СЛОВО)
+223|PASSING THROUGH AN ILLUSIONARY WALL, YOU ENTER A PORTION OF THE KEEP THAT REMAINS UNTOUCHED BY TIME OR RAVAGING ARMIES. |ПРОХОДЯ ЧЕРЕЗ ИЛЛЮЗИОННУЮ СТЕНУ, ВЫ ВОЙДЕТЕ В ЧАСТЬ ХРАНИЛИЩА, ОСТАЮЩАЯСЯ НЕЗАМЕТНЫМ ВРЕМЕНЕМ ИЛИ РАЗРУШАЮЩИМИ АРМИЯМИ.
+224|THERE IS A GLOW IN THE NORTHWESTERN CORNER OF THE ROOM.|В СЕВЕРО-ЗАПАДНОМ УГЛЕ НОМЕРА СВЕТ.
+225|SPECIAL STANDS IN THE NORTHWESTERN CORNER HOLD EQUIPMENT.|СПЕЦИАЛЬНЫЕ СТЕНДЫ НА СЕВЕРО-ЗАПАДНОМ УГОЛКЕ ОБОРУДОВАНИЕ.
+226|AS YOU SEARCH THROUGH THE WRECKED SMITHY, YOU FIND THAT TIME HAS CRUMBLED EVERYTHING WITH THE EXCEPTION OF ONE OLD HAMMER.|ПОИСК ПО РАЗБИВШЕМУ СМИТИ, ВЫ ОБНАРУЖИВАЕТЕ, ЧТО ВРЕМЯ КРОШЛО ВСЕ, ЗА ИСКЛЮЧЕНИЕМ ОДНОГО СТАРОГО МОЛОТА.
+227| DO YOU TAKE IT?| ВЫ ПРИНИМАЕТЕ?
+228|ON STANDS ARE A SHIELD, A MACE, A SWORD, AND A SMALL SUIT OF CHAINMAIL.  THE EQUIPMENT HAS NOT BEEN TARNISHED BY THE PASSING YEARS. |НА СТЕНДАХ - ЩИТ, МАШИНА, МЕЧ И МАЛЕНЬКИЙ КОСТЮМ ЦЕПНОЙ ПОЧТЫ. ОБОРУДОВАНИЕ НЕ БЫЛО ЗАКОНЧЕНО.
+229|DO YOU TAKE IT?|ВЫ ПРИНИМАЕТЕ?
+230|THE HALL IS EMPTY, SAVE FOR SIGNS OF A RECENT BATTLE.|ЗАЛ ПУСТО, СОХРАНИТЕ ПРИЗНАКИ НЕДАВНЕГО БИТВА.
+231|YOU SEE THE PITIFUL REMAINS OF A DEAD ELF.  EVERYTHING OF VALUE HAS BEEN TAKEN OR DESTROYED.|Вы видите жалкие остатки мертвого эльфа. ВСЯ ЦЕННОСТЬ БЫЛА ПРИНЯТА ИЛИ УНИЧТОЖЕНА.
+232|WHAT DO YOU DO?|ЧТО ВЫ ДЕЛАЕТЕ?
+233|LEAVE|ПОКИНУТЬ
+234|SEARCH|ПОИСК
+235|ATTACK|АТАКА
+236|TALK|ГОВОРИТЬ
+237|THE ELF IS LONG DEAD.|Эльф давно умер.
+238|AN UNDEAD PATROL CONFRONTS YOU.  DO YOU GIVE THE PASSWORD?|НЕМЕРТЫЙ ПАТРУЛЬ ПРЕПЯТСТВУЕТ ВАМ. ВЫ ДАЕТЕ ПАРОЛЬ?
+239|A PACK OF UNDEAD SUDDENLY APPEARS.|ВНЕЗАПНО ПОЯВЛЯЕТСЯ ПАКЕТ НЕМЕРТЫХ.
+240|WHAT DO YOU SAY? (TYPE A SINGLE WORD)|ЧТО ТЫ ГОВОРИШЬ? (НАПИСАТЬ ЕДИНОЕ СЛОВО)
+241|THE CROAKING RISES IN VOLUME.|ГРОМКОСТЬ УВЕЛИЧИВАЕТСЯ.
+242|CROAK!|КВАКАТЬ!
+243|A MIST RISES AND THICKENS INTO NUMEROUS SHADOWING FIGURES.  FROM THESE FIGURES RISES A LOW MOANING.|Туман поднимается и сгущается, превращаясь в многочисленные тенистые фигуры. ОТ ЭТИХ ЦИФРОВ РАЗВИВАЕТСЯ НИЗКИЙ СТОН.
+244|GHOSTLY SHAPES SCREECH OUT A DREADFUL KEENING HOWL|Призрачные формы кричат ​​ужасным криком
+245|'WOE, WOOOE, OH WOE,' THE FIGURES CRY PITEOUSLY.|"УУ-У-У-У-У-У-У-У-У-У-У-У-У-У-У-У-У-у-у-у-у-у-у-у-у-у-у-у-у-у-у-у-у-у!
+246|BENEATH A FLOORBOARD YOU FIND SOME GEMS AND A FEW PAGES OF A DIARY.  YOU COPY THESE PAGES INTO YOUR JOURNAL AS ENTRY 3.|ПОД ПОЛОМ ВЫ НАЙДЕТЕ НЕКОТОРЫЕ ДРАГОЦЕННОСТИ И НЕСКОЛЬКО СТРАНИЦ ДНЕВНИКА. ВЫ КОПИРУЕТЕ ЭТИ СТРАНИЦЫ В СВОЙ ЖУРНАЛ В КАЧЕСТВЕ ЗАПИСИ 3.
+247|DO YOU TAKE THE GEMS?|ВЫ ПРИНИМАЕТЕ ДРАГОЦЕННОСТИ?
+248|YOU HACK THE BODY TO BITS.|ВЫ РАЗБИВАЕТЕ ТЕЛО.
+249|WHAT DO YOU SAY? (TYPE A SINGLE WORD).|ЧТО ТЫ ГОВОРИШЬ? (НАПИСАТЬ ЕДИНОЕ СЛОВО).
+250|ON A HOBGOBLIN BODY, YOU FIND A NOTE THAT YOU COPY INTO YOUR JOURNAL AS ENTRY 57.|НА ТЕЛЕ ХОБГОБЛИНА ВЫ НАХОДИТЕ ЗАПИСКУ, КОТОРУЮ КОПИРУЕТЕ В СВОЙ ЖУРНАЛ, КАК ЗАПИСЬ 57.

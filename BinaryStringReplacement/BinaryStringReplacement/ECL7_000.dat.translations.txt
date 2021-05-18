@@ -1,0 +1,289 @@
+﻿1|THIS DIRECTION WILL TAKE YOU BACK INTO THE WILDERNESS. DO YOU STILL WANT TO GO THIS WAY?|ЭТО НАПРАВЛЕНИЕ вернет вас в дикую природу. ВЫ ВСЕ ЕЩЕ ХОТИТЕ ИДИТЬ ПО ЭТОМУ ПУТИ?
+2|A GROUP OF NOMADS SPOT YOU. THEY SHOUT AND CHARGE. AS THEY COME CLOSER THEIR NUMBERS SWELL WITH ARRIVALS.|ГРУППА КОЧЕЧНИКОВ ОБЪЕДИНЯЕТ ВАС. ОНИ КРИЧАТ И ЗАРЯДАЮТ. По мере того, как они приближаются, их число растет с прибытием.
+3|THE HEROIC DEATHS OF THOSE YOU HAVE JUST BATTLED HAS BOUGHT TIME FOR THE HEADMAN TO RALLY HIS PEOPLE. WITH A TREMENDOUS CRY HE LEADS HIS TRIBE INTO BATTLE.|ГЕРОИЧЕСКИЕ СМЕРТИ, КОТОРЫЕ ВЫ ПРОСТО СРАЖАЛИ, ПРИОБРЕЛИ ВРЕМЯ ДЛЯ ГОЛОВА СБОРНИТЬ СВОИХ ЛЮДЕЙ. С УДИВИТЕЛЬНЫМ плачем он ведет свой отряд в битву.
+4|THE SOUND OF WAR CRIES DRAWS YOU OUT OF THE HUT. |ЗВУК ВОЕННЫХ КРИКОВ ВЫТЯГАЕТ ВАС ИЗ ХИЖИНЫ.
+5|YOU TRIP ON A WIRE TO THE ACCOMPANIMENT OF BELLS TINKLING. AFTER A MOMENT THERE IS A COMMOTION AHEAD OF YOU.|ВЫ НАПИРАЕТЕСЬ НА ПРОВОД К СОПРОВОЖДЕНИЮ ЗВОНКА КОЛОНКАМИ. ПОСЛЕ МГНОВЕНИЯ ВАС ОПРЕДЕЛЯЕТСЯ ДВИЖЕНИЕ.
+6|FLEE|БЕЖАТЬ
+7|ADVANCE CAUTIOUSLY|ПРЕДОСТЕРЕЖЕНИЕ ОСТОРОЖНО
+8|ATTACK|АТАКА
+9|YOU CHARGE INTO A GROUP OF SCRUFFY LOOKING NOMADS.|ВЫ НАЧИНАЕТЕ ГРУППУ НОМАДОВ НЕВЕРНОГО ВИДА.
+10|THE HEADMAN WALKS UP TO YOU WITH HIS GUARDS. 'GOOD MORNING. THERE ARE CELEBRATIONS PLANNED TODAY.'|РУКОВОДИТЕЛЬ ПОДХОДИТ К ВАМ С ОХРАННИКАМИ. 'ДОБРОЕ УТРО. СЕГОДНЯ ЗАПЛАНИРОВАНЫ ПРАЗДНИКИ ".
+11|'COME, LET THERE BE GAMES FOR OUR GUESTS.' HE LEADS YOU TO THE CAMP'S CENTRAL CLEARING.|"Приходите, ДА БУДЕТ ИГРЫ ДЛЯ НАШИХ ГОСТЕЙ". ОН ВЕДЕТ ВАС В ЦЕНТРАЛЬНЫЙ КЛИРИНГ ЛАГЕРЯ.
+12|YOU ARE TREATED AS HONORED GUESTS FOR THE REST OF THE DAY. THERE ARE CONTESTS OF STRENGTH AND SKILL IN YOUR HONOR.|К ВАМ ЛЕЧИТСЯ КАК ЗАЧЕТНЫЕ ГОСТЯ НА ОТДЫХ ДНЯ. В ВАШЕЙ ЧЕСТИ СОБЫТИЯ СИЛЫ И УМЕНИЯ.
+13|AS NIGHT FALLS, THE NOMADS BUILD A HUGE CAMPFIRE IN THE CENTER OF THE CAMP. THE WHOLE TRIBE GATHERS FOR THE FEAST. AFTER THE FEAST THERE IS DANCING AND WILD CELEBRATIONS.|С наступлением ночи кочевники строят ОГРОМНЫЙ ЛАГЕРЬ В ЦЕНТРЕ ЛАГЕРЯ. ВЕСЬ ПЕРЕВОЗКА СОБИРАЕТСЯ НА ПРАЗДНИК. ПОСЛЕ ПРАЗДНИКА ТАНЦЫ И ДИКИЕ ПРАЗДНИКИ.
+14|DURING THE FESTIVITIES THE CHIEF (HIS TONGUE LOOSENED BY DRINK) TELLS YOU OF THE DANGERS OF THE REGION. YOU MAKE HASSAD AHWAL'S TALK ENTRY 55 IN YOUR JOURNAL.|ВО ВРЕМЯ ПРАЗДНИКА ГЛАВНЫЙ (ЕГО ЯЗЫК ОСЛАБЕН ОТ НАПИТКА) РАССКАЗЫВАЕТ ВАМ ОБ ОПАСНОСТЯХ РЕГИОНА. ВЫ ДЕЛАЕТЕ 55 В СВОЕМ ЖУРНАЛЕ РАЗГОВОР ХАССАДА АХВАЛА.
+15|THE HEADMAN SEEMS VERY UNEASY AS HE CONTINUES TO SPEAK. HE PRACTICALLY BEGS YOU TO STAY FOR A FEW MORE DAYS, RATHER THAN LEAVE IN THE MORNING AS YOU PLANNED.|РУКОВОДИТЕЛЬ ВИДЕТСЯ ОЧЕНЬ НЕУДОБНЫМ, КОГДА ОН ПРОДОЛЖАЕТ ГОВОРИТЬ. ОН ПРАКТИЧНО ПРОСИТ ВАС остаться на несколько дней, а не уехать утром, как вы запланировали.
+16|'MY SCOUTS HAVE SEEN EVIDENCE OF A LARGE BAND OF KOBOLDS IN THE VICINITY. I WORRY ABOUT MY PEOPLE. IF YOU WOULD STAY UNTIL THEY PASS I WOULD APPRECIATE IT.|"МОИ РАЗВЕДКИ ВИДЕЛИ ДОКАЗАТЕЛЬСТВА БОЛЬШОЙ БИРЖИ КОБОЛЬДОВ В БЛИЖАЙШЕСТВЕ. Я беспокоюсь о своих людях. ЕСЛИ ВЫ ОСТАНОВИТЕСЬ ДО ОНИ, Я ЦЕНИТ ЭТО.
+17|'PLEASE THINK ABOUT IT OVERNIGHT.' AFTER A WHILE THE FESTIVITIES END AND YOU ARE ESCORTED TO YOUR LODGING. |"ПОЖАЛУЙСТА, ПОДУМАЙТЕ ОБ ЭТОМ НА НОЧЬ". ПОСЛЕ ЗАКОНЧЕНИЯ ПРАЗДНИКА И ВАС НАХОДИТСЯ В ВАШЕ ЖИЛЬЕ.
+18|THE HEADMAN COMES TO YOU AND SAYS, 'ABOUT MY REQUEST OF LAST NIGHT, WHAT IS YOUR DECISION?'|РУКОВОДИТЕЛЬ подходит к вам и говорит: "КАКОЕ ВАШЕ РЕШЕНИЕ ПО ПРОСЬБЕ ПОСЛЕДНЕЙ НОЧИ?"
+19|STAY AND FIGHT|ОСТАВАЙТЕСЬ И СРАЖАЙТЕСЬ
+20|LEAVE|ПОКИНУТЬ
+21|LOOKING DISAPPOINTED THE HEADMAN SAYS, 'GOOD LUCK IN YOUR TRAVELS.'|РАЗОЧАРОВАНИЕ ВИДА ГОЛОВА говорит: "УДАЧИ В ВАШИХ ПУТЕШЕСТВИЯХ".
+22|YES|ДА
+23|NO|НЕТ
+24| | 
+25|A GUARD APPEARS BEFORE YOU, 'YOU MUST HAVE MADE A MISTAKE. ALLOW ME TO ESCORT YOU TO YOUR LODGING.'|ПЕРЕД ТЕБЯ ПОЯВЛЯЕТСЯ ОХРАННИК: "ВЫ ДОЛЖНЫ СДЕЛАТЬ ОШИБКУ. РАЗРЕШИТЕ ​​МНЕ СКОРБИТЬ ВАС В ВАШЕ ЖИЛЬЕ ".
+26|FOLLOW THE GUARD|СЛЕДУЙТЕ ЗА СТРАЖЕЙ
+27|ATTACK THE GUARD|АТАКА НА СТРАЖИ
+28|AS THE GUARD TURNS TO ESCORT YOU BACK TO YOUR TENT, YOU SMILE AND STICK HIM IN THE BACK. WITH A CHOKED CRY HE COLLAPSES.|Когда охранник поворачивается, чтобы отвести вас обратно в палатку, вы улыбаетесь и приставляете ему в спину. С УДЫЛЕННЫМ КРИКОМ он рушится.
+29|HOWEVER, AWAKENED BY THE TALK SOMEONE IN THE TENT HAS SEEN YOUR ACT AND A SCREAM GOES OUT 'TREACHERY! THEY HAVE SLAIN SAMIR!' THE CAMP BEGINS TO STIR.|ОДНАКО, проснувшись от разговора, кто-то в палатке увидел ваш акт, и раздались крики - "ПРЕДИСЛОВИЕ! ОНИ УБИЛИ САМИРА! ЛАГЕРЬ НАЧИНАЕТСЯ.
+30|THE HEADMAN COMES TO YOU AND SAYS, 'ABOUT MY REQUEST OF LAST NIGHT, WHAT IS YOUR DECISION?'|РУКОВОДИТЕЛЬ подходит к вам и говорит: "КАКОЕ ВАШЕ РЕШЕНИЕ ПО ПРОСЬБЕ ПОСЛЕДНЕЙ НОЧИ?"
+31|STAY AND FIGHT|ОСТАВАЙТЕСЬ И СРАЖАЙТЕСЬ
+32|LEAVE|ПОКИНУТЬ
+33|LOOKING DISAPPOINTED THE HEADMAN SAYS, 'GOOD LUCK IN YOUR TRAVELS.'|РАЗОЧАРОВАНИЕ ВИДА ГОЛОВА говорит: "УДАЧИ В ВАШИХ ПУТЕШЕСТВИЯХ".
+34|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+35| | 
+36|A HORDE OF KOBOLDS IS ATTACKING THE CAMP. A LONE SENTRY CHARGES BUT IS QUICKLY CUT DOWN. A FAMILY EMERGES FROM A HUT AND CHARGES THE KOBOLDS.|ОРДА КОБОЛЬДОВ НАПАДАЕТ НА ЛАГЕРЬ. LONE SENTRY заряжается, но быстро отключается. СЕМЬЯ ВЫХОДИТ ИЗ ХИЖИ И НАПРАВЛЯЕТ КОБОЛДОВ.
+37| YOU SPIN TO FACE THE SOUND.| ВЫ ВРАЩАЕТЕСЬ, ЧТОБЫ СМОТРЕТЬ ЗВУК.
+38|A CROWD OF SCRUFFY LOOKING NOMADS GATHERS AS HIDDEN SENTRIES GIVE WORD OF YOUR APPROACH. THERE ARE ABOUT AN EQUAL NUMBER OF MEN AND WOMEN.|Толпа неряшливо выглядящих кочевников собирает, когда скрытые стражи говорят о вашем подходе. МУЖЧИН И ЖЕНЩИН ОКОЛО РАВНО.
+39|ALL THE NOMADS HOLD THEIR SWORDS AT THE READY, WATCHING YOU WARILY. MORE NOMADS APPEAR FROM OUT OF TENTS IN THE CAMP.|ВСЕ кочевники держат мечи наготове, осторожно наблюдая за вами. БОЛЬШЕ КОЧЕЧНИКОВ ПОЯВЛЯЮТСЯ ИЗ ПАЛАТК В ЛАГЕРЬЕ.
+40|YOU CAN SEE CHILDREN PEERING OUT OF THE TENT OPENINGS, ONLY TO BE PUSHED BACK INSIDE BY THEIR MOTHERS.|ВЫ МОЖЕТЕ ВИДЕТЬ ДЕТЕЙ, ВЫСАДЫВАЮЩИХСЯ ИЗ ОТВЕРСТИЙ ТЕНТА, ТОЛЬКО ДЛЯ ОТТЫКАНИЯ ВНУТРИ ИХ МАТЕРИ.
+41|THE NOMADS WAIT FOR YOU TO MAKE THE FIRST MOVE.|Кочевники ждут, что вы сделаете первый ход.
+42|THE BIGGEST, MEANEST, DIRTIEST NOMAD PUSHES HIS WAY TO THE FRONT OF THE CROWD. FIVE OTHER NOMADS STAND AROUND HIM AS IF TO PROTECT HIM.|САМЫЙ БОЛЬШОЙ, САМЫЙ, САМЫЙ, Грязный кочевник продвигается вперед к толпе. ПЯТЬ ДРУГИХ кочевников стоят вокруг него, чтобы защитить его.
+43|TOMORROW|ЗАВТРА
+44|TONIGHT|СЕГОДНЯ НОЧЬЮ
+45|THE BIGGEST NOMAD, APPARENTLY THE CHIEF OR HEADMAN, ACKNOWLEDGES YOU WITH A NOD, 'WE WILL GIVE A FEAST IN YOUR HONOR |САМЫЙ БОЛЬШОЙ КОЧЕЧНИК, ЯВНО, ГЛАВНЫЙ ИЛИ РУКОВОДИТЕЛЬ, ПОДТВЕРЖДАЕТ ВАС кивком: "Мы устроим праздник в вашу честь".
+46|. WILL YOU JOIN US?'|. ТЫ К НАМ ПРИСОЕДИНИШЬСЯ?'
+47|'THEN YOU MUST LEAVE US,' HE RESPONDS WITH AS MUCH DIGNITY AS HE CAN MUSTER. DO YOU LEAVE?|"ТОГДА ВЫ ДОЛЖНЫ УЙТИ НАС", - ОН ОТВЕЧАЕТ С ТАКЖЕ ДОСТОИНСТВОМ, КАК ОН МОЖЕТ. ТЫ УХОДИШЬ?
+48|'YOUR INSULTS ARE TOO MANY! KILL THEM!'|"ВАШИ ИЗОЛЯЦИИ СЛИШКОМ МНОГО! УБЕЙ ИХ!'
+49|'HERE YOU MAY REST.'|"ЗДЕСЬ МОЖНО ОТДЫХАТЬ".
+50|'I AND MY PEOPLE THANK YOU. AND KNOW THAT WE HAVE HONOR. YOU SHALL BE RICHLY REWARDED FOR YOUR GENEROUS AID.'|"Я И МОИ ЛЮДИ СПАСИБО. И ЗНАЕМ, ЧТО У НАС ЧЕСТЬ. ВЫ ДОЛЖНЫ БЫТЬ БОГАТЫМ НАГРАДНЫ ЗА ЩЕДРУЮЩУЮ ПОМОЩЬ ".
+51|'YOU MAY WANDER AS YOU WILL OR YOU MAY STAY HERE AND REST AND STUDY. FORGIVE ME, I MUST SEE TO MY PEOPLE.' HE LEAVES.|"ВЫ МОЖЕТЕ Бродить, как хотите, или оставаться здесь, отдыхать и учиться. ПРОЩИТЕ МЕНЯ, Я ДОЛЖЕН ВИДЕТЬ НА СВОИХ ЛЮДЕЙ ". ОН УХОДИТ.
+52|YOU HEAR WAR CRIES AND THE CLANG OF METAL |ВЫ СЛЫШАЕТЕ ВОЙНЫ КРИЧИ И ЛАК МЕТАЛЛА
+53| YOU SPIN TO FACE THE SOUND.| ВЫ ВРАЩАЕТЕСЬ, ЧТОБЫ СМОТРЕТЬ ЗВУК.
+54|A HORDE OF KOBOLDS IS ATTACKING THE CAMP.|ОРДА КОБОЛЬДОВ НАПАДАЕТ НА ЛАГЕРЬ.
+55|AHEAD YOU SEE A LARGE GROUP OF KOBOLDS ENGAGED IN MELEE WITH SOME NOMADS. |ВПЕРЕДИ ВЫ ВИДИТЕ БОЛЬШУЮ ГРУППУ КОБОЛДОВ, ЗАНИМАЮЩИХСЯ МЕЧТОМ С НЕКОТОРЫМИ КОМИТЕТАМИ.
+56|THE NOMADS SEE YOU AND SHOUT, 'THE FILTHY TRAITORS! GET THEM!' THE KOBOLDS, SEEING AN OPPORTUNITY, JOIN WITH THEM.|Кочевники видят вас и кричат: "Грязные предатели! ВЗЯТЬ ИХ!' КОБОЛДЫ, УВИДЯЩИЕ ВОЗМОЖНОСТЬ, ПРИСОЕДИНЯЮТСЯ К НИМ.
+57|YOU SEE A HUGE GROUP OF KOBOLDS MOVING RELUNCTANTLY FORWARD UNDER THE CURSES OF THEIR LEADER. THE HEADMAN WALKS UP AND SLAPS YOU ON THE BACK.|ВЫ ВИДИТЕ ОГРОМНУЮ ГРУППУ КОБОЛДОВ, НЕОБХОДИМЫХ, ПОДДЕРЖИВАЮЩИХСЯ ПРОКЛЯТИЕМ СВОЕГО ЛИДЕРА. РУКОВОДИТЕЛЬ подходит и хлопает вас по спине.
+58|'WELL DONE! WHAT SAY WE FINISH THIS TOGETHER?'|'ОТЛИЧНАЯ РАБОТА! ЧТО ГОВОРЯЕМ ВМЕСТЕ?
+59|DESTROY THE KOBOLDS|УНИЧТОЖАЙТЕ КОБОЛДОВ
+60|FLEE|БЕЖАТЬ
+61|THE HEADMAN SNEERS, 'COWARDS!' HE TURNS TO THE TWO GUARDS STILL LIVING AND YELLS, 'FOR HYRNKA!' HE AND HIS TWO GUARDS CHARGE INTO THE PACK.|ГЛАВНЫЙ СНИР: "ТЫСЫ!" ОН ОБРАЩАЕТСЯ К ДВУМЯ ОХРАННИКАМ, ВСЕ ЕЩЁ ЖИВЫМ, И КРИЧИТ: "ЗА ГЫРНКУ!" ОН И ЕГО ДВА ОХРАННИКА ЗАРЯДЫВАЮТСЯ В ПАКЕТУ.
+62|AS THEY REACH THE PACK A FLURRY OF ARROWS STRIKE THEM. UNDAUNTED THEY STRIKE. KOBOLDS DIE LIKE FLIES AROUND THESE HEROES. A GUARD FALLS WITH A SCORE OF WOUNDS.|КАК ОНИ ДОХОДЯТ В ПАКЕТ, ИХ УДАЛЯЕТ СТРЕЛКА СТРЕЛ. НЕПРЕДНАЗНАЧЕННЫЙ ОНИ УДАР. КОБОЛДЫ УМИРАЮТ КАК МУХИ НА ЭТИХ ГЕРОЯХ. Охранник падает с множеством ран.
+63|WITHIN TEN MINUTES THE KOBOLDS BREAK, HALF THEIR NUMBER DEAD. THE CHIEF COMES BACK, 'I PROMISED YOU REWARD FOR YOUR AID. SO IT SHALL BE... EQUAL TO YOUR HONOR.'|В ТЕЧЕНИЕ ДЕСЯТИ МИНУТ КОБОЛДЫ РАЗРЫВАЮТСЯ, ИХ ПОЛОВИНА МЕРТВА. ШЕФ ВЕРНУЛСЯ: "Я ОБЕЩАЛА ВАМ НАГРАДУ ЗА ВАШУ ПОМОЩЬ. ТАК ЭТО ДОЛЖНО БЫТЬ ... РАВНО ВАШЕЙ ЧЕСТИ ".
+64|'NOW LEAVE. WE HAVE OUR WOUNDED TO LOOK TO.'|"СЕЙЧАС УЙДИТЕ. НАШИ РАНЕНЫ, НА КОТОРЫЕ СМОТРЕТЬ ".
+65|THERE IS NOWHERE LEFT TO RETREAT. YOU MUST FIGHT.|ОТКРЫТЬ НЕ НУЖНО. ВЫ ДОЛЖНЫ БОРЬБАТЬСЯ.
+66|'YOU MUST BE TIRED FROM YOUR TRAVELS. WE WILL PROVIDE YOU WITH LODGING.' HE LEADS THE WAY TO A HUT WHICH IS HURRIEDLY BEING CLEARED OF ITS OCCUPANTS.|"ВЫ ДОЛЖНЫ УСТАВИТЬ ОТ ПУТЕШЕСТВИЙ. МЫ ПРЕДОСТАВЛЯЕМ ВАМ ЖИЛЬЕ ". ОН ВЕДЕТ ПУТЬ К ХИЖИНЕ, КОТОРЫЙ СРОЧНО ОЧИЩАЕТСЯ ОТ ЕГО.
+67|'HERE YOU MAY REST.'|"ЗДЕСЬ МОЖНО ОТДЫХАТЬ".
+68|TO YOUR LEFT.|СЛЕВА.
+69|BEHIND YOU.|ЗА ТОБОЙ.
+70|TO YOUR RIGHT.|НА ВАШЕ ПРАВО.
+71|IN FRONT OF YOU.|ПЕРЕД ТОБОЙ.
+72|ADVANCING ON YOU IS A LARGE BAND OF KOBOLDS WITH BLOOD LUST IN THEIR EYES.|НАПРЯЖЕНИЕ НА ВАС - БОЛЬШАЯ ГРУППА КОБОЛДОВ С КРОВЬЮ ЖАЖДУ В ГЛАЗАХ.
+73|YOU SEE A HUGE GROUP OF KOBOLDS MOVING RELUNCTANTLY FORWARD UNDER THE CURSES OF THEIR LEADER.|ВЫ ВИДИТЕ ОГРОМНУЮ ГРУППУ КОБОЛДОВ, НЕОБХОДИМЫХ, ПОДДЕРЖИВАЮЩИХСЯ ПРОКЛЯТИЕМ СВОЕГО ЛИДЕРА.
+74|JUST AS YOU THINK YOURSELVES FREE OF DANGER, THE HEADMAN, HIS SHAMAN AND GUARDS ATTACK WITH CRIES OF 'FOUL TRAITORS!' AT THE SAME TIME KOBOLDS ATTACK.|КАК ВЫ ДУМАЕТЕ ДЛЯ СЕБЯ БЕЗОПАСНОСТИ, РУКОВОДИТЕЛЬ, ЕГО ШАМАН И ОХРАННИКИ НАПАДАЮТ С КРИКОМ "ГЛУБОКИХ ПРЕДАТЕЛЕЙ!" В ЖЕ ВРЕМЯ КОБОЛЬД АТАКА.
+75|'THEN LET US DO IT!'|ТОГДА ДАВАЙТЕ НАМ СДЕЛАТЬ ЭТО!
+76|THE SHAMAN WALKS UP TO YOU. 'YOU FOUGHT AS THE HEROES OF LEGEND. A REWARD WAS PROMISED AND SO SHALL IT BE.'|ШАМАН ПОДХОДИТ К ВАМ. "ВЫ СРАЖАЛИСЬ КАК ГЕРОИ ЛЕГЕНДЫ. НАГРАДА ОБЕЩАНА, И ТАК БУДЕТ ".
+77|'NOW PLEASE LEAVE US TO OUR MOURNING. IT IS A PERSONAL THING FOR OUR PEOPLE.'|А теперь, пожалуйста, оставьте нас на траур. ЭТО ЛИЧНАЯ ВЕЩЬ ДЛЯ НАШИХ ЛЮДЕЙ ".
+78|YOU SEE|ПОНИМАЕТЕ
+79|YOU SEE A HUMAN PRIEST.|ВЫ ВИДИТЕ ЖРЕЦ-ЧЕЛОВЕКА.
+80|HE SMILES AT YOU AND RAISES HIS HAND IN BENEDICTION.|ОН УЛЫБАЕТСЯ ВАМ И ПОДНИМАЕТ РУКУ В СОДЕРЖАНИЕ.
+81|I HAVE A SECRET. I HAVE CHISELED ALMOST ALL THE WAY THROUGH TO THE OUTSIDE. BUT I NO LONGER HAVE THE STRENGTH TO BREAK THROUGH. WILL YOU TRY?|У МЕНЯ ЕСТЬ СЕКРЕТ. Я ПРОЧИЛ ПОЧТИ ВСЕЙ ПУТЬ ДО СНАРУЖИ. НО У МЕНЯ БОЛЬШЕ НЕТ СИЛЫ, ЧТОБЫ ПРОРЫВАТЬСЯ. ВЫ ПОПРОБУЕТЕ?
+82|YOU BREAK THROUGH. THE PRIEST TEARFULLY THANKS YOU AND GOES THROUGH THE HOLE.|ВЫ ПРОРЫВАЕТЕ. СВЯЩЕННИК СЛОВО СПАСИБО И ПРОХОДИТ ЧЕРЕЗ ДЫРУ.
+83|THERE IS A HOLE IN THE WALL THAT LEADS TO THE OUTSIDE. DO YOU GO THROUGH IT?|В стене есть отверстие, которое ведет наружу. ВЫ ПРОХОДИТЕ ЧЕРЕЗ ЭТО?
+84|YOU FIND THE CORPSE OF A MAN. THE BODY HAS BEEN STRIPPED OF WEAPONS AND ARMOR, AS WELL AS ANY USEFUL GEAR.|ВЫ НАЙДЕТЕ ТРУП ЧЕЛОВЕКА. КОРПУС БЕЗ ОРУЖИЯ И БРОНИ, А ТАКЖЕ ЛЮБОГО ПОЛЕЗНОГО ОБОРУДОВАНИЯ.
+85|HOWEVER, YOU FIND A BOOK UNDER THE BODY. IT IS THE JOURNAL OF TYRMOR.  IT IS FACINATING AND YOU INCLUDE MUCH OF ITS INFORMATION IN YOUR JOURNAL AS ENTRY 26.|ОДНАКО, ВЫ НАХОДИТЕ КНИГУ ПОД ТЕЛОМ. ЭТО ЖУРНАЛ ТИРМОРА. ЭТО УДИВИТЕЛЬНО, И ВЫ ВКЛЮЧАЕТЕ МНОГО ЕГО ИНФОРМАЦИИ В СВОЙ ЖУРНАЛ ПРИ ЗАПИСИ 26.
+86|YOU SEE ROCKS SCATTERED ABOUT THE SMOOTH FLAGSTONES. |ВЫ ВИДЕТЕ КАМНИ, РАССЕПАННЫЕ НА ГЛАДКИЕ ФЛАГКАММЫ.
+87| A BAND OF HUMAN FIGHTERS.| ГРУППА БОЙЦОВ.
+88|YOU ARE SURPRISED BY|ТЫ УДИВЛЕН
+89|YOU SURPRISE|ВЫ УДИВИТЕ
+90|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+91| | 
+92|THEY SMILE AT YOU.|ОНИ УЛЫБЛЯЮТСЯ ВАМ.
+93|THEY WAVE AND SAY 'SAVED!'|ОНИ ВОЛНУЛИСЬ И ГОВОРЯТ: "СПАСИЛИ!"
+94|THE LEADER WAVES AND CALLS TO YOU.|ЛИДЕР ВОЛНЫ И ЗОВЕТ К ВАМ.
+95|ONE LICKS ITS LIPS.|СЛИВАЕТ ЕГО ГУБЫ.
+96|THEY FLY TOWARD YOU.|ОНИ ЛЕТУТ НА ВАС.
+97|A SECRET DOOR IS FOUND|НАЙДЕНА ТАЙНАЯ ДВЕРЬ
+98|PEACE BROTHER. YOU, TOO, ARE ONE OF MY FLOCK. I HAVE BUT RECENTLY PRAYED FOR ANOTHER OF MY FLOCK AND MAY PRAY NO MORE.|МИР БРАТ. ВЫ ТАКЖЕ ОДИН ИЗ МОЕГО СТАЯ. Я НЕДАВНО МОЛИЛСЯ ЗА ДРУГОГО ИЗ МОЕГО СТАЯ И БОЛЬШЕ НЕ МОГУ МОЛИТЬСЯ.
+99|YES|ДА
+100|NO|НЕТ
+101| | 
+102|GO BACK|ВЕРНИТЕСЬ НАЗАД
+103|MOVE ON|ДВИГАТЬСЯ ДАЛЬШЕ
+104|THROW A ROCK|БРОСИТЬ КАМЕНЬ
+105| | 
+106|AS YOU CAREFULLY SEARCH THE ROOM, YOU FEEL A STRANGE TINGLE WHEN YOU GET CLOSE TO A BARE AREA.|ПРИ ВНИМАТЕЛЬНОМ ИССЛЕДОВАНИИ НОМЕРА, ВЫ ЧУВСТВУЕТЕ СТРАННОЕ ПОКОЛЕНИЕ, КОГДА ПОДБИРАЕТЕСЬ К ГОЛОМУ ПЛОЩАДКУ.
+107|GO BACK|ВЕРНИТЕСЬ НАЗАД
+108|MOVE ON|ДВИГАТЬСЯ ДАЛЬШЕ
+109|THROW A ROCK|БРОСИТЬ КАМЕНЬ
+110| | 
+111|AS YOU MOVE THROUGH THE ROOM THERE IS A FLASH, AND YOU SUDDENLY FIND YOURSELVES ELSEWHERE.|КОГДА ВЫ ПРОХОДИТЕ ПО КОМНАТЕ, ЕСТЬ ВСПЫШКА, И ВЫ ВНЕЗАПНО НАХОДИТЕ СЕБЯ В другом месте.
+112|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+113| | 
+114| DISPLACER BEASTS.| ДВИГАТЕЛЬ ЗВЕРЬ.
+115| DWARVEN FIGHTERS.| ДВАРВЕНСКИЕ БОЙЦЫ.
+116| A TRIO OF LIZARD MEN.| ТРИО ЯЩЕРИЦ.
+117| VISCIOUS LOOKING DRIDERS.| ВЯЗАННЫЕ ВИДЫ ДРАЙДЕРЫ.
+118| SOME GAUNT MEN IN POORLY FITTING LEATHER.| НЕКОТОРЫЕ МУЖЧИНЫ В ПЛОХО ПОДГОТОВКЕ КОЖИ.
+119| LARGE INSECTS WITH RUSTY RED FEATHERS.| БОЛЬШИЕ НАСЕКОМЫЕ С РЖАВЫМИ КРАСНЫМИ ПЕРЬЯМИ.
+120| SOME LARGE BULL HEADED MEN.| НЕКОТОРЫЕ БОЛЬШИЕ МУЖЧИНЫ С БЫЧЬЕЙ ГОЛОВОЙ.
+121| A GROUP OF EMACIATED ELVES.| ГРУППА ИЗУМАННЫХ ЭЛЬФОВ.
+122| SOME HUNGRY LOOKING KOBOLDS.| НЕКОТОРЫЕ ГОЛОДНЫЕ КОБОЛДЫ.
+123| IN FRONT OF YOU.| ПЕРЕД ТОБОЙ.
+124| TO YOUR RIGHT.| НА ВАШЕ ПРАВО.
+125| BEHIND YOU.| ЗА ТОБОЙ.
+126| TO YOUR LEFT.| СЛЕВА.
+127|YOU THROW A ROCK. SUDDENLY IT DISAPPEARS WITH A FLASH!|ВЫ БРОСАЕТЕ КАМЕНЬ. ВНЕЗАПНО ПРОИСХОДИТ ВСПЫШКОЙ!
+128| | 
+129|YOU SEE ROCKS SCATTERED ABOUT THE SMOOTH FLAGSTONES. |ВЫ ВИДЕТЕ КАМНИ, РАССЕПАННЫЕ НА ГЛАДКИЕ ФЛАГКАММЫ.
+130|YOU SEE A GROUP OF FIVE LIZARD MEN. THEY HISS AT YOU.|ВЫ ВИДИТЕ ГРУППУ ИЗ ПЯТИ ЯЩЕРИЦ. ОНИ У ВАС.
+131|THEY ARE WARY, BUT NOT HOSTILE.|ОНИ осторожны, но не враждебны.
+132|STANDING READY THEIR LEADER SAYS 'YOU MUST BE THE SERVANTS OF YARASH!'|СТОЯ ГОТОВЫ. ИХ ЛИДЕР ГОВОРЯТ: "ВЫ ДОЛЖНЫ БЫТЬ СЛУГАМИ ЯРАША!"
+133|THEIR LEADER SAYS 'FOUL SERVANTS OF YARASH!'|ИХ ВЕДУЩИЙ СКАЗЫВАЕТ "ГЛУБОКИЕ СЛУГИ ЯРАША!"
+134|'SINCE YOU ARE NOT THE SERVANTS OF YARASH, WE WILL NOT KILL YOU. THE ENEMY OF MY ENEMY IS NOT MY ENEMY!'|"ПОСКОЛЬКУ ВЫ НЕ СЛУЖИТЕЛИ ЯРАША, МЫ НЕ УБИВАЕМ ВАС. ВРАГ МОЕГО ВРАГА - НЕ МОЙ ВРАГ! "
+135|YOU HAVE ENTERED A ROOM FILLED WITH A HORRIBLE ASSORTMENT OF TORTURE INSTUMENTS. IN THE CENTER IS A LARGE TABLE WITH METAL RESTRAINTS.|ВЫ ЗАЙТИЛИ В КОМНАТУ, НАПОЛНЕННУЮ УЖАСНЫМ АССОРТИМЕНТОМ ИЗДЕЛИЙ ПЫТОК. В ЦЕНТРЕ БОЛЬШОЙ СТОЛ С МЕТАЛЛИЧЕСКИМИ ОГРАНИЧЕНИЯМИ.
+136|THE WALLS ARE LINED WITH FLASKS AND BOTTLES CONTAINING POWDERS, OILS, OINTMENTS, AND DRAUGHTS. THESE ARE SURELY OF AN ALCHEMICAL NATURE.|СТЕНЫ ВЫКЛОНЕНЫ ФЛЯЖКАМИ И БУТЫЛКАМИ С ПОРОШКАМИ, МАСЛАМИ, МАСЛАМИ И ОТДЫХАМИ. ЭТИ ЯВЛЯЕТСЯ АЛХИМИЧЕСКИМ ПРИРОДОМ.
+137|YOU HAVE ENTERED A ROOM FILLED WITH LARGE VATS WITH THE SAME OILY BLACK STUFF THAT FLOWS FROM THE FOUNTAIN. THE CHAMBER STINKS. ON THE WALLS ARE SHELVES OF BOTTLES AND FLASKS.|ВЫ ВХОДИЛИ В НОМЕР, ЗАПОЛНЕННЫЙ БОЛЬШИМИ ЧАНАМИ С ТАКОЙ ЖЕ МАСЛОЧНОЙ ЧЕРНОЙ ВЕЩЕВОЙ, КОТОРОЙ ТЕЧИТ ОТ ФОНТАНА. КАМЕРА ВОНЯЕТ. НА СТЕНАХ ПОЛКИ БУТЫЛКИ И ФЛЯЖКИ.
+138|AS YOU ARE POKING AROUND IN THE VATS, A PAIN CRAZED LIZARD MAN SURFACES AND ATTACKS YOU! TWO OTHERS QUICKLY JOIN HIM FROM OTHER VATS.|КОГДА ВЫ ТОЧКАЕТЕ В ВАТАХ, БОЛЬНОЙ ЧЕЛОВЕК-ЯЩЕРИЦА НАПРЯГАЕТСЯ НА ВАС! ДРУГИЕ БЫСТРО ПРИСОЕДИНЯЮТСЯ К НУ ИЗ ДРУГИХ ВАТОВ.
+139|YOU HAVE ENTERED WHAT LOOKS LIKE AN ORDINARY ALCHEMISTS LAB... RECENTLY USED.|ВЫ ВХОДИТЕ В ОБЫЧНУЮ ЛАБОРАТОРИЮ АЛХИМИСТОВ ... НЕДАВНО ИСПОЛЬЗУЕМЫЕ.
+140|YOU FIND A NOTEBOOK. A TYPICAL ENTRY READS, 'SUBJECT 213: PROGRESSING WELL, SCARS HEALING, UNABLE TO TALK YET. SUBJECT 214: DIED WHEN TREATED, FAILED AGAIN...'|ВЫ НАШЛИ НОУТБУК. ТИПИЧНАЯ ЗАПИСЬ ПРОЧИТАЕТ: "ТЕМА 213: ХОРОШО ПРОГРЕССИРУЕТСЯ, ИСЦЕЛЕНИЕ ШРАМОВ, НЕЛЬЗЯ ГОВОРИТЬ. ТЕМА 214: УМЕРЛА НА ЛЕЧЕНИИ, СНОВА НЕУДАЧА ...
+141|YOU ARE IN A STOREROOM HOLDING A VAST COLLECTION OF MAGICAL JUNK.|ВЫ В МАГАЗИНЕ С ОБЩЕСТВЕННОЙ КОЛЛЕКЦИЕЙ ВОЛШЕБНОГО ХРАНИЛИЩА.
+142| HOWEVER, HIDDEN AMIDST ALL THIS JUNK YOU FIND SOME TREASURE.| ОДНАКО, СКРЫТАЯСЯ В ЭТОМ БУДУЩЕЕ, ВЫ НАХОДИТЕ НЕКОТОРЫЕ СОКРОВИЩА.
+143|YOU SEE A SIGN OVER THE DOOR IN FRONT OF YOU. IT SAYS, 'DON'T FORGET THE PASSWORD'. THIS IS FOLLOWED BY SIX DWARVISH RUNES...|ВЫ ВИДИТЕ ЗНАК НАД ДВЕРЬЮ ПЕРЕД ВАМИ. ГОВОРИТ: "НЕ ЗАБУДЬТЕ ПАРОЛЬ". ЗА ЭТОМ СЛЕДУЮТ ШЕСТЬ ДВАРВИЧСКИХ РУН ...
+144|YOU HAVE ENTERED THE FOUNTAIN CHAMBER. IN THE CENTER OF THE ROOM A COLUMN OF BLACK FOUL WATER JETS UP THROUGH A CLEAR PIPE AND OUT THE ROOF.|ВЫ ВСТУПИЛИ В ФОНТАННУЮ ПАЛАТУ. В ЦЕНТРЕ НОМЕРА КОЛОННА ЧЕРНОЙ ВОДЫ ВЫПУСКАЕТСЯ ПО ПРОЗРАЧНОЙ ТРУБЕ И НА КРЫШУ.
+145|ANOTHER PIPE, RUNNING FROM THE WALL ACROSS AND TO YOUR RIGHT, PUMPS IN STREAMS OF THE FOUL LIQUID. ALL ABOUT THE ROOM ARE VALVES, GAUGES, PETCOCKS, AND PIPES.|ДРУГАЯ ТРУБКА, ПРОХОДЯЩАЯ ОТ СТЕНЫ НАПРАВО, НАСОСЫ ПОТОКОВ СЛИВОЙ ЖИДКОСТИ. ВСЕ В НОМЕРЕ КЛАПАНЫ, МАНОМЕТРЫ, ТРУБКИ И ТРУБЫ.
+146|WHAT DO YOU DO?|ЧТО ВЫ ДЕЛАЕТЕ?
+147|MOVE QUICKLY AWAY|БЫСТРО УХОДИТЕ
+148|DESTROY THE EQUIPMENT|УНИЧТОЖИТЬ ОБОРУДОВАНИЕ
+149|YOU HEAR A WHINING FROM THE PIPES THE BLACK LIQUID IS BUBBLING. HOWEVER, NOT ALL THE EQUIPMENT IS YET DESTROYED.|ВЫ СЛЫШАЕТЕ ВОЛЕНИЕ ИЗ ТРУБ, ПУЛЯЗЫВАЕТ ЧЕРНАЯ ЖИДКОСТЬ. ОДНАКО, НЕ ВСЕ ОБОРУДОВАНИЕ УНИЧТОЖЕНО.
+150|YOU HAVE ENTERED A PUMPING ROOM. WORKING AS SLAVES IN THIS ROOM ARE THREE LIZARD MEN WITH WHIP CUTS ACROSS THEIR BACK WHO ARE SHACKLED TO THE WALL BY LONG CHAINS.|ВЫ ЗАЙТИЛИ В НАСОСНУЮ. В ЭТОЙ КОМНАТЕ В КАЧЕСТВЕ РАБЫ РАБОТАЮТ ТРИ ЯЩЕРИЦА С ПОРЕЗОМ ПО СПИНЕ, ПРИВИНЯЕМЫЕ К СТЕНЕ ДЛИННЫМИ ЦЕПЬМИ.
+151|TWO OF THEM ARE POURING BARRELS OF THE BLACK CONTAMINANT INTO A LARGE VAT. THE OTHER IS WORKING A BELLOWS PUMP.|ДВА ИЗ НИХ ВЫЛИВАЮТ БОЧКИ ЧЕРНОГО ЗАГРЯЗНЕНИЯ В БОЛЬШОЙ НДС. ДРУГОЙ РАБОТАЕТ НАСОСОМ.
+152|THEY RECOIL IN FEAR|ОНИ ОТЖИМАЮТ В СТРАХЕ
+153|AS YOU FREE THEM THEY TELL YOU ALL ABOUT WHAT YARASH IS DOING AND HOW YOU CAN GET HELP FROM THEIR TRIBE IN THE SWAMP. YOU COPY ALL THEY SAY AS ENTRY 35 OF YOUR JOURNAL.|ОСВОБОЖДАЯ ИХ, ОНИ РАССКАЗЫВАЮТ ВАМ О ЧЕМ ДЕЛАЕТ YARASH И КАК ВЫ МОЖЕТЕ ПОЛУЧИТЬ ПОМОЩЬ ОТ ИХ ПРАЗДНИКОВ В БОЛОТОЙ. ВЫ КОПИРУЕТЕ ВСЕ ОНИ ГОВОРЯТ В СТАТЬИ 35 ВАШЕГО ЖУРНАЛА.
+154|AN ANCIENT MAGE LOOKS UP FROM HIS STUDIES, 'AH, GOOD, I NEED MORE SPECIMENS AS CONTROLS.' HE TURNS TO HIS MUTATED GUARDS, 'SUBDUE THEM!'|ДРЕВНИЙ МАГ СМОТРИТ НА СВОИ ИССЛЕДОВАНИЯ: "А, ХОРОШО, мне НУЖНО БОЛЬШЕ ОБРАЗЦОВ В КАЧЕСТВЕ УПРАВЛЕНИЯ". ОН ОБРАЩАЕТСЯ К СВОИМ МУТОВАННЫМ СТРАЖАМ: "ПОДАРИТЕ ИХ!"
+155|YOU SEE A DIAL THAT CAN BE SET TO FOUR DIFFERENT COLORS: BLUE, COPPER, SILVER, AND GOLD. IT IS CURRENTLY SET TO |ВЫ ВИДИТЕ ДИСК, КОТОРЫЙ МОЖНО УСТАНОВИТЬ ЧЕТЫРЕ РАЗНЫХ ЦВЕТА: СИНИЙ, МЕДНЫЙ, СЕРЕБРЯНЫЙ И ЗОЛОТОЙ. В НАСТОЯЩЕЕ ВРЕМЯ НАСТРОЕНО
+156| DO YOU WISH TO CHANGE THE SETTING?| ВЫ ХОТИТЕ ИЗМЕНИТЬ НАСТРОЙКУ?
+157|CHANGE TO WHAT SETTING?|ИЗМЕНИТЬ КАКИЕ НАСТРОЙКИ?
+158|BLUE|СИНИЙ
+159|COPPER|МЕДЬ
+160|SILVER|СЕРЕБРО
+161|GOLD|ЗОЛОТО
+162|THIS IS THE DESK OF YARASH. ON IT IS A LITTER OF PAPERS.|ЭТО СТОЛ ЯРАША. НА ЭТОМ ПОМЯ ДОКУМЕНТОВ.
+163|AMONG THE PAPERS ON THE DESK YOU FIND THE FOLLOWING AND SLIP THEM INTO YOUR JOURNAL:|СРЕДИ ДОКУМЕНТОВ НА СТОЛЕ ВЫ НАЙДЕТЕ СЛЕДУЮЩИЕ И СЛОВИТЕ ИХ В СВОЙ ЖУРНАЛ:
+164|A LETTER FROM THE BOSS, TELLING YARASH TO JOIN OR DIE. (ENTRY 33)|ПИСЬМО ОТ БОССА, СОВЕРШЕННО ЯРАШУ ПРИСОЕДИНИТЬСЯ ИЛИ УМЕРТЬ. (ЗАПИСЬ 33)
+165|AN UNSENT REPLY TO THIS LETTER. (ENTRY 49)|НЕ ОТПРАВЛЕННЫЙ ОТВЕТ НА ДАННОЕ ПИСЬМО. (ЗАПИСЬ 49)
+166|A MESSAGE TO THE BUCCANEERS OFFERING A BOUNTY FOR A REAL SAHUAGIN. (ENTRY 27)|ПОСЛАНИЕ БУКАНЕРАМ, ПРЕДЛАГАЮЩИМ НАГРАДЫ ЗА НАСТОЯЩИЙ САХУАГИН. (ЗАПИСЬ 27)
+167|A WARNING TO AN AGENT ABOUT THE DANGERS IN THE MOUNTAINS TO THE NORTHWEST. (ENTRY 56)|ПРЕДУПРЕЖДЕНИЕ АГЕНТУ ОБ ОПАСНОСТИ В ГОРАХ НА СЕВЕРО-ЗАПАДЕ. (ЗАПИСЬ 56)
+168|A NOTE TO A TRAPPER ABOUT KOBOLDS AND HOBGOBLINS. (ENTRY 40)|ЗАПИСКА К ЛОВУШКЕ О КОБОЛЬДАХ И ХОБГОБЛИНАХ. (ЗАПИСЬ 40)
+169|A SECRET DOOR IS FOUND |НАЙДЕНА ТАЙНАЯ ДВЕРЬ
+170|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+171| | 
+172|GO BACK|ВЕРНИТЕСЬ НАЗАД
+173|MOVE ON|ДВИГАТЬСЯ ДАЛЬШЕ
+174|THROW A ROCK|БРОСИТЬ КАМЕНЬ
+175| | 
+176|AS YOU CAREFULLY SEARCH THE ROOM YOU FEEL A STRANGE TINGLE AS YOU GET CLOSE TO A BARE AREA.|ПРИ ВНИМАТЕЛЬНОМ ИССЛЕДОВАНИИ НОМЕРА ВЫ ЧУВСТВУЕТЕ СТРАННОЕ ПОКОЛЕНИЕ, ПРИБЛИЖАЯСЬ К ГОЛОМУ.
+177|GO BACK|ВЕРНИТЕСЬ НАЗАД
+178|MOVE ON|ДВИГАТЬСЯ ДАЛЬШЕ
+179|THROW A ROCK|БРОСИТЬ КАМЕНЬ
+180| | 
+181|AS YOU MOVE THROUGH THE ROOM THERE IS A FLASH AND YOU SUDDENLY FIND YOURSELF ELSEWHERE.|КОГДА ВЫ ПРОХОДИТЕ ПО КОМНАТЕ, ЕСТЬ ВСПЫШКА, И ВЫ ВНЕЗАПНО НАЙДЕТЕ СЕБЯ В другом месте.
+182|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+183| | 
+184|'MUTILATING SCUM! WE WILL DIE BEFORE WE LET YOU TWIST US AS YOU HAVE OUR OTHER PEOPLE! BUT YOU WILL DIE FIRST!'|'МУТИЛИРУЮЩАЯ ПАПА! МЫ УМЕРЕМ, ПРЕЖДЕ ЧЕМ МЫ ПОЗВОЛЯЕМ ВАМ КРУТИТЬ НАС, ТАК КАК ВАС ДРУГИЕ НАШИ! НО ВЫ УМЕРЕТЕ ПЕРВЫМ! '
+185|YOU RUN FOR THE EXIT. AS YOU SLAM THE DOOR BEHIND YOU, YOU HEAR AN ENORMOUS EXPLOSION. THE EQUIPMENT IS NOW CERTAINLY DESTROYED.|ВЫ БЕГАЕТЕ НА ВЫХОД. ЗАХЛОПЫВАЯ ДВЕРЬ СЗАДИ, ВЫ СЛЫШАЕТЕ ОГРОМНЫЙ ВЗРЫВ. ОБОРУДОВАНИЕ ТЕПЕРЬ ОБЯЗАТЕЛЬНО УНИЧТОЖЕНО.
+186|THERE IS AN ENORMOUS EXPLOSION! BITS OF PIPE AND OTHER PLUMBING FIXTURES FLY IN ALL DIRECTIONS.|ЕСТЬ ОГРОМНЫЙ ВЗРЫВ! ОТРЕЗКИ ТРУБ И ДРУГИЕ САНТЕХНИКИ ЛЕТУЮТ ВО ВСЕХ НАПРАВЛЕНИЯХ.
+187|YOU HAVE DESTROYED THE LAST PIECE OF EQUIPMENT. |ВЫ УНИЧТОЖИЛИ ПОСЛЕДНЮЮ ЧАСТЬ ОБОРУДОВАНИЯ.
+188|THE WHINE SUBSIDES AS THE PRESSURE IS RELEASED.|ПОНИЖЕНИЕ ДАВЛЕНИЯ ПОНИЖАЕТСЯ ВИЛЬ.
+189|THE LIZARD MEN'S FEAR CHANGES TO RAGE AND THEY THROW THEIR BARRELS OF CONTAMINANT ON THE PARTY.|Страх мужчин-ящериц переходит в ярость, и они бросают свои бочки с загрязнением на партию.
+190|BLUE.|СИНИЙ.
+191|COPPER.|МЕДЬ.
+192|SILVER.|СЕРЕБРО.
+193|GOLD.|ЗОЛОТО.
+194|YES|ДА
+195|NO|НЕТ
+196| | 
+197|IN FRONT OF YOU.|ПЕРЕД ТОБОЙ.
+198|TO YOUR RIGHT.|НА ВАШЕ ПРАВО.
+199|BEHIND YOU.|ЗА ТОБОЙ.
+200|TO YOUR LEFT.|СЛЕВА.
+201|YOU THROW A ROCK. SUDDENLY IT DISAPPEARS WITH A FLASH!|ВЫ БРОСАЕТЕ КАМЕНЬ. ВНЕЗАПНО ПРОИСХОДИТ ВСПЫШКОЙ!
+202|YOU START TO RUN FOR THE EXIT... YOU DON'T MAKE IT.|ВЫ НАЧИНАЕТЕ БЕЖАТЬ НА ВЫХОД ... ВЫ НЕ ДЕЛАЕТЕ ЭТО.
+203|THERE IS AN ENORMOUS EXPLOSION! BITS OF PIPE AND OTHER PLUMBING FIXTURES FLY IN ALL DIRECTIONS.|ЕСТЬ ОГРОМНЫЙ ВЗРЫВ! ОТРЕЗКИ ТРУБ И ДРУГИЕ САНТЕХНИКИ ЛЕТУЮТ ВО ВСЕХ НАПРАВЛЕНИЯХ.
+204|YOU SPOT A GROUP OF |ВЫ УВИДИТЕ ГРУППУ
+205|YOU ARE SURPRISED BY A GROUP OF |ВЫ УДИВИТЫ ГРУППА
+206|YOU SURPRISE A GROUP OF |ВЫ УДИВИТЕ ГРУППУ
+207|SUDDENLY YOU ARE FACE TO FACE WITH A GROUP OF |ВНЕЗАПНО ВЫ ОБРАЩАЕТЕСЬ К ГРУППЕ
+208|YOU ARE AT THE EDGE OF THE GROVE.|ВЫ НА КРАЕ РОЩИ.
+209|AS YOU LEAVE THE SORCERER'S PYRAMID BEHIND YOU CAN SEE THAT THE LAND IS ALREADY BEGINNING TO RECOVER FROM THE ALCHEMICAL POLLUTION CAUSED BY THE PYRAMID.|КОГДА ВЫ ОСТАВЛЯЕТЕ ПИРАМИДУ SORCERER СЗАДИ, ВЫ МОЖЕТЕ УВИДЕТЬ, ЧТО ЗЕМЛЯ УЖЕ НАЧИНАЕТ ВОССТАНАВЛИВАТЬСЯ ОТ АЛХИМИЧЕСКОГО ЗАГРЯЗНЕНИЯ, ВЫЗВАННОГО ПИРАМИДОЙ.
+210|YOU HAVE FOUND A SMALL WOODED GROVE.  WILL YOU ENTER?|ВЫ НАШЛИ НЕБОЛЬШУЮ ДЕРЕВЯННУЮ РОЩУ. ВЫ ВОЙДЕТЕ?
+211|ENTER|ВХОДИТЬ
+212|LEAVE|ПОКИНУТЬ
+213|YOU HAVE FOUND SOME RUINED HUTS.  WILL YOU INVESTIGATE?|ВЫ НАЙДИТЕ НЕКОТОРЫЕ РАЗРУШЕННЫЕ ЖИЛЫ. ВЫ БУДЕТЕ РАССЛЕДОВАТЬСЯ?
+214|INVESTIGATE|РАССЛЕДОВАТЬ
+215|LEAVE|ПОКИНУТЬ
+216| | 
+217|THE |THE
+218| FALL FOR YOUR SPARKLING PERSONALITY AND WANDER AWAY WITHOUT A FIGHT.| ПАДИТЕСЬ ЗА СВОЮ ИСКЛЮЧИТЕЛЬНУЮ ЛИЧНОСТЬ И УХОДИТЕ БЕЗ БОЯ.
+219|NEAR YOU IS A POOL OF WATER.  SOMEONE OR THING IS SPLASHING IN THE POOL.  WILL YOU APPROACH THE POOL?|РЯДОМ С ВАМИ БАССЕЙН ВОДЫ. КТО-ТО ИЛИ В БАССЕЙНЕ БЛИЖАЕТ. ВЫ ПОДХОДИТЕ К БАССЕЙНУ?
+220|APPROACH|ПОДХОД
+221|LEAVE|ПОКИНУТЬ
+222|YOU SEE SOME LIZARD MEN SWIMMING IN THE POOL.  UPON SEEING YOU THEY ATTACK!|ВЫ ВИДИТЕ НЕКОТОРЫЕ ЯЩЕРИЦЫ ПЛАВАЮЩИЕ В БАССЕЙНЕ. Увидев тебя, они атакуют!
+223|AS YOU WALK THROUGH THE TRESS YOU ARE AMBUSHED BY TWO DISPLACER BEASTS.|ПРОГУЛЯТЬСЯ ПО ТРЕССУ, ВАС ОХВАТЫВАЮТ ДВУХ ЗВЕРЬЯ-ДВИГАТЕЛЯ.
+224|AS YOU ENTER THE ROOM YOU SEE FOUR KOBOLDS CHAINED TO THE WALL.  ONE OF THEM SAYS 'RELEASE US, OR THE LIZARD MEN WILL EAT US!'  WHAT WILL YOU DO?|КАК ВЫ ВОЙДИТЕ В НОМЕР, ВЫ ВИДЕТЕ ЧЕТЫРЕ КОБОЛЬДА, ПРИВЯЗАННЫХ ЦЕПЬЮ К СТЕНЕ. ОДИН ИЗ НИХ ГОВОРИТ: "ВЫПУСТИТЕ НАС, ИЛИ Ящерицы нас съедят!" ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
+225|RELEASE|РЕЛИЗ
+226|ATTACK|АТАКА
+227|LEAVE|ПОКИНУТЬ
+228|YOU RELEASE THE KOBOLDS AND THEY THANK YOU.  ONE OF THEM SAYS, 'WATCH OUT FOR THE MUTANT LIZARD MEN, THEY'RE KILLERS!'  THEY THEN RUN OUT THE DOOR.|ВЫ ВЫПУСКАЕТЕ КОБОЛДОВ, И ОНИ СПАСИБО. ОДИН ИЗ НИХ ГОВОРИТ: "БЕРЕГИТЕ МУТАНТОВ-ЯЩЕРДОВ, ОНИ УБИЙЦЫ!" ОНИ ВЫБЕГАЮТ ДВЕРЬ.
+229|AN AWFUL STENCH IS COMING FROM THE WEST.|УЖАСНЫЙ ЗЕМЛЯ НАХОДИТСЯ С ЗАПАДА.
+230|YOU ENTER A HUT THAT IS COVERED IN FILTH.  STANDING IN A POOL OF BLACK MUCK ARE TWO HORRIBLY MUTATED LIZARD MEN.  THEY LUNGE OUT AND ATTACK THE PARTY.|ВЫ входите в хижину, покрытую пленкой. В бассейне с черной слизью стоят два ужасно мутировавших человека-ящерицы. ОНИ ВЫСТУПАЛИ И НАПАДАЛИ СТОРОНУ.
+231|INSIDE THIS HUT ARE FOUR LIZARD MEN.  THEY ATTACK YOU IMMEDIATELY.|ВНУТРИ ХИЖИНЫ ЧЕТЫРЕ ЯЩИЦА. ОНИ НАПАДАЮТ НА ВАС НЕМЕДЛЕННО.
+232|IN THIS ROOM THERE ARE FOUR LARGE LIZARD MEN.  AS YOU ENTER ONE OF THEM YELLS 'KILL' AND THEY ATTACK.|В ЭТОЙ КОМНАТЕ ЧЕТЫРЕ БОЛЬШИХ ЯЩЕРИЦА. КАК ВЫ входите, ОДИН ИЗ НИХ КРИЧИТ "УБИТЬ", И ОНИ АТАКУЮТ.
+233|A SWARM OF STIRGES SWOOPS DOWN AND ATTACKS THE PARTY!|РЫЧАЙШИЙСЯ НАКАЗЫВАЕТСЯ ВНИЗ И НАПАДАЕТ СТОРОНУ!
+234|YOU ARE ABOUT TO LEAVE THIS AREA.  DO YOU WANT TO RETURN?|ВЫ собираетесь покинуть эту зону. ВЫ ХОТИТЕ ВЕРНУТЬСЯ?
+235|RETURN|ВОЗВРАЩАТЬСЯ
+236|LEAVE|ПОКИНУТЬ
+237|YOU SPOT A GROUP OF |ВЫ УВИДИТЕ ГРУППУ
+238|YOU ARE SURPRISED BY A GROUP OF |ВЫ УДИВИТЫ ГРУППА
+239|YOU SURPRISE A GROUP OF |ВЫ УДИВИТЕ ГРУППУ
+240|SUDDENLY YOU ARE FACE TO FACE WITH A GROUP OF |ВНЕЗАПНО ВЫ ОБРАЩАЕТЕСЬ К ГРУППЕ
+241|HIT <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+242|YOU ARE IN FRONT OF A MAGNIFICENT PYRAMID.  YOU HAVE FOUND A SECRET DOOR THAT LEADS INTO THE PYRAMID.  WHAT WILL YOU DO?|ВЫ ВЕЛИКОЛЕПНОЙ ПИРАМИДЫ. ВЫ НАШЛИ СЕКРЕТНУЮ ДВЕРЬ, ВХОДЯЩУЮ В ПИРАМИДУ. ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
+243|ENTER|ВХОДИТЬ
+244|GO BACK|ВЕРНИТЕСЬ НАЗАД
+245|KOBOLDS|КОБОЛДЫ
+246|DISPLACER BEASTS|ДВИГАТЕЛЬ ЗВЕРЬ
+247|DRIDERS|ДРАЙДЕРЫ
+248|STIRGES|СТЕПКИ
+249|LIZARD MEN|Ящерицы
+250|BANDITS|БАНДИТЫ
+251|NOMADS|Номады
+252|MERCHANTS|ТОРГОВЦЫ
+253|THE |THE
+254| GREET YOU AND YOU EXCHANGE PLESANTRIES.  THE | ПРИВЕТСТВУЙТЕ И ВЫ ОБМЕНАЕТЕСЬ АПЛАНТАМИ. THE
+255| THEN LEAVE AND BID YOU GOOD DAY.| ТОГДА УЙДИТЕ И ЖЕЛАЕМ ДОБРЫХ ДНЕЙ.
+256|YOU CONVINCE THE |ВЫ УБЕДИТЕ
+257| THAT COMBAT IS NOT NECESSARY AND YOU GO ON YOUR WAY.| ЭТОГО БОЯ НЕ НУЖНО, И ВЫ ИДЕТЕ СВОЙ ПУТЬ.
+258|YOU COLDLY KILL THE DEFENSELESS KOBOLDS.|ВЫ ХОЛОДНО УБИВАЕТЕ БЕЗОПАСНЫХ КОБОЛДОВ.
+259|AN AWFUL STENCH IS COMING FROM THE WEST.|УЖАСНЫЙ ЗЕМЛЯ НАХОДИТСЯ С ЗАПАДА.
+260|YOU FIND A RECENTLY ABBANDONED CAMP.|ВЫ НАХОДИЛИ НЕДАВНО ЗАКРЫТЫЙ ЛАГЕРЬ.
+261|YOU HAVE INSULTED THE |ВЫ ПРИВЕДИЛИ
+262|.|.
+263|THE |THE
+264| ATTACK YOU IMMEDIATELY!| НЕМЕДЛЕННО НА ВАС!
+265|YOU HAVE STUMBLED UPON A LARGE NOMAD CAMP.  WILL YOU ENTER IT?|ВЫ НАКАЧИЛИСЬ НА БОЛЬШОЙ ЛАГЕРЬ Кочевников. ВЫ ВОЙДЕТЕ В ЭТО?
+266|ENTER|ВХОДИТЬ
+267|LEAVE|ПОКИНУТЬ
+268|YOU ARE ON THE NORTH EDGE OF THE CITY.  WILL YOU ENTER THE NORTHERN CITY GATES OR ENTER THE GRAVEYARD?|ВЫ НА СЕВЕРНОМ КРАЕ ГОРОДА. ВЫ ВОЙДЕТЕ В ВОРОТА СЕВЕРНОГО ГОРОДА ИЛИ ВОЙДЕТЕ НА КЛАДБИЩЕ?
+269|CITY|ГОРОД
+270|GRAVEYARD|КЛАДБИЩЕ
+271|LEAVE|ПОКИНУТЬ
+272|YOU ARE ON THE EASTERN EDGE OF THE CITY.  THERE ARE  NORTH AND SOUTH ENTRANCES INTO THE CITY AND A SMALL BOAT THAT YOU CAN TAKE TO THE CIVILISED AREA.  WHICH ROUTE WILL YOU TAKE?|ВЫ НА ВОСТОЧНОЙ КРАЕ ГОРОДА. ЕСТЬ СЕВЕР И ЮЖНЫЙ ВХОД В ГОРОД И МАЛЕНЬКАЯ ЛОДКА, КОТОРАЯ МОЖНО ПРИВЕТАТЬ В ЦИВИЛИЗОВАННУЮ ЗОНУ. КАКОЙ МАРШРУТ ВЫ ПОЛУЧИТЕ?
+273|NORTH|К СЕВЕРУ
+274|SOUTH|ЮГ
+275|BOAT|ЛОДКА
+276|LEAVE|ПОКИНУТЬ
+277|YOU ARE ON THE WESTERN EDGE OF THE CITY.  THERE ARE TWO ENTERANCES INTO THE CITY, A NORTH ENTRANCE AND A SOUTH ENTRANCE.  WHICH ENTRANCE WILL YOU TAKE?|ВЫ НА ЗАПАДНОМ КРАЕ ГОРОДА. ЕСТЬ ДВА ВХОДА В ГОРОД, СЕВЕРНЫЙ ВХОД И ЮЖНЫЙ ВХОД. КАКОЙ ВХОД ВЫ ПРИНИМАЕТЕ?
+278|NORTH|К СЕВЕРУ
+279|SOUTH|ЮГ
+280|LEAVE|ПОКИНУТЬ
+281|YOU HAVE FOUND A ROWBOAT HIDDEN AMOUNGST THE REEDS.  WILL YOU TAKE IT TO THE PYRAMID?|ВЫ ОБНАРУЖИЛИ ВЕСельную лодку, спрятавшуюся среди тростников. ВЫ ПРИНИМАЕТЕ ЕГО НА ПИРАМИДУ?
+282|YES|ДА
+283|NO|НЕТ
+284|YOU ARE IN FRONT OF A MAGNIFICENT PYRAMID.  YOU HAVE FOUND A SECRET DOOR THAT LEADS INTO THE PYRAMID.  WHAT WILL YOU DO?|ВЫ ВЕЛИКОЛЕПНОЙ ПИРАМИДЫ. ВЫ НАШЛИ СЕКРЕТНУЮ ДВЕРЬ, ВХОДЯЩУЮ В ПИРАМИДУ. ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
+285|ENTER|ВХОДИТЬ
+286|GO BACK|ВЕРНИТЕСЬ НАЗАД
+287|THERE IS A BOAT HERE THAT WILL TAKE YOU BACK TO THE CIVILISED SECTION OF PHLAN.  WILL YOU TAKE IT?|ЗДЕСЬ ЕСТЬ ЛОДКА, КОТОРАЯ ПРИВЕРНЕТ ВАС В ЦИВИЛИЗОВАННЫЙ РАЗДЕЛ ФЛАНА. ВЫ ПРИНИМАЕТЕ ЭТО?
+288|TAKE BOAT|Взять лодку
+289|STAY|ОСТАТЬСЯ
