@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
+using System.Linq;
 using System.Xml;
 
 namespace BinaryStringReplacement
@@ -13,8 +14,11 @@ namespace BinaryStringReplacement
         static byte[] data;
         static int originalDataSize = 0;
         static bool eclMode = false;
+        static List<Pointer> gotoDestinations;
+        static int overallFileLengthDifference = 0;
         static void Main(string[] args)
         {
+            gotoDestinations = new List<Pointer>();
             Dictionary<char, char> characterMap = loadMapping();
 
             string binFile = null;
@@ -69,7 +73,15 @@ namespace BinaryStringReplacement
                     }
                     byteReplace(loc, bytes);
                 }
-                else if (!replacement.StartsWith("@@")) {
+                else if (replacement.StartsWith("@@") && eclMode) {
+                    // GOTO reference table
+                    // Format goes like: @@ID|ECL Block # (not really used - only GOTOs that are for this block should be in this file anyway)|Address (location) of GOTO statement (decimal)|Address that it points to (decimal)|Two-byte (word) address that the pointer points to|Bytes that are at the address being pointed to (just for reference)
+                    // e.g. @@0|0|3371|3100|42266|07 64 F5 60 20 15 85 80 11 03
+                    string[] tokens = replacement.Split('|');
+                    int pointerOffset = Convert.ToInt32(tokens[2], 10);
+                    int pointerDestinationOffset = Convert.ToInt32(tokens[3], 10);
+                    int pointerDestinationOffsetWord = Convert.ToInt32(tokens[4], 10);
+                    gotoDestinations.Add(new Pointer(pointerOffset, pointerDestinationOffset, pointerDestinationOffsetWord));
                 }
                 else if (!replacement.StartsWith("//")) {
                     // Assumes a format of id|from|to
@@ -82,7 +94,7 @@ namespace BinaryStringReplacement
                     {
                         if (from != null && from.Trim() != "" && to.Trim() != "")
                         {
-                            log("from.Length:" + from.Length);
+                            //log("from.Length:" + from.Length);
                             byte[] bFrom = System.Text.Encoding.ASCII.GetBytes(from);
                             byte[] bTo = System.Text.Encoding.ASCII.GetBytes(to);
                             if (eclMode)
@@ -137,12 +149,13 @@ namespace BinaryStringReplacement
             log("Completed");
         }
 
-        private static bool replaceString(byte[] replaceThisStr, byte[] replacementStr, bool checkBoundary, string id)
+        private static bool replaceString(byte[] replaceThisStrBytes, byte[] replacementStrBytes, bool checkBoundary, string id)
         {
+            int MemBase = 0x10000 - 0x9900;  // This is specific to PoR
             bool goodMatch = true;
             int foundIdx = 0;
             do {
-                foundIdx = IndexOf(data, replaceThisStr, foundIdx);
+                foundIdx = IndexOf(data, replaceThisStrBytes, foundIdx);
                 if (foundIdx > 0 && checkBoundary)
                 {
                     byte preceedingByte = data[foundIdx - 1];
@@ -151,7 +164,7 @@ namespace BinaryStringReplacement
                         // Yes it is possible for a string to have a length that is between 64 & 122, but I'm not concerned about that because then it just won't get swapped
 
                         // UNLESS!!! the character before the string matches EXACTLY with the length.  Then, even if it is a 20-something character string, that probably is the actual length
-                        if (preceedingByte == replaceThisStr.Length)
+                        if (preceedingByte == replaceThisStrBytes.Length)
                         {
                             goodMatch = true;
                         } else {
@@ -163,11 +176,9 @@ namespace BinaryStringReplacement
                         goodMatch = true;
                     }
 
-                    if (Math.Abs(preceedingByte - replaceThisStr.Length) <= MAX_STRING_DIFFERENCE)
+                    if (Math.Abs(preceedingByte - replaceThisStrBytes.Length) <= MAX_STRING_DIFFERENCE)
                     {
-                        // Most strings should start with their length immediately prior.  Allow for a little wiggle room.  If that is 
-                        // the purpose of the byte then change it to be the new length
-                        data[foundIdx - 1] = (byte)replacementStr.Length;
+                        // Most strings should start with their length immediately prior.  Allow for a little wiggle room.  
                         goodMatch = true;
                     } else
                     {
@@ -185,55 +196,116 @@ namespace BinaryStringReplacement
             }
 
             // Now, find the new allowable length for the string by counting the null bytes after the string.
-            int availableLength = replaceThisStr.Length;
-            while (data[foundIdx + availableLength] == 0)
+            int availableLength = replaceThisStrBytes.Length;
+            if (!eclMode)
             {
-                availableLength++;
+                // We are not counting 00s after the string in ECL mode because this could be 00 EXIT instructions in ECL
+                while (data[foundIdx + availableLength] == 0)
+                {
+                    availableLength++;
+                }
             }
 
-            if (replacementStr.Length > availableLength)
+            if (replacementStrBytes.Length > availableLength)
             {
                 if (!eclMode)
                 {
-                    log("Warning: truncating because replacement string \"" + System.Text.Encoding.ASCII.GetString(replacementStr) + "\" is too long.  " + availableLength + " characters are available to replace \"" + System.Text.Encoding.ASCII.GetString(replaceThisStr) + "\". id: " + id);
+                    log("Warning: truncating because replacement string \"" + System.Text.Encoding.ASCII.GetString(replacementStrBytes) + "\" is too long.  " + availableLength + " characters are available to replace \"" + System.Text.Encoding.ASCII.GetString(replaceThisStrBytes) + "\". id: " + id);
                     byte[] tmp = new byte[availableLength];
-                    Array.Copy(replacementStr, tmp, tmp.Length);
-                    replacementStr = tmp;
+                    Array.Copy(replacementStrBytes, tmp, tmp.Length);
+                    replacementStrBytes = tmp;
                 } else {
                     
                     // Increase data size and make room for the new characters.  The characters that are within the limit will get copied over below
-                    int lengthDifference = replacementStr.Length - availableLength;
+                    int lengthDifference = replacementStrBytes.Length - replaceThisStrBytes.Length;
                     Array.Resize(ref data, data.Length + lengthDifference);
-                    Array.Copy(data, 0, data, 0, foundIdx + replaceThisStr.Length);
-                    Array.Copy(data, foundIdx + lengthDifference - 1, data, foundIdx + lengthDifference + lengthDifference - 1, data.Length - (foundIdx + lengthDifference) - lengthDifference);
+                    Array.Copy(data, foundIdx, data, foundIdx + lengthDifference, data.Length - foundIdx - lengthDifference);
                 }
 
             }
-            if (replacementStr.Length < replaceThisStr.Length)
+            if (replacementStrBytes.Length < replaceThisStrBytes.Length)
             {
                 if (!eclMode)
                 {
                     // String is shorter than the original - pad it with spaces - leave the length the same
-                    byte[] tmp = new byte[replaceThisStr.Length];
-                    Array.Copy(replacementStr, tmp, replacementStr.Length);
-                    for (int idx = replacementStr.Length; idx < replaceThisStr.Length; idx++)
+                    byte[] tmp = new byte[replaceThisStrBytes.Length];
+                    Array.Copy(replacementStrBytes, tmp, replacementStrBytes.Length);
+                    for (int idx = replacementStrBytes.Length; idx < replaceThisStrBytes.Length; idx++)
                     {
                         tmp[idx] = (byte)' ';
                     }
-                    replacementStr = tmp;
+                    replacementStrBytes = tmp;
                 } else {
-                    deleteByte(foundIdx + replacementStr.Length, replaceThisStr.Length - replacementStr.Length);
+                    deleteByte(foundIdx + replacementStrBytes.Length, replaceThisStrBytes.Length - replacementStrBytes.Length);
                 }
             }
 
-            for (int idx = 0; idx < replacementStr.Length; idx++)
+            for (int idx = 0; idx < replacementStrBytes.Length; idx++)
             {
-                data[foundIdx + idx] = (byte)replacementStr[idx];
+                data[foundIdx + idx] = (byte)replacementStrBytes[idx];
             }
 
             // Assign the new length to the preceeding byte
-            data[foundIdx - 1] = (byte)replacementStr.Length;
+            data[foundIdx - 1] = (byte)replacementStrBytes.Length;
 
+            dumpFile();
+
+            if (eclMode) {
+                log("foundIdx: " + foundIdx);
+                int lengthDifference = replacementStrBytes.Length - replaceThisStrBytes.Length;
+                overallFileLengthDifference += lengthDifference;
+
+                if (lengthDifference != 0) { 
+                    //log("Length difference now: " + lengthDifference);
+                    //log("Overall length difference now: " + overallFileLengthDifference);
+                    // In our pointer list, find & update every pointer that whose address is AFTER the string that we just replaced
+                    int idx = 0;
+                    foreach (Pointer pointer in gotoDestinations)
+                    {
+                        if (pointer.address > foundIdx)
+                        {
+                            //log("Changing pointer #" + idx + " from " + pointer.address + " to " + (pointer.address + lengthDifference));
+                            pointer.address += lengthDifference;
+
+                            if (data[pointer.address - 1] != 1)
+                            {
+                                dumpFile();
+                                throw new Exception("Error: Expected 0x01 before new pointer address.  Bad pointer address at " + pointer.address.ToString("X") + "!");
+                            }
+
+                            // Convert from little endian bytes to int
+                            //int addressInData = data[pointer.address] + (data[pointer.address + 1] << 8) + 2;
+                            // Convert to the game address - got this from GBE
+                            //addressInData = (addressInData + MemBase) & 0xFFFF;
+                            //if (pointer.destination != addressInData)
+                            //{
+                            //    throw new Exception("Error: Pointer address in data is not equal to address in table!  " + pointer.destination.ToString("X") + " vs. " + addressInData.ToString("X"));
+                            //}
+
+                        }
+                        idx++;
+                    }
+                    // Find & update every pointer's DESTINATION that points to anything AFTER the string that we just replaced
+                    foreach (Pointer pointer in gotoDestinations)
+                    {
+                        if (pointer.destination > foundIdx)
+                        {
+                            // Change the destination pointer in the list of gotos
+                            //log("Changing destination " + pointer.destination + " to " + (pointer.destination + lengthDifference) + " in list");
+                            //log("Changing wordDestination " + pointer.wordDestination + " to " + (pointer.wordDestination + lengthDifference) + " in list");
+                            pointer.destination += lengthDifference;
+                            pointer.wordDestination += lengthDifference;
+
+                            // Modify destination pointer in the actual data - use the Word value that was in the original binary
+                            // Convert to little endian again and assign to data buffer
+                            data[pointer.address] = (byte)(pointer.wordDestination & 0xFFFF);
+                            data[pointer.address + 1] = (byte)(pointer.wordDestination >> 8);
+                            //log("Setting data[" + pointer.address + "] = " + data[pointer.address].ToString("X"));
+                            //log("Setting data[" + (pointer.address + 1) + "] = " + data[(pointer.address + 1)].ToString("X"));
+                        }
+                    }
+                }
+            }
             return true;
 
         }
@@ -624,6 +696,27 @@ namespace BinaryStringReplacement
         {
             System.Diagnostics.Debug.WriteLine(message);
             Console.WriteLine(message);
+        }
+        private static void dumpFile()
+        {
+            String binFile = @"C:\Users\Shadow\Downloads\gbc\GBC\DAX-Extracted\tmp" + DateTime.Now.Ticks + ".dax";
+            FileStream fs = new FileStream(binFile, FileMode.OpenOrCreate, FileAccess.Write);
+            fs.Write(data, 0, data.Length);
+            fs.Close();
+
+        }
+    }
+
+    class Pointer
+    {
+        public int address;
+        public int destination;
+        public int wordDestination;
+        public Pointer(int a, int d, int w)
+        {
+            address = a;
+            destination = d;
+            wordDestination = w;
         }
     }
 
