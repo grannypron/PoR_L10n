@@ -1,52 +1,103 @@
-﻿// Now I need to find ALLL gotos throughout the thing and change where they point.  Oh no, what about all gotos that go to different ECLs?  Is that even possible?
-// GOTO Event address table
-@@0|5487|44653|09 00 00 01 07 4A 09 00 00 01|255
-@@1|680|39846|03 01 01 4A 00 00 16 00 03 01|258
-@@2|837|40003|03 01 4D C0 00 00 17 00 03 01|25B
-@@3|1239|40405|03 01 C8 4A 00 01 16 01 01 26|25E
-@@4|5487|44653|09 00 00 01 07 4A 09 00 00 01|261
-@@5|1289|40455|03 01 9C 4A 00 FF 16 00 03 01|264
-@@6|1894|41060|09 00 22 01 E1 6D 0E 00 02 03|267
-@@7|1982|41148|09 00 16 01 E1 6D 0E 00 18 03|26A
-@@8|2041|41207|12 80 0E 64 F5 60 5C 13 0B 80|26D
-@@9|2114|41280|03 01 07 4A 00 00 17 00 09 00|270
-@@10|2351|41517|20 00 0B 20 00 0B 02 01 89 AE|273
-@@11|5487|44653|09 00 00 01 07 4A 09 00 00 01|276
-@@12|5487|44653|09 00 00 01 07 4A 09 00 00 01|279
-@@13|5487|44653|09 00 00 01 07 4A 09 00 00 01|27C
-@@14|5487|44653|09 00 00 01 07 4A 09 00 00 01|27F
-@@15|5487|44653|09 00 00 01 07 4A 09 00 00 01|282
-@@16|5487|44653|09 00 00 01 07 4A 09 00 00 01|285
-@@17|2354|41520|20 00 0B 02 01 89 AE 03 01 C0|288
-@@18|5487|44653|09 00 00 01 07 4A 09 00 00 01|28B
-@@19|2357|41523|02 01 89 AE 03 01 C0 4A 00 00|28E
-@@20|2504|41670|03 01 11 4A 00 00 19 01 01 28|291
-@@21|3897|43063|02 01 89 AE 09 00 3F 01 E1 6D|294
-@@22|4032|43198|02 01 89 AE 09 00 2A 01 E1 6D|297
-@@23|4167|43333|03 01 10 4A 00 00 17 00 09 00|29A
-@@24|4312|43478|03 01 09 4A 00 00 17 00 09 00|29D
-@@25|4570|43736|12 80 3F 64 F5 60 05 21 60 09|2A0
-@@26|4764|43930|09 00 00 01 05 4A 09 80 03 30|2A3
-@@27|5252|44418|20 00 08 02 01 43 AF 12 80 3A|2A6
+﻿// GOTO Event address table
+@@0|0|495|5487|44653|00 01 07 4A 09 00 00 01 0F 4A 
+@@1|0|498|5348|44514|00 01 03 4A 09 00 32 01 C6 6D 
+@@0|0|6269|6342|45508|80 8D 9D 93 D5 80 E3 D7 80 60 
+@@1|0|6272|6343|45509|8D 9D 93 D5 80 E3 D7 80 60 43 
+@@2|0|6275|6492|45658|94 9D 93 D5 81 72 4C 32 04 C5 
+@@3|0|6278|6648|45814|6F 9C 21 48 24 E1 20 50 81 53 
+@@4|0|6281|6767|45933|8E 9D 71 60 05 21 60 29 54 D4 
+@@5|0|6284|6917|46083|87 9C F3 A0 64 F5 52 81 22 47 
+@@6|0|6287|7060|46226|86 9C 21 59 3C E1 20 50 82 53 
+@@0|0|597|5487|44653|00 01 07 4A 09 00 00 01 0F 4A 
+@@1|0|600|680|39846|01 4A 00 00 16 00 03 01 C9 49 
+@@2|0|603|837|40003|4D C0 00 00 17 00 03 01 01 4A 
+@@3|0|606|1239|40405|C8 4A 00 01 16 01 01 26 AB 03 
+@@4|0|609|5487|44653|00 01 07 4A 09 00 00 01 0F 4A 
+@@5|0|612|1289|40455|9C 4A 00 FF 16 00 03 01 9B 4A 
+@@6|0|615|1894|41060|22 01 E1 6D 0E 00 02 03 01 C0 
+@@7|0|618|1982|41148|16 01 E1 6D 0E 00 18 03 01 C0 
+@@8|0|621|2041|41207|0E 64 F5 60 5C 13 0B 80 E1 41 
+@@9|0|624|2114|41280|07 4A 00 00 17 00 09 00 2D 01 
+@@10|0|627|2351|41517|0B 20 00 0B 02 01 89 AE 03 01 
+@@11|0|630|5487|44653|00 01 07 4A 09 00 00 01 0F 4A 
+@@12|0|633|5487|44653|00 01 07 4A 09 00 00 01 0F 4A 
+@@13|0|636|5487|44653|00 01 07 4A 09 00 00 01 0F 4A 
+@@14|0|639|5487|44653|00 01 07 4A 09 00 00 01 0F 4A 
+@@15|0|642|5487|44653|00 01 07 4A 09 00 00 01 0F 4A 
+@@16|0|645|5487|44653|00 01 07 4A 09 00 00 01 0F 4A 
+@@17|0|648|2354|41520|0B 02 01 89 AE 03 01 C0 4A 00 
+@@18|0|651|5487|44653|00 01 07 4A 09 00 00 01 0F 4A 
+@@19|0|654|2357|41523|89 AE 03 01 C0 4A 00 00 19 01 
+@@20|0|657|2504|41670|11 4A 00 00 19 01 01 28 A3 09 
+@@21|0|660|3897|43063|89 AE 09 00 3F 01 E1 6D 0E 00 
+@@22|0|663|4032|43198|89 AE 09 00 2A 01 E1 6D 0E 00 
+@@23|0|666|4167|43333|10 4A 00 00 17 00 09 00 01 01 
+@@24|0|669|4312|43478|09 4A 00 00 17 00 09 00 39 01 
+@@25|0|672|4570|43736|3F 64 F5 60 05 21 60 09 98 14 
+@@26|0|675|4764|43930|00 01 05 4A 09 80 03 30 96 2E 
+@@27|0|678|5252|44418|08 02 01 43 AF 12 80 3A 50 81 
+@@0|0|5343|5348|44514|00 01 03 4A 09 00 32 01 C6 6D 
+@@1|0|5346|5625|44791|03 01 4D C0 08 00 03 01 02 98 
+@@0|0|1049|1063|40229|B4 A1 09 00 01 01 01 4A 12 80 
+@@1|0|1052|1063|40229|B4 A1 09 00 01 01 01 4A 12 80 
+@@2|0|1055|1063|40229|B4 A1 09 00 01 01 01 4A 12 80 
+@@3|0|1058|1063|40229|B4 A1 09 00 01 01 01 4A 12 80 
+@@4|0|1061|5487|44653|00 01 07 4A 09 00 00 01 0F 4A 
+@@0|0|1443|1883|41049|0B 01 4B C0 2D 01 90 2C 00 09 
+@@1|0|1446|5255|44421|43 AF 12 80 3A 50 81 60 0C 95 
+@@0|0|2210|2215|41381|B4 A1 02 01 63 9A 38 00 09 0E 
+@@1|0|2213|4413|43579|0F 50 81 4E 81 93 D5 80 D5 53 
+@@0|0|2458|2463|41629|00 00 00 00 00 00 00 00 00 00 
+@@1|0|2461|5487|44653|00 01 07 4A 09 00 00 01 0F 4A 
+@@0|0|2734|2739|41905|79 6E 00 01 16 12 80 28 64 F5 
+@@1|0|2737|3480|42646|35 01 E1 6D 0C 00 07 00 02 00 
+@@0|0|2832|2900|42066|08 01 E1 6D 0E 00 07 12 80 90 
+@@1|0|2835|2837|42003|13 64 F5 60 3D 61 52 20 50 52 
+@@0|0|3986|3991|43157|00 00 00 00 00 00 00 00 00 00 
+@@1|0|3989|5487|44653|00 01 07 4A 09 00 00 01 0F 4A 
+@@0|0|4121|4126|43292|00 00 00 00 00 00 00 00 00 00 
+@@1|0|4124|5487|44653|00 01 07 4A 09 00 00 01 0F 4A 
+@@0|0|4266|4271|43437|00 00 00 00 00 00 00 00 00 00 
+@@1|0|4269|5487|44653|00 01 07 4A 09 00 00 01 0F 4A 
+@@0|0|4981|5060|44226|03 0C 9B 80 81 5E 98 13 09 80 
+@@1|0|4984|5070|44236|0A 0D 86 16 26 00 4E 12 00 D8 
+@@2|0|4987|5087|44253|06 0D 86 18 25 6B 80 81 5E 98 
+@@3|0|4990|5100|44266|04 0C C2 56 B8 81 5E 98 13 09 
+@@4|0|4993|5111|44277|04 0D 82 56 B8 81 5E 98 13 09 
+@@5|0|4996|5122|44288|04 0C 32 56 B8 81 5E 98 13 09 
+@@6|0|4999|5133|44299|05 0D 86 09 62 E0 81 5E 98 13 
+@@7|0|5002|5145|44311|03 0C 32 6E 81 5E 98 13 09 80 
+@@8|0|5005|5155|44321|04 0D 82 56 B8 81 5E 98 13 12 
+@@0|0|225|5255|44421|43 AF 12 80 3A 50 81 60 0C 95 
+@@1|0|228|230|39396|FF 01 C9 6D 00 12 80 00 0E 00 
+@@0|0|1855|1860|41026|AB AE 36 00 6B 00 63 09 00 FF 
+@@1|0|1858|1879|41045|FF 00 09 00 0B 01 4B C0 2D 01 
+@@0|0|4408|4456|43622|00 01 01 E2 6D 24 09 00 FF 01 
+@@1|0|4411|4413|43579|0F 50 81 4E 81 93 D5 80 D5 53 
+@@0|0|3892|5255|44421|43 AF 12 80 3A 50 81 60 0C 95 
+@@1|0|3895|5625|44791|03 01 4D C0 08 00 03 01 02 98 
+@@0|0|3986|3991|43157|00 00 00 00 00 00 00 00 00 00 
+@@1|0|3989|5487|44653|00 01 07 4A 09 00 00 01 0F 4A 
+@@0|0|3371|3100|42266|07 64 F5 60 20 15 85 80 11 03 
 //
 //
 //
 1|YOU ARE ROUSTED BY THE CITY WATCH AND TOLD TO MOVE ALONG. WHAT DO YOU DO?|ГОРОДСКИЕ ЧАСЫ ЗАПРЕЩАЮТ ВАС И СКАЗАТЬ ПЕРЕМЕЩАТЬСЯ. ЧТО ВЫ ДЕЛАЕТЕ?
 2|GO|ИДТИ
 3|STAY|ОСТАТЬСЯ
-4|MAD MAN|Сумасшедший
+4|MAD MAN|СУМАСШЕДШИЙ
 5|'GREETINGS, COURAGEOUS ONES, I AM ROLF, APPOINTED BY THE COUNCIL TO INTRODUCE NEWCOMERS TO THE FAIR CITY OF PHLAN. IF YOU WILL ACCOMPANY ME, I WILL START THE TOUR.'|"ПРИВЕТСТВУЮЩИЕ, МУЖЕЦЫ, Я РОЛЬФ, НАЗНАЧЕН СОВЕТОМ ПРЕДСТАВИТЬ НОВОГОДНЯМ В СВОБОДНЫЙ ГОРОД ФЛАН. ЕСЛИ ВЫ СОПРОВОЖДАЕТЕ МЕНЯ, Я НАЧНУЮ ТУР ".
 6|THE MAD MAN SUDDENLY:TO SCREAM AND ATTACK EVERYONE WITHIN ARM'S REACH.|БЕЗУМНЫЙ ЧЕЛОВЕК ВНЕЗАПНО НАЧИНАЕТ КРИЧАТЬ И НАПАДАТЬ НА ВСЕХ, ЧТО ВСЕГО В ДЕЙСТВИИ РУКИ.
-7|YOU BOARD A BOAT.|ВЫ садитесь на лодку.
+7|YOU BOARD A BOAT.|ВЫ САДИТЕСЬ НА ЛОДКУ.
 8|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
 9|'YOU NOW FACE AN ENTRANCE TO THE TEMPLE OF TYR.  THERE ARE THREE TEMPLES IN PHLAN: TYR'S, SUNE'S, AND TEMPUS. TYR'S IS THE LARGEST AND HOUSES BISHOP BRACCIO. IF YOU WILL TURN AROUND NOW, '|"ТЕПЕРЬ ВЫ ВХОДИТЕ В ХРАМ ТИРА. В ФЛАНЕ ЕСТЬ ТРИ ХРАМА: ТИРА, СУНА И ТЕМПУСА. ТИРА - САМЫЙ БОЛЬШОЙ ДОМ ЕПИСКОПА БРАЧЧО. ЕСЛИ ВЫ ОБРАТИТЕСЬ СЕЙЧАС,
-10|'YOU WILL SEE THE ENTRANCE TO THE PASSENGER DOCK AREA WE JUST DEPARTED.  FEW SHIPS DARE THE PERILOUS PASSAGE HERE, BUT THE COUNCIL IS DEVELOPING A PLAN TO OPEN UP THE SEA LANES.  PLEASE FOLLOW ME.'|"ВЫ УВИДИТЕ ВХОД В ЗОНУ ПАССАЖИРСКОГО ДОКУМЕНТА, которое мы только что вылетели. НЕКОТОРЫЕ СУДА ОТМЕЮТСЯ НА ПЕРИОДИЧНЫЙ ПРОХОД ЗДЕСЬ, НО СОВЕТ РАЗРАБОТАЕТ ПЛАН ОТКРЫТИЯ МОРСКИХ ПРОХОДОВ. ПОЖАЛУЙСТА СЛЕДУЙТЕ ЗА МНОЙ.'
-11|'BEHIND THESE DOORS ARE THE SPECIAL TRAINING SCHOOLS  WHERE ADVENTURERS INCREASE THEIR SKILLS. LET US NOW GO TO THE CITY'S MOST IMPORTANT BUILDING.'|"ЗА ЭТИМИ дверьми - СПЕЦИАЛЬНЫЕ ШКОЛЫ, ГДЕ ПРИКЛЮЧАТЕЛИ ПОВЫШАЮТ СВОИ НАВЫКИ. ПУТЕШЕСТВУЙТЕ НАМ СЕЙЧАС В САМОЕ ВАЖНОЕ ЗДАНИЕ города ".
+10|'YOU WILL SEE THE ENTRANCE TO THE PASSENGER DOCK AREA WE JUST DEPARTED.  FEW SHIPS DARE THE PERILOUS PASSAGE HERE, BUT THE COUNCIL IS DEVELOPING A PLAN TO OPEN UP THE SEA LANES.  PLEASE FOLLOW ME.'|"ВЫ УВИДИТЕ ВХОД В ЗОНУ ПАССАЖИРСКОГО ДОКУМЕНТА, КОТОРОЕ МЫ ТОЛЬКО ЧТО ВЫЛЕТЕЛИ. НЕКОТОРЫЕ СУДА ОТМЕЮТСЯ НА ПЕРИОДИЧНЫЙ ПРОХОД ЗДЕСЬ, НО СОВЕТ РАЗРАБОТАЕТ ПЛАН ОТКРЫТИЯ МОРСКИХ ПРОХОДОВ. ПОЖАЛУЙСТА СЛЕДУЙТЕ ЗА МНОЙ.'
+11|'BEHIND THESE DOORS ARE THE SPECIAL TRAINING SCHOOLS  WHERE ADVENTURERS INCREASE THEIR SKILLS. LET US NOW GO TO THE CITY'S MOST IMPORTANT BUILDING.'|"ЗА ЭТИМИ ДВЕРЬМИ - СПЕЦИАЛЬНЫЕ ШКОЛЫ, ГДЕ ПРИКЛЮЧАТЕЛИ ПОВЫШАЮТ СВОИ НАВЫКИ. ПУТЕШЕСТВУЙТЕ НАМ СЕЙЧАС В САМОЕ ВАЖНОЕ ЗДАНИЕ ГОРОДА ".
 12|'WE ARE JUST OUTSIDE THE CITY HALL. PROCLAMATIONS ARE POSTED ON THESE WALLS. INSIDE, THE CITY CLERK AWARDS THE COUNCIL'S COMMISSIONS.  COMMISSIONS ARE THE QUICKEST WAY TO FAME AND FORTUNE.'|"МЫ НАХОДИМСЯ ТОЛЬКО ВНЕ ГОРОДА. НА ЭТИХ СТЕНАХ РАЗМЕЩАЮТСЯ ЗАЯВЛЕНИЯ. ВНУТРИ ГОРОДСКОЙ КЛЕРК НАГРАДАЕТ КОМИССИИ СОВЕТА. КОМИССИИ - САМЫЙ БЫСТРЫЙ СПОСОБ НАСЛАВАТЬСЯ И УДАЧИ ".
 13|'ON YOUR RIGHT IS ONE OF THE ENTRANCE'S TO SUNE'S TEMPLE. AS WITH ALL PHLAN'S TEMPLES, VARIOUS CLERICAL SERVICES ARE OFFERED INSIDE.  ON YOUR LEFT IS AN ENTRANCE TO THE CITY PARK.'|"ПО ВАШЕМУ ПРАВО - ОДИН ИЗ ВХОДА В ХРАМ СОЛНЦА. КАК ВСЕХ ХРАМОВ PHLAN, ВНУТРИ ПРЕДЛАГАЮТСЯ РАЗЛИЧНЫЕ УСЛУГИ КЛИРИЧЕСКИХ УСЛУГ. СЛЕВА ОТ ВАС ВХОД В ГОРОДСКОЙ ПАРК.
-14|'BEYOND THIS GATE ARE THE MONSTER-RIDDEN AREAS OF THE OLD CITY WE ARE SLOWLY PREPARING FOR SETTLEMENT.  THE COUNCIL OFFERS A GENEROUS REWARD TO THOSE WHO CLEAR AREAS OF MONSTERS.|"За этими воротами находятся районы старого города, охваченные чудовищами. МЫ МЕДЛЕННО ПОДГОТОВЛЯЕМСЯ К ЗАСЕЛЕНИЮ. СОВЕТ ПРЕДЛАГАЕТ ЩЕДРЯЮЩУЮ НАГРАДУ ТЕМ, КТО ОЧИЩАЕТ МОНСТРЫ.
-15|'OUR TOUR IS ENDED. AGAIN, LET ME URGE YOU TO APPLY TO THE CITY CLERK FOR A COMMISSION.  GOOD-BYE AND GOOD FORTUNE.' (YOU ARE ON YOUR OWN NOW)|"НАША ЭКСКУРСИЯ ЗАВЕРШЕНА. Еще раз, позвольте МНЕ ПРИЗНАТЬ ВАС ОБРАТИТЬСЯ К ГОРОДСКОМУ ДИРЕКТОРУ ЗА КОМИССИЕЙ. До свидания и удачи. (ТЫ СЕЙЧАС)
-16|'YOUR PARTY IS TOO LARGE TO JOIN AT THIS TIME.  RETURN WHEN IT IS SMALLER.'|"ВАША СТОРОНА СЛИШКОМ БОЛЬШАЯ, чтобы присоединиться к ней сейчас. ВОЗВРАЩЕНИЕ, КОГДА ОНА МЕНЬШЕ ".
+14|'BEYOND THIS GATE ARE THE MONSTER-RIDDEN AREAS OF THE OLD CITY WE ARE SLOWLY PREPARING FOR SETTLEMENT.  THE COUNCIL OFFERS A GENEROUS REWARD TO THOSE WHO CLEAR AREAS OF MONSTERS.|"ЗА ЭТИМИ ВОРОТАМИ НАХОДЯТСЯ РАЙОНЫ СТАРОГО ГОРОДА, ОХВАЧЕННЫЕ ЧУДОВИЩАМИ. МЫ МЕДЛЕННО ПОДГОТОВЛЯЕМСЯ К ЗАСЕЛЕНИЮ. СОВЕТ ПРЕДЛАГАЕТ ЩЕДРЯЮЩУЮ НАГРАДУ ТЕМ, КТО ОЧИЩАЕТ МОНСТРЫ.
+15|'OUR TOUR IS ENDED. AGAIN, LET ME URGE YOU TO APPLY TO THE CITY CLERK FOR A COMMISSION.  GOOD-BYE AND GOOD FORTUNE.' (YOU ARE ON YOUR OWN NOW)|"НАША ЭКСКУРСИЯ ЗАВЕРШЕНА. ЕЩЕ РАЗ, ПОЗВОЛЬТЕ МНЕ ПРИЗНАТЬ ВАС ОБРАТИТЬСЯ К ГОРОДСКОМУ ДИРЕКТОРУ ЗА КОМИССИЕЙ. ДО СВИДАНИЯ И УДАЧИ. (ТЫ СЕЙЧАС)
+16|'YOUR PARTY IS TOO LARGE TO JOIN AT THIS TIME.  RETURN WHEN IT IS SMALLER.'|"ВАША СТОРОНА СЛИШКОМ БОЛЬШАЯ, ЧТОБЫ ПРИСОЕДИНИТЬСЯ К НЕЙ СЕЙЧАС. ВОЗВРАЩЕНИЕ, КОГДА ОНА МЕНЬШЕ ".
 17|THE CITY WATCH RESPONDS TO THE NOISE.  DO YOU STAY TO FIGHT THEM OR RUN AWAY?|ГОРОДСКИЕ ЧАСЫ РЕАГИРУЮТ НА ШУМ. ВЫ ОСТАВАЕТЕСЬ СРАЖАТЬСЯ С НИМИ ИЛИ УБЕГАТЬ?
 18|STAY|ОСТАТЬСЯ
 19|RUN|ЗАПУСТИТЬ
@@ -61,29 +112,30 @@
 28|THE TEMPLE GUARDS INFORM YOU THAT THE BISHOP IS NOT RECEIVING VISITORS AT THIS TIME.  WHAT DO YOU DO?|ХРАМ СТРАЖИ ИНФОРМИРУЕТ ВАМ, ЧТО ЕПИСКОП НЕ ПРИНИМАЕТ ПОСЕТИТЕЛЕЙ В ЭТО ВРЕМЯ. ЧТО ВЫ ДЕЛАЕТЕ?
 29|LEAVE|ПОКИНУТЬ
 30|FORCE YOUR WAY PAST|ПРОЙДИТЕ СВОЙ ПУТЬ
-31|YOU ARE USHERED INTO THE BISHOP'S STUDY. BISHOP BRACCIO SPEAKS, 'ALLOW ME TO INTRODUCE DIRTEN, PRIEST OF ILMAR.|ВАС ПРИСОЕДИНЯЕТСЯ К ИССЛЕДОВАНИЮ ЕПИСКОПА. ЕПИСКОП БРАЧЧО ГОВОРИТ: "РАЗРЕШИТЕ ​​МНЕ познакомить меня с Грязным, священником Илмара.
+31|YOU ARE USHERED INTO THE BISHOP'S STUDY. BISHOP BRACCIO SPEAKS, 'ALLOW ME TO INTRODUCE DIRTEN, PRIEST OF ILMAR.|ВАС ПРИСОЕДИНЯЕТСЯ К ИССЛЕДОВАНИЮ ЕПИСКОПА. ЕПИСКОП БРАЧЧО ГОВОРИТ: "РАЗРЕШИТЕ ​​МНЕ ПОЗНАКОМИТЬ МЕНЯ С ГРЯЗНЫМ, СВЯЩЕННИКОМ ИЛМАРА.
 32|'HE IS BOUND TO RECOVER THE TEMPLE WHICH HAS BEEN DESECRATED TO BANE.  GO WITH HIM ACROSS THE RIVER AND HELP HIM TO CLEANSE THE TEMPLE.  IN PAYMENT, YOU MAY KEEP THE HIDDEN TREASURES.'|"ОН ПРИНУЖДЕН ВОССТАНОВИТЬ ХРАМ, КОТОРЫЙ БЫЛ ПОСВЯЩЕН БЕЙНУ. ПЕРЕЙДИТЕ С НЕМ ЧЕРЕЗ РЕКУ И ПОМОГИТЕ ЕГО ОЧИСТИТЬ ХРАМ. В ОПЛАТЕ ВЫ МОЖЕТЕ СОХРАНИТЬ СКРЫТЫЕ СОКРОВИЩА ".
+//32|'HE IS BOUND TO RECOVER THE TEMPLE WHICH HAS BEEN DESECRATED TO BANE.  GO WITH HIM ACROSS THE RIVER AND HELP HIM TO CLEANSE THE TEMPLE.  IN PAYMENT, YOU MAY KEEP THE HIDDEN TREASURES.'|"ОН ПРИНУЖДЕН ВОССТАНОВИТЬ ХРАМ, КОТОРЫЙ БЫЛ ПОСВЯЩЕН БЕЙНУ. ПЕРЕЙДИТЕ С НЕМ ЧЕРЕЗ РЕКУ И ПОМОГИТЕ ЕГО ОЧИСТИТЬ ХРАМ. В ОПЛАТЕ ВЫ МОЖЕТЕ СОХРАНИТЬ СКРЫТЫЕ СОКРОВИЩА ".                                                             
 33|THE PRIESTS OF TYR WELCOME YOU TO THE TEMPLE.|ЖРЕЦЫ ТИРА ДОБРО ПОЖАЛОВАТЬ В ХРАМ.
 34|MAD MAN|БЕЗУМНЫЙ ЧЕЛОВЕК
 35|YOU ARE WELCOMED BY PRIESTESS JOY OF SUNE.|ВАС ПРИВЕТСТВУЕТ ЖРИЦА РАДОСТЬ СОЛНЦА.
 36|YOU WALK NEAR THE |ВЫ ПРОХОДИТЕ РЯДОМ
 37|POISONOUS BARREN RIVER.|ЯДОВАЯ БАРРЕН РЕКА.
 38|'IT WILL COST YOU 1 PLATINUM PIECE TO REST HERE.  DO YOU WANT TO STAY?'|ОТДЫХАТЬ ЗДЕСЬ СТОИТ ВАМ 1 ЧАСТЬ ПЛАТИНА. ВЫ ХОТИТЕ ОСТАВИТЬСЯ?
-39|THE SHOPKEEPER GREETS YOU AND OFFERS YOU ITEMS FOR SALE. 'CAN I SHOW YOU SOMETHING?'|МАГАЗИН ПРИВЕТСТВУЕТ И ПРЕДЛАГАЕТ ВАМ ТОВАРЫ НА ПРОДАЖУ. "Могу ли я ПОКАЗАТЬ ВАМ ЧТО-ТО?"
+39|THE SHOPKEEPER GREETS YOU AND OFFERS YOU ITEMS FOR SALE. 'CAN I SHOW YOU SOMETHING?'|МАГАЗИН ПРИВЕТСТВУЕТ И ПРЕДЛАГАЕТ ВАМ ТОВАРЫ НА ПРОДАЖУ. "МОГУ ЛИ Я ПОКАЗАТЬ ВАМ ЧТО-ТО?"
 40|YOU ARE IN A TAVERN.  THE AIR IS FILLED WITH SMOKE AND GOSSIP.  PEOPLE ARE GAMBLING AT THE TABLES.|ВЫ В ТАВЕРНЕ. ВОЗДУХ ЗАПОЛНЕН ДЫМОМ И СПЛЕТНИМИ. ЛЮДИ ИГРАЮТ ЗА СТОЛАМИ.
-41|YOU FEEL A LIGHT TOUCH ON YOUR PURSE.  DO YOU IGNORE IT OR GRAB THE OFFENDING HAND?|ВЫ ЧУВСТВУЕТЕ легкое прикосновение к кошельку. ВЫ ИГНОРИРУЕТЕ ИЛИ ЗАХВАТЫВАЕТЕ ЗА РУКУ?
+41|YOU FEEL A LIGHT TOUCH ON YOUR PURSE.  DO YOU IGNORE IT OR GRAB THE OFFENDING HAND?|ВЫ ЧУВСТВУЕТЕ ЛЕГКОЕ ПРИКОСНОВЕНИЕ К КОШЕЛЬКУ. ВЫ ИГНОРИРУЕТЕ ИЛИ ЗАХВАТЫВАЕТЕ ЗА РУКУ?
 42|IGNORE|ИГНОРИРОВАТЬ
 43|GRAB|СХВАТИТЬ
 44|YOU REALIZE YOU HAVE BEEN VICTIMIZED BY A PICKPOCKET.|ВЫ ОСОЗНАЕТЕСЬ, ЧТО ВЫ ПОЛУЧИЛИ ПЕРСОНАЛ.
 45| DOES ANYONE WANT TO GAMBLE?| КТО ХОЧЕТ ИГРАТЬ?
 46|YOU OVERHEAR TAVERN TALE |ВЫ СЛУШАТЕ ТАВЕРНУЮ СКАЗКУ
-47|THE SHOPKEEPER OFFERS JEWELRY FOR SALE. 'CAN I SHOW YOU SOMETHING?'|МАГАЗИН ПРЕДЛАГАЕТ НА ПРОДАЖУ ЮВЕЛИРНЫЕ ИЗДЕЛИЯ. "Могу ли я ПОКАЗАТЬ ВАМ ЧТО-ТО?"
-48|THE SHOP SPECIALIZES IN ARMS AND ARMOR. 'CAN I SHOW YOU OUR WARES?'|МАГАЗИН СПЕЦИАЛИЗИРУЕТСЯ НА ОРУЖИИ И Доспехах. "Могу я ПОКАЗАТЬ ВАМ НАШИ ПРЕДМЕТЫ?"
+47|THE SHOPKEEPER OFFERS JEWELRY FOR SALE. 'CAN I SHOW YOU SOMETHING?'|МАГАЗИН ПРЕДЛАГАЕТ НА ПРОДАЖУ ЮВЕЛИРНЫЕ ИЗДЕЛИЯ. "МОГУ ЛИ Я ПОКАЗАТЬ ВАМ ЧТО-ТО?"
+48|THE SHOP SPECIALIZES IN ARMS AND ARMOR. 'CAN I SHOW YOU OUR WARES?'|МАГАЗИН СПЕЦИАЛИЗИРУЕТСЯ НА ОРУЖИИ И ДОСПЕХАХ. "МОГУ Я ПОКАЗАТЬ ВАМ НАШИ ПРЕДМЕТЫ?"
 49|THE SHOP SELLS SILVER ITEMS. 'WOULD YOU LIKE TO SEE OUR SELECTION?'|МАГАЗИН ПРОДАЕТ СЕРЕБРЯНЫЕ ИЗДЕЛИЯ. "ХОТИТЕ УВИДИТЬ НАШ ВЫБОР?"
 50|THE PRIESTS OF TEMPUS BID YOU WELCOME.|ЖРЕЦЫ ТЕМПУСА ПРИГЛАШАЮТ ВАС ДОБРО ПОЖАЛОВАТЬ.
 51|YOU ARE BY THE GATEWAY TO THE UNSETTLED AREAS. THE CITY WATCH EYES YOU SUSPICIOUSLY.|ВЫ НА ПУТЕШЕСТВИЕ В НЕРАЗДАННЫЕ ТЕРРИТОРИИ. ГОРОДСКИЕ СМОТРЫ ГЛАЗАМИ НА ВАС ПОДОЗРИТЕЛЬНО.
 52|LIX.|LIX.
-53|SKULLCRUSHER|Дробилка Черепов
+53|SKULLCRUSHER|ДРОБИЛКА ЧЕРЕПОВ
 54|YOU ARE OUTSIDE THE CITY HALL. THE CITY CLERK WAITS INSIDE TO AWARD COMMISSIONS.|ВЫ НАХОДИТЕСЬ ВНЕ ГОРОДА. ГОРОДСКОЙ КЛЕРК ЖДЕТ ВНУТРИ НАГРАЖДЕНИЯ КОМИССИИ.
 55|PROCLAMATIONS ARE POSTED ON THE WALLS, IN YOUR JOURNAL YOU NOTE |ЗАЯВЛЕНИЯ РАЗМЕЩАЮТСЯ НА СТЕНАХ, В ВАШЕМ ЖУРНАЛЕ ВЫ ЗАМЕТИЛИ
 56|PROCLAMATION|ЗАЯВЛЕНИЕ
@@ -95,18 +147,18 @@
 62|YOU ARE USHERED INTO THE STUDY WHERE DIRTEN WAITS.  'I AM ABOUT TO JOURNEY TO THE TEMPLE, WILL YOU COME WITH ME?'|ВАС ИСПОЛЬЗУЮТСЯ В ИССЛЕДОВАНИИ, ГДЕ ЖДЕТ ГРЯЗНЫЙ. "Я СОБИРАЮСЬ В ПУТЕШЕСТВИЕ К ХРАМУ, ВЫ ПОЙДЕТЕ СО МНОЙ?"
 63|'WILL YOU ACCOMPANY DIRTEN?'|"БУДЕТЕ ЛИ ВЫ СОПРОВОДИТЬ ГРЯЗНЫМ?"
 64|'DUE TO YOUR VICIOUS ATTACK ON THOSE WHO PROTECT US, WE REFUSE YOU ALL SERVICE.'|"ИЗ-ЗА ВАШЕГО ЗЛОУПОТРЕБИТЕЛЬСКОГО НАПАДЕНИЯ НА ТЕМ, КТО ЗАЩИЩАЕТ НАС, МЫ ОТКАЗЫВАЕМ ВАМ В ВСЕХ УСЛУГАХ".
-65|AN AGED PRIEST APPROACHES, POINTING AT THE MAD MAN, HE SPEAKS, 'THAT MAN URGENTLY NEEDS OUR CARE.  DROP HIM FROM YOUR PARTY OR HE WILL BRING YOU TO GRIEF.  WE WILL CARE FOR HIM.'|Престарелый священник подходит, указывая на сумасшедшего, он говорит: "Этому человеку срочно нужна наша забота. УБРАСИТЕ ЕГО ИЗ СВОЕЙ ВЕЧЕРИНКИ, ИЛИ ОН ПРИВЕДЕТ ВАС СКОРБАТЬ. МЫ ЗАБОТИМСЯ О НЕМ ".
+65|AN AGED PRIEST APPROACHES, POINTING AT THE MAD MAN, HE SPEAKS, 'THAT MAN URGENTLY NEEDS OUR CARE.  DROP HIM FROM YOUR PARTY OR HE WILL BRING YOU TO GRIEF.  WE WILL CARE FOR HIM.'|ПРЕСТАРЕЛЫЙ СВЯЩЕННИК ПОДХОДИТ, УКАЗЫВАЯ НА СУМАСШЕДШЕГО, ОН ГОВОРИТ: "ЭТОМУ ЧЕЛОВЕКУ СРОЧНО НУЖНА НАША ЗАБОТА. УБРАСИТЕ ЕГО ИЗ СВОЕЙ ВЕЧЕРИНКИ, ИЛИ ОН ПРИВЕДЕТ ВАС СКОРБАТЬ. МЫ ЗАБОТИМСЯ О НЕМ ".
 66|' DO YOU SEEK HEALING?'|"ВЫ ИЩЕТЕ ИСЦЕЛЕНИЯ?"
 67|THEN YOU MUST LEAVE.|ТОГДА ВЫ ДОЛЖНЫ УЙТИ.
-68|BEAUTIFUL STOJANOW RIVER.|КРАСИВАЯ РЕКА СТОЯНОВ.          
+68|BEAUTIFUL STOJANOW RIVER.|КРАСИВАЯ РЕКА СТОЯНОВ.                 
 69|YES|LF
 70|NO|YTN
-71|A DRUNKEN BRAWL BREAKS OUT. YOU ARE CAUGHT IN THE MIDDLE.|Пьяный бой разрывается. ВЫ ЗАХВАТИЛИ В СРЕДНЕЕ.
+71|A DRUNKEN BRAWL BREAKS OUT. YOU ARE CAUGHT IN THE MIDDLE.|ПЬЯНЫЙ БОЙ РАЗРЫВАЕТСЯ. ВЫ ЗАХВАТИЛИ В СРЕДНЕЕ.
 72|THE CITY WATCH CHARGES IN. DO YOU RUN AWAY OR STAY TO CONFRONT THEM?|CITY WATCH СЧЕТАЕТ. ВЫ УБЕГАЕТЕ ИЛИ ОСТАВАЕТЕСЬ, ЧТОБЫ БЫТЬ С НИМИ?
 73|STAY|ОСТАТЬСЯ
 74|RUN|ЗАПУСТИТЬ
-75|THE SHOPKEEPER OFFERS JEWELRY FOR SALE. 'CAN I SHOW YOU SOMETHING?'|МАГАЗИН ПРЕДЛАГАЕТ НА ПРОДАЖУ ЮВЕЛИРНЫЕ ИЗДЕЛИЯ. "Могу ли я ПОКАЗАТЬ ВАМ ЧТО-ТО?"
-76|'THE GAME WORKS LIKE THIS.  WE SPIN THIS TOP. IF THE GREEN SIDE COMES UP, YOU GET DOUBLE YOUR MONEY BACK.  IF A BLUE SIDE COMES UP, YOU GET YOUR MONEY BACK.  IF A RED SIDE COMES UP, YOU LOSE.'|ИГРА РАБОТАЕТ ТАК. МЫ ВИНЕМ ЭТУ ВЕРХУ. ЕСЛИ ЗЕЛЕНАЯ СТОРОНА ВЫЯВЛЯЕТСЯ, ВЫ ПОЛУЧИТЕ ВДВОЕ СВОИ ДЕНЬГИ. Если появится синяя сторона, ВЫ ПОЛУЧИТЕ СВОИ ДЕНЬГИ. ЕСЛИ ПОДХОДИТ КРАСНАЯ СТОРОНА, ВЫ ПРОИГРЫВАЕТЕ ".
+75|THE SHOPKEEPER OFFERS JEWELRY FOR SALE. 'CAN I SHOW YOU SOMETHING?'|МАГАЗИН ПРЕДЛАГАЕТ НА ПРОДАЖУ ЮВЕЛИРНЫЕ ИЗДЕЛИЯ. "МОГУ ЛИ Я ПОКАЗАТЬ ВАМ ЧТО-ТО?"
+76|'THE GAME WORKS LIKE THIS.  WE SPIN THIS TOP. IF THE GREEN SIDE COMES UP, YOU GET DOUBLE YOUR MONEY BACK.  IF A BLUE SIDE COMES UP, YOU GET YOUR MONEY BACK.  IF A RED SIDE COMES UP, YOU LOSE.'|ИГРА РАБОТАЕТ ТАК. МЫ ВИНЕМ ЭТУ ВЕРХУ. ЕСЛИ ЗЕЛЕНАЯ СТОРОНА ВЫЯВЛЯЕТСЯ, ВЫ ПОЛУЧИТЕ ВДВОЕ СВОИ ДЕНЬГИ. ЕСЛИ ПОЯВИТСЯ СИНЯЯ СТОРОНА, ВЫ ПОЛУЧИТЕ СВОИ ДЕНЬГИ. ЕСЛИ ПОДХОДИТ КРАСНАЯ СТОРОНА, ВЫ ПРОИГРЫВАЕТЕ ".
 77|WHO WILL GAMBLE?|КТО БУДЕТ ИГРАТЬ?
 78|YOU HAVE |У ТЕБЯ ЕСТЬ
 79| PP.| PP.
@@ -118,7 +170,7 @@
 85|YOU ATTACKED THE CITY WATCH, YOU WON'T BEAT US SO EASILY!|ВЫ НАПАДАЛИ НА ГОРОДСКИЕ ЧАСЫ, ВЫ НАС НАС НАС БЫЛО НЕ БЫСТРО!
 86|SKULLCRUSHER SPEAKS, 'I MUST GO TO MY MASTER NOW.' |SKULLCRUSHER ГОВОРИТ: "Я ДОЛЖЕН ПОЙТИ К МОЕМУ МАСТЕРУ СЕЙЧАС".
 87|HE LEAVES.|ОН УХОДИТ.
-88|PROCLAMATIONS LXIV, LXXVIII, CIX, AND LIX.|ЗАЯВЛЕНИЯ LXIV, LXXVIII, CIX и LIX.
+88|PROCLAMATIONS LXIV, LXXVIII, CIX, AND LIX.|ЗАЯВЛЕНИЯ LXIV, LXXVIII, CIX И LIX.
 89|CI.|CI.
 90|CXXVI AND CX.|CXXVI И CX.
 91|CXXXIV.|CXXXIV.
