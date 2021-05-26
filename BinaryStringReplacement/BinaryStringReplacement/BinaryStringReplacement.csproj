@@ -120,7 +120,6 @@
     <Content Include="ECL2_000.dat.translations.txt" />
     <Content Include="ECL1_000.dat.translations.txt" />
     <Content Include="ECL3_000.dat.translations - Orig.txt" />
-    <Content Include="ECL3_000.dat.translations-testing.txt" />
     <Content Include="ECL3_000.dat.translations.txt" />
     <Content Include="ECL3_014.dat.translations.txt" />
     <Content Include="ECL3_011.dat.translations.txt" />

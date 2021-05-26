@@ -151,7 +151,7 @@ namespace BinaryStringReplacement
 
         private static bool replaceString(byte[] replaceThisStrBytes, byte[] replacementStrBytes, bool checkBoundary, string id)
         {
-            int MemBase = 0x10000 - 0x9900;  // This is specific to PoR
+            int MemBase = 0x10000 - 0x9900;  // This is specific to PoR - 0x6700 - 26368 in decimal
             bool goodMatch = true;
             int foundIdx = 0;
             do {
@@ -248,7 +248,7 @@ namespace BinaryStringReplacement
             // Assign the new length to the preceeding byte
             data[foundIdx - 1] = (byte)replacementStrBytes.Length;
 
-            dumpFile();
+            //dumpFile();
 
             if (eclMode) {
                 log("foundIdx: " + foundIdx);
@@ -269,7 +269,7 @@ namespace BinaryStringReplacement
 
                             if (data[pointer.address - 1] != 1)
                             {
-                                dumpFile();
+                                //dumpFile();
                                 throw new Exception("Error: Expected 0x01 before new pointer address.  Bad pointer address at " + pointer.address.ToString("X") + "!");
                             }
 
@@ -291,8 +291,8 @@ namespace BinaryStringReplacement
                         if (pointer.destination > foundIdx)
                         {
                             // Change the destination pointer in the list of gotos
-                            //log("Changing destination " + pointer.destination + " to " + (pointer.destination + lengthDifference) + " in list");
-                            //log("Changing wordDestination " + pointer.wordDestination + " to " + (pointer.wordDestination + lengthDifference) + " in list");
+                            log("Changing destination " + pointer.destination + " to " + (pointer.destination + lengthDifference) + " in list");
+                            log("Changing wordDestination " + pointer.wordDestination + " to " + (pointer.wordDestination + lengthDifference) + " in list");
                             pointer.destination += lengthDifference;
                             pointer.wordDestination += lengthDifference;
 
@@ -300,8 +300,8 @@ namespace BinaryStringReplacement
                             // Convert to little endian again and assign to data buffer
                             data[pointer.address] = (byte)(pointer.wordDestination & 0xFFFF);
                             data[pointer.address + 1] = (byte)(pointer.wordDestination >> 8);
-                            //log("Setting data[" + pointer.address + "] = " + data[pointer.address].ToString("X"));
-                            //log("Setting data[" + (pointer.address + 1) + "] = " + data[(pointer.address + 1)].ToString("X"));
+                            log("Setting data[" + pointer.address + "] = " + data[pointer.address].ToString("X"));
+                            log("Setting data[" + (pointer.address + 1) + "] = " + data[(pointer.address + 1)].ToString("X"));
                         }
                     }
                 }
