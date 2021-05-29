@@ -1,0 +1,135 @@
+﻿1|KOBOLDS APPEAR AND BOMBARD YOU WITH ROCKS.|КОБОЛДЫ ПОЯВЛЯЮТСЯ И ЗАБРОСЫВАЮТ ВАС КАМНЯМИ.
+2|DO YOU WANT TO LEAVE?|ТЫ ХОЧЕШЬ УЙТИ?
+3|YES|ДА
+4|NO|НЕТ
+5|PRINCESS FATIMA|ПРИНЦЕССА ФАТИМА
+6|KOBOLDS SEEM TO BOIL UP FROM NOWHERE.|КОБОЛДЫ, КАЖЕТСЯ, ВЫКРЫВАЮТСЯ ОТСУТСТВУЮТ.
+7| FALLS INTO A POOL OF WATER.| ПАДАЕТ В БАССЕЙН С ВОДОЙ.
+8|SOME ITEMS WERE LOST RECOVERING |НЕКОТОРЫЕ ПРЕДМЕТЫ БЫЛИ ВОССТАНОВЛЕНЫ
+9|YOU FIND A PILE OF MINE TAILINGS.|ВЫ НАХОДИЛИ КУСОЧКУ ХВОСТОВ.
+10|IN IT IS A KOBOLD'S CRUDE DRAWING.|В ЭТОМ Грубый рисунок Кобольда.
+11|42|42
+12|A KOBOLD APPROACHES WAVING A WHITE FLAG.|Кобольд приближается, размахивая белым флагом.
+13|THE KOBOLD BOWS AND SAYS,'YOU ARE QUITE DANGEROUS, WE WILL PAY FOR A TRUCE.'|КОБОЛЬД КЛЮЧАЕТ И ГОВОРИТ: "ТЫ ОПАСНЫЙ, МЫ ПЛАТИТ ЗА ГРУЗ".
+14|AGREE|ДАТЬ СОГЛАСИЕ
+15|REFUSE|МУСОР
+16|KILL IT|УБЕЙ ЭТО
+17|'I AM TO ESCORT YOU TO OUR TREASURE.'|"Я ДОЛЖЕН СОДЕЙСТВОВАТЬ ВАМ НАШЕ СОКРОВИЩЕ".
+18|FOLLOW|СЛЕДИТЬ
+19|REFUSE|МУСОР
+20|KILL IT|УБЕЙ ЭТО
+21|THE KOBOLD RETREATS, THEN STRIKES THE WALL.|КОБОЛЬД ОТДЫХАЕТ, ТОГДА БУДЕТ В СТЕНУ.
+22|A NET ENTANGLES YOU.|СЕТКА ЗАВЕРШАЕТ ВАС.
+23|SPIKES SPRING OUT AND IMPALE YOU.|ШИПЫ ВЫСТУПАЮТ И ПРИНИМАЮТ ВАС.
+24|A DRUNKEN KOBOLD LIES HERE.|Пьяный Кобольд лежит здесь.
+25|SLIP PAST|ПРОСМОТР ПРОШЛОЕ
+26|WAKE IT|Разбуди его
+27|KILL IT|УБЕЙ ЭТО
+28|YOU SLIP BY WITH EASE.|ВЫ ПРОХОДИТЕ С ЛЕГКОСТЬЮ.
+29|YOU HEAR THE VOICES OF HUMANS AND KOBOLDS.|ВЫ СЛЫШАЕТЕ ГОЛОСА ЧЕЛОВЕК И КОБОЛЬДОВ.
+30|BEFORE YOU IS A HORDE OF KOBOLDS. BEHIND THEM ARE TWO MEN AND AN ANCIENT KOBOLD ON A WOODEN THRONE.|ПРЕЖДЕ ЧЕМ ВАМ ЕСТЬ ОРДА КОБОЛДОВ. ЗА НИМИ ДВА ЧЕЛОВЕКА И ДРЕВНИЙ КОБОЛЬД НА ДЕРЕВЯННОМ ТРОНЕ.
+31|ONE SAYS,'THESE MEN ARE ENEMIES. DEFEAT THEM AND MY LORD SHALL BE MOST GENEROUS.' THE KING LOOKS AT HIM, AND THEN AT YOU. HE SMILES AND SCREAMS, 'KILL THEM!'|ГОВОРИТ: "ЭТИ МУЖЧИНЫ - ВРАГИ. ПОБЕДИТЕ ИХ, И ГОСПОДЬ МОЙ БУДЕТ НАИЛУЧШИМ ЩЕДРЫМ ". Царь Смотрит на него, а потом на тебя. ОН УЛЫБАЕТСЯ И КРИЧИТ: "УБЕЙ ИХ!"
+32|THE KING, FROTHING AT THE MOUTH, CRIES, 'USE THE SECRET WEAPONS.' BALLISTA APPEAR AND FIRE.|Король, вздыхая в рот, плачет: "ИСПОЛЬЗУЙТЕ СЕКРЕТНОЕ ОРУЖИЕ". БАЛЛИСТА ПОЯВЛЯЕТСЯ И ПОЖАР.
+33|THE MEN SNEER AT THE KING AND ONE SAYS,'LET US SHOW YOU HOW WARRIORS FIGHT.'|МУЖЧИНЫ СНИР У КОРОЛЯ, И ОДИН ГОВОРЯТ: "ДАВАЙТЕ ПОКАЗАТЬ ВАМ, КАК ВОИНА БОРЬБА".
+34|THE KING, PANICKED, HAS FALLEN INTO HIS OWN SPIKED PIT AND DIED.|Король в панике упал в свою колючую яму и умер.
+35|YOU SEE A BRASS BOTTLE JAMMED INTO A CRACK HERE.|ВЫ ВИДИТЕ ЛАТУННУЮ БУТЫЛКУ, ЗАБИВАЮЩУЮ ЗДЕСЬ В ТРЕЩИНУ.
+36|LEAVE IT|ОСТАВЬ ЭТО
+37|PULL IT OUT|ВЫТАЩИТЬ ЭТО
+38|AS YOU PULL, THE STOPPER COMES LOOSE AND SMOKE BILLOWS OUT, FORMING INTO A GIANT, REDDISH HUMANOID.|КАК ВЫ ТЯНУЕТЕ, СТОПОР ВЫКЛЮЧАЕТСЯ, И ДЫМЕТСЯ ЛАМПА, ОБРАЗУЯСЬ В ГИГАНТСКОГО КРАСНОГО ГУМАНОИДА.
+39|'I AM THE EFREETI SAMIR AHWAHL. YOU ARE NOT MY MASTER. ARE YOU, PERCHANCE, VAMPIRES?'|"Я ЕСМЬ ЭФРИТИ САМИР АХВАЛ. ТЫ НЕ МОЙ МАСТЕР. ВЫ, ПЕРЧАНС, ВАМПИРЫ?
+40|YES|ДА
+41|NO|НЕТ
+42|ATTACK IT|АТАКА НА ЭТО
+43|'FOOLS, SUMMON ME ONLY WHEN A VAMPIRE IS NEAR OR FACE MY WRATH.' HE RETURNS TO THE BOTTLE.|"ДУРАКИ, ВЫЗЫВАЙТЕ МЕНЯ ТОЛЬКО КОГДА ВАМПИР БЛИЗОСТИ ИЛИ СМОТРЕТЬ НА МОЙ ГНЕВ". ОН ВОЗВРАЩАЕТСЯ К БУТЫЛКЕ.
+44|YOU ARE IN A CRUDE BARRACKS. ON ONE WALL IS A CRUDE MAP.|ВЫ НАХОДИТЕСЬ В ГОРЯЧИХ БАРРАКАХ. НА ОДНОЙ СТЕНЕ ГОРЯЧАЯ КАРТА.
+45|28|28
+46|YOU HEAR MUFFLED SOUNDS AND TURN TO INVESTIGATE.|ВЫ СЛЫШАЕТЕ ПРИГЛУШЕННЫЕ ЗВУКИ И ПУТЕШЕСТВУЕТ ДЛЯ ИССЛЕДОВАНИЯ.
+47|IN THIS ROOM IS A YOUNG WOMAN IN BARBARIAN FINERY. SHE DROPS A KOBOLD SHE WAS STRANGLING WHEN SHE SEES YOU.|В ЭТОЙ КОМНАТЕ МОЛОДАЯ ЖЕНЩИНА ВАРВАРСКОГО ЗАВОДА. ОНА БРОСАЕТ КОБОЛЬД, КОГДА ОНА УВИДИТ ВАС.
+48|'I AM PRINCESS FATIMA.' THE PRINCESS CONTINUES.|"Я ПРИНЦЕССА ФАТИМА". ПРИНЦЕССА ПРОДОЛЖАЕТ.
+49|16|16
+50|SHE OFFERS TO JOIN YOUR BAND.|ПРЕДЛАГАЕТ ПРИСОЕДИНЯТЬСЯ К ВАШЕЙ ГРУППЕ.
+51|YES|ДА
+52|NO|НЕТ
+53|ATTACK HER|НАПАДАЙТЕ ЕЕ
+54|THIS WAS A PRISON CELL. BROKEN BINDINGS AND SIX DEAD KOBOLDS ARE STREWN ON THE FLOOR.|ЭТО БЫЛА ТЮРЕМНАЯ КАМЕРА. Сломанные переплеты и шесть мертвых коболов валяются на полу.
+55|YOU TUMBLE DOWN A STEEP, LOOSE SLOPE, MAKING A LOUD CLATTER.|ВЫ падаете на ступеньку, теряете уклон, делая громкий грохот.
+56|BEFORE YOU LIES A HUGE WYVERN. IT RISES UP AND CHARGES.|ПЕРЕД ВАМИ ЛЖАЕТ ОГРОМНАЯ ВИВЕРНА. ЭТО ВЗЫСКАЕТ И ЗАРЯЖАЕТ.
+57|HIDDEN IN A NARROW CREVICE IS AN OLD CRIPPLED KOBOLD. IT CROAKS WEAKLY FOR WATER.|В узком укрытии спрятан старый изрезанный кобольд. ОНО СЛАБО СЛАБАЕТ ДЛЯ ВОДЫ.
+58|GIVE IT WATER|ДАЙТЕ ВОДУ
+59|THREATEN IT|УГРОЖАЙТЕ ЭТО
+60|KILL IT|УБЕЙ ЭТО
+61|WHEN YOU GIVE IT WATER, IT CRAWLS OUT AND TELLS YOU ITS TALE.|Когда вы даете ему воды, он выползает и рассказывает вам свою сказку.
+62|20|20
+63|AFTER IT IS DONE, IT LEAVES.|ПОСЛЕ ЭТОГО СДЕЛАНО ОНА УХОДИТ.
+64|LET IT LEAVE|ОТПУСТИТЬ
+65|KILL IT|УБЕЙ ЭТО
+66|THE KOBOLD RETREATS AROUND A BEND.|КОБОЛЬД ПОВЕРЯЕТСЯ НА ИЗВИНУ.
+67|THIS IS THE LIVING AREAS. FEMALE AND CHILD KOBOLDS FLEE.|ЭТО ЖИЛЫЕ ОБЛАСТИ. ЖЕНСКИЕ И ДЕТСКИЕ КОБОЛЬДЫ БЕГАЮТ.
+68|YOU REACH THE KING'S QUARTERS AND CONFRONT HIS GUARDS.|ВЫ ДОХОДИТЕ В КВАРТИРУ КОРОЛЯ И БРОСАЕТЕ ЕГО ОХРАНУ.
+69|RATS ARE HUNG HERE TO AGE. MOLDY ROOTS LIE IN PILES.|ЗДЕСЬ В ВОЗРАСТЕ КРЫСЫ. МОЛДОВЫЕ КОРНИ ЛОЖИТСЯ КУПАМИ.
+70|HERE CRUDE TABLES, LITTERED WITH BONES, ARE SCATTERED AROUND.|ЗДЕСЬ Вокруг разбросаны сырые столы, усыпанные костями.
+71|A RUINED BALLISTA LIES HERE.|ЗДЕСЬ РАЗРУШЕННАЯ БАЛЛИСТА.
+72|AMONGST A NEST OF LOGS YOU FIND SOME TREASURE.|СРЕДИ Бревен ВЫ НАХОДИТЕ НЕКОТОРЫЕ СОКРОВИЩА.
+73|STREWN ACROSS THE FLOOR IS THE ACCUMULATED WEALTH OF THE KOBOLD COMMUNITY.|ПОСЕЩЕНИЕ ЭТАЖА - НАКОПЛЕННОЕ БОГАТСТВО СООБЩЕСТВА Кобольдов.
+74|THE PRINCESS SAYS,'I SHALL GO MY OWN WAY NOW, BUT YOU WILL ALWAYS BE REMEMBERED. GOOD HUNTING.'|ПРИНЦЕССА ГОВОРЯТ: "Я ПОЙДУ СВОЕЙ ПУТЬЮ СЕЙЧАС, НО ВАС ВСЕГДА БУДУТ ПОМНИТЬ. ХОРОШЕЙ ОХОТЫ.
+75|PRESS <RETURN> OR BUTTON TO CONTINUE.|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ.
+76|THE KOBOLDS CHASE FOR A WHILE, BUT YOU ESCAPE.|КОБОЛЬДЫ НА КОРОТКОЕ, НО ВЫ УБЕЖАЕТЕ.
+77|YOU CROSS OVER A PIT.|ВЫ ПЕРЕСЕЧАЕТЕ ЯМУ.
+78| YOU RECORD IT IN YOUR JOURNAL UNDER ENTRY | ВЫ ЗАПИСЫВАЕТЕ ЭТО В ЖУРНАЛЕ ПОД ЗАПИСЬЮ
+79|THE ROOF COLLAPSES.|КРЫША ОБВАЛАЕТСЯ.
+80|BEFORE YOU RECOVER, KOBOLDS ARRIVE.|ПРЕЖДЕ ЧЕМ ВЫ ВОССТАНОВИТЕСЬ, КОБОЛДЫ ПРИБЫВАЮТ.
+81| WHAT DO YOU DO?| ЧТО ВЫ ДЕЛАЕТЕ?
+82|THE KOBOLD CRIES OUT, 'I'LL NOT GO ALONE!'|Кобольд кричит: "Я НЕ ПОЙДУ ОДИН!"
+83|TIMBERS LINE THE WALLS HERE. A BOULDER BLOCKS THE FAR END.|ТИМБЕРС ЗДЕСЬ ВЫКЛЮЧАЕТ СТЕНЫ. БОЛДЕР БЛОКИРУЕТ ДАЛЬНИЙ КОНЕЦ.
+84|YOU DISARM A NET TRAP.|ВЫ ОБЕЗЖИВАЕТЕ СЕТКУ.
+85|YOU DISARM A SPIKE TRAP.|ВЫ ОБЕЗЖИВАЕТЕ ЛОВУШКУ.
+86|HE LOOKS CONFUSED,'OH, THE ENVOYS. DO YOU WISH AN ESCORT TO THE KING?'|ОН ВНЕШНИЙ ВИД ЗАСТУПАЕТСЯ: "О, НАСЛЕДНИКИ. ВЫ ЖЕЛАЕТЕ СКОРОСТИ К КОРОЛЮ?
+87|YES|ДА
+88|NO|НЕТ
+89|KILL IT|УБЕЙ ЭТО
+90|'THEN FOLLOW ME.'|"ТОГДА ПОСЛЕДУЮЩИЕ МНЕ".
+91|THE KOBOLD DIES.|КОБОЛЬД УМЕР.
+92|KOBOLDS BLOCK ALL THE EXITS.|КОБОЛДЫ БЛОКИРУЮТ ВСЕ ВЫХОДЫ.
+93|THE KING CALLS OUT,'YOU SEEM VALUABLE. SURRENDER OR DIE.'|КОРОЛЬ ПРИЗЫВАЕТ: "ВЫ КАЖЕТЕСЬ ЦЕННЫМ". Сдайся или умри ".
+94|SURRENDER|СДАВАТЬСЯ
+95|FIGHT|БОРЬБА
+96|THE BALLISTA ARE RELOADED. THE KING CALLS OUT,'DEATH OR IMPRISONMENT.'|БАЛЛИСТА ПЕРЕЗАГРУЖАЕТСЯ. КОРОЛЬ ПРИЗЫВАЕТ: "СМЕРТЬ ИЛИ ЗАКЛЮЧЕНИЕ".
+97|SURRENDER|СДАВАТЬСЯ
+98|FIGHT|БОРЬБА
+99|THE TWO ENVOYS WAIT AT THE THRONE. THEY SMILE. 'A REMATCH THEN. PREPARE FOR DEATH.'|ДВА УЧАСТНИКА ЖДУТ НА ТРОНЕ. ОНИ УЛЫБЛЯЮТСЯ. - ТОГДА ПОВТОРНО. ГОТОВЬСЯ К СМЕРТИ ".
+100|THE KING HAS ESCAPED DURING THE FIGHT.|Король сбежал во время боя.
+101|YOU FIND A SECRET DOOR IN THE NORTH WALL.|ВЫ НАХОДИТЕ СЕКРЕТНУЮ ДВЕРЬ В СЕВЕРНОЙ СТЕНЕ.
+102|'DIE HAPPY FIENDS, YOUR DEATHS SHALL BE MY FREEDOM.'|"УМРИ СЧАСТЛИВЫМ ОГНЯМ, ТВОИ СМЕРТИ БУДУТ МОЕЙ СВОБОДОЙ".
+103|'YOUR GROUP IS TOO LARGE.'|"ВАША ГРУППА СЛИШКОМ БОЛЬШАЯ".
+104|SHE SMILES.'SO I SHALL CUT MY OWN WAY OUT. GOOD HUNTING.' SHE LEAVES.|ОНА УЛЫБАЕТСЯ. "И Я ОТКЛЮЧАЮ СВОЙ СОБСТВЕННЫЙ ПУТЬ. ХОРОШЕЙ ОХОТЫ. ОНА ОСТАВЛЯЕТ.
+105|THERE IS A STEEP RUBBLED SLOPE. WILL YOU GO UP?|ЕСТЬ СТУПЕНЬКИЙ РЕЗИНЕННЫЙ СКАНОК. ВЫ ПОЙДЕТЕ?
+106|YES|ДА
+107|NO|НЕТ
+108|THE NOISE HAS DISTURBED SOMETHING. WITH A BEATING OF WINGS, A HUGE BEAST LANDS UPON YOU.|ШУМ ЧТО-ТО ПОБЕДИЛ. С БИКОМ КРЫЛЬЯМИ НА ВАС ПРИСАДЕТ ОГРОМНЫЙ ЗВЕРЬ.
+109|YOU CUT DOWN THE KOBOLD.|ВЫ РЕЗЫВАЕТЕ КОБОЛЬДА.
+110|YOU FIND A TRAP, BUT THE TUNNEL IS TOO NARROW TO AVOID IT.|ВЫ НАЙДЕТЕ ЛОВУШКУ, НО ТУННЕЛЬ СЛИШКОМ УЗКИЙ, чтобы ее избежать.
+111|DISARM IT|Разоружить его
+112|GO ON|ПРОДОЛЖАЙ
+113|LEAVE|ПОКИНУТЬ
+114|WHO WILL DISARM THE TRAP?|КТО ОБЕЗВРАЩАЕТ ЛОВУШКУ?
+115|YOU DISARM A DEADFALL TRAP.|ВЫ ОБЕЗЖИВАЕТЕ СМЕРТЕЛЬНУЮ ЛОВУШКУ.
+116|THE KOBOLD PAUSES, IDLY TAPS THE WALL, THEN PROCEEDS.|КОБОЛЬД ПАУЗА, ОТСТУПИВАЕТСЯ В СТЕНУ, ЗАТЕМ ПРОДОЛЖАЕТСЯ.
+117|A BOULDER BLOCKS OFF THE PASSAGE. USING A LEVER, THE KOBOLD DISLODGES IT AND PROCEEDS. DO YOU?|БОЛДЕР ОТКЛОНЯЕТ ПРОХОД. С ПОМОЩЬЮ РЫЧАГА КОБОЛЬД ВЫБИРАЕТ ЕГО И ПРОДОЛЖАЕТ. ТЫ?
+118|YES|ДА
+119|NO|НЕТ
+120|THE KOBOLD DISAPPEARS BEYOND THE BOULDER.|Кобольд исчезает за гранью боулдера.
+121|YOU CLAMBER NOISILY DOWN A SLOPE OF RUBBLE.|ВЫ ШУМНО КАСАЕТЕСЬ ПО СКЛОНУ РУБИНА.
+122|AT THE BOTTOM THE KOBOLD DIVES BENEATH SOME RUBBLE.|В НИЖНЕЙ ЧАСТИ КОБОЛЬД НЫРЯЕТСЯ НА НЕКОТОРЫЕ РУБЛИ.
+123|THE KOBOLD PROMPTLY RETURNS TO SLEEP.|КОБОЛЬД МОМЕНТАЛЬНО ВОЗВРАЩАЕТСЯ В СОН.
+124|THE KOBOLDS HERD YOU TOWARD YOUR PRISON. SOME NAB BITS OF YOUR EQUIPMENT AND LEAVE.|КОБОЛЬДЫ СТАРАЮТ ВАС К ВАШЕЙ ТЮРЬМЕ. НЕКОТОРЫЕ НАБЛЮДАЙТЕ ВАШЕ ОБОРУДОВАНИЕ И УХОДИТЕ.
+125|YOU DISLODGE A NUMBER OF ROCKS.|ВЫ ВЫИГРЫВАЕТЕ КОЛИЧЕСТВО КАМНЕЙ.
+126|THE NOISE HAS DISTURBED SOMETHING. WITH A BEATING OF WINGS, A HUGE BEAST LANDS UPON YOU.|ШУМ ЧТО-ТО ПОБЕДИЛ. С БИКОМ КРЫЛЬЯМИ НА ВАС ПРИСАДЕТ ОГРОМНЫЙ ЗВЕРЬ.
+127|'JUST AROUND THE CORNER IS OUR TREASURE. TAKE WHAT YOU WISH AND LEAVE US. GOOD DAY.'|"ТОЛЬКО ЗА УГОЛОМ - НАШЕ СОКРОВИЩЕ. Бери то, что хочешь, и оставь нас. ДОБРЫЙ ДЕНЬ.'
+128|LET IT GO|ОТПУСТИ СИТУАЦИЮ
+129|KILL IT|УБЕЙ ЭТО
+130|THE KOBOLD CALLS OUT,'THE ENVOYS ARE HERE, GREAT KING.' AN AGED VOICE REPLIES 'SEND THEM FORWARD.' YOUR GUIDE, HOWEVER, HAS FALLEN INTO A STUPOR.|КОБОЛЬД ПРИЗЫВАЕТ: "ЗДЕСЬ УЧАСТНИКИ, ВЕЛИКИЙ КОРОЛЬ". ВОЗРАСТ ГОЛОС ОТВЕТИТ: "ОТПРАВИТЬ ИХ ВПЕРЕД". ВАШ ГИД, ОДНАКО, ПОПАЛ В СТУПОР.
+131|A WOMAN APPEARS BEFORE YOU.'I AM THE PRINCESS FATIMA, AID ME IN THIS BATTLE.'|ПЕРЕД ВАМИ ПРОЯВЛЯЕТСЯ ЖЕНЩИНА. "Я ПРИНЦЕССА ФАТИМА, ПОМОГАЛА МНЕ В ЭТОЙ БИТВЫ".
+132|WHEN YOU REST, FATIMA TELLS YOU OF HER TRIBE.|КОГДА ВЫ ОТДЫХАЕТЕ, ФАТИМА СКАЗЫВАЕТ ВАМ О ЕГО ПРАЗДНИКЕ.
+133|16|16
+134|THE KOBOLDS CHASE FOR A WHILE, BUT YOU ESCAPE.|КОБОЛЬДЫ НА КОРОТКОЕ, НО ВЫ УБЕЖАЕТЕ.
+135|YOU ARE THROWN INTO A CELL BEREFT OF EQUIPMENT.|ВЫ БРОСАЕТСЯ В ЯЧЕЙКЕ ПЕРЕД ОБОРУДОВАНИЕМ.

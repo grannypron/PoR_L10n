@@ -1,0 +1,51 @@
+﻿78|YOU SEE|ПОНИМАЕТЕ
+79|YOU SEE A HUMAN PRIEST.|ВЫ ВИДИТЕ ЖРЕЦ-ЧЕЛОВЕКА.
+80|HE SMILES AT YOU AND RAISES HIS HAND IN BENEDICTION.|ОН УЛЫБАЕТСЯ ВАМ И ПОДНИМАЕТ РУКУ В СОДЕРЖАНИЕ.
+81|I HAVE A SECRET. I HAVE CHISELED ALMOST ALL THE WAY THROUGH TO THE OUTSIDE. BUT I NO LONGER HAVE THE STRENGTH TO BREAK THROUGH. WILL YOU TRY?|У МЕНЯ ЕСТЬ СЕКРЕТ. Я ПРОЧИЛ ПОЧТИ ВСЕЙ ПУТЬ ДО СНАРУЖИ. НО У МЕНЯ БОЛЬШЕ НЕТ СИЛЫ, ЧТОБЫ ПРОРЫВАТЬСЯ. ВЫ ПОПРОБУЕТЕ?
+82|YOU BREAK THROUGH. THE PRIEST TEARFULLY THANKS YOU AND GOES THROUGH THE HOLE.|ВЫ ПРОРЫВАЕТЕ. СВЯЩЕННИК СЛОВО СПАСИБО И ПРОХОДИТ ЧЕРЕЗ ДЫРУ.
+83|THERE IS A HOLE IN THE WALL THAT LEADS TO THE OUTSIDE. DO YOU GO THROUGH IT?|В стене есть отверстие, которое ведет наружу. ВЫ ПРОХОДИТЕ ЧЕРЕЗ ЭТО?
+84|YOU FIND THE CORPSE OF A MAN. THE BODY HAS BEEN STRIPPED OF WEAPONS AND ARMOR, AS WELL AS ANY USEFUL GEAR.|ВЫ НАЙДЕТЕ ТРУП ЧЕЛОВЕКА. КОРПУС БЕЗ ОРУЖИЯ И БРОНИ, А ТАКЖЕ ЛЮБОГО ПОЛЕЗНОГО ОБОРУДОВАНИЯ.
+85|HOWEVER, YOU FIND A BOOK UNDER THE BODY. IT IS THE JOURNAL OF TYRMOR.  IT IS FACINATING AND YOU INCLUDE MUCH OF ITS INFORMATION IN YOUR JOURNAL AS ENTRY 26.|ОДНАКО, ВЫ НАХОДИТЕ КНИГУ ПОД ТЕЛОМ. ЭТО ЖУРНАЛ ТИРМОРА. ЭТО УДИВИТЕЛЬНО, И ВЫ ВКЛЮЧАЕТЕ МНОГО ЕГО ИНФОРМАЦИИ В СВОЙ ЖУРНАЛ ПРИ ЗАПИСИ 26.
+86|YOU SEE ROCKS SCATTERED ABOUT THE SMOOTH FLAGSTONES. |ВЫ ВИДЕТЕ КАМНИ, РАССЕПАННЫЕ НА ГЛАДКИЕ ФЛАГКАММЫ.
+87| A BAND OF HUMAN FIGHTERS.| ГРУППА БОЙЦОВ.
+88|YOU ARE SURPRISED BY|ТЫ УДИВЛЕН
+89|YOU SURPRISE|ВЫ УДИВИТЕ
+90|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+91| | 
+92|THEY SMILE AT YOU.|ОНИ УЛЫБЛЯЮТСЯ ВАМ.
+93|THEY WAVE AND SAY 'SAVED!'|ОНИ ВОЛНУЛИСЬ И ГОВОРЯТ: "СПАСИЛИ!"
+94|THE LEADER WAVES AND CALLS TO YOU.|ЛИДЕР ВОЛНЫ И ЗОВЕТ К ВАМ.
+95|ONE LICKS ITS LIPS.|СЛИВАЕТ ЕГО ГУБЫ.
+96|THEY FLY TOWARD YOU.|ОНИ ЛЕТУТ НА ВАС.
+97|A SECRET DOOR IS FOUND|НАЙДЕНА ТАЙНАЯ ДВЕРЬ
+98|PEACE BROTHER. YOU, TOO, ARE ONE OF MY FLOCK. I HAVE BUT RECENTLY PRAYED FOR ANOTHER OF MY FLOCK AND MAY PRAY NO MORE.|МИР БРАТ. ВЫ ТАКЖЕ ОДИН ИЗ МОЕГО СТАЯ. Я НЕДАВНО МОЛИЛСЯ ЗА ДРУГОГО ИЗ МОЕГО СТАЯ И БОЛЬШЕ НЕ МОГУ МОЛИТЬСЯ.
+99|YES|ДА
+100|NO|НЕТ
+101| | 
+102|GO BACK|ВЕРНИТЕСЬ НАЗАД
+103|MOVE ON|ДВИГАТЬСЯ ДАЛЬШЕ
+104|THROW A ROCK|БРОСИТЬ КАМЕНЬ
+105| | 
+106|AS YOU CAREFULLY SEARCH THE ROOM, YOU FEEL A STRANGE TINGLE WHEN YOU GET CLOSE TO A BARE AREA.|ПРИ ВНИМАТЕЛЬНОМ ИССЛЕДОВАНИИ НОМЕРА, ВЫ ЧУВСТВУЕТЕ СТРАННОЕ ПОКОЛЕНИЕ, КОГДА ПОДБИРАЕТЕСЬ К ГОЛОМУ ПЛОЩАДКУ.
+107|GO BACK|ВЕРНИТЕСЬ НАЗАД
+108|MOVE ON|ДВИГАТЬСЯ ДАЛЬШЕ
+109|THROW A ROCK|БРОСИТЬ КАМЕНЬ
+110| | 
+111|AS YOU MOVE THROUGH THE ROOM THERE IS A FLASH, AND YOU SUDDENLY FIND YOURSELVES ELSEWHERE.|КОГДА ВЫ ПРОХОДИТЕ ПО КОМНАТЕ, ЕСТЬ ВСПЫШКА, И ВЫ ВНЕЗАПНО НАХОДИТЕ СЕБЯ В другом месте.
+112|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+113| | 
+114| DISPLACER BEASTS.| ДВИГАТЕЛЬ ЗВЕРЬ.
+115| DWARVEN FIGHTERS.| ДВАРВЕНСКИЕ БОЙЦЫ.
+116| A TRIO OF LIZARD MEN.| ТРИО ЯЩЕРИЦ.
+117| VISCIOUS LOOKING DRIDERS.| ВЯЗАННЫЕ ВИДЫ ДРАЙДЕРЫ.
+118| SOME GAUNT MEN IN POORLY FITTING LEATHER.| НЕКОТОРЫЕ МУЖЧИНЫ В ПЛОХО ПОДГОТОВКЕ КОЖИ.
+119| LARGE INSECTS WITH RUSTY RED FEATHERS.| БОЛЬШИЕ НАСЕКОМЫЕ С РЖАВЫМИ КРАСНЫМИ ПЕРЬЯМИ.
+120| SOME LARGE BULL HEADED MEN.| НЕКОТОРЫЕ БОЛЬШИЕ МУЖЧИНЫ С БЫЧЬЕЙ ГОЛОВОЙ.
+121| A GROUP OF EMACIATED ELVES.| ГРУППА ИЗУМАННЫХ ЭЛЬФОВ.
+122| SOME HUNGRY LOOKING KOBOLDS.| НЕКОТОРЫЕ ГОЛОДНЫЕ КОБОЛДЫ.
+123| IN FRONT OF YOU.| ПЕРЕД ТОБОЙ.
+124| TO YOUR RIGHT.| НА ВАШЕ ПРАВО.
+125| BEHIND YOU.| ЗА ТОБОЙ.
+126| TO YOUR LEFT.| СЛЕВА.
+127|YOU THROW A ROCK. SUDDENLY IT DISAPPEARS WITH A FLASH!|ВЫ БРОСАЕТЕ КАМЕНЬ. ВНЕЗАПНО ПРОИСХОДИТ ВСПЫШКОЙ!
+128| | 

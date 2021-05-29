@@ -1,0 +1,113 @@
+﻿159| KOBOLDS. | КОБОЛЬДЫ.
+160| GOBLINS. | ГОБЛИНЫ.
+161| ORCS. | ORCS.
+162|YOU ARE SURPRISED BY|ТЫ УДИВЛЕН
+163| A BUGBEAR LEADING A PARTY OF| БУГБАР, ВЕДУЩИЙ СТОРОНУ
+164|YOU HAVE ENTERED THE MONSTER-CRAWLING SLUMS OF PHLAN.  SMALL, UGLY THINGS SCURRY FROM BENEATH YOUR FEET.  IN THE DISTANCE, AN ALARM SOUNDS.|ВЫ ВОЙДИТЕ В ЧУДОВИЩАЮЩИЕ СЛУЖБЫ ФЛАНА. Маленькие, уродливые вещи снуют под ногами. В ДАЛЬНЕЙШЕМ СЛУЧАЕ ЗВУКАЕТ СИГНАЛИЗАЦИЯ.
+165| KOBOLDS. | КОБОЛЬДЫ.
+166|SEVERAL ORCS ARE ARGUING OVER SOME PAPERS.|НЕСКОЛЬКО ОРКОВ СПОРЯТ НАД НЕКОТОРЫМИ ДОКУМЕНТАМИ.
+167|A HEALTHY-LOOKING GOBLIN IS INSTRUCTING A GROUP OF YOUNG WARRIORS.  HE SMILES AND SAYS, 'I SEE OUR OPPONENTS HAVE ARRIVED.'|ЗДОРОВЫЙ ГОБЛИН НАУЧАЕТ ГРУППУ МОЛОДЫХ ВОИН. ОН УЛЫБАЕТСЯ И ГОВОРИТ: "Я ВИДУ НАШИ ПРОПОНЕНТЫ".
+168|YOU BURST INTO AN ELEGANTLY PANELLED ROOM. A SMALL MAN SITS HUNCHED OVER A TABLE BY THE EAST WALL. HE SETS DOWN HIS PEN AND GAZES STERNLY AT YOU.  'WELL?', HE DEMANDS.  (WHAT DO YOU DO?)|ВЫ ВРЫВАЕТЕСЬ В ЭЛЕГАНТНО ОБЛИЦОВАННУЮ КОМНАТУ. НЕБОЛЬШОЙ МУЖЧИНА СИДЕТСЯ ЗА СТОЛОМ У ВОСТОЧНОЙ СТЕНЫ. Он опускает ручку и пристально смотрит на вас. "НУ?", - ТРЕБУЕТ ОН. (ЧТО ВЫ ДЕЛАЕТЕ?)
+169|LEAVE|ПОКИНУТЬ
+170|TALK|ГОВОРИТЬ
+171|ATTACK|АТАКА
+172|YOU GO BACK OUT THE DOOR.|ВЫ ВЫХОДИТЕ ИЗ ДВЕРИ.
+173|THE ROOM IS DIRTY AND HAS A STRONG AND UNPLEASANT ODOR.|НОМЕР Грязный, с сильным и неприятным запахом.
+174|YOU HAVE ENTERED A VERY UNCLEAN STABLE.  THERE IS EVIDENCE THAT A LARGE AND UNTIDY ANIMAL HAD LIVED HERE.|ВЫ ВСТУПИЛИ В ОЧЕНЬ НЕЧИСТУЮ КОНЮШНУ. Есть свидетельства того, что ЗДЕСЬ ЖИЛ БОЛЬШОЕ И НЕОБХОДИМОЕ ЖИВОТНОЕ.
+175|YOU FIND A LONG LEATHER BAG.  WILL YOU OPEN IT?|ВЫ НАЙДЕТЕ ДЛИННУЮ КОЖАНУЮ СУМКУ. ВЫ ОТКРОЙТЕ ЕГО?
+176|YES|ДА
+177|NO|НЕТ
+178|YOU INTERRUPT SOME FEEDING KOBOLDS.|ВЫ ПРЕРЫВАЕТЕ НЕКОТОРЫЕ КОРМОВЫЕ КОБОЛДЫ.
+179|YOU WANDER IN THE OLD HEMP MARKET.  MONSTERS SCURRY AT YOUR APPROACH.  YOU OCCASSIONALLY CATCH SNATCHES OF CONVERSATIONS.|ВЫ БУДЕТЕ ПОСЕТИТЬ СТАРЫЙ РЫНОК КОНСОЛИ. МОНСТРЫ СНАЧАЮТСЯ НА ВАШЕМ ПОДХОДЕ. ВЫ СЛУЧАЙНО ловите обрывки разговоров.
+180|... THE GANG IS OPERATING FROM THE CATACOMBS BY THE WELL...|... БАНДА ДЕЙСТВУЕТ ИЗ КАТАКОМБ ПО ХОДУ ...
+181|SEATED AT A TABLE IS A RAGGED OLD WOMAN. SHE GREETS YOU. 'WELCOME. FOR THE PRICE OF A FEW COPPERS, I WILL TELL YOUR FORTUNE.' (WHAT DO YOU DO?)|ЗА СТОЛОМ СИДЕТ ОБРЯСНАЯ СТАРУШКА. ОНА ПРИВЕТСТВУЕТ ВАС. 'ДОБРО ПОЖАЛОВАТЬ. ЗА ЦЕНУ НЕСКОЛЬКО МЕДЕЙ Я РАССКАЖУ ВАШУ УДАЧУ ". (ЧТО ВЫ ДЕЛАЕТЕ?)
+182|ATTACK|АТАКА
+183|LEAVE|ПОКИНУТЬ
+184|PAY|ПЛАТИТЬ
+185|YOU EASILY MURDER THE OLD WOMAN.  EXCEPT FOR A FEW COPPER PIECES YOU FIND NOTHING OF VALUE.  THE GODS HAVE NOTED YOUR ACTIONS.|ВЫ ЛЕГКО УБИВАЕТЕ СТАРУШКУ. ЗА ИСКЛЮЧЕНИЕМ НЕСКОЛЬКИХ ЧАСТЕЙ МЕДИ ВЫ НИЧЕГО НЕ НАЙДЕТЕ. БОГИ ЗАМЕТИЛИ ВАШИ ДЕЙСТВИЯ.
+186|A LARGE ORC RAISES HIS HEAD AND SNARLS, 'HOW DARE YOU BREAK INTO OUR HOME?'|БОЛЬШОЙ ОРК ПОДНИМАЕТ СВОЮ ГОЛОВУ И СНАРЛ: "КАК ТЫ СМЕЛ ВРАЩАТЬСЯ В НАШ ДОМ?"
+187|SOME HOBGOBLINS ARE ARGUING OVER A PILE OF GOLD.  'THIEVES!' THEY SCREAM WHEN THEY SEE YOU.|НЕКОТОРЫЕ ХОБГОБЛИНЫ СПОРЯТ ЗА КУСОК ЗОЛОТА. 'ВОРЫ!' ОНИ КРИЧАТ, КОГДА ВИДЯТ ВАС.
+188|YOU HAVE ENTERED A SMALL STORAGE ROOM.|ВЫ ВХОДИЛИ В МАЛЕНЬКУЮ КЛАДОВУЮ.
+189|YOU HAVE STUMBLED INTO A TREASURE ROOM.|ВЫ ПРОПАЛИ В КОМНАТУ СОКРОВИЩ.
+190|GUARDS RUN TO INTERCEPT YOU.|ОХРАННИКИ Бегут, чтобы вас перехватить.
+191|YOU INTRUDE ON A GATHERING OF MONSTER LEADERS.|ВЫ БЫВАЕТЕ НА СБОРУ ВОДИТЕЛЕЙ МОНСТРОВ.
+192|YOU HAVE ALERTED THE GUARDS.|ВЫ ПРЕДУПРЕЖДАЛИ ОХРАНУ.
+193|THIS LARGE ROOM IS APPARENTLY EMPTY.|ЭТА БОЛЬШАЯ КОМНАТА ВНЕЗАПНО ПУСТО.
+194|YOU FIND A LOOSE FLOORBOARD.  PRYING IT UP, YOU FIND A CHEST HIDDEN BENEATH THE FLOOR.  DO YOU TAKE IT?|ВЫ НАЙДЕТЕ СВОБОДНЫЙ ПОЛ. ПОДЖИВАЯ ЭТО, ВЫ НАХОДИТЕ СУНДУК, СКРЫТЫЙ ПОД ПОЛОМ. ВЫ ПРИНИМАЕТЕ?
+195|YES|ДА
+196|NO|НЕТ
+197|YOU ARE JUST NORTH OF THE ENTRY TO THE OLD ROPE GUILD.|ТЫ ТОЛЬКО К СЕВЕРУ ОТ ВХОДА В ГИЛЬДИНЮ СТАРОЙ ВЕРЕВКИ.
+198|YOU HAVE ENTERED THE MYSTERIOUS BUILDING THAT WAS ONCE THE ROPE GUILD.  MOST WHO VENTURE INTO ITS TWISTY HALLS NEVER RETURN.|ВЫ ВОЙДИЛИ В ТАИНСТВЕННОЕ ЗДАНИЕ, КОТОРОЕ БЫЛА БЫЛА ВЕРЕВОЧНАЯ ГИЛЬДИЯ. БОЛЬШИНСТВО, КОТОРЫЕ ОТБЫВАЮТ В ЕГО ИЗВИТОЙ ЗАЛ, НИКОГДА НЕ возвращаются.
+199|I AM SORRY, BUT I HAVE NOTHING TO SELL NOW.  COME BACK SOME OTHER TIME. |ИЗВИНИТЕ, НО НИЧЕГО НЕ НИЧЕГО ДЛЯ ПРОДАЖИ. Вернись в другое время.
+200|A MAN HURRIES FORWARD. 'I AM SORRY, NOBLE ONES, BUT I HAVE NOTHING TO SELL.'|ЧЕЛОВЕК спешит вперёд. "Мне очень жаль, благородные, но мне нечего продать".
+201|(WHAT DO YOU DO?)|(ЧТО ВЫ ДЕЛАЕТЕ?)
+202|LEAVE|ПОКИНУТЬ
+203|ATTACK|АТАКА
+204|SPEAK|ГОВОРИТЬ
+205|SOME MONSTERS ARE TOSSING A SACK OF GRAIN. WHEN THE SACK BREAKS THEY WAIL, 'OH, NO! WHAT CAN WE THROW NOW?' ONE LOOKS YOUR WAY. 'I KNOW,' HE SAYS.|НЕКОТОРЫЕ МОНСТРЫ БРОСАЮТ Мешок с зерном. КОГДА Мешок разрывается, они вопят: "НЕТ! ЧТО МЫ МОЖЕМ БРОСИТЬ СЕЙЧАС? ОДИН СМОТРИТ НА ВАШ ПУТЬ. "Я ЗНАЮ", - ГОВОРИТ ОН.
+206|YOU ARE BEING APPROACHED BY SOME ANGRY|К ВАМ ОБРАЩАЮТСЯ НЕКОТОРЫЕ ЗЛОЙ
+207|YOU BUMP INTO SOME |ВЫ НАПАДАЕТЕ В НЕКОТОРЫЕ
+208|YOU SPY A GROUP OF SEEDY-LOOKING |ВЫ ШПИНИТЕ ГРУППУ СИДЕНЬКИХ
+209|YOU HAVE SURPRISED A PARTY OF |ВЫ УДИВИЛИ ВЕЧЕРИНКУ
+210|SEVERAL ORCS ARE ARGUING OVER SOME PAPERS.|НЕСКОЛЬКО ОРКОВ СПОРЯТ НАД НЕКОТОРЫМИ ДОКУМЕНТАМИ.
+211|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+212|'YOU HAVE DONE WELL. GIVE ME THE POTION AND YOU WILL BE REWARDED.' (WHAT DO YOU DO?)|ВЫ ХОРОШО СДЕЛАЛИ. ДАЙТЕ МНЕ ЗЕЛЬЕ, И ВЫ БУДЕТЕ НАГРАЖДЕНЫ ". (ЧТО ВЫ ДЕЛАЕТЕ?)
+213|GIVE|ДАЙТЕ
+214|ASK FOR MORE MONEY|ЗАПРОСИТЕ БОЛЬШЕ ДЕНЕГ
+215|REFUSE TO GIVE|ОТКАЗАТЬСЯ ОТ ДАВЛЕНИЯ
+216|'YOU HAVE RETURNED EMPTY HANDED,' HE OBSERVES. 'I HAVE NO TIME FOR YOU NOW.'  HE WAVES HIS HAND.|"ТЫ ВЕРНУЛСЯ С ПУСТОЙ РУКОЙ", - ЗАМЕЧАЕТ ОН. "У МЕНЯ НЕТ ВРЕМЕНИ ДЛЯ ВАС СЕЙЧАС". ОН машет рукой.
+217|'YOU PRESUME TOO MUCH,' THE MAN SAYS QUIETLY.  HE GESTURES.|"ТЫ СЛИШКОМ НАПОЛНЯЕТСЯ", - тихо говорит ЧЕЛОВЕК. ОН ЖЕСТ.
+218|... THE TEMPLE OVER THE RIVER IS RUN BY SOME HOT-SHOT ORC...|... ХРАМ НАД РЕЧЕЙ УПРАВЛЯЕТ НЕКОТОРЫЙ ОРК ГОРЯЧЕЙ СТРЕЛКИ ...
+219|... THERE IS A SECRET TREASURE ROOM IN THE NW CORNER ...|... В Северо-западном углу ЕСТЬ СЕКРЕТНАЯ КОМНАТА ДЛЯ СОКРОВИЩ ...
+220|YOU LEAVE THE SHOP.|ВЫ ВЫХОДИТЕ ИЗ МАГАЗИНА.
+221|THE WOMAN'S HANDS MAKE MYSTIC PASSAGES WHILE SHE MUTTERS SOME WORDS.  HER VOICE UNDERGOES A STRANGE TRANSFORMATION ...|РУКИ ЖЕНЩИНЫ совершают таинственные проходы, пока она бормочет несколько слов. ЕЕ ГОЛОС претерпевает странную трансформацию ...
+222|BLOOD AND VIOLENCE ARE WRIT BOLDLY IN YOUR FUTURE.  LOOK FOR FRIENDS WHERE YOU EXPECT ENEMIES AND ENEMIES WHERE YOU EXPECT ALLIES.|КРОВЬ И НАСИЛИЕ НАПИСАНО В ВАШЕМ БУДУЩЕМ. ИЩИТЕ ДРУЗЕЙ, ГДЕ ОЖИДАЕТЕ ВРАГОВ, И ВРАГОВ, ГДЕ ОЖИДАЕТЕ СОЮЗНИКОВ.
+223|YOU FIND A LARGE NUMBER OF VALUABLES.|ВЫ НАЙДЕТЕ БОЛЬШОЕ КОЛИЧЕСТВО ЦЕННОСТЕЙ.
+224|THE MAN RUNS SCREAMING INTO THE BACK OF THE BOOTH.|ЧЕЛОВЕК С КРИКОМ убегает в спину будки.
+225|WHAT DO YOU SAY? (TYPE A SINGLE WORD)|ЧТО ТЫ ГОВОРИШЬ? (НАПИСАТЬ ЕДИНОЕ СЛОВО)
+226|YOU ARE CONVERSING WITH |ВЫ ОБРАЩАЕТЕСЬ С
+227|A BUGBEAR LEADING|ВЕДУЩИЙ ВЕДУЩИЙ
+228|A PARTY OF |ПАРТИЯ
+229|YOU HIDE.|ВЫ СКРЫВАЕТЕ.
+230|THE MAN TAKES THE POTION AND GULPS IT GREEDILY.  AS YOU WATCH, HE SEEMS TO GROW YOUNGER AND STRONGER. 'EXCELLENT,' HE SMACKS, 'YOUR REWARD.'|ЧЕЛОВЕК ПРИНИМАЕТ ЗЕЛЬЕ И ЖАДНО ЕГО ГЛОТИТ. На ваших глазах он, кажется, становится моложе и сильнее. "ОТЛИЧНО", - ОТПРАВЛЯЕТ, - "ВАША НАГРАДА".
+231|'I HAVE NO TIME FOR THE LIKES OF YOU,' THE MAN SAYS AIRILY.  'BEGONE!' (WHAT DO YOU DO?)|"У МЕНЯ НЕТ ВРЕМЕНИ НА ТЕБЯ", - ВОЗДУШНО ГОВОРИТ МУЖЧИНА. "БЕГОНА!" (ЧТО ВЫ ДЕЛАЕТЕ?)
+232|STAY|ОСТАТЬСЯ
+233|LEAVE|ПОКИНУТЬ
+234|ATTACK|АТАКА
+235|'I MAY HAVE A USE FOR YOU,' THE MAN SAYS. 'SOME TIME AGO, I ORDERED A SPECIAL POTION.  THE POTION IS READY BUT I CAN'T LEAVE TO FETCH IT.  BRING IT HERE, I PAY WELL.' (WHAT DO YOU DO?)|"Я МОГУ ВАС ИСПОЛЬЗОВАТЬ", - ГОВОРИТ ЧЕЛОВЕК. "Некоторое время назад я ЗАКАЗАЛ СПЕЦИАЛЬНОЕ ЗЕЛЬЕ. ЗЕЛЬЕ ГОТОВО, НО Я НЕ МОГУ ПОЙТИ, ЧТОБЫ ПОЛУЧИТЬ ЕГО. ПРИНЕШЬ СЮДА, Я ХОРОШО ПЛАТУ. (ЧТО ВЫ ДЕЛАЕТЕ?)
+236|ACCEPT THE COMMISSION|ПРИНЯТЬ КОМИССИЮ
+237|REJECT IT|ОТКАЗАТЬ ЭТО
+238|'IT WAITS IN A BOOTH IN THE OLD ROPE GUILD BUT A SHORT DISTANCE TO THE SOUTHEAST FROM WHERE YOU NOW STAND.  SPEAK MY NAME, OHLO.'|"ОНО ЖДЕТ В КАБИНЕ В СТАРОЙ ВЕРЕВОЧНОЙ ГИЛЬДИИ, НО НЕМНОГО РАССТОЯНИЕ К ЮГО-ВОСТОКУ ОТ ГДЕ ТЫ ТЕПЕРЬ СТОИТ. ГОВОРИ МОЕ ИМЯ, ОХЛО.
+239|A POWERFUL ONE BECOMES AWARE OF YOUR DEEDS AND SEEKS TO DESTROY YOU.  A WEAK ONE SEES YOU AS A PATH TO POWER.|МОЩНЫЙ ЗНАЕТ ВАШИ ДЕЛА И СТРЕМИТСЯ УНИЧТОЖИТЬ ВАС. СЛАБЫЙ ВИДЕТ В ВАС ПУТЬ К ВЛАСТИ.
+240|THE TIME IS NIGH WHEN THE PATHS YOU HAVE TROD WILL EMPTY AND YOU MUST SEEK NEW WAYS.  THE RIDDLE'S ANSWER IS GREAT EVIL USING GREAT GOOD FOR GREAT EVIL.|НО ВРЕМЯ, КОГДА ПУТИ ТРОДА БУДУТ ПУСТЫ, И ВЫ ДОЛЖНЫ ИСКАТЬ НОВЫЕ ПУТИ. ОТВЕТ ЗАГАДКИ: ВЕЛИКОЕ ЗЛО ИСПОЛЬЗОВАНИЕ ВЕЛИКОГО ДОБРА ЗА ВЕЛИКОЕ ЗЛО.
+241|THE TELLING IS FINISHED. (WHAT DO YOU DO?)|РАССКАЗ ЗАКОНЧЕН. (ЧТО ВЫ ДЕЛАЕТЕ?)
+242|ATTACK|АТАКА
+243|LEAVE|ПОКИНУТЬ
+244|A LARGE ORC RAISES HIS HEAD AND SNARLS, 'HOW DARE YOU BREAK INTO OUR HOME?'|БОЛЬШОЙ ОРК ПОДНИМАЕТ СВОЮ ГОЛОВУ И СНАРЛ: "КАК ТЫ СМЕЛ ВРАЩАТЬСЯ В НАШ ДОМ?"
+245|THE MONSTERS RESPOND, 'DA BOSS DON'T LIKE YOUSE GUYS. GIVE US SUMPTIN AN MAYBE WE'LL FERGET WE SEEN YAS.' (WHAT DO YOU DO?)|МОНСТРЫ РЕАГИРУЮТ: "ДА БОСС НЕ НРАВИТСЯ НА ВАШИ ПАРНИ. ДАЙТЕ НАМ САМПТИН, МОЖЕТ БЫТЬ, МЫ УВИДИЛИ ЯС. (ЧТО ВЫ ДЕЛАЕТЕ?)
+246|PAY|ПЛАТИТЬ
+247|SURRENDER|СДАВАТЬСЯ
+248|RUN|ЗАПУСТИТЬ
+249|FIGHT|БОРЬБА
+250|TYPE IN THE NUMBER OF GP YOU OFFER.|ТИП В КОЛИЧЕСТВЕ ПРЕДЛАГАЕМОГО ВАМИ ВОП.
+251|'WHAT A BUNCH OF CHEAPSKATES,' THE LEADER COMPLAINS. 'LET 'EM HAVE IT BOYS!'|"КАКАЯ ГРУППА ЧИПСКЕЙТОВ", - ЖАЛОБАЕТ ЛИДЕР. "ДАВАЙТЕ ЕГО МАЛЬЧИКИ!"
+252|THE MONSTERS RESPOND, 'DA BOSS DON'T LIKE YOUSE GUYS. GIVE US SUMPTIN AN MAYBE WE'LL FERGET WE SEEN YAS.' (WHAT DO YOU DO?)|МОНСТРЫ РЕАГИРУЮТ: "ДА БОСС НЕ НРАВИТСЯ НА ВАШИ ПАРНИ. ДАЙТЕ НАМ САМПТИН, МОЖЕТ БЫТЬ, МЫ УВИДИЛИ ЯС. (ЧТО ВЫ ДЕЛАЕТЕ?)
+253|PAY|ПЛАТИТЬ
+254|SURRENDER|СДАВАТЬСЯ
+255|RUN|ЗАПУСТИТЬ
+256|FIGHT|БОРЬБА
+257|TYPE IN THE NUMBER OF GP YOU OFFER.|ТИП В КОЛИЧЕСТВЕ ПРЕДЛАГАЕМОГО ВАМИ ВОП.
+258|'WHAT A BUNCH OF CHEAPSKATES,' THE LEADER COMPLAINS. 'LET 'EM HAVE IT BOYS!'|"КАКАЯ ГРУППА ЧИПСКЕЙТОВ", - ЖАЛОБАЕТ ЛИДЕР. "ДАВАЙТЕ ЕГО МАЛЬЧИКИ!"
+259|YOU HAVE ANGERED THE|ВЫ РАЗГНИЛИ
+260|THEY ATTACK.|ОНИ НАПАДАЮТ.
+261|THE LEADER SPEAKS, 'THE BOSS DON'T ALLOW YOUR KIND IN HIS TERRITORY.  LEAVE NOW OR WE'LL HAVE TO RUN YOU IN.' (WHAT DO YOU DO?)|ВЕДУЩИЙ ГОВОРИТ: "БОСС НЕ ДОПУСКАЕТ ВАШЕГО РОДА НА СВОЕЙ ТЕРРИТОРИИ. УЙДИТЕ СЕЙЧАС, ИЛИ МЫ ПРИБЕЖЕМ ВАС БЕГАТЬ ". (ЧТО ВЫ ДЕЛАЕТЕ?)
+262|FIGHT|БОРЬБА
+263|STAY|ОСТАТЬСЯ
+264|LEAVE|ПОКИНУТЬ
+265|RUN|ЗАПУСТИТЬ
+266|'LET ME GIVE YOU A PIECE OF ADVICE,' THEIR LEADER SAYS.  'STAY AWAY FROM THE TEXTILE HOUSE. THE UNDEAD ARE GOING CRAZY UP THERE.'  THE MONSTERS TURN TO LEAVE. (WHAT DO YOU DO?)|"ДАЙТЕ Я ДАЮ ВАМ СОВЕТ", - ГОВОРЕТ ИХ ЛИДЕР. "Держитесь подальше от ТЕКСТИЛЬНОГО ДОМА. НЕМЕРТЫЕ ТАМ БУДУТ С ума сойти ". МОНСТРЫ ПОВОРАЧИВАЮТСЯ УХОДИТЬ. (ЧТО ВЫ ДЕЛАЕТЕ?)
+267|LET THEM GO|ОТПУСТИ ИХ
+268|STOP THEM|ОСТАНОВИ ИХ
+269|'HOW DARE YOU INTERFERE WITH THE BOSS'S BUSINESS?' THE LEADER ROARS.  'KILL THEM,' HE ORDERS.|"КАК ВЫ СМОТРЕЛИ ВМЕШАТЬСЯ В ДЕЛАТЬ БОССА?" ВЕДУЩИЙ РЕВ. "УБИТЬ ИХ", - ПРИКАЗЫВАЕТ ОН.
+270|THE MONSTERS ROB AND BLINDFOLD YOU. YOU ARE KICKED SOUNDLY AND SENT ON YOUR WAY.|МОНСТРЫ ОГРАНИЧИВАЮТ И ОСЛЕДУЮТ ВАМ. ВАС ГРОМКО ПИНАЮТ И ОТПРАВЛЯЮТ В ВАШЕМУ ПУТИ.
+271|THEY PAW THROUGH YOUR COINS AND LEAVE.|ОНИ ПРОСЫВАЮТ ВАШИ МОНЕТЫ И УХОДИТ.

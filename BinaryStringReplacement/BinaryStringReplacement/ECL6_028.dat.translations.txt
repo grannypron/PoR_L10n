@@ -1,0 +1,125 @@
+﻿227|THERE IS GREAT CONFUSION AS THE GUARDS RUN TO THEIR POSTS.|БОЛЬШАЯ ЗАМЕТКА, КОГДА ОХРАННИКИ БЕГАЮТ НА СВОИ ПОСТЫ.
+228|SOME GUARDS SPOT YOU AND ATTACK.|НЕКОТОРЫЕ ОХРАННИКИ ЗНАЮТ ВАС И НАПАДАЮТ.
+229|AT DUSK A GUARD COMES BY TO ESCORT YOU TO DINNER.|В СУМЕРКАХ ПРИХОДИТ ОХРАННИК, ЧТОБЫ СКАЗАТЬ ВАС НА УЖИН.
+230|YOU ARRIVE AT THE OFFICERS MESS AND ARE SEATED WITH THE COMMANDANT AND HIS ADVISORS.  A FINE MEAL OF ROAST BOAR IS SERVED WITH A HEARTY RED WINE.|ВЫ ПРИБЫВАЕТЕ К ОФИЦЕРАМ MESS И РАСПОЛАГАЕТСЯ С КОМАНДАНТОМ И ЕГО СОВЕТНИКАМИ. ИСКУССТВЕННАЯ БЛЮДА ЖАРЕНОГО КАБАНА ПОДАТЬ СЕРДЕЧНОЕ КРАСНОЕ ВИНО.
+231|THE COMMANDANT TURNS TO ONE OF THE CHARACTERS AND SAYS, 'SO, HOWS EVERYTHING IN PHLAN?'  WHAT WILL YOU TALK ABOUT?|КОМАНДАН ОБРАЩАЕТСЯ К ОДНОМУ ИЗ ПЕРСОНАЖЕЙ и ГОВОРИТ: "ТАК, КАК ВСЕ В ФЛАНЕ?" О ЧЕМ ВЫ ГОВОРИТЕ?
+232|NOTHING|НИЧЕГО ТАКОГО
+233|CITY|ГОРОД
+234|MAGIC|МАГИЯ
+235|POLITICS|ПОЛИТИКА
+236|ARE YOU GOING TO TALK ABOUT NEW OR OLD PHLAN?|ВЫ СОБИРАЕТЕСЬ ГОВОРИТЬ О НОВОМ ИЛИ СТАРОМ ФЛАНЕ?
+237|NEW|НОВЫЙ
+238|OLD|СТАРЫЙ
+239|THE CONVERSATION BEGINS TO DIE DOWN.  THE COMMANDANT  STARTS A CONVERSATION BY SAYING 'WELL, ARE YOU HAVING MUCH TROUBLE WITH THE CREATURES FROM OLD PHLAN?'|РАЗГОВОР НАЧИНАЕТ УМИРАТЬ. КОМАНДАНТ НАЧИНАЕТ БЕСЕДУ СКАЗАНИЯ: "У ВАС МНОГО ПРОБЛЕМ С СУЩЕСТВАМИ ИЗ СТАРОГО ФЛАНА?"
+240|TALK|ГОВОРИТЬ
+241|SAY LITTLE OR NOTHING|СКАЗАТЬ МАЛЕНЬКО ИЛИ НИЧЕГО
+242|THE CONVERSATION COMPLETELY DIES AND EVERYONE IS STARING AT EACH OTHER.  THE COMMANDANT EXCUSES HIMSELF AND LEAVES.  A GUARD TAKES YOU BACK TO YOUR QUARTERS.|Разговор полностью умирает, и все смотрят друг на друга. КОМАНДАТ ИЗВИНЯЕТ СЕБЯ И УХОДИТ. ОХРАННИК ОТПРАВЛЯЕТ ВАС В КВАРТАЛ.
+243|YOU ARE BEING ESCORTED INTO ZHENTIL OUTPOST.|ВАС СОБИРАЮТСЯ В ЖЕНТИЛ ВЫХОД.
+244|THERE ARE FOUR GUARDS HERE.  THEIR LEADER SAYS, 'YOU ARE RESTRICTED TO YOUR QUARTERS.   RETURN TO THEM NOW.'  WHAT WILL YOU DO?|ЗДЕСЬ ЧЕТЫРЕ ОХРАННИКА. ИХ ЛИДЕР ГОВОРИТ: "ВЫ ОГРАНИЧИВАЕТСЯ В ВАШИХ КВАРТАЛАХ. ВОЗВРАЩАЙТЕСЬ К НИМ СЕЙЧАС. ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
+245|RETURN|ВОЗВРАЩАТЬСЯ
+246|ATTACK|АТАКА
+247|BRIBE|ВЗЯТЬ
+248|YOU GO BACK TO YOUR QUARTERS.|ВЫ ВОЗВРАЩАЕТЕСЬ В СВОИ КВАРТАЛЫ.
+249|IT IS NIGHT AND YOU ARE IN YOUR QUARTERS.|НОЧЬ И ВЫ В СВОИХ КВАРТАЛАХ.
+250|HOW DO YOU SPEND THE NIGHT?|КАК ТЫ НОЧЬ?
+251|GOTO SLEEP|ИДТИ СПАТЬ
+252|SLEEP WITH A WATCH|СОН С ЧАСАМИ
+253|YOU ARE ATTACKED BY FOUR GUARDS IN YOUR SLEEP|НА ВАС НАПАДАЮТСЯ ЧЕТЫРЕ ОХРАННИКА ВО ВРЕМЯ СНА
+254|THE WALL IS CLIMBABLE HERE, WILL YOU SCALE OVER IT?|ЗДЕСЬ НА СТЕНУ МОЖНО ПОДНИСАТЬСЯ.
+255|CLIMB OVER WALL|ПОДНИМАЙСЯ НА СТЕНУ
+256|LEAVE|ПОКИНУТЬ
+257|YOU CLIMB OVER THE WALL AND LEAVE THE OUTPOST.|ВЫ ПОДНИМАЕТЕСЬ НА СТЕНУ И ВЫХОДИТЕ С ВЫХОДА.
+258|A LARGE GROUP OF MEN LED BY A DWARF RUNS FOWARD TO ATTACK|БОЛЬШАЯ ГРУППА МУЖЧИН ПОД ДВАРФОМ УБЕГАЕТ В АТАКУ.
+259|A LARGE GROUP OF MEN LED BY THE COMMANDANT RUSH FOWARD AND ATTACK.|БОЛЬШАЯ ГРУППА МУЖЧИН, ПОД ВОДОМ КОМАНДАНТА, БРОСАЕТ ВПЕРЕД И АТАКУЕТ.
+260|AFTER KILLING THE COMMANDANT THE REST OF THE OUTPOST EITHER SURRENDERS OR RUNS AWAY.|ПОСЛЕ УБИЙСТВА КОМАНДАНТА ОСТАЛЬНЫЙ ВЫХОД ЛИБО СДАЕТСЯ ИЛИ УБЕГАЕТ.
+261|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+262|ONE OF THE COMMANDANT'S ADVISORS ASKS YOU IF YOU'VE HEARD OF ANY UNIQUE MAGICAL ITEMS OR PLACES?|ОДИН ИЗ СОВЕТНИКОВ КОМАНДАНТА СПРОСИТ ВАС, СЛЫШАЛ ли ВЫ О КАКИХ-ЛИБО УНИКАЛЬНЫХ МАГИЧЕСКИХ ПРЕДМЕТАХ ИЛИ МЕСТАХ?
+263|DON'T TALK|НЕ ГОВОРИТЬ
+264|LIE|ЛОЖЬ
+265|MENTION POOL OF RADIANCE|СЛУЧАЙ СИЯНИЯ MENTION
+266|AS YOU MENTION POLITICS THE COMMANDANT SAYS 'I'VE HEARD THAT PHLAN'S TOWN COUNCIL IS CORRUPT, SPECIFICALLY ULRICH EBERHARD.  IS THIS TRUE?|КАК ВЫ УКАЗЫВАЕТЕ ПОЛИТИКУ, КОМАНДУЮЩИЙ ГОВОРИТ: "Я СЛЫШАЛ, ЧТО ГОРОДСКОЙ СОВЕТ ФЛАНА ЯВЛЯЕТСЯ КОРРУПЦИЕЙ, В частности, УЛЬРИХ ЭБЕРХАРД. ЭТО ПРАВДА?
+267|YES|ДА
+268|NO|НЕТ
+269|DON'T KNOW|НЕ ЗНАЮ
+270|YOU SAY THAT ULRICH EBERHARD IS CORRUPT AND HE RESPONDS BY SAYING 'I WOULD ADVISE YOU TO BE CAREFUL WHEN DEALING WITH THE TOWN COUNCIL.'|ВЫ СКАЗЫВАЕТЕ, ЧТО УЛЬРИХ ЭБЕРХАРД КОРРУПНОВАН, И ОН ОТВЕТЫВАЕТ, ГОВОРЯЯ: "Я СОВЕТУЮ ВАМ БУДЬТЕ ОСТОРОЖНЫ ПРИ ОТНОШЕНИИ С ГОРОДСКИМ СОВЕТОМ".
+271|AS YOU TALK ABOUT NEW PHLAN THE COMMANDANT LISTENS CAREFULLY.  THE COMMANDANT SAYS 'IS IT TRUE THAT THE REAL POWER IN NEW PHLAN IS BISHOP BRACCIO?'|КАК ВЫ ГОВОРИТЕ О НОВОМ ФЛАНЕ, КОМАНДАНТ ВНИМАТЕЛЬНО СЛУШАЕТ. Командующий говорит: "Верно ли, что настоящая власть в новом Флане - это ЕПИСКОП БРАЧЧО?"
+272|YES|ДА
+273|NO|НЕТ
+274|DON'T KNOW|НЕ ЗНАЮ
+275|YOU SAY THAT BISHOP BRACCIO IS THE REAL POWER IN PHLAN AND THE COMMANDANT RESPONDS BY SAYING 'PHLAN MUST BE A CITY OF FOOLS IF A BISHOP OF TYR HAS POWER!'|ВЫ ГОВОРИТЕ, ЧТО ЕПИСКОП БРАЧЧО ЯВЛЯЕТСЯ НАСТОЯЩЕЙ СИЛОЙ В ФЛАНЕ, И КОМАНДУЮЩИЙ ОТВЕТ, ГОВОРИТ: "ФЛАН ДОЛЖЕН БЫТЬ ГОРОДОМ ДУРАКОВ, ЕСЛИ ЕПИСКОП ТИРА ИМЕЕТ ВЛАСТЬ!"
+276|AS YOU TALK ABOUT OLD PHLAN'S INHABITANTS THE COMMANDANT SAYS 'I KNOW A LEGEND ABOUT A FIRE BEING CALLED TIRANTIKUS.  I BELIEVE, THAT TIRANTIKUS AND TYRANTHRAXUS ARE ONE AND THE SAME'.|КАК ВЫ ГОВОРИТЕ О ЖИТЕЛЯХ СТАРОГО ФЛАНА, КОМАНДАН СКАЗЫВАЕТ: "Я ЗНАЮ ЛИГЕНДУ О ПОЖАРЕ, НАЗЫВАЕМСЯ ТИРАНТИКУС. Я ВЕРЮ, ЧТО ТИРАНТИК И ТИРАНТРАКС - ОДНО ОДНО ОДНО ".
+277|YOU CONTINUE TO TALK ABOUT OLD PHLAN AND THE COMMANDANT SAYS 'IS NEW PHLAN HAVING ANY TROUBLE WITH TYRANTHRAXUS?'|ВЫ ПРОДОЛЖАЕТЕ ГОВОРИТЬ О СТАРЫХ ФЛАНАХ, И КОМАНДУЮЩИЙ ГОВОРИТ: "У НОВОГО ФЛАНА ИМЕЮТСЯ ЛЮБЫЕ ПРОБЛЕМЫ С ТИРАНТРАКСУСОМ?"
+278|DON'T TALK|НЕ ГОВОРИТЬ
+279|TROUBLE|БЕДА
+280|NO TROUBLE|НЕТ ПРОБЛЕМЫ
+281|ONE OF THE COMMANDANT'S ADVISORS ASKS YOU IF YOU'VE HEARD OF ANY UNIQUE MAGICAL ITEMS OR PLACES?|ОДИН ИЗ СОВЕТНИКОВ КОМАНДАНТА СПРОСИТ ВАС, СЛЫШАЛ ли ВЫ О КАКИХ-ЛИБО УНИКАЛЬНЫХ МАГИЧЕСКИХ ПРЕДМЕТАХ ИЛИ МЕСТАХ?
+282|DON'T TALK|НЕ ГОВОРИТЬ
+283|LIE|ЛОЖЬ
+284|MENTION POOL OF RADIANCE|СЛУЧАЙ СИЯНИЯ MENTION
+285|AS YOU MENTION POLITICS THE COMMANDANT SAYS 'I'VE HEARD THAT PHLAN'S TOWN COUNCIL IS CORRUPT, SPECIFICALLY ULRICH EBERHARD.  IS THIS TRUE?|КАК ВЫ УКАЗЫВАЕТЕ ПОЛИТИКУ, КОМАНДУЮЩИЙ ГОВОРИТ: "Я СЛЫШАЛ, ЧТО ГОРОДСКОЙ СОВЕТ ФЛАНА ЯВЛЯЕТСЯ КОРРУПЦИЕЙ, В частности, УЛЬРИХ ЭБЕРХАРД. ЭТО ПРАВДА?
+286|YES|ДА
+287|NO|НЕТ
+288|DON'T KNOW|НЕ ЗНАЮ
+289|YOU SAY THAT ULRICH EBERHARD IS CORRUPT AND HE RESPONDS BY SAYING 'I WOULD ADVISE YOU TO BE CAREFUL WHEN DEALING WITH THE TOWN COUNCIL.'|ВЫ СКАЗЫВАЕТЕ, ЧТО УЛЬРИХ ЭБЕРХАРД КОРРУПНОВАН, И ОН ОТВЕТЫВАЕТ, ГОВОРЯЯ: "Я СОВЕТУЮ ВАМ БУДЬТЕ ОСТОРОЖНЫ ПРИ ОТНОШЕНИИ С ГОРОДСКИМ СОВЕТОМ".
+290|YOU ARRIVE BACK AT YOUR QUARTERS.|ВЫ ПРИБЫВАЕТЕ В СВОЕМ КВАРТАЛЕ.
+291|THE COMMOTION ALLOWS YOU TO GET TO THE FRONT GATE!|ОБЩЕНИЕ ПОЗВОЛЯЕТ ДОБРАТЬСЯ К ВОРОТАМ!
+292|OUT OF THE COMMOTION A GROUP OF GUARDS ATTACK THE PARTY.|ВНЕ ОБЩЕНИЯ ГРУППА ОХРАНЫ НАПАДАЕТ НА СТОРОНУ.
+293|FROM HERE YOU SEE A LARGE INNER WALL AROUND THE CENTRAL KEEP.  THIS AREA IS BUSY WITH MEN ENTERING AND LEAVING BARRACKS.|ЗДЕСЬ ВЫ ВИДЕТЕ БОЛЬШУЮ ВНУТРЕННЮЮ СТЕНУ ВОКРУГ ЦЕНТРАЛЬНОГО ХРАНИЛИЩА. В ЭТОЙ ОБЛАСТИ ОСТАВЛЯЮТСЯ МУЖЧИНЫ, ВХОДЯЩИЕ И ВЫХОДЯЮЩИЕ ИЗ БАРРАК.
+294|YOU ARE LED TOWARD THE CENTRAL KEEP.|ВЫ НАПРАВЛЯЕТЕСЬ К ЦЕНТРАЛЬНОМУ ХРАНИТЕЛЮ.
+295|YOU ARE INSIDE THE COMMANDANT'S OFFICE.  HE GREETS YOU AND YOU HAND HIM THE PAPERS.|ВЫ НАХОДИТЕСЬ В КАБИНЕТЕ КОМАНДИРА. Он приветствует вас, и вы передаете ему документы.
+296|AFTER SKIMMING THROUGH THE PAPERS THE COMMANDANT SAYS, 'I WELCOME YOU AND HOPE YOU WILL JOIN ME FOR DINNER TONIGHT.'  HE TELLS A GUARD TO GIVE YOU A TOUR OF THE OUTPOST.|ПОСЛЕ ПРОСМОТРА ДОКУМЕНТОВ КОМАНДАН ГОВОРЯЕТ: "ПРИВЕТСТВУЮ ТЕБЯ И НАДЕЮСЬ, ЧТО ВЫ ПРИСОЕДИНЯЕТЕСЬ СО МНОЙ НА УЖИН СЕГОДНЯ". ОН СКАЗЫВАЕТ ОХРАННИКА ПРОВОДИТЬ ВАМ ЭКСКУРСИЮ ПО ВЫХОДУ.
+297|THE GUARD GIVING THE TOUR SAYS 'HERE YOU SEE ONE OF OUR FINE BARRACKS.  THERE ARE SIX OF THESE HERE AND EACH CAN HOLD OVER A 100 MEN.'|ОХРАННИК, ПРЕДСТАВЛЯЮЩИЙ ТУР, ГОВОРИТ: "ЗДЕСЬ ВЫ ВИДИТЕ ОДИН ИЗ НАШИ ПРЕКРАСНЫХ БАРРАКОВ. ЗДЕСЬ ШЕСТЬ ЭТИХ, И КАЖДЫЙ МОЖЕТ УМЕСТИТЬ БОЛЕЕ 100 ЧЕЛОВЕК ".
+298|'HERE YOU SEE ONE OF OUR FINE WATCH TOWERS WHICH WERE BUILT BY THE FINEST STONE MASONS IN THE LAND.'|"ЗДЕСЬ ВЫ ВИДЕТЕ ОДНУ ИЗ НАШИ ПРЕКРАСНЫХ ЧАСОВЫХ БАШН, ПОСТРОЕННЫХ САМЫМИ ПРЕВОСХОДНЫМИ КАМЕННЫМИ МАСОНАМИ ЗЕМЛИ".
+299|'FROM HERE YOU CAN ALSO SEE OUR SOLIDLY BUILT OUTSIDE WALL.  THIS WALL HAS SURVIVED MANY ATTACKS, INCLUDING ONE FROM A DRAGON.'|ЗДЕСЬ ВЫ ТАКЖЕ МОЖЕТЕ ВИДЕТЬ НАШУ КРЕПОСТЬ, ПОСТРОЕННУЮ НАРУЖНУЮ СТЕНУ. ЭТА СТЕНА ВЫЖИЛА МНОГИЕ АТАКИ, ВКЛЮЧАЯ ОДНУ ОТ ДРАКОНА.
+300|THE GUARD SAYS 'THAT CONCLUDES THE TOUR.  I WILL SHOW YOU TO YOUR QUARTERS.'|ОХРАННИК ГОВОРИТ НА ЗАКЛЮЧЕНИИ ТУР. Я ПОКАЖУ ВАС В ВАШИХ КВАРТАЛАХ ".
+301|THE GUARD SAYS 'HERE ARE YOUR QUARTERS.  DO NOT LEAVE THIS AREA.'  HE THEN LEAVES.|ОХРАННИК СКАЗЫВАЕТ ВАШЕ КВАРТИРА. НЕ УХОДИТЕ ИЗ ЭТОЙ ЗОНЫ ". ОН ТОГДА УХОДИТ.
+302|YOU ATTACK THE GUARDS.  THE GUARDS SOUND AN ALARM AND ATTACK.|ВЫ НАПАДАЕТЕ НА ОХРАННИК. ОХРАННИКИ ЗВУЧИВАЮТ ТРЕВОГУ И АТАКУЮТ.
+303|YOU'VE ANGERED THE GUARDS.  THEY DEMAND THAT YOU RETURN TO YOUR QUARTERS.  WHAT WILL YOU DO?|ТЫ РАЗГНЕРИЛ ОХРАННИКОВ. ОНИ ТРЕБУЮТ ВОЗВРАЩЕНИЯ В СВОИ КВАРТИРЫ. ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
+304|GO BACK INSIDE.|ВЕРНУТЬСЯ ВНУТРИ.
+305|ATTACK GUARDS.|АТАКУЮЩИЕ СТРАЖИ.
+306|YOU ATTACK THE GUARDS.  THE GUARDS SOUND AN ALARM AND ATTACK.|ВЫ НАПАДАЕТЕ НА ОХРАННИК. ОХРАННИКИ ЗВУЧИВАЮТ ТРЕВОГУ И АТАКУЮТ.
+307|YOU ARE IN YOUR QUARTERS.  WILL YOU WALK AROUND OR WILL YOU JUST RELAX UNTIL DINNER?|ВЫ В СВОИХ КВАРТАЛАХ. Будете ли вы гулять или просто расслабляетесь до обеда?
+308|WALK AROUND|ПРОГУЛИВАТЬСЯ
+309|RELAX|РАССЛАБЛЯТЬСЯ
+310|YOU WAIT IN YOUR ROOM FOR ABOUT TWO HOURS WHEN SUDDENLY FOUR ARMED GUARDS BURST IN AND ATTACK YOU.|ВЫ ЖДЕТЕ В СВОЕМ НОМЕРЕ ОКОЛО ДВУХ ЧАСОВ, КОГДА ВНЕЗАПНО ВРАЩАЮТСЯ ЧЕТЫРЕ ВООРУЖЕННЫХ ОХРАННИКА И НАПАДАЮТ НА ВАС.
+311|YOU RUN FOR YOUR LIVES AS THE GARRISON CHASES BEHIND YOU.  YOU RUN FOR THE FRONT GATE BUT ARE STOPPED BY SOME GUARDS.|ВЫ БЕГАЕТЕ ЗА СВОЕЙ ЖИЗНЬЮ, ПОКА ЗА ВАМИ ГАРНИЗОН. ВЫ БЕЖАЕТЕ К ПЕРЕДНИМ ВОРОТАМ, НО ОХРАНЯЕТСЯ НЕКОТОРЫЕ ОХРАННИКИ.
+312|YOU ESCAPE FROM THE OUTPOST.|ВЫ УБЕЖАЕТЕ ОТ ВЫХОДА.
+313|THE CONVERSATION GOES STALE AND THE COMMANDANT EXCUSES HIMSELF FROM THE TABLE.  YOU ARE ESCORTED BACK TO YOUR QUARTERS.|Разговор прекращается, и командующий извиняет себя от таблицы. ВАС НАПРАВЛЯЮТ ВЕРНУТЬСЯ В ВАШИ КВАРТИРЫ.
+314|YOU MAKE UP STORIES ABOUT WONDERFUL MAGICAL ITEMS AND PLACES.  YOU CAPTIVATE EVERYONE SITTING AROUND YOU.|ВЫ СОЗДАВАЕТЕ ИСТОРИИ О ЧУДЕСНЫХ ВОЛШЕБНЫХ ПРЕДМЕТАХ И МЕСТАХ. ВЫ ЗАХВАТЫВАЕТЕ ВСЕХ, КОТОРЫЕ СИДЯТ ВАС.
+315|AS YOU MENTION THE POOL OF RADIANCE THE COMMANDANT TELLS YOU A STORY ABOUT THAT VERY POOL.  YOU ENJOY THE STORY AND COPY IT INTO YOUR JOURNAL UNDER ENTRY 46.|КАК ВЫ УКАЗЫВАЕТЕ БАССЕЙН СИЯНИЯ, КОМАНДАНТ РАССКАЗЫВАЕТ ВАМ ИСТОРИЮ ОБ ЭТОМ БАССЕЙНЕ. ВЫ НАСЛАЖДАЕТЕСЬ ИСТОРИЕЙ И КОПИРУЙТЕ ЕЕ В СВОЙ ЖУРНАЛ ПОД ЗАПИСЕЙ 46.
+316|YOU SAY THAT ULRICH EBERHARD IS A LOYAL HONEST MAN.  THE COMMANDANT SMIRKS AND SAYS 'YES, OF COURSE HE IS.'|ВЫ ГОВОРИТЕ, ЧТО УЛЬРИХ ЭБЕРХАРД - ПРЕДАННЫЙ ЧЕСТНЫЙ ЧЕЛОВЕК. Командующий ухмыляется и говорит: "ДА, КОНЕЧНО, ОН ЕСТЬ".
+317|YOU SAY THAT YOU DON'T KNOW ANYTHING ABOUT THAT MATTER AND THE COMMANDANT RESPONDS BY SAYING 'YES, OF COURSE YOU DON'T.'|ВЫ СКАЗЫВАЕТЕ, ЧТО НИЧЕГО НЕ ЗНАЕТЕ ОБ ЭТОМ И КОМАНДУЮЩИХ ОТВЕТАХ, СКАЗЫВАЯ "ДА, КОНЕЧНО, НЕТ".
+318|YOU CONTINUE YOUR CONVERSATION WITH THE COMMANDANT.  WHAT WILL BE YOUR NEXT TOPIC OF DISSCUSION?|ВЫ ПРОДОЛЖАЕТЕ РАЗГОВОР С КОМАНДАНТОМ. ЧТО БУДЕТ ВАШЕЙ ТЕМОЙ ДЛЯ ОБСУЖДЕНИЯ?
+319|YOU SAY THAT BISHOP BRACCIO IS NOT THE REAL POWER IN PHLAN AND THE COMMANDANT RESPONDS BY SAYING 'THE CITIZENS OF PHLAN ARE WISE TO NOT FOLLOW AN IDIOT FROM THE TEMPLE OF TYR!'|ВЫ СКАЗЫВАЕТЕ, ЧТО ЕПИСКОП БРАЧЧО НЕ ЯВЛЯЕТСЯ НАСТОЯЩЕЙ СИЛОЙ ФЛАНА, И КОМАНДУЮЩИЙ ОТВЕТ, ГОВОРЯТ: "ГРАЖДАНЕ ФЛАНА МУДРО НЕ СЛЕДУЮТ ИДИОТАМ ИЗ ХРАМА ТИРА!"
+320|THE COMMANDANT SAYS 'I EXPECT THERE WOULD BE TROUBLE; I'VE HEARD TYRANTHRAXUS IS A POWERFUL FIRE DEMON.  YOUR CITY'S DEFENCES MUST BE QUITE STRONG, HOW STRONG ARE THEY?'|КОМАНДУЮЩИЙ ГОВОРИТ: "Я ОЖИДАЮ, ЧТО БУДЕТ ПРОБЛЕМА"; Я СЛЫШАЛ, ТИРАНТРАКС - МОЩНЫЙ ОГНЕННЫЙ ДЕМОН. ОБОРОНА ВАШЕГО ГОРОДА ДОЛЖНА БЫТЬ ДОСТАТОЧНО СИЛЬНОЙ, НАСКОЛЬКО ОНИ СИЛЬНЫ?
+321|DON'T TALK|НЕ ГОВОРИТЬ
+322|STRONG|СИЛЬНЫЙ
+323|AVERAGE|В СРЕДНЕМ
+324|WEAK|СЛАБЫЙ
+325|THE COMMANDANT IS SURPRISED THAT YOUR CITY IS HAVING NO TROUBLE WITH TYRANTHRAXUS.  HE THEN SAYS, 'YOUR TOWN DEFENSES MUST BE STRONG IN ORDER TO HANDLE HIM.  HOW STRONG ARE THEY?'|КОМАНДУЮЩИЙ УДИВЛЕН, ЧТО В ВАШЕМ ГОРОДЕ НЕТ ПРОБЛЕМ С ТИРАНТРАКСУСОМ. ЗАТЕМ ОН ГОВОРИТ: "ВАШ ГОРОД ДОЛЖЕН БЫТЬ СИЛЬНЫМ, ЧТОБЫ ОБРАТИТЬСЯ С НЕМ. НАСКОЛЬКО ОНИ СИЛЬНЫ?
+326|DON'T TALK|НЕ ГОВОРИТЬ
+327|STRONG|СИЛЬНЫЙ
+328|AVERAGE|В СРЕДНЕМ
+329|WEAK|СЛАБЫЙ
+330|AS YOU TALK ABOUT NEW PHLAN THE COMMANDANT LISTENS CAREFULLY.  THE COMMANDANT SAYS 'IS IT TRUE THAT THE REAL POWER IN NEW PHLAN IS BISHOP BRACCIO?'|КАК ВЫ ГОВОРИТЕ О НОВОМ ФЛАНЕ, КОМАНДАНТ ВНИМАТЕЛЬНО СЛУШАЕТ. Командующий говорит: "Верно ли, что настоящая власть в новом Флане - это ЕПИСКОП БРАЧЧО?"
+331|YES|ДА
+332|NO|НЕТ
+333|DON'T KNOW|НЕ ЗНАЮ
+334|YOU SAY THAT BISHOP BRACCIO IS THE REAL POWER IN PHLAN AND THE COMMANDANT RESPONDS BY SAYING 'PHLAN MUST BE A CITY OF FOOLS IF A BISHOP OF TYR HAS POWER!'|ВЫ ГОВОРИТЕ, ЧТО ЕПИСКОП БРАЧЧО ЯВЛЯЕТСЯ НАСТОЯЩЕЙ СИЛОЙ В ФЛАНЕ, И КОМАНДУЮЩИЙ ОТВЕТ, ГОВОРИТ: "ФЛАН ДОЛЖЕН БЫТЬ ГОРОДОМ ДУРАКОВ, ЕСЛИ ЕПИСКОП ТИРА ИМЕЕТ ВЛАСТЬ!"
+335|YOU ARE NEAR THE FRONT GATE.|ВЫ У ПЕРЕДНИХ ВОРОТ.
+336|YOU TRY TO FLEE BUT ARE STOPPED BY SOME GUARDS.|ВЫ ПЫТАЕТЕСЬ БЕЖАТЬ, НО НЕКОТОРЫЕ ОХРАННИКИ ОСТАНАВЛИВАЮТ.
+337|MORE GUARDS COMMING RUNNING TOWARD YOU.  THEIR LEADER YELLS 'SURRENDER OR DIE!'  WHAT WILL YOU DO?|БОЛЬШЕ ОХРАННИК БЕЖЕТ К ВАМ. ИХ ЛИДЕР КРИЧИТ "СДАТЬ ИЛИ УМЕРТЬ!" ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
+338|SURRENDER|СДАВАТЬСЯ
+339|ATTACK|АТАКА
+340|YOU SURRENDER.  THEY STRIP YOU OF ALL POSSESSIONS AND TOSS YOU OUT INTO THE WILDERNESS.'|ВЫ СДАВАЕТЕСЬ. ОНИ ИЗБЕГАЮТ ВАС ВСЕГО ПОЛЬЗОВАНИЯ И ВЫВЕРШАЮТ ВАС В ДИКОСТЬ ".
+341|YOU RUN INTO SOME MORE GUARDS.|ВЫ БЕГАЕТЕ В НЕКОТОРЫЕ БОЛЬШЕ ОХРАНЫ.
+342|AS YOU DEFEAT THE GUARDS SOME MORE MEN RUN IN AND ATTACK.|ПОСКОЛЬКУ ВЫ ПОБЕЖДАЕТЕ ОХРАННИКОВ, НЕКОТОРЫЕ БОЛЬШЕ МУЖЧИН ВБЕГАЕТ И НАПАДАЕТ.
+343|AN ALARM GOES OFF IN THE DISTANCE.|ТРЕВОГА ОТКЛЮЧАЕТСЯ НА РАССТОЯНИИ.
+344|YOU TRY TO RUN BUT ARE CAUGHT.  YOU ARE CAPTURED, STRIPPED AND TOSSED OUT INTO THE WILDERNESS.|ВЫ ПЫТАЕТЕСЬ БЕЖАТЬ, НО ПОЙМАНЫ. ВАС ЗАХВАТЫВАЮТ, ИЗВЛЕЧИВАЮТ И ВЫБРОСЫВАЕТСЯ В ДИКОСТЬ.
+345|YOU TALK A LITTLE WHILE LONGER THEN THE COMMANDANT STATES THAT HE HAS OTHER DUTIES TO ATTEND TO.  HE BIDS YOU GOOD NIGHT.|ВЫ НЕМНОГО РАЗГОВАРИВАЕТЕ, ПОТОМ ДЛИТЕЛЬНЫЙ КОМАНДУЮЩИЙ ЗАЯВЛЯЕТСЯ, ЧТО ЕСТЬ ДРУГИЕ ОБЯЗАННОСТИ, КОТОРЫЕ НЕОБХОДИМО УЧИТЫВАТЬ. ОН ЖЕЛАЕТ ВАМ СПОКОЙНОЙ НОЧИ.
+346|AS YOU DON'T ANSWER THE LAST QUESTION THE COMMANDANT SMILES SLIGHTLY AND SAYS, 'I SEE THAT YOU ARE NOT FOOLISH AND LOOSE TONGUED.'|КОГДА ВЫ НЕ ОТВЕЧАЕТЕ НА ПОСЛЕДНИЙ ВОПРОС, КОМАНДУЮЩИЙ СЛАБО УЛЫБЛЯЕТСЯ И ГОВОРИТ: "Я ВИЖУ, ЧТО ВЫ НЕ ДУРАЧИ И СЛИШКОМ ЯЗЫК".
+347|YOU TELL THE COMMANDANT THAT NEW PHLAN'S FORCES ARE STRONG.  HE SEEMS IMPRESSED, AND SAYS 'IT SOUNDS LIKE YOUR CITY CAN HANDLE THAT FIRE DEMON TYRANTHRAXUS'|ВЫ СКАЗЫВАЕТЕ КОМАНДУЮ, ЧТО СИЛЫ НОВОГО ФЛАНА СИЛЬНЫ. ОН ВПЕЧАТЛЕН, И ГОВОРЯЕТ: "ЭТО ТАКОЕ, КАК ТВОЙ ГОРОД МОЖЕТ УПРАВИТЬ, ЧТО ПОЖАР ДЕМОНА ТИРАНТРАКСУС"
+348|YOU TELL THE COMMANDANT THAT NEW PHLAN'S FORCES ARE CAPABLE.  HE LOOKS AT YOU AND SAYS, 'I HOPE, FOR YOUR SAKE, THAT YOUR CITY'S FORCES CAN DEFEND THEMSELVES FROM TYRANTHRAXUS'S HORDE.'|ВЫ СКАЗЫВАЕТЕ КОМАНДУЮ, ЧТО НОВЫЕ СИЛЫ ФЛАНА СПОСОБНЫ. ОН СМОТРИТ НА ВАС И ГОВОРИТ: "Я НАДЕЮСЬ ДЛЯ ВАС, ЧТО СИЛЫ ВАШЕГО ГОРОДА МОГУТ ЗАЩИТИТЬСЯ ОТ ОРДЫ ТИРАНТРАКСА".
+349|YOU TELL THE COMMANDANT THAT NEW PHLAN'S FORCES ARE WEAK.  HE SMILES AND SAYS, 'I HOPE THAT PHLAN CAN DEFEND ITSELF.'|ВЫ СКАЗЫВАЕТЕ КОМАНДУЮ, ЧТО СИЛЫ НОВОГО ФЛАНА СЛАБЫ. ОН УЛЫБАЕТСЯ И ГОВОРИТ: "Я НАДЕЮСЬ, ЧТО ФЛАН МОЖЕТ ЗАЩИТИТЬСЯ САМОСТОЯТЕЛЬНО".
+350|MORE GUARDS RUSH UP TO ATTACK.|БОЛЬШЕ СТРЕМЛЕНИЙ БУДУТ НАПАДАТЬ.
+351|YOU MANAGE TO RUN AWAY AND HIDE.  YOU HEAR AN ALARM IN THE DISTANCE AS GUARDS ARE ISSUING OUT OF BARRACKS.|ВАМ УДАЕТСЯ убежать и спрятаться. ВЫ СЛЫШАЕТЕ СИГНАЛИЗАЦИЮ НА ДАЛЬНЕМ МЕСТЕ, КАК ОХРАННИКИ ВЫПУСКАЮТ ИЗ ЗАКРЫТИЯ.

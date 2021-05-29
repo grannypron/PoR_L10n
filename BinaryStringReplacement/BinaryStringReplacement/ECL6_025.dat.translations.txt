@@ -1,0 +1,80 @@
+﻿147|YOU SPOT A GROUP OF |ВЫ УВИДИТЕ ГРУППУ
+148|YOU ARE SURPRISED BY A GROUP OF |ВЫ УДИВИТЫ ГРУППА
+149|.|.
+150|YOU SURPRISE A GROUP OF |ВЫ УДИВИТЕ ГРУППУ
+151|.|.
+152|SUDDENLY YOU ARE FACE TO FACE WITH A GROUP OF |ВНЕЗАПНО ВЫ ОБРАЩАЕТЕСЬ К ГРУППЕ
+153|.|.
+154|OUT OF THE SHADOWS, TWO LARGE WILD BOARS CHARGE.|ВНЕ ТЕНЕЙ ЗАРЯДЫВАЮТСЯ ДВА БОЛЬШИХ ДИКИХ КАБАНА.
+155|YOU SPOT A GROUP OF |ВЫ УВИДИТЕ ГРУППУ
+156|YOU ARE SURPRISED BY A GROUP OF |ВЫ УДИВИТЫ ГРУППА
+157|.|.
+158|YOU SURPRISE A GROUP OF |ВЫ УДИВИТЕ ГРУППУ
+159|.|.
+160|SUDDENLY YOU ARE FACE TO FACE WITH A GROUP OF |ВНЕЗАПНО ВЫ ОБРАЩАЕТЕСЬ К ГРУППЕ
+161|.|.
+162|YOU HAVE FOUND A SMALL DARK CAVE.  WILL YOU ENTER?|ВЫ НАШЛИ НЕБОЛЬШУЮ ТЕМНУЮ ПЕЩЕРУ. ВЫ ВОЙДЕТЕ?
+163|ENTER|ВХОДИТЬ
+164|LEAVE|ПОКИНУТЬ
+165|THE |THE
+166| FALL FOR YOUR SPARKLING PERSONALITY AND WANDER AWAY WITHOUT A FIGHT.| ПАДИТЕСЬ ЗА СВОЮ ИСКЛЮЧИТЕЛЬНУЮ ЛИЧНОСТЬ И УХОДИТЕ БЕЗ БОЯ.
+167|NEAR YOU IS A LARGE, WILD BOAR SOW FEEDING HER YOUNG.  AS YOU NEAR SHE GROWLS A WARNING TO STAY AWAY.  WHAT WILL YOU DO?|РЯДОМ С ВАМИ НАХОДИТСЯ БОЛЬШОЙ ДИКИЙ КАБАН, КОРМАЮЩИЙ ЕЕ МОЛОДОСТЬ. Когда вы приближаетесь, она рычит, предупреждая, что нужно держаться подальше. ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
+168|APPROACH|ПОДХОД
+169|LEAVE|ПОКИНУТЬ
+170|AS YOU APPROACH HER HAIR BRISTLES AND SHE ATTACKS!|КАК ВЫ ПРИБЛИЖАЕТЕСЬ К ЕЁ ВОЛОСАМ, ОНА НАПАДАЕТСЯ!
+171|AT THE END OF THE PASSAGEWAY ARE THREE LARGE WILD BOARS.  THEY CHARGE AT YOU AND ATTACK!|В КОНЦЕ ПРОХОДА ТРИ БОЛЬШИХ ДИКИЕ КАБАНЫ. ОНИ НАПОРЯЮТСЯ НА ВАС И НАПАДАЮТ!
+172|LYING ON THE GROUND HERE ARE THE DISSOLVING REMAINS OF A DWARF.  HE IS COVERED IN ACID.|На земле лежат растворяющиеся остатки DWARF. ОН ПОКРЫТ КИСЛОТОЙ.
+173|THE GROUND HERE IS SOFT AND FRESHLY CHURNED.|ЗДЕСЬ МЯГКАЯ И СВЕЖЕГО ЦВЕТА.
+174|THE REMAINS OF SEVERAL OF THE ANHKHEG'S VICTIM.  ADMIST THE DEBRIS IS SOME TREASURE.|ОСТАЛОСЬ НЕСКОЛЬКО ЖЕРТВ АНХЕГА. ДОБАВИТЬ МУСОР - НЕКОТОРЫЕ СОКРОВИЩА.
+175|FROM THE SOUTH, A LARGE ANHKHEG LUNGES OUT AND ATTACKS THE PARTY.|С ЮГА ВЫДЫВАЕТСЯ БОЛЬШОЙ АНХЕГ И НАПАДАЕТ СТОРОНУ.
+176|LYING ON THE FLOOR IS A LARGE, SHEDDED SNAKE SKIN.|НА ПОЛУ ЛЕЖЕТ БОЛЬШАЯ ОБРАЩЕННАЯ ЗМЕИНАЯ КОЖА.
+177|A GIGANTIC SNAKE LIES IN FRONT OF YOU.  IT REARS AND ATTACKS.|ГИГАНТИЧЕСКАЯ ЗМЕЯ ЛЕЖЕТ ПЕРЕД ВАМИ. ОНО ЗАДНИЧИВАЕТСЯ И АТАКИ.
+178|AS YOU WALK INTO THIS ROOM A GIANT SNAKE FALLS ON TOP OF THE PARTY.|КАК ВЫ ПРОХОДИТЕ В ЭТУ КОМНАТУ, НА ВЕРХУ ВЕЧЕРИ ПАДАЕТ ГИГАНСКАЯ ЗМЕЯ.
+179|THERE ARE TWO THRI-KREEN HERE.  THEY BLOCK THE PASSAGE WITH THEIR BODIES.  WHAT WILL YOU DO?|ЗДЕСЬ ДВА ТРИ-КРИНА. ОНИ БЛОКИРУЮТ ПРОХОД СВОИМИ ТЕЛАМИ. ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
+180|LEAVE|ПОКИНУТЬ
+181|ATTACK|АТАКА
+182|BEFORE YOU ARE THREE THRI-KREEN WARRIORS.  THEY ATTACK YOU IMMEDIATELY.|ПРЕЖДЕ ЧЕМ ВЫ СТАНОВИТЕСЬ ТРИ ТРИ КРИНА ВОИНА. ОНИ НАПАДАЮТ НА ВАС НЕМЕДЛЕННО.
+183|YOU ENTER A CAVE ROOM WITH FOUR THRI-KREEN WARRIORS IN IT.  ON THE FLOOR IS A CHEST WITH TREASURE IN IT.  AS YOU ENTER THEY ATTACK.|ВЫ ВОЙДЕТЕ В ПЕЩЕРНУЮ КОМНАТУ, В КОТОРОЙ ВСЕ ЧЕТЫРЕ ТРИ-КРИНОВЫХ ВОИНА. НА ПОЛУ НАХОДИТСЯ СУНДУК С СОКРОВИЩЕМ. КАК ВЫ ВХОДИТЕ В ОНИ АТАКУ.
+184|YOU HAVE FOUND A PASSAGE WHICH LEADS OUTSIDE.  WILL YOU TAKE IT?|ВЫ НАШЛИ ПРОХОД, ВЕДУЩИЙ СНАРУЖИ. ВЫ ПРИНИМАЕТЕ ЭТО?
+185|LEAVE CAVE|ВЫЙТИ ИЗ ПЕЩЕРЫ
+186|STAY IN|Остаться в
+187|WILD BOARS|ДИКИЕ КАБАНЫ
+188|GIANT MANTIS|ГИГАНТ МАНТИС
+189|TIGERS|ТИГРЫ
+190|THRI-KREENS|THRI-KREENS
+191|ANHKHEG|АНХЕГ
+192|CENTAURS|КЕНТАВРЫ
+193|SOLDIERS|СОЛДАТЫ
+194|THIEVES|ВОРЫ
+195|YOU HAVE REACHED THE BUCCANEER BASE.  A BAND OF BUCCANEERS RIDE OUT TO ESCORT YOU IN.  WHAT WILL YOU DO?|ВЫ ДОСТИГЛИ БАЗЫ БУКАНЕРА. ГРУППА БУКАНЕРОВ ВЫЕЗЖАЕТ, ЧТОБЫ СОПРОВОДИТЬ ВАС. ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
+196|ENTER|ВХОДИТЬ
+197|LEAVE|ПОКИНУТЬ
+198|QUICKLINGS|БЫСТРЫЕ
+199|GIANT SNAKES|ГИГАНТСКИЕ ЗМЕИ
+200|THE |THE
+201| GREET YOU AND YOU EXCHANGE PLEASANTRIES.  THE | ПРИВЕТСТВУЮТ И ВЫ ОБМЕНАЕТЕСЬ В МИРЕ. THE
+202| THEN LEAVE AND BID YOU GOOD DAY.| ТОГДА УЙДИТЕ И ЖЕЛАЕМ ДОБРЫХ ДНЕЙ.
+203|YOU CONVINCE THE |ВЫ УБЕДИТЕ
+204| THAT COMBAT IS NOT NECESSARY AND YOU GO ON YOUR WAY.| ЭТОГО БОЯ НЕ НУЖНО, И ВЫ ИДЕТЕ СВОЙ ПУТЬ.
+205|OFF IN THE DISTANCE YOU SEE A LARGE DRAGON FLYING THROUGH THE AIR.  AS YOU WATCH, HE SWOOPS DOWN BEHIND A MOUNTAIN AND DISAPPEARS.|ВЫ ВДАЛИ ВЫ ВИДЕТЕ БОЛЬШОГО ДРАКОНА, ПРОЛЕТАЮЩЕГО В ВОЗДУХЕ. КАК ВЫ СМОТРИТЕ, ОН Прыгает за гору и исчезает.
+206|AS YOU HIKE THROUGH THE MOUNTAINS, A LARGE DRAGON FLYS ABOVE YOU.  IT CIRCLES THEN SWOOPS DOWN AND LANDS IN FRONT OF A CAVE.  IT DISAPPEARS INTO A CAVE.|ВО ВРЕМЯ ПУТЕШЕСТВИЯ ПО ГОРам, БОЛЬШОЙ ДРАКОН ПРОЛЕТИВАЕТСЯ НАД ВАМИ. ОНА ОБРАЩАЕТСЯ, ПОТОМ НАКАЧИВАЕТСЯ ВНИЗ И ПРИЕМЛЯЕТСЯ ПЕРЕД ПЕЩЕРОЙ. ОНА ИСЧЕЗНУЕТ В ПЕЩЕРЕ.
+207|AS YOU WALK THROUGH THIS AREA TWO ANHKHEGS ERUPT FROM THE GROUND BENEATH YOU.|КОГДА ВЫ ПРОХОДИТЕ ПО ЭТОМУ ЗОНУ, ДВА АНХЕГА ВЫРЫВАЮТСЯ ОТ ЗЕМЛИ ПОД ВАМИ.
+208|A SMALL CARAVAN OF SLAVERS RIDE BY YOU TOWARD THE BUCCANEER BASE.|НЕБОЛЬШОЙ КАРАВАН РАБОВ Едет мимо вас к БАКАНЕРСКОЙ БАЗЕ.
+209|A GROUP OF ARMED GUARDS RIDE BY.|ПРОЕЗЖАЕТ ГРУППА ВООРУЖЕННЫХ ОХРАННИКОВ.
+210|A GROUP OF MEN ON HORSEBACK RIDE OUT TO MEET YOU.  THEIR LEADER SAYS, 'ARE YOU THE DIPLOMATIC ENVOYS FROM NEW PHLAN?'  WHAT WILL YOU SAY?|ГРУППА МУЖЧИН ВЫЕЗЖАЕТ НА ВСТРЕЧИ ВСТРЕЧИ. ИХ ЛИДЕР ГОВОРИТ: "ВЫ ДИПЛОМАТИЧЕСКИЕ УЧАСТНИКИ ИЗ НОВОГО ФЛАНА?" ЧТО ТЫ СКАЖЕШЬ?
+211|YES|ДА
+212|NO|НЕТ
+213|AFTER SAYING NO, THE RIDERS RETURN TO THE OUTPOST.  BEFORE LEAVING, THEIR LEADER SAYS, 'YOU ARE TRESSPASSING ON PRIVATE LAND.  I ADVISE YOU TO LEAVE.'|СКАЗАТЬ НЕТ, ВСАДНИКИ ВОЗВРАЩАЮТСЯ К ВЫПУСКУ. ПЕРЕД ОТЪЕЗДОМ, ИХ ЛИДЕР ГОВОРИТ: "ВЫ ПЕРЕХОДИТЕ НА ЧАСТНУЮ ЗЕМЛЮ. СОВЕТУЮ ВЫЙТИ ".
+214|YOU HAVE INSULTED THE |ВЫ ПРИВЕДИЛИ
+215|.|.
+216|THE |THE
+217| ATTACK YOU IMMEDIATELY!| НЕМЕДЛЕННО НА ВАС!
+218|AS YOU HIKE THROUGH THE MOUNTAINS YOU SEE A LARGE CAVE.|ПУТЕШЕСТВУЯ ПО ГОРам, ВЫ ВИДИТЕ БОЛЬШУЮ ПЕЩЕРУ.
+219| WHAT WILL YOU DO?| ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
+220|ENTER CAVE|Войти в пещеру
+221|IGNORE CAVE|ИГНОРИРОВАТЬ ПЕЩЕРУ
+222|YOU ENTER THE CAVE.|ВЫ входите в пещеру.
+223|AS YOU APPROACH THE KEEP, A GROUP OF ARMED MEN ON HORESBACK RIDE OUT TO MEET YOU.  THEIR LEADER SAYS 'YOU ARE TRESSPASSING ON PRIVATE LAND; LEAVE NOW OR FACE THE CONSQUENCES!'|Когда вы подходите к стойке, группа вооруженных мужчин на коне выезжает, чтобы встретить вас. ИХ ЛИДЕР ГОВОРИТ: "ВЫ ПЕРЕХОДИТЕ НА ЧАСТНУЮ ЗЕМЛЮ; УЙДИТЕ СЕЙЧАС ИЛИ ПРИНИМАЙТЕСЬ К ПОСЛЕДСТВИЯМ! '
+224|STAY|ОСТАТЬСЯ
+225|LEAVE|ПОКИНУТЬ
+226|THE RIDERS ESCORT YOU INTO THE OUTPOST.|ВСАДНИКИ СОСТАВЛЯЮТ ВАС НА ВЫХОД.

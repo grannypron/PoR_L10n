@@ -1,0 +1,75 @@
+﻿129|YOU SEE ROCKS SCATTERED ABOUT THE SMOOTH FLAGSTONES. |ВЫ ВИДЕТЕ КАМНИ, РАССЕПАННЫЕ НА ГЛАДКИЕ ФЛАГКАММЫ.
+130|YOU SEE A GROUP OF FIVE LIZARD MEN. THEY HISS AT YOU.|ВЫ ВИДИТЕ ГРУППУ ИЗ ПЯТИ ЯЩЕРИЦ. ОНИ У ВАС.
+131|THEY ARE WARY, BUT NOT HOSTILE.|ОНИ осторожны, но не враждебны.
+132|STANDING READY THEIR LEADER SAYS 'YOU MUST BE THE SERVANTS OF YARASH!'|СТОЯ ГОТОВЫ. ИХ ЛИДЕР ГОВОРЯТ: "ВЫ ДОЛЖНЫ БЫТЬ СЛУГАМИ ЯРАША!"
+133|THEIR LEADER SAYS 'FOUL SERVANTS OF YARASH!'|ИХ ВЕДУЩИЙ СКАЗЫВАЕТ "ГЛУБОКИЕ СЛУГИ ЯРАША!"
+134|'SINCE YOU ARE NOT THE SERVANTS OF YARASH, WE WILL NOT KILL YOU. THE ENEMY OF MY ENEMY IS NOT MY ENEMY!'|"ПОСКОЛЬКУ ВЫ НЕ СЛУЖИТЕЛИ ЯРАША, МЫ НЕ УБИВАЕМ ВАС. ВРАГ МОЕГО ВРАГА - НЕ МОЙ ВРАГ! "
+135|YOU HAVE ENTERED A ROOM FILLED WITH A HORRIBLE ASSORTMENT OF TORTURE INSTUMENTS. IN THE CENTER IS A LARGE TABLE WITH METAL RESTRAINTS.|ВЫ ЗАЙТИЛИ В КОМНАТУ, НАПОЛНЕННУЮ УЖАСНЫМ АССОРТИМЕНТОМ ИЗДЕЛИЙ ПЫТОК. В ЦЕНТРЕ БОЛЬШОЙ СТОЛ С МЕТАЛЛИЧЕСКИМИ ОГРАНИЧЕНИЯМИ.
+136|THE WALLS ARE LINED WITH FLASKS AND BOTTLES CONTAINING POWDERS, OILS, OINTMENTS, AND DRAUGHTS. THESE ARE SURELY OF AN ALCHEMICAL NATURE.|СТЕНЫ ВЫКЛОНЕНЫ ФЛЯЖКАМИ И БУТЫЛКАМИ С ПОРОШКАМИ, МАСЛАМИ, МАСЛАМИ И ОТДЫХАМИ. ЭТИ ЯВЛЯЕТСЯ АЛХИМИЧЕСКИМ ПРИРОДОМ.
+137|YOU HAVE ENTERED A ROOM FILLED WITH LARGE VATS WITH THE SAME OILY BLACK STUFF THAT FLOWS FROM THE FOUNTAIN. THE CHAMBER STINKS. ON THE WALLS ARE SHELVES OF BOTTLES AND FLASKS.|ВЫ ВХОДИЛИ В НОМЕР, ЗАПОЛНЕННЫЙ БОЛЬШИМИ ЧАНАМИ С ТАКОЙ ЖЕ МАСЛОЧНОЙ ЧЕРНОЙ ВЕЩЕВОЙ, КОТОРОЙ ТЕЧИТ ОТ ФОНТАНА. КАМЕРА ВОНЯЕТ. НА СТЕНАХ ПОЛКИ БУТЫЛКИ И ФЛЯЖКИ.
+138|AS YOU ARE POKING AROUND IN THE VATS, A PAIN CRAZED LIZARD MAN SURFACES AND ATTACKS YOU! TWO OTHERS QUICKLY JOIN HIM FROM OTHER VATS.|КОГДА ВЫ ТОЧКАЕТЕ В ВАТАХ, БОЛЬНОЙ ЧЕЛОВЕК-ЯЩЕРИЦА НАПРЯГАЕТСЯ НА ВАС! ДРУГИЕ БЫСТРО ПРИСОЕДИНЯЮТСЯ К НУ ИЗ ДРУГИХ ВАТОВ.
+139|YOU HAVE ENTERED WHAT LOOKS LIKE AN ORDINARY ALCHEMISTS LAB... RECENTLY USED.|ВЫ ВХОДИТЕ В ОБЫЧНУЮ ЛАБОРАТОРИЮ АЛХИМИСТОВ ... НЕДАВНО ИСПОЛЬЗУЕМЫЕ.
+140|YOU FIND A NOTEBOOK. A TYPICAL ENTRY READS, 'SUBJECT 213: PROGRESSING WELL, SCARS HEALING, UNABLE TO TALK YET. SUBJECT 214: DIED WHEN TREATED, FAILED AGAIN...'|ВЫ НАШЛИ НОУТБУК. ТИПИЧНАЯ ЗАПИСЬ ПРОЧИТАЕТ: "ТЕМА 213: ХОРОШО ПРОГРЕССИРУЕТСЯ, ИСЦЕЛЕНИЕ ШРАМОВ, НЕЛЬЗЯ ГОВОРИТЬ. ТЕМА 214: УМЕРЛА НА ЛЕЧЕНИИ, СНОВА НЕУДАЧА ...
+141|YOU ARE IN A STOREROOM HOLDING A VAST COLLECTION OF MAGICAL JUNK.|ВЫ В МАГАЗИНЕ С ОБЩЕСТВЕННОЙ КОЛЛЕКЦИЕЙ ВОЛШЕБНОГО ХРАНИЛИЩА.
+142| HOWEVER, HIDDEN AMIDST ALL THIS JUNK YOU FIND SOME TREASURE.| ОДНАКО, СКРЫТАЯСЯ В ЭТОМ БУДУЩЕЕ, ВЫ НАХОДИТЕ НЕКОТОРЫЕ СОКРОВИЩА.
+143|YOU SEE A SIGN OVER THE DOOR IN FRONT OF YOU. IT SAYS, 'DON'T FORGET THE PASSWORD'. THIS IS FOLLOWED BY SIX DWARVISH RUNES...|ВЫ ВИДИТЕ ЗНАК НАД ДВЕРЬЮ ПЕРЕД ВАМИ. ГОВОРИТ: "НЕ ЗАБУДЬТЕ ПАРОЛЬ". ЗА ЭТОМ СЛЕДУЮТ ШЕСТЬ ДВАРВИЧСКИХ РУН ...
+144|YOU HAVE ENTERED THE FOUNTAIN CHAMBER. IN THE CENTER OF THE ROOM A COLUMN OF BLACK FOUL WATER JETS UP THROUGH A CLEAR PIPE AND OUT THE ROOF.|ВЫ ВСТУПИЛИ В ФОНТАННУЮ ПАЛАТУ. В ЦЕНТРЕ НОМЕРА КОЛОННА ЧЕРНОЙ ВОДЫ ВЫПУСКАЕТСЯ ПО ПРОЗРАЧНОЙ ТРУБЕ И НА КРЫШУ.
+145|ANOTHER PIPE, RUNNING FROM THE WALL ACROSS AND TO YOUR RIGHT, PUMPS IN STREAMS OF THE FOUL LIQUID. ALL ABOUT THE ROOM ARE VALVES, GAUGES, PETCOCKS, AND PIPES.|ДРУГАЯ ТРУБКА, ПРОХОДЯЩАЯ ОТ СТЕНЫ НАПРАВО, НАСОСЫ ПОТОКОВ СЛИВОЙ ЖИДКОСТИ. ВСЕ В НОМЕРЕ КЛАПАНЫ, МАНОМЕТРЫ, ТРУБКИ И ТРУБЫ.
+146|WHAT DO YOU DO?|ЧТО ВЫ ДЕЛАЕТЕ?
+147|MOVE QUICKLY AWAY|БЫСТРО УХОДИТЕ
+148|DESTROY THE EQUIPMENT|УНИЧТОЖИТЬ ОБОРУДОВАНИЕ
+149|YOU HEAR A WHINING FROM THE PIPES THE BLACK LIQUID IS BUBBLING. HOWEVER, NOT ALL THE EQUIPMENT IS YET DESTROYED.|ВЫ СЛЫШАЕТЕ ВОЛЕНИЕ ИЗ ТРУБ, ПУЛЯЗЫВАЕТ ЧЕРНАЯ ЖИДКОСТЬ. ОДНАКО, НЕ ВСЕ ОБОРУДОВАНИЕ УНИЧТОЖЕНО.
+150|YOU HAVE ENTERED A PUMPING ROOM. WORKING AS SLAVES IN THIS ROOM ARE THREE LIZARD MEN WITH WHIP CUTS ACROSS THEIR BACK WHO ARE SHACKLED TO THE WALL BY LONG CHAINS.|ВЫ ЗАЙТИЛИ В НАСОСНУЮ. В ЭТОЙ КОМНАТЕ В КАЧЕСТВЕ РАБЫ РАБОТАЮТ ТРИ ЯЩЕРИЦА С ПОРЕЗОМ ПО СПИНЕ, ПРИВИНЯЕМЫЕ К СТЕНЕ ДЛИННЫМИ ЦЕПЬМИ.
+151|TWO OF THEM ARE POURING BARRELS OF THE BLACK CONTAMINANT INTO A LARGE VAT. THE OTHER IS WORKING A BELLOWS PUMP.|ДВА ИЗ НИХ ВЫЛИВАЮТ БОЧКИ ЧЕРНОГО ЗАГРЯЗНЕНИЯ В БОЛЬШОЙ НДС. ДРУГОЙ РАБОТАЕТ НАСОСОМ.
+152|THEY RECOIL IN FEAR|ОНИ ОТЖИМАЮТ В СТРАХЕ
+153|AS YOU FREE THEM THEY TELL YOU ALL ABOUT WHAT YARASH IS DOING AND HOW YOU CAN GET HELP FROM THEIR TRIBE IN THE SWAMP. YOU COPY ALL THEY SAY AS ENTRY 35 OF YOUR JOURNAL.|ОСВОБОЖДАЯ ИХ, ОНИ РАССКАЗЫВАЮТ ВАМ О ЧЕМ ДЕЛАЕТ YARASH И КАК ВЫ МОЖЕТЕ ПОЛУЧИТЬ ПОМОЩЬ ОТ ИХ ПРАЗДНИКОВ В БОЛОТОЙ. ВЫ КОПИРУЕТЕ ВСЕ ОНИ ГОВОРЯТ В СТАТЬИ 35 ВАШЕГО ЖУРНАЛА.
+154|AN ANCIENT MAGE LOOKS UP FROM HIS STUDIES, 'AH, GOOD, I NEED MORE SPECIMENS AS CONTROLS.' HE TURNS TO HIS MUTATED GUARDS, 'SUBDUE THEM!'|ДРЕВНИЙ МАГ СМОТРИТ НА СВОИ ИССЛЕДОВАНИЯ: "А, ХОРОШО, мне НУЖНО БОЛЬШЕ ОБРАЗЦОВ В КАЧЕСТВЕ УПРАВЛЕНИЯ". ОН ОБРАЩАЕТСЯ К СВОИМ МУТОВАННЫМ СТРАЖАМ: "ПОДАРИТЕ ИХ!"
+155|YOU SEE A DIAL THAT CAN BE SET TO FOUR DIFFERENT COLORS: BLUE, COPPER, SILVER, AND GOLD. IT IS CURRENTLY SET TO |ВЫ ВИДИТЕ ДИСК, КОТОРЫЙ МОЖНО УСТАНОВИТЬ ЧЕТЫРЕ РАЗНЫХ ЦВЕТА: СИНИЙ, МЕДНЫЙ, СЕРЕБРЯНЫЙ И ЗОЛОТОЙ. В НАСТОЯЩЕЕ ВРЕМЯ НАСТРОЕНО
+156| DO YOU WISH TO CHANGE THE SETTING?| ВЫ ХОТИТЕ ИЗМЕНИТЬ НАСТРОЙКУ?
+157|CHANGE TO WHAT SETTING?|ИЗМЕНИТЬ КАКИЕ НАСТРОЙКИ?
+158|BLUE|СИНИЙ
+159|COPPER|МЕДЬ
+160|SILVER|СЕРЕБРО
+161|GOLD|ЗОЛОТО
+162|THIS IS THE DESK OF YARASH. ON IT IS A LITTER OF PAPERS.|ЭТО СТОЛ ЯРАША. НА ЭТОМ ПОМЯ ДОКУМЕНТОВ.
+163|AMONG THE PAPERS ON THE DESK YOU FIND THE FOLLOWING AND SLIP THEM INTO YOUR JOURNAL:|СРЕДИ ДОКУМЕНТОВ НА СТОЛЕ ВЫ НАЙДЕТЕ СЛЕДУЮЩИЕ И СЛОВИТЕ ИХ В СВОЙ ЖУРНАЛ:
+164|A LETTER FROM THE BOSS, TELLING YARASH TO JOIN OR DIE. (ENTRY 33)|ПИСЬМО ОТ БОССА, СОВЕРШЕННО ЯРАШУ ПРИСОЕДИНИТЬСЯ ИЛИ УМЕРТЬ. (ЗАПИСЬ 33)
+165|AN UNSENT REPLY TO THIS LETTER. (ENTRY 49)|НЕ ОТПРАВЛЕННЫЙ ОТВЕТ НА ДАННОЕ ПИСЬМО. (ЗАПИСЬ 49)
+166|A MESSAGE TO THE BUCCANEERS OFFERING A BOUNTY FOR A REAL SAHUAGIN. (ENTRY 27)|ПОСЛАНИЕ БУКАНЕРАМ, ПРЕДЛАГАЮЩИМ НАГРАДЫ ЗА НАСТОЯЩИЙ САХУАГИН. (ЗАПИСЬ 27)
+167|A WARNING TO AN AGENT ABOUT THE DANGERS IN THE MOUNTAINS TO THE NORTHWEST. (ENTRY 56)|ПРЕДУПРЕЖДЕНИЕ АГЕНТУ ОБ ОПАСНОСТИ В ГОРАХ НА СЕВЕРО-ЗАПАДЕ. (ЗАПИСЬ 56)
+168|A NOTE TO A TRAPPER ABOUT KOBOLDS AND HOBGOBLINS. (ENTRY 40)|ЗАПИСКА К ЛОВУШКЕ О КОБОЛЬДАХ И ХОБГОБЛИНАХ. (ЗАПИСЬ 40)
+169|A SECRET DOOR IS FOUND |НАЙДЕНА ТАЙНАЯ ДВЕРЬ
+170|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+171| | 
+172|GO BACK|ВЕРНИТЕСЬ НАЗАД
+173|MOVE ON|ДВИГАТЬСЯ ДАЛЬШЕ
+174|THROW A ROCK|БРОСИТЬ КАМЕНЬ
+175| | 
+176|AS YOU CAREFULLY SEARCH THE ROOM YOU FEEL A STRANGE TINGLE AS YOU GET CLOSE TO A BARE AREA.|ПРИ ВНИМАТЕЛЬНОМ ИССЛЕДОВАНИИ НОМЕРА ВЫ ЧУВСТВУЕТЕ СТРАННОЕ ПОКОЛЕНИЕ, ПРИБЛИЖАЯСЬ К ГОЛОМУ.
+177|GO BACK|ВЕРНИТЕСЬ НАЗАД
+178|MOVE ON|ДВИГАТЬСЯ ДАЛЬШЕ
+179|THROW A ROCK|БРОСИТЬ КАМЕНЬ
+180| | 
+181|AS YOU MOVE THROUGH THE ROOM THERE IS A FLASH AND YOU SUDDENLY FIND YOURSELF ELSEWHERE.|КОГДА ВЫ ПРОХОДИТЕ ПО КОМНАТЕ, ЕСТЬ ВСПЫШКА, И ВЫ ВНЕЗАПНО НАЙДЕТЕ СЕБЯ В другом месте.
+182|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+183| | 
+184|'MUTILATING SCUM! WE WILL DIE BEFORE WE LET YOU TWIST US AS YOU HAVE OUR OTHER PEOPLE! BUT YOU WILL DIE FIRST!'|'МУТИЛИРУЮЩАЯ ПАПА! МЫ УМЕРЕМ, ПРЕЖДЕ ЧЕМ МЫ ПОЗВОЛЯЕМ ВАМ КРУТИТЬ НАС, ТАК КАК ВАС ДРУГИЕ НАШИ! НО ВЫ УМЕРЕТЕ ПЕРВЫМ! '
+185|YOU RUN FOR THE EXIT. AS YOU SLAM THE DOOR BEHIND YOU, YOU HEAR AN ENORMOUS EXPLOSION. THE EQUIPMENT IS NOW CERTAINLY DESTROYED.|ВЫ БЕГАЕТЕ НА ВЫХОД. ЗАХЛОПЫВАЯ ДВЕРЬ СЗАДИ, ВЫ СЛЫШАЕТЕ ОГРОМНЫЙ ВЗРЫВ. ОБОРУДОВАНИЕ ТЕПЕРЬ ОБЯЗАТЕЛЬНО УНИЧТОЖЕНО.
+186|THERE IS AN ENORMOUS EXPLOSION! BITS OF PIPE AND OTHER PLUMBING FIXTURES FLY IN ALL DIRECTIONS.|ЕСТЬ ОГРОМНЫЙ ВЗРЫВ! ОТРЕЗКИ ТРУБ И ДРУГИЕ САНТЕХНИКИ ЛЕТУЮТ ВО ВСЕХ НАПРАВЛЕНИЯХ.
+187|YOU HAVE DESTROYED THE LAST PIECE OF EQUIPMENT. |ВЫ УНИЧТОЖИЛИ ПОСЛЕДНЮЮ ЧАСТЬ ОБОРУДОВАНИЯ.
+188|THE WHINE SUBSIDES AS THE PRESSURE IS RELEASED.|ПОНИЖЕНИЕ ДАВЛЕНИЯ ПОНИЖАЕТСЯ ВИЛЬ.
+189|THE LIZARD MEN'S FEAR CHANGES TO RAGE AND THEY THROW THEIR BARRELS OF CONTAMINANT ON THE PARTY.|Страх мужчин-ящериц переходит в ярость, и они бросают свои бочки с загрязнением на партию.
+190|BLUE.|СИНИЙ.
+191|COPPER.|МЕДЬ.
+192|SILVER.|СЕРЕБРО.
+193|GOLD.|ЗОЛОТО.
+194|YES|ДА
+195|NO|НЕТ
+196| | 
+197|IN FRONT OF YOU.|ПЕРЕД ТОБОЙ.
+198|TO YOUR RIGHT.|НА ВАШЕ ПРАВО.
+199|BEHIND YOU.|ЗА ТОБОЙ.
+200|TO YOUR LEFT.|СЛЕВА.
+201|YOU THROW A ROCK. SUDDENLY IT DISAPPEARS WITH A FLASH!|ВЫ БРОСАЕТЕ КАМЕНЬ. ВНЕЗАПНО ПРОИСХОДИТ ВСПЫШКОЙ!
+202|YOU START TO RUN FOR THE EXIT... YOU DON'T MAKE IT.|ВЫ НАЧИНАЕТЕ БЕЖАТЬ НА ВЫХОД ... ВЫ НЕ ДЕЛАЕТЕ ЭТО.
+203|THERE IS AN ENORMOUS EXPLOSION! BITS OF PIPE AND OTHER PLUMBING FIXTURES FLY IN ALL DIRECTIONS.|ЕСТЬ ОГРОМНЫЙ ВЗРЫВ! ОТРЕЗКИ ТРУБ И ДРУГИЕ САНТЕХНИКИ ЛЕТУЮТ ВО ВСЕХ НАПРАВЛЕНИЯХ.

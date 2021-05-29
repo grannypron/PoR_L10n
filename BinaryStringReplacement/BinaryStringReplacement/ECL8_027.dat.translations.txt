@@ -1,0 +1,60 @@
+﻿195|YOU SPOT A GROUP OF |ВЫ УВИДИТЕ ГРУППУ
+196|YOU ARE SURPRISED BY A GROUP OF |ВЫ УДИВИТЫ ГРУППА
+197|YOU SURPRISE A GROUP OF |ВЫ УДИВИТЕ ГРУППУ
+198|SUDDENLY YOU ARE FACE TO FACE WITH A GROUP OF |ВНЕЗАПНО ВЫ ОБРАЩАЕТЕСЬ К ГРУППЕ
+199|LYING HERE ARE THE PARTIALLY EATEN REMAINS OF A HALFING.|ЗДЕСЬ лежат частично съеденные остатки полуфабриката.
+200|YOU SPOT A GROUP OF |ВЫ УВИДИТЕ ГРУППУ
+201|YOU ARE SURPRISED BY A GROUP OF |ВЫ УДИВИТЫ ГРУППА
+202|YOU SURPRISE A GROUP OF |ВЫ УДИВИТЕ ГРУППУ
+203|SUDDENLY YOU ARE FACE TO FACE WITH A GROUP OF |ВНЕЗАПНО ВЫ ОБРАЩАЕТЕСЬ К ГРУППЕ
+204|YOU HAVE FOUND A SMALL, DARK CAVE.  WILL YOU ENTER?|ВЫ НАШЛИ МАЛЕНЬКУЮ ТЕМНУЮ ПЕЩЕРУ. ВЫ ВОЙДЕТЕ?
+205|ENTER|ВХОДИТЬ
+206|LEAVE|ПОКИНУТЬ
+207| | 
+208|THE |THE
+209| FALL FOR YOUR SPARKLING PERSONALITY AND WANDER AWAY WITHOUT A FIGHT.| ПАДИТЕСЬ ЗА СВОЮ ИСКЛЮЧИТЕЛЬНУЮ ЛИЧНОСТЬ И УХОДИТЕ БЕЗ БОЯ.
+210|YOU HAVE FOUND THE WYVERN'S TREASURE!|ВЫ НАШЛИ СОКРОВИЩЕ ВИВЕРНА!
+211|YOU HAVE STUMBLED ACROSS A FEROCIOUS WYVERN.  IT CHARGES AND ATTACKS!|ВЫ ПРОПИВАЛИСЬ ЧЕРЕЗ ЧУВСТВУЮЩУЮ ВИВЕРНУ. ЭТО НАПРЯЖЕНИЕ И АТАКИ!
+212|A TERRIBLE WYVERN CHARGES TO ATTACK THE PARTY!|УЖАСНЫЙ ВИВЕРН ОБЯЗАНЫ НАПАДАТЬ НА СТОРОНУ!
+213|FOUR GIANT LIZARDS RUN UP AND ATTACK THE PARTY!|ЧЕТЫРЕ ГИГАНТСКИХ ЯЩЕРИЦА ПРИБЕГАЮТ И НАПАДАЮТ НА СТОРОНУ!
+214|THIS ROOM IS FILLED WITH HUMAN BONES.|ЭТА КОМНАТА ЗАПОЛНЕНА ЧЕЛОВЕЧЕСКИМИ КОСТЯМИ.
+215|YOU ENTER A CHAMBER WITH FOUR GIANT LIZARDS AND TWO MINOTAURS.  THE MINOTAURS ORDER THE LIZARDS TO ATTACK.|ВЫ входите в камеру с четырьмя гигантскими ящерицами и двумя минотаврами. МИНОТАВРЫ ПРИКАЗЫВАЮТ ЯЩЕРИЦ НА АТАКУ.
+216|YOU HAVE FOUND SOME TREASURE.|ВЫ НАШЛИ НЕКОТОРЫЕ СОКРОВИЩА.
+217|GUARDING THIS CHAMBER ARE TWO GIANT LIZARDS.  AS YOU APPROACH, THEY ATTACK.|ЭТУ КАМЕРУ охраняют две гигантские ящерицы. КАК ВЫ ПОДХОДИТЕ, ОНИ АТАКУЮТ.
+218|YOU ARE ATTACKED BY SOME GNOLLS.|НА ВАС НАПАДАЮТ НЕКОТОРЫЕ ГНОЛЛЫ.
+219|IN THIS ROOM ARE THE HORRID REMAINS OF SOME ELVES.|В ЭТОЙ КОМНАТЕ ОСТАЮТСЯ УЖАСНЫЕ ОСТАТКИ НЕКОТОРЫХ ЭЛЬФОВ.
+220|IN THIS ROOM ARE SOME GNOLLS AND TROLLS.  THEY ATTACK YOU IMMEDIATELY.|В ЭТОЙ КОМНАТЕ НАХОДИТСЯ НЕКОТОРЫЕ ГНОЛЛИ И ТРОЛЛИ. ОНИ НАПАДАЮТ НА ВАС НЕМЕДЛЕННО.
+221|YOU ARE ATTACKED BY A GROUP OF MAD KOBOLDS.|НА ВАС НАПАДАЕТ ГРУППА БЕЗУМНЫХ КОБОЛЬДОВ.
+222|YOU FIND A PASSAGEWAY GOING OUT.  WHAT WILL YOU DO?|ВЫ НАЙДЕТЕ ПРОХОД, ВЫХОДЯЩИЙ. ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
+223|STAY|ОСТАТЬСЯ
+224|LEAVE|ПОКИНУТЬ
+225|YOU FIND A RUINED CASTLE SURROUNDED BY QUICKSAND.   AN OLD WORN DRAWBRIDGE IS THE ONLY SAFE WAY ACROSS THE QUAGMIRE.  WILL YOU ENTER THE RUINED CASTLE?|ВЫ НАХОДИТЕ РАЗРУШЕННЫЙ ЗАМОК В ОКРУЖЕНИИ КВИКСАНДА. ЕДИНСТВЕННО БЕЗОПАСНЫЙ СПОСОБ ЧЕРЕЗ ТОЧЕЧНИК ЕДИНСТВЕННЫЙ БЕЗОПАСНЫЙ ПУТЬ. ВЫ ВОЙДЕТЕ В РАЗРУШЕННЫЙ ЗАМОК?
+226|ENTER|ВХОДИТЬ
+227|LEAVE|ПОКИНУТЬ
+228|KOBOLDS|КОБОЛДЫ
+229|GNOLLS|GNOLLS
+230|LIZARD MEN|Ящерицы
+231|GIANT LIZARDS|ГИГАНТНЫЕ ЯЩЕРИЦЫ
+232|HIPPOGRIFFS|ГИППОГРИФЫ
+233|WYVERNS|ВИВЕРНЫ
+234|TROLLS|ТРОЛЛИ
+235|PHASE SPIDERS|ФАЗОВЫЕ ПАУКИ
+236|MINOTAURS|МИНОТАВРЫ
+237|THE |THE
+238| GREET YOU AND YOU EXCHANGE PLEASANTRIES.  THE | ПРИВЕТСТВУЮТ И ВЫ ОБМЕНАЕТЕСЬ В МИРЕ. THE
+239| THEN LEAVE AND BID YOU GOOD DAY.| ТОГДА УЙДИТЕ И ЖЕЛАЕМ ДОБРЫХ ДНЕЙ.
+240|YOU CONVINCE THE |ВЫ УБЕДИТЕ
+241| THAT COMBAT IS NOT NECESSARY AND YOU GO ON YOUR WAY.| ЭТОГО БОЯ НЕ НУЖНО, И ВЫ ИДЕТЕ СВОЙ ПУТЬ.
+242|A SCREAMING HORDE OF KOBOLDS ATTACKS THE PARTY.|КРИЧУЩАЯ ОРДА КОБОЛЬДОВ НАПАДАЕТ СТОРОНУ.
+243|YOU FIND TWO CAVES;  A SMALL, WELL-HIDDEN CAVE AND A LARGER, MORE OBVIOUS CAVE.  WHAT CAVE WILL YOU ENTER?|ВЫ НАЙДЕТЕ ДВЕ ПЕЩЕРЫ; МАЛЕНЬКАЯ, ХОРОШО СКРЫТЫЕ ПЕЩЕРА И БОЛЬШЕ, ЯВНО БОЛЬШЕ. В КАКУЮ ПЕЩЕРУ ВЫ ВОЙДЕТЕ?
+244|THERE IS A BOAT DOCKED HERE THAT WILL RETURN YOU TO THE CIVILIZED SECTION OF PHLAN.  WILL YOU TAKE IT?|ЗДЕСЬ ПРИКЛЮЧЕНА ЛОДКА, КОТОРАЯ Вернет вас в ЦИВИЛИЗОВАННЫЙ РАЗДЕЛ ФЛАНА. ВЫ ПРИНИМАЕТЕ ЭТО?
+245|TAKE BOAT|Взять лодку
+246|STAY|ОСТАТЬСЯ
+247|YOU HAVE INSULTED THE |ВЫ ПРИВЕДИЛИ
+248|.|.
+249|THE |THE
+250| ATTACK YOU IMMEDIATELY!| НЕМЕДЛЕННО НА ВАС!
+251|YOU SEE A SMALL GROUP OF KOBOLDS ENTERING A SMALL,   CONCEALED CAVE.  A LARGER, MORE NOTICEABLE CAVE LIES JUST EAST OF THE SMALL HIDDEN, CAVE.  WHAT CAVE WILL YOU ENTER?|ВЫ ВИДИТЕ МАЛЕНЬКУЮ ГРУППУ КОБОЛДОВ, ЗАХОДЯЩИХ В МАЛЕНЬКУЮ ЗАКРЫТУЮ ПЕЩЕРУ. БОЛЬШАЯ, БОЛЕЕ ЗНАЧИТЕЛЬНАЯ ПЕЩЕРА ЛОЖИТСЯ ТОЛЬКО ВОСТОЧНОМ ОТ МАЛЕНЬКИХ СКРЫТЫХ ПЕЩЕР. В КАКУЮ ПЕЩЕРУ ВЫ ВОЙДЕТЕ?
+252|LARGE|БОЛЬШОЙ
+253|SMALL|НЕБОЛЬШОЙ
+254|EXIT|ВЫХОД

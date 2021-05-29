@@ -1,0 +1,86 @@
+﻿204|YOU SPOT A GROUP OF |ВЫ УВИДИТЕ ГРУППУ
+205|YOU ARE SURPRISED BY A GROUP OF |ВЫ УДИВИТЫ ГРУППА
+206|YOU SURPRISE A GROUP OF |ВЫ УДИВИТЕ ГРУППУ
+207|SUDDENLY YOU ARE FACE TO FACE WITH A GROUP OF |ВНЕЗАПНО ВЫ ОБРАЩАЕТЕСЬ К ГРУППЕ
+208|YOU ARE AT THE EDGE OF THE GROVE.|ВЫ НА КРАЕ РОЩИ.
+209|AS YOU LEAVE THE SORCERER'S PYRAMID BEHIND YOU CAN SEE THAT THE LAND IS ALREADY BEGINNING TO RECOVER FROM THE ALCHEMICAL POLLUTION CAUSED BY THE PYRAMID.|КОГДА ВЫ ОСТАВЛЯЕТЕ ПИРАМИДУ SORCERER СЗАДИ, ВЫ МОЖЕТЕ УВИДЕТЬ, ЧТО ЗЕМЛЯ УЖЕ НАЧИНАЕТ ВОССТАНАВЛИВАТЬСЯ ОТ АЛХИМИЧЕСКОГО ЗАГРЯЗНЕНИЯ, ВЫЗВАННОГО ПИРАМИДОЙ.
+210|YOU HAVE FOUND A SMALL WOODED GROVE.  WILL YOU ENTER?|ВЫ НАШЛИ НЕБОЛЬШУЮ ДЕРЕВЯННУЮ РОЩУ. ВЫ ВОЙДЕТЕ?
+211|ENTER|ВХОДИТЬ
+212|LEAVE|ПОКИНУТЬ
+213|YOU HAVE FOUND SOME RUINED HUTS.  WILL YOU INVESTIGATE?|ВЫ НАЙДИТЕ НЕКОТОРЫЕ РАЗРУШЕННЫЕ ЖИЛЫ. ВЫ БУДЕТЕ РАССЛЕДОВАТЬСЯ?
+214|INVESTIGATE|РАССЛЕДОВАТЬ
+215|LEAVE|ПОКИНУТЬ
+216| | 
+217|THE |THE
+218| FALL FOR YOUR SPARKLING PERSONALITY AND WANDER AWAY WITHOUT A FIGHT.| ПАДИТЕСЬ ЗА СВОЮ ИСКЛЮЧИТЕЛЬНУЮ ЛИЧНОСТЬ И УХОДИТЕ БЕЗ БОЯ.
+219|NEAR YOU IS A POOL OF WATER.  SOMEONE OR THING IS SPLASHING IN THE POOL.  WILL YOU APPROACH THE POOL?|РЯДОМ С ВАМИ БАССЕЙН ВОДЫ. КТО-ТО ИЛИ В БАССЕЙНЕ БЛИЖАЕТ. ВЫ ПОДХОДИТЕ К БАССЕЙНУ?
+220|APPROACH|ПОДХОД
+221|LEAVE|ПОКИНУТЬ
+222|YOU SEE SOME LIZARD MEN SWIMMING IN THE POOL.  UPON SEEING YOU THEY ATTACK!|ВЫ ВИДИТЕ НЕКОТОРЫЕ ЯЩЕРИЦЫ ПЛАВАЮЩИЕ В БАССЕЙНЕ. Увидев тебя, они атакуют!
+223|AS YOU WALK THROUGH THE TRESS YOU ARE AMBUSHED BY TWO DISPLACER BEASTS.|ПРОГУЛЯТЬСЯ ПО ТРЕССУ, ВАС ОХВАТЫВАЮТ ДВУХ ЗВЕРЬЯ-ДВИГАТЕЛЯ.
+224|AS YOU ENTER THE ROOM YOU SEE FOUR KOBOLDS CHAINED TO THE WALL.  ONE OF THEM SAYS 'RELEASE US, OR THE LIZARD MEN WILL EAT US!'  WHAT WILL YOU DO?|КАК ВЫ ВОЙДИТЕ В НОМЕР, ВЫ ВИДЕТЕ ЧЕТЫРЕ КОБОЛЬДА, ПРИВЯЗАННЫХ ЦЕПЬЮ К СТЕНЕ. ОДИН ИЗ НИХ ГОВОРИТ: "ВЫПУСТИТЕ НАС, ИЛИ Ящерицы нас съедят!" ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
+225|RELEASE|РЕЛИЗ
+226|ATTACK|АТАКА
+227|LEAVE|ПОКИНУТЬ
+228|YOU RELEASE THE KOBOLDS AND THEY THANK YOU.  ONE OF THEM SAYS, 'WATCH OUT FOR THE MUTANT LIZARD MEN, THEY'RE KILLERS!'  THEY THEN RUN OUT THE DOOR.|ВЫ ВЫПУСКАЕТЕ КОБОЛДОВ, И ОНИ СПАСИБО. ОДИН ИЗ НИХ ГОВОРИТ: "БЕРЕГИТЕ МУТАНТОВ-ЯЩЕРДОВ, ОНИ УБИЙЦЫ!" ОНИ ВЫБЕГАЮТ ДВЕРЬ.
+229|AN AWFUL STENCH IS COMING FROM THE WEST.|УЖАСНЫЙ ЗЕМЛЯ НАХОДИТСЯ С ЗАПАДА.
+230|YOU ENTER A HUT THAT IS COVERED IN FILTH.  STANDING IN A POOL OF BLACK MUCK ARE TWO HORRIBLY MUTATED LIZARD MEN.  THEY LUNGE OUT AND ATTACK THE PARTY.|ВЫ входите в хижину, покрытую пленкой. В бассейне с черной слизью стоят два ужасно мутировавших человека-ящерицы. ОНИ ВЫСТУПАЛИ И НАПАДАЛИ СТОРОНУ.
+231|INSIDE THIS HUT ARE FOUR LIZARD MEN.  THEY ATTACK YOU IMMEDIATELY.|ВНУТРИ ХИЖИНЫ ЧЕТЫРЕ ЯЩИЦА. ОНИ НАПАДАЮТ НА ВАС НЕМЕДЛЕННО.
+232|IN THIS ROOM THERE ARE FOUR LARGE LIZARD MEN.  AS YOU ENTER ONE OF THEM YELLS 'KILL' AND THEY ATTACK.|В ЭТОЙ КОМНАТЕ ЧЕТЫРЕ БОЛЬШИХ ЯЩЕРИЦА. КАК ВЫ входите, ОДИН ИЗ НИХ КРИЧИТ "УБИТЬ", И ОНИ АТАКУЮТ.
+233|A SWARM OF STIRGES SWOOPS DOWN AND ATTACKS THE PARTY!|РЫЧАЙШИЙСЯ НАКАЗЫВАЕТСЯ ВНИЗ И НАПАДАЕТ СТОРОНУ!
+234|YOU ARE ABOUT TO LEAVE THIS AREA.  DO YOU WANT TO RETURN?|ВЫ собираетесь покинуть эту зону. ВЫ ХОТИТЕ ВЕРНУТЬСЯ?
+235|RETURN|ВОЗВРАЩАТЬСЯ
+236|LEAVE|ПОКИНУТЬ
+237|YOU SPOT A GROUP OF |ВЫ УВИДИТЕ ГРУППУ
+238|YOU ARE SURPRISED BY A GROUP OF |ВЫ УДИВИТЫ ГРУППА
+239|YOU SURPRISE A GROUP OF |ВЫ УДИВИТЕ ГРУППУ
+240|SUDDENLY YOU ARE FACE TO FACE WITH A GROUP OF |ВНЕЗАПНО ВЫ ОБРАЩАЕТЕСЬ К ГРУППЕ
+241|HIT <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+242|YOU ARE IN FRONT OF A MAGNIFICENT PYRAMID.  YOU HAVE FOUND A SECRET DOOR THAT LEADS INTO THE PYRAMID.  WHAT WILL YOU DO?|ВЫ ВЕЛИКОЛЕПНОЙ ПИРАМИДЫ. ВЫ НАШЛИ СЕКРЕТНУЮ ДВЕРЬ, ВХОДЯЩУЮ В ПИРАМИДУ. ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
+243|ENTER|ВХОДИТЬ
+244|GO BACK|ВЕРНИТЕСЬ НАЗАД
+245|KOBOLDS|КОБОЛДЫ
+246|DISPLACER BEASTS|ДВИГАТЕЛЬ ЗВЕРЬ
+247|DRIDERS|ДРАЙДЕРЫ
+248|STIRGES|СТЕПКИ
+249|LIZARD MEN|Ящерицы
+250|BANDITS|БАНДИТЫ
+251|NOMADS|Номады
+252|MERCHANTS|ТОРГОВЦЫ
+253|THE |THE
+254| GREET YOU AND YOU EXCHANGE PLESANTRIES.  THE | ПРИВЕТСТВУЙТЕ И ВЫ ОБМЕНАЕТЕСЬ АПЛАНТАМИ. THE
+255| THEN LEAVE AND BID YOU GOOD DAY.| ТОГДА УЙДИТЕ И ЖЕЛАЕМ ДОБРЫХ ДНЕЙ.
+256|YOU CONVINCE THE |ВЫ УБЕДИТЕ
+257| THAT COMBAT IS NOT NECESSARY AND YOU GO ON YOUR WAY.| ЭТОГО БОЯ НЕ НУЖНО, И ВЫ ИДЕТЕ СВОЙ ПУТЬ.
+258|YOU COLDLY KILL THE DEFENSELESS KOBOLDS.|ВЫ ХОЛОДНО УБИВАЕТЕ БЕЗОПАСНЫХ КОБОЛДОВ.
+259|AN AWFUL STENCH IS COMING FROM THE WEST.|УЖАСНЫЙ ЗЕМЛЯ НАХОДИТСЯ С ЗАПАДА.
+260|YOU FIND A RECENTLY ABBANDONED CAMP.|ВЫ НАХОДИЛИ НЕДАВНО ЗАКРЫТЫЙ ЛАГЕРЬ.
+261|YOU HAVE INSULTED THE |ВЫ ПРИВЕДИЛИ
+262|.|.
+263|THE |THE
+264| ATTACK YOU IMMEDIATELY!| НЕМЕДЛЕННО НА ВАС!
+265|YOU HAVE STUMBLED UPON A LARGE NOMAD CAMP.  WILL YOU ENTER IT?|ВЫ НАКАЧИЛИСЬ НА БОЛЬШОЙ ЛАГЕРЬ Кочевников. ВЫ ВОЙДЕТЕ В ЭТО?
+266|ENTER|ВХОДИТЬ
+267|LEAVE|ПОКИНУТЬ
+268|YOU ARE ON THE NORTH EDGE OF THE CITY.  WILL YOU ENTER THE NORTHERN CITY GATES OR ENTER THE GRAVEYARD?|ВЫ НА СЕВЕРНОМ КРАЕ ГОРОДА. ВЫ ВОЙДЕТЕ В ВОРОТА СЕВЕРНОГО ГОРОДА ИЛИ ВОЙДЕТЕ НА КЛАДБИЩЕ?
+269|CITY|ГОРОД
+270|GRAVEYARD|КЛАДБИЩЕ
+271|LEAVE|ПОКИНУТЬ
+272|YOU ARE ON THE EASTERN EDGE OF THE CITY.  THERE ARE  NORTH AND SOUTH ENTRANCES INTO THE CITY AND A SMALL BOAT THAT YOU CAN TAKE TO THE CIVILISED AREA.  WHICH ROUTE WILL YOU TAKE?|ВЫ НА ВОСТОЧНОЙ КРАЕ ГОРОДА. ЕСТЬ СЕВЕР И ЮЖНЫЙ ВХОД В ГОРОД И МАЛЕНЬКАЯ ЛОДКА, КОТОРАЯ МОЖНО ПРИВЕТАТЬ В ЦИВИЛИЗОВАННУЮ ЗОНУ. КАКОЙ МАРШРУТ ВЫ ПОЛУЧИТЕ?
+273|NORTH|К СЕВЕРУ
+274|SOUTH|ЮГ
+275|BOAT|ЛОДКА
+276|LEAVE|ПОКИНУТЬ
+277|YOU ARE ON THE WESTERN EDGE OF THE CITY.  THERE ARE TWO ENTERANCES INTO THE CITY, A NORTH ENTRANCE AND A SOUTH ENTRANCE.  WHICH ENTRANCE WILL YOU TAKE?|ВЫ НА ЗАПАДНОМ КРАЕ ГОРОДА. ЕСТЬ ДВА ВХОДА В ГОРОД, СЕВЕРНЫЙ ВХОД И ЮЖНЫЙ ВХОД. КАКОЙ ВХОД ВЫ ПРИНИМАЕТЕ?
+278|NORTH|К СЕВЕРУ
+279|SOUTH|ЮГ
+280|LEAVE|ПОКИНУТЬ
+281|YOU HAVE FOUND A ROWBOAT HIDDEN AMOUNGST THE REEDS.  WILL YOU TAKE IT TO THE PYRAMID?|ВЫ ОБНАРУЖИЛИ ВЕСельную лодку, спрятавшуюся среди тростников. ВЫ ПРИНИМАЕТЕ ЕГО НА ПИРАМИДУ?
+282|YES|ДА
+283|NO|НЕТ
+284|YOU ARE IN FRONT OF A MAGNIFICENT PYRAMID.  YOU HAVE FOUND A SECRET DOOR THAT LEADS INTO THE PYRAMID.  WHAT WILL YOU DO?|ВЫ ВЕЛИКОЛЕПНОЙ ПИРАМИДЫ. ВЫ НАШЛИ СЕКРЕТНУЮ ДВЕРЬ, ВХОДЯЩУЮ В ПИРАМИДУ. ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
+285|ENTER|ВХОДИТЬ
+286|GO BACK|ВЕРНИТЕСЬ НАЗАД
+287|THERE IS A BOAT HERE THAT WILL TAKE YOU BACK TO THE CIVILISED SECTION OF PHLAN.  WILL YOU TAKE IT?|ЗДЕСЬ ЕСТЬ ЛОДКА, КОТОРАЯ ПРИВЕРНЕТ ВАС В ЦИВИЛИЗОВАННЫЙ РАЗДЕЛ ФЛАНА. ВЫ ПРИНИМАЕТЕ ЭТО?
+288|TAKE BOAT|Взять лодку
+289|STAY|ОСТАТЬСЯ

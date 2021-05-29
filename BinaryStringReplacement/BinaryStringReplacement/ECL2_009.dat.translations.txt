@@ -1,0 +1,79 @@
+﻿1|A PATROL OF GIANTS LED BY A HUMAN FIGHTER|ПАТРУЛЬ ГИГАНТОВ, СВЯЗАННЫЙ БОРЬБОМ-ЧЕЛОВЕКОМ
+2|YOU SEE A|ВЫ ВИДИТЕ
+3|. THE LEADER SEES YOU. 'THAT'S THEM!'|. ЛИДЕР ВАС ВИДЕТ. 'ЭТО ОНИ!'
+4|THEY ADVANCE, WEAPONS READY|ОНИ ВПЕРЕДИ, ОРУЖИЕ ГОТОВО
+5|'WHAT ARE YOU DOING HERE?'|'ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?'
+6|THE LEADER ADVANCES.|ЛИДЕР ПРОДВИГАЕТСЯ.
+7|WHAT ARE YOU DOING HERE?|ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?
+8|'ALL RIGHT, THEN. WHAT IS TODAY'S PASSWORD?'|'ТОГДА ВСЕ В ПОРЯДКЕ. ЧТО ТАКОЕ СЕГОДНЯ ПАРОЛЬ?
+9|HARASH|ХАРАШ
+10|A PATROL OF GIANTS LED BY A HUMAN FIGHTER|ПАТРУЛЬ ГИГАНТОВ, СВЯЗАННЫЙ БОРЬБОМ-ЧЕЛОВЕКОМ
+11|YOU SEE A|ВЫ ВИДИТЕ
+12|. THE LEADER SEES YOU. 'THAT'S THEM!'|. ЛИДЕР ВАС ВИДЕТ. 'ЭТО ОНИ!'
+13|THEY ADVANCE, WEAPONS READY|ОНИ ВПЕРЕДИ, ОРУЖИЕ ГОТОВО
+14|'WHAT ARE YOU DOING HERE?'|'ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?'
+15|THE LEADER ADVANCES.|ЛИДЕР ПРОДВИГАЕТСЯ.
+16|WHAT ARE YOU DOING HERE?|ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?
+17|'ALL RIGHT, THEN. WHAT IS TODAY'S PASSWORD?'|'ТОГДА ВСЕ В ПОРЯДКЕ. ЧТО ТАКОЕ СЕГОДНЯ ПАРОЛЬ?
+18|HARASH|ХАРАШ
+19|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+20| | 
+21|'I'M SORRY, SIR, THERE'S AN ALERT. |"Я ИЗВИНЯЮСЬ, СЭР, ЕСТЬ ТРЕВОГА.
+22|ON WHOSE AUTHORITY ARE YOU HERE?'|В КАКОЙ ВЛАСТИ ВЫ ЗДЕСЬ?
+23|TYRANTHRAXUS|ТИРАНТРАКС
+24|'WHAT? I THINK THESE SCUM ARE IMPOSTERS!'|'КАКИЕ? Я ДУМАЮ, ЭТИ ПОДНИЗЬИ - САМОУБИЛЬНИКИ!
+25|'WELL BOYS, I THINK WE HAVE THE INTRUDERS HERE. GET THEM!'|"НУ, МАЛЬЧИКИ, Я ДУМАЮ, У НАС ЗДЕСЬ ЕСТЬ ИНТРУДЕРЫ. ВЗЯТЬ ИХ!'
+26|YOU OVERHEAR THE MAGE TELL HIS COMPANION, 'HOW MUCH LONGER MUST WE WAIT BEFORE ASSAULTING PHLAN. I AM EAGER TO BECOME A BARON.'|ВЫ СЛЫШИВАЕТЕ МАГА, СКАЗЫВАЮЩЕГО СВОЕМУ СОТРУДНИКУ: "НАМНОГО ДАЛЬШЕ МЫ ДОЛЖНЫ ЖДАТЬ, ПРЕЖДЕ ЧЕМ НАПРЯЖАТЬ НА ФЛАН". Я ЕЩЕ БОЛЬШЕ СТАТЬ БАРОНОМ ".
+27|THEY SEEM UNAWARE OF YOU.|ОНИ НЕ ЗНАЮТ ВАС.
+28|YOU OVERHEAR THE FIGHTER TELL THE MAGE, 'YOU BETTER WATCH YOUR TALK. THE LAST GUY WHO GAVE THE BOSS LIP WAS THROWN THROUGH THE TRAPDOOR TO THE MEDUSA!'|ВЫ СЛЫШАНЕ БОЙЦА СКАЗЫВАЕТ МАГУ: "ЛУЧШЕ СМОТРИТЕ СВОЙ РАЗГОВОР. ПОСЛЕДНИЙ ПАРЕНЬ, КОТОРЫЙ СКРЫЛ ГУБЫ БОССА, ПРОБИЛСЯ ЧЕРЕЗ ЛОВУШКУ НА МЕДУЗУ! '
+29|THEY SEEM UNAWARE OF YOU.|ОНИ НЕ ЗНАЮТ ВАС.
+30|A GROUP OF BUGBEARS APPROACH. 'THROW DOWN YOUR WEAPONS!'|ГРУППА ЖИВОТНЫХ ПОДХОДОВ. "БРОСЬТЕ СВОЕ ОРУЖИЕ!"
+31|FLEE|БЕЖАТЬ
+32|SURRENDER|СДАВАТЬСЯ
+33|ATTACK|АТАКА
+34|BEFORE YOU IS STOJANOW GATE. THIS ANCIENT EDIFICE IS BUILT ACROSS THE BEND OF THE RIVER, THUS ISOLATING THE OLD TOWN AND THE CASTLE FROM THE REST OF THE CITY.|ПЕРЕД ВАМИ СТОЯНОВСКИЕ ВОРОТА. ЭТО ДРЕВНЕЕ СТРОИТЕЛЬСТВО ПОСТРОЕНО НА ИЗЛУЧЕНИИ РЕКИ, ЭТО ИЗОЛИРУЯ СТАРЫЙ ГОРОД И ЗАМОК ОТ ОСТАЛЬНОЙ ЧАСТИ ГОРОДА.
+35|THE MAIN WALL RISES 30 FEET WHILE THE TWO WATCHTOWER RISE TO 50 FEET. LOUNGING AROUND THE ENTRANCE ARE A GROUP OF BUGBEARS.|ГЛАВНАЯ СТЕНА ПОДНИМАЕТСЯ НА 30 ФУТОВ, В то время как ДВЕ СТОРОЖЕВЫЕ БАШНИ ПОДНИМАЮТСЯ НА 50 ФУТОВ. ВОКРУГ ВХОДА РАССЕЛЯЕТСЯ ГРУППА ЖИВОТНЫХ.
+36|BEFORE THE GATE YOU CAN MAKE OUT A MAN WITH A WAGON OF GOODS WHO IS TALKING TO TWO OF THE BUGBEARS. THE MAN HANDS SOMETHING TO THE BUGBEARS AND THE GATES OPEN.|ПЕРЕД ВОРОТАМИ ВЫ МОЖЕТЕ ВЫСТУПИТЬ ЧЕЛОВЕКА С ТОВАРОМ, КОТОРЫЙ ГОВОРИТ С ДВУМЯ ЖУЖИНАМИ. ЧЕЛОВЕК что-то протягивает к жукам, и ворота открываются.
+37|A BUGBEAR WALKS UP TO YOU. 'OKAY, LETS HAVE THE 15 GOLD.' DO YOU PAY HIM?|К ВАМ ПОДХОДИТ БУГБАР. "Ладно, давайте возьмем 15 золотых". ВЫ ПЛАТИТЕ ЕМУ?
+38|'ALL RIGHT, GET OUT OF HERE THEN. COME BACK WHEN YOU'VE LEARNED THE RULES.'|"Все в порядке, УБИРАЙТЕСЬ ОТ ЗДЕСЬ ТОГДА". ВЕРНУЙТЕСЬ, КОГДА ВЫ ИЗУЧИЛИ ПРАВИЛА ".
+39|BUGBEARS WERE WAITING ON THE OTHER SIDE OF THE GATE.|НА ДРУГОМ СТОРОНЕ ВОРОТ ЖДАЛИ БУГБАРЫ.
+40|A MAN DRIVING A WAGON FULL OF FOOD AND EQUIPMENT STARTS TO DRIVE PAST YOU, GOING NORTH.|ЧЕЛОВЕК, ВЕДУЩИЙ Фургон, полный еды и снаряжения, начинает проезжать мимо вас, двигаясь на север.
+41|'WHY SURE I'LL SELL YOU MY WAGON. ALL IT'LL COST YOU IS 250 GOLD PIECES. HOW ABOUT IT?'|ПОЧЕМУ Я ПРОДАМ ВАМ МОЙ ВАГОН. ВСЕ ЭТО СТОИМОСТЬ 250 ЧАСТЕЙ ЗОЛОТА. КАК ОБ ЭТОМ?
+42|'SORRY, THAT'S MY FINAL OFFER. TAKE IT OR LEAVE IT.|ИЗВИНИТЕ, ЭТО МОЕ ОКОНЧАТЕЛЬНОЕ ПРЕДЛОЖЕНИЕ. ВОЗЬМИ ЭТО ИЛИ ОСТАВЬ.
+43|TAKE IT|ВОЗЬМИ ЭТО
+44|LEAVE IT|ОСТАВЬ ЭТО
+45|'PLEASURE DOING BUSINESS WITH YOU. HERE'S YOUR WAGON.'|"УДОВОЛЬСТВИЕ ВЕДЕНИЯ БИЗНЕСА С ВАМИ. ВОТ ВАШ ВАГОН.
+46|'OH, BY THE WAY. BETTER BEWARE OF THE GUARDS. EVER SINCE THE GIANTS MOVED INTO THE CASTLE AREA, BUGBEARS HAVE BEEN STUCK GUARDING THE GATE. AND THEY HATE IT.'|'О, И КСТАТИ. ЛУЧШЕ ОСТЕРЕГАЙТЕСЬ ОХРАНЫ. С тех пор, как великаны перебрались на территорию замка, у ворот застряли жуки. И ОНИ НЕНАВИЖУ.
+47|'NOT ONLY THAT THEY'RE AFRAID OF THEM ETTIN. MAKES 'EM REAL JUMPY. WOULDN'T GIVE 'EM NO BACK TALK IF I WERE YOU.'|'НЕ ТОЛЬКО ТО, ЧТО ОНИ БОЯТСЯ ИХ, ЭТТИН. ДЕЛАЕТ ЭМ НАСТОЯЩИМ прыгающим. Я БЫЛ ВАМИ, БЫЛ ТЫ.
+48|A GROUP OF MONSTERS IS WAITING ON THE OTHER SIDE OF THE WALL|ГРУППА МОНСТРОВ ЖДЕТ НА ДРУГОМ СТОРОНЕ СТЕНЫ.
+49|THEY RUSH TOWARD YOU|ОНИ МНЯТ ВАС
+50|AN ALARM STARTS RINGING!|ТРЕВОГА НАЧИНАЕТ ЗВОНИТЬ!
+51|WITH A NOD OF THE HEAD YOU ARE LEFT ALONE.|Кивнув головой, вы остаетесь одни.
+52|AN ALARM IS SOUNDING.|ЗВУКАЕТ СИГНАЛ ТРЕВОГИ.
+53|YOU ENTER A GUARD ROOM. THERE ARE TABLES, CHAIRS, AND BEDS HERE. ALL BUT TWO OF THE BEDS ARE 14 FEET LONG!|ВЫ ВОЙДЕТЕ В КОМНАТУ ОХРАНЫ. ЗДЕСЬ ТАБЛИЦЫ, СТУЛЬЯ И КРОВАТИ. ВСЕ, НО ДВЕ КРОВАТИ ДЛИНЫ 14 ФУТОВ!
+54|THERE ARE TWO HUMANS AND THREE ETTIN IN THE ROOM.|В НОМЕРЕ ДВА ЧЕЛОВЕКА И ТРИ ЭТТИНА.
+55|A VOICE FROM THE TOWER YELLS 'STAY AWAY FROM THE WALL!'|ГОЛОС ИЗ БАШНИ КРИЧИТ: "Держитесь подальше от стены!"
+56|A VOICE YELLS DOWN, 'WE SAID STAY AWAY FROM THE WALL. THAT INCLUDES THE TOWER!'|ГОЛОС КРИЧИТ: "МЫ СКАЗАЛИ держаться подальше от стены. ЧТО ВКЛЮЧАЕТ БАШНЮ! '
+57|THE GROUP OF BUGBEARS COME OVER, 'WE WARNED YOU! WHAT'S THE MATTER? CAN'T YOU UNDERSTAND COMMON? I GUESS I'LL HAVE TO TEACH YOU.' THE LEADER SWINGS AT YOU.|ГРУППА ЖИВОТНЫХ ПРИХОДИТ, "МЫ ПРЕДУПРЕЖДАЕМ ВАС! В чем дело? ВЫ НЕ МОЖЕТЕ ПОНЯТЬ ОБЩЕГО? Я ДУМАЮ, ЧТО Я ДОЛЖЕН ВАС НАУЧИТЬ. ЛИДЕР ЗАКАЧИВАЕТСЯ НА ВАС.
+58|ATTACK|АТАКА
+59|TAKE THE PUNCH|ПРИНИМАЙТЕ УДАР
+60|'NOW BEAT IT BEFORE WE GET SERIOUS.'|"СЕЙЧАС ПОБЕРИТЕ ЭТО, ЧЕМ МЫ СТАТЬ СЕРЬЕЗНЫМ".
+61|FROM ARROW SLITS IN THE TOWER ARE SHOT A COUPLE ARROWS.|ИЗ ПРОЕЛЕЙ СТРЕЛКИ В БАШНЕ ВЫПУСКАЮТСЯ ПАРЫ СТРЕЛКИ.
+62|THE BUGBEARS STRIP YOU OF ANYTHING REMOTELY VALUABLE AND SEND YOU ON YOUR WAY.|ЖИВОТНЫЕ ИЗБИРАЮТ ВАС ЛЮБОЙ ДИСТАНЦИОННОЙ ЦЕННОСТИ И ОТПРАВЛЯЮТ ВАМ ПУТЬ.
+63|'HEY, WAIT A MINUTE. THEY ARE IMPOSTERS! ALL RIGHT, THROW DOWN YOUR WEAPONS!'|"ЭЙ, ПОДОЖДИТЕ МИНУТУ. ОНИ ИМПОСТЕРЫ! ЛЕГКО, БРОСАЙТЕ СВОЕ ОРУЖИЕ!
+64|YES|ДА
+65|NO|НЕТ
+66| | 
+67|THE BUGBEAR TAKES THE MONEY AND THE GATE OPENS. YOU PROCEED THROUGH.|ЖИВОТ ЗАБИРАЕТ ДЕНЬГИ, И ВОРОТА ОТКРЫВАЕТСЯ. ВЫ ПРОДОЛЖАЕТСЯ.
+68|YOU HAVE SLAIN THE GARRISON. NOW IF YOU CAN BUT SLAY THE OUTSIDE GUARDS QUICKLY BEFORE THE ENEMY ARRIVES THE GATE WILL BE YOURS!|ВЫ УБИЛИ ГАРНИЗОНА. ТЕПЕРЬ, ЕСЛИ ВЫ МОЖЕТЕ УБИТЬ НАРУЖНУЮ ЗАЩИТУ БЫСТРО, ДО ПРИБЫТИЯ ВРАГА, ВОРОТА БУДУТ ВАШИМИ!
+69|YOU QUICKLY KILL THE TRADER AND GRAB HIS WAGON.|ВЫ БЫСТРО УБИВАЕТЕ ТРЕЙДЕРА И ЗАХВАТЫВАЕТЕ ЕГО ВАГОН.
+70|YOU DON'T HAVE ENOUGH MONEY!|У ВАС НЕДОСТАТОЧНО ДЕНЕГ!
+71|'SORRY, YOU DON'T GOT THE MONEY, FRIEND. WELL SEE YOU AROUND.|ИЗВИНИТЕ, ДРУГ, ДЕНЬГИ ТЫ НЕ ПОЛУЧИЛ. ХОРОШО УВИДИМСЯ ВАС.
+72|MONSTERS ARE CHARGING TOWARD YOU FROM THE FAR TOWER. AT THE SAME TIME MONSTERS BURST ON YOU FROM THE TOWER NEXT TO YOU.|МОНСТРЫ НАПРЯГАЮТСЯ НА ВАС ИЗ ДАЛЬНЕЙ БАШНИ. В ЭТО ЖЕ ВРЕМЯ НА ВАС НАПАДАЮТСЯ МОНСТРЫ ИЗ БАШНЯ СЛЕДУЮЩИЙ.
+73|YOU HAVE TAKEN THE GATE! YOU OPEN THE GREAT PORTALS AS 20  HUMAN AND DEMI-HUMAN GUARDS IMMEDIATELY TAKE POSSESSION OF THE GUARD TOWERS.|ВЫ ВЗЯЛИ ВО ВРАТА! ВЫ ОТКРЫВАЕТЕ БОЛЬШИЕ ПОРТАЛЫ, КАК 20 ЧЕЛОВЕЧЕСКИХ И ПОЛУЧЕЛОВЕЧЕСКИХ ОХРАННИКОВ НЕМЕДЛЕННО ПРИНИМАЮТСЯ БАШНЯМИ ОХРАНЫ.
+74|MONSTERS THUNDER DOWN THE STEPS OF THE TOWER NEXT TO YOU.|МОНСТРЫ ГРОНУТ НА СТУПЕНЬ БАШНЯ СЛЕДУЮЩИЙ ОТ ВАС.
+75|MONSTERS ARE CHARGING TOWARD YOU FROM THE FAR TOWER.|МОНСТРЫ НАПРЯГАЮТСЯ НА ВАС ИЗ ДАЛЬНЕЙ БАШНИ.
+76|DO YOU WANT TO GO DOWNSTAIRS?|ВЫ ХОТИТЕ СПУСИТЬСЯ?
+77|FROM THE TOP OF THE GATE COMES A VOLLEY OF ROCKS.|С ВЕРХНИХ ВОРОТ ВЫХОДИТ КАМЕННЫЙ ПРОХОД.
+78|DO YOU WANT TO GO UPSTAIRS?|ВЫ ХОТИТЕ ПОЕХАТЬ НА ПОДРОБНЕЕ?
+79|YOU HAVE SLAIN THE GARRISON. NOW IF YOU CAN BUT SLAY THE OUTSIDE GUARDS QUICKLY BEFORE THE ENEMY ARRIVES THE GATE WILL BE YOURS!|ВЫ УБИЛИ ГАРНИЗОНА. ТЕПЕРЬ, ЕСЛИ ВЫ МОЖЕТЕ УБИТЬ НАРУЖНУЮ ЗАЩИТУ БЫСТРО, ДО ПРИБЫТИЯ ВРАГА, ВОРОТА БУДУТ ВАШИМИ!

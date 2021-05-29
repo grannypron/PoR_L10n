@@ -1,0 +1,52 @@
+﻿199|THE BOAT DISEMBARKS YOU AT SOKAL KEEP.|ЛОДКА РАЗБИРАЕТ ВАС НА SOKAL KEEP.
+200|DO YOU WANT TO TAKE A BOAT BACK TO PHLAN?|ХОТИТЕ ВЕРНУТЬСЯ НА ЛОДКУ НА ФЛАН?
+201|YOU BOARD A BOAT.|ВЫ садитесь на лодку.
+202|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+203|AN UNDEAD PATROL CONFRONTS YOU.  DO YOU GIVE THE PASSWORD?|НЕМЕРТЫЙ ПАТРУЛЬ ПРЕПЯТСТВУЕТ ВАМ. ВЫ ДАЕТЕ ПАРОЛЬ?
+204|A PACK OF UNDEAD SUDDENLY APPEARS.|ВНЕЗАПНО ПОЯВЛЯЕТСЯ ПАКЕТ НЕМЕРТЫХ.
+205|WHAT DO YOU SAY? (TYPE A SINGLE WORD)|ЧТО ТЫ ГОВОРИШЬ? (НАПИСАТЬ ЕДИНОЕ СЛОВО)
+206|YES|ДА
+207|NO|НЕТ
+208|THE UNDEAD LEAVE.|НЕМЕРТЫЙ ЛИСТЬЕВ.
+209|THE SKELETON OF A LONG-DEAD ELF LIES HIDDEN BY ROCKS AND REEDS.  ITS WEAPONS AND EQUIPMENT ARE BADLY RUSTED AND CORRODED BY SALT, ITS LEATHERS ARE WORM EATEN AND CRUSTED IN DIRT.|СКЕЛЕТ ДОЛГОМЕРТВОГО ЭЛЬФА, СКРЫТОЙ КАМНЯМИ И ТРОСТИНЯМИ. ЕГО ОРУЖИЕ И ОБОРУДОВАНИЕ СЛОЖНО РЖАВЧЕНЫ И ИСПОЛЬЗУЮТСЯ СОЛИ, ЕГО КОЖИ ЕСТЬ ЧЕРВЬЯ И ОБОРУДОВАНЫ ГРЯЗЬЮ.
+210|IN A POUCH ON THE REMAINS IS A CRUMBLING PARCHMENT SCROLL WITH THE WORDS ...|В ЧАШКЕ ОСТАЕТСЯ КРОШКА ПЕРГАМЕНТОВ СО СЛОВАМИ ...
+211|YOU STAND BELOW THE ROTTING REMAINS OF THE ONCE-MIGHTY GATES OF SOKAL KEEP.|ВЫ стоите ниже гниющих останков могучих ворот SOKAL KEEP.
+212| ECHOING FOOTSTEPS ARE DIMLY HEARD WITHIN THE KEEP.  TO THE WEST RISES A MOUND OF REEDS.| ЭХОТОВЫЕ ШАГИ ТУМНО СЛЫШАЮТ НА КРЕПЕЖЕ. НА ЗАПАД Восходит Тростник.
+213|UNWHOLESOME MOLD AND FUNGI COVER THE DECAYING RUINS OF THE KEEP'S STABLE.  A PUTRID SMELL OF SICKNESS RISES AS YOU ENTER THE BUILDING.|НЕБЕЗОПАСНАЯ ПЛЕСЕНЬ И ГРИБКИ ЗАКРЫВАЮТ РАЗРУШАЮЩИЕСЯ РАЗВАЛЫ ХРАНИЛИЩА. ПОЛУЧЕНИЕ ЗАПАХА БОЛЕЗНИ ПОДНИМАЕТСЯ, КАК ВЫ ВОЙДИТЕ В ЗДАНИЕ.
+214|A THICK CARPET OF FUNGUS COVERS THE FLOOR OF THIS ROOM.|ТОЛСТЫЙ КОВЕР ГРИБОВ ПОКРЫВАЕТ ПОЛ ЭТОЙ КОМНАТЫ.
+215|A BROKEN HEARTH AND BELLOWS DOMINATES THE COLLAPSED REMAINS OF A BLACKSMITH'S SHOP.  THE FLOOR IS SPONGEY AND DAMP.  THE CROAKING OF FROGS GREETS YOUR ENTRY.|СЛОМАННОЕ СЕРДЦЕ И СИЛЫ доминируют над Свернутыми ОСТАВЛЯМИ КУЗНИЦА. ПОЛ ГУБЧАТЫЙ И ВЛАЖНЫЙ. ВАШ ВХОД ПРИВЕТСТВУЕТ КРЕЩЕНИЕ ЛЯГУШЕК.
+216|THIS BUILDING IS FILLED WITH BROKEN AND SPLINTERED WOOD, THE REMAINS OF THE BUNKS AND CHESTS OF THE ORIGINAL DEFENDERS.  IT SEEMS EVERYTHING HAS BEEN WELL LOOTED.|ДАННОЕ ЗДАНИЕ ЗАПОЛНЕНО СЛОМАННЫМ И ОБРЕЗАННЫМ ДРЕВЕСИКОМ, ОСТАВШИЛИСЯ НАРЫ И СУНДУКИ ОРИГИНАЛЬНЫХ ЗАЩИТНИКОВ. Кажется, все было хорошо разграблено.
+217|THE INTERIOR IS OVERRUN WITH INSECTS.  AT YOUR FOOTSTEP, THEY FALL FROM THE WALLS AND CEILING.|ИНТЕРЬЕР ЗАПОЛНЕН НАСЕКОМЫМИ. ОНИ ВЫПАДАЮТ СО СТЕНЫ И ПОТОЛКА.
+218|A LOUD COMMOTION RISES FROM THE COURTYARD.  BASHING OPEN THE DOOR, A LARGE FORCE OF ORCS AND HOBGOBLINS RUSHES YOU.|ГРОМКОЕ СОВЕЩАНИЕ поднимается со двора. ОТКРЫВАЯ ДВЕРЬ, БОЛЬШАЯ СИЛА ОРКОВ И ХОБГОБЛИНОВ БРОСАЕТ ВАС.
+219|YOU ENTER THE KEEP'S OLD ARMORY.  ALL OF THE WEAPONS AND ARMOR HAVE DECAYED INTO USELESSNESS.|ВЫ ВОЙДИТЕ В СТАРУЮ АРМАТУРУ ХРАНИЛИЩА. ВСЕ ОРУЖИЕ И БРОНЯ БЫЛИ БЕСПОЛЕЗНЫ.
+220|THIS WAS ONCE THE CHAPEL OF THE KEEP.  INSIDE THE DOORWAY ARE THE DRIED HUSKS OF TWO ORCS, THEIR FACES TWISTED WITH TERROR.  A LARGE ALTAR DOMINATES THE SOUTHERN WALL.|ЭТО БЫЛА ОДИН РАЗ ЧАСОВНЯ ХРАНИ. ВНУТРИ ДВЕРНОГО ПРОЕМА - СУХИЕ КОЛОДКИ ДВУХ ОРКОВ, ЛИЦА ИХ ОБЪЯВЛЕННЫМ ТЕРРОРОМ. БОЛЬШОЙ АЛТАР ДОМИНИРУЕТ ЮЖНУЮ СТЕНУ.
+221|A PALE FORM RISES BEFORE YOU.|Бледная форма поднимается перед вами.
+222|WHAT DO YOU SAY? (TYPE A SINGLE WORD)|ЧТО ТЫ ГОВОРИШЬ? (НАПИСАТЬ ЕДИНОЕ СЛОВО)
+223|PASSING THROUGH AN ILLUSIONARY WALL, YOU ENTER A PORTION OF THE KEEP THAT REMAINS UNTOUCHED BY TIME OR RAVAGING ARMIES. |ПРОХОДЯ ЧЕРЕЗ ИЛЛЮЗИОННУЮ СТЕНУ, ВЫ ВОЙДЕТЕ В ЧАСТЬ ХРАНИЛИЩА, ОСТАЮЩАЯСЯ НЕЗАМЕТНЫМ ВРЕМЕНЕМ ИЛИ РАЗРУШАЮЩИМИ АРМИЯМИ.
+224|THERE IS A GLOW IN THE NORTHWESTERN CORNER OF THE ROOM.|В СЕВЕРО-ЗАПАДНОМ УГЛЕ НОМЕРА СВЕТ.
+225|SPECIAL STANDS IN THE NORTHWESTERN CORNER HOLD EQUIPMENT.|СПЕЦИАЛЬНЫЕ СТЕНДЫ НА СЕВЕРО-ЗАПАДНОМ УГОЛКЕ ОБОРУДОВАНИЕ.
+226|AS YOU SEARCH THROUGH THE WRECKED SMITHY, YOU FIND THAT TIME HAS CRUMBLED EVERYTHING WITH THE EXCEPTION OF ONE OLD HAMMER.|ПОИСК ПО РАЗБИВШЕМУ СМИТИ, ВЫ ОБНАРУЖИВАЕТЕ, ЧТО ВРЕМЯ КРОШЛО ВСЕ, ЗА ИСКЛЮЧЕНИЕМ ОДНОГО СТАРОГО МОЛОТА.
+227| DO YOU TAKE IT?| ВЫ ПРИНИМАЕТЕ?
+228|ON STANDS ARE A SHIELD, A MACE, A SWORD, AND A SMALL SUIT OF CHAINMAIL.  THE EQUIPMENT HAS NOT BEEN TARNISHED BY THE PASSING YEARS. |НА СТЕНДАХ - ЩИТ, МАШИНА, МЕЧ И МАЛЕНЬКИЙ КОСТЮМ ЦЕПНОЙ ПОЧТЫ. ОБОРУДОВАНИЕ НЕ БЫЛО ЗАКОНЧЕНО.
+229|DO YOU TAKE IT?|ВЫ ПРИНИМАЕТЕ?
+230|THE HALL IS EMPTY, SAVE FOR SIGNS OF A RECENT BATTLE.|ЗАЛ ПУСТО, СОХРАНИТЕ ПРИЗНАКИ НЕДАВНЕГО БИТВА.
+231|YOU SEE THE PITIFUL REMAINS OF A DEAD ELF.  EVERYTHING OF VALUE HAS BEEN TAKEN OR DESTROYED.|Вы видите жалкие остатки мертвого эльфа. ВСЯ ЦЕННОСТЬ БЫЛА ПРИНЯТА ИЛИ УНИЧТОЖЕНА.
+232|WHAT DO YOU DO?|ЧТО ВЫ ДЕЛАЕТЕ?
+233|LEAVE|ПОКИНУТЬ
+234|SEARCH|ПОИСК
+235|ATTACK|АТАКА
+236|TALK|ГОВОРИТЬ
+237|THE ELF IS LONG DEAD.|Эльф давно умер.
+238|AN UNDEAD PATROL CONFRONTS YOU.  DO YOU GIVE THE PASSWORD?|НЕМЕРТЫЙ ПАТРУЛЬ ПРЕПЯТСТВУЕТ ВАМ. ВЫ ДАЕТЕ ПАРОЛЬ?
+239|A PACK OF UNDEAD SUDDENLY APPEARS.|ВНЕЗАПНО ПОЯВЛЯЕТСЯ ПАКЕТ НЕМЕРТЫХ.
+240|WHAT DO YOU SAY? (TYPE A SINGLE WORD)|ЧТО ТЫ ГОВОРИШЬ? (НАПИСАТЬ ЕДИНОЕ СЛОВО)
+241|THE CROAKING RISES IN VOLUME.|ГРОМКОСТЬ УВЕЛИЧИВАЕТСЯ.
+242|CROAK!|КВАКАТЬ!
+243|A MIST RISES AND THICKENS INTO NUMEROUS SHADOWING FIGURES.  FROM THESE FIGURES RISES A LOW MOANING.|Туман поднимается и сгущается, превращаясь в многочисленные тенистые фигуры. ОТ ЭТИХ ЦИФРОВ РАЗВИВАЕТСЯ НИЗКИЙ СТОН.
+244|GHOSTLY SHAPES SCREECH OUT A DREADFUL KEENING HOWL|Призрачные формы кричат ​​ужасным криком
+245|'WOE, WOOOE, OH WOE,' THE FIGURES CRY PITEOUSLY.|"УУ-У-У-У-У-У-У-У-У-У-У-У-У-У-У-У-У-у-у-у-у-у-у-у-у-у-у-у-у-у-у-у-у-у!
+246|BENEATH A FLOORBOARD YOU FIND SOME GEMS AND A FEW PAGES OF A DIARY.  YOU COPY THESE PAGES INTO YOUR JOURNAL AS ENTRY 3.|ПОД ПОЛОМ ВЫ НАЙДЕТЕ НЕКОТОРЫЕ ДРАГОЦЕННОСТИ И НЕСКОЛЬКО СТРАНИЦ ДНЕВНИКА. ВЫ КОПИРУЕТЕ ЭТИ СТРАНИЦЫ В СВОЙ ЖУРНАЛ В КАЧЕСТВЕ ЗАПИСИ 3.
+247|DO YOU TAKE THE GEMS?|ВЫ ПРИНИМАЕТЕ ДРАГОЦЕННОСТИ?
+248|YOU HACK THE BODY TO BITS.|ВЫ РАЗБИВАЕТЕ ТЕЛО.
+249|WHAT DO YOU SAY? (TYPE A SINGLE WORD).|ЧТО ТЫ ГОВОРИШЬ? (НАПИСАТЬ ЕДИНОЕ СЛОВО).
+250|ON A HOBGOBLIN BODY, YOU FIND A NOTE THAT YOU COPY INTO YOUR JOURNAL AS ENTRY 57.|НА ТЕЛЕ ХОБГОБЛИНА ВЫ НАХОДИТЕ ЗАПИСКУ, КОТОРУЮ КОПИРУЕТЕ В СВОЙ ЖУРНАЛ, КАК ЗАПИСЬ 57.

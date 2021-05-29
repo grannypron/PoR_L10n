@@ -1,0 +1,72 @@
+﻿255|BEFORE YOU LIES KUTO'S WELL.  IT IS A SOURCE OF WATER IN ALL SEASONS.|ПРЕЖДЕ ЧЕМ ТЫ ХОРОШО ЛЖИ КУТО. ЭТО ИСТОЧНИК ВОДЫ В ЛЮБОМ СЕЗОНЕ.
+256|YOU ARE SURROUNDED BY THE BANDIT BAND OF THE INFAMOUS NORRIS THE  GRAY.  'YOU DARE TO INVADE MY HALLS?', HE SNARLS. 'SURRENDER OR DIE!'|ВАС ОКРУЖАЕТ БАНДИТ-ГРУППА ИНФОРМАЦИОННОГО НОРРИСА СЕРОГО. "ВЫ СМЕЕТЕ ВТОРГАТЬСЯ В МОИ ЗАЛЫ?", ​​- рычит ОН. "Сдайся или умри!"
+257|WHAT DO YOU DO?|ЧТО ВЫ ДЕЛАЕТЕ?
+258|SURRENDER|СДАВАТЬСЯ
+259|FIGHT|БОРЬБА
+260|ON THE LEADER'S BODY, YOU FIND A CURIOUS MESSAGE THAT YOU PLACE IN YOUR JOURNAL AS ENTRY 50.|НА ТЕЛЕ ЛИДЕРА ВЫ НАХОДИТЕ ЛЮБОПЫТНОЕ СООБЩЕНИЕ, КОТОРОЕ РАЗМЕЩАЕТЕ В СВОЕМ ЖУРНАЛЕ В ЗАПИСИ 50.
+261|YOU HAVE DEFEATED THE DREADED BANDIT GANG AND RID PHLAN OF A GREAT EVIL.  THE HONEST SETTLERS WILL CHEER YOUR DEEDS!|ВЫ ПОБЕДИЛИ УЖАСНУЮ БАНДУ БАНДИТОВ И ИЗБАВЛЯЛИ ФЛАН ОТ ВЕЛИКОГО ЗЛА. Честные поселенцы БУДУТ ВАШИМИ ДЕЛАМИ ПОДДЕРЖАТЬ!
+262|YOU HAVE ALSO TAKEN POSSESSION OF A HIDEOUT IN WHICH YOU MAY REST UNDISTURBED FROM THE RIGORS OF YOUR QUESTING.|ВЫ ТАКЖЕ ПРИНИМАЕТЕ Укрытие, в котором вы можете отдыхать, не отвлекаясь от строгости вашего запроса.
+263|YOU ARE SURPRISED BY |ТЫ УДИВЛЕН
+264|MONSTERS FROM THE SURROUNDING BUILDINGS ATTACK YOU.|МОНСТРЫ ИЗ ОКРУЖАЮЩИХ ЗДАНИЙ НАПАДАЮТ НА ВАС.
+265|A BAND OF KOBOLDS CLIMBS FROM THE WELL AND ATTACKS.|ГРУППА КОБОЛДОВ ПОДНИМАЕТСЯ ОТ СКВАЖИНЫ И АТАКАЕТ.
+266|A BAND OF KOBOLDS CLIMBS FROM THE WELL BEHIND YOU AND ATTACKS.|ГРУППА КОБОЛДОВ ПОДНИМАЕТСЯ ИЗ-ЗА ВАС И НАПАДАЕТ.
+267|YOU WANDER IN THE PLAZA NEAR KUTO'S WELL.|ВЫ БУДЕТЕ ПО ПЛОЩАДИ ПОБЛИЗОСТИ КУТО.
+268|YOU SPOT A SMALL BAND OF SICKLY KOBOLDS CAREFULLY PICKING ITS WAY THROUGH THE RUBBLE.  WHEN THEY SPOT YOU, THEY STOP AND STARE IN SURPRISE.|ВЫ ОБНАРУЖИВАЕТЕ МАЛЕНЬКУЮ ПОЛОСКУ БОЛЬНЫХ КОБОЛДОВ, ВНИМАТЕЛЬНО ВЫБИРАЯ ЕЕ ЧЕРЕЗ РЕЗИНУ. КОГДА ОНИ ЗАНИМАЮТ ВАС, ОНИ останавливаются и смотрят в удивлении.
+269|THE KOBOLDS ARE TRYING TO SNEAK OFF.|КОБОЛДЫ ПЫТАЮТСЯ ОТКРЫТЬСЯ.
+270|A LIZARDMAN LEADS A PACK OF GIANT LIZARDS ON PATROL BEFORE A DOOR THAT HAS BEEN NAILED CLOSED.  SEEING YOU, THE MONSTERS ATTACK!|Ящерица ведет стаю гигантских ящериц на патруль перед дверью, которая была заколочена гвоздями. ВИДЯ ВАС, МОНСТРЫ НАПАДАЮТ!
+271|A WIDE-EYED WOMAN IS SEATED ON A RUG.  AT YOUR ENTRY, SHE STANDS. 'GREETINGS BOLD ONES, I HAVE LONG AWAITED YOUR COMING.  MY TIME HERE IS SHORT FOR THE WORLD ENTERS A NEW AGE.|ШИРОКОГЛАЗНАЯ ЖЕНЩИНА СИДЕНА НА КОВРИК. ПРИ ВАШЕМ ВХОДЕ ОНА СТОИТ. "ПРИВЕТСТВУЮЩИЕ, Я ДОЛГО ЖДАЛ ВАШЕГО ПРИБЫТИЯ. МОЕ ВРЕМЯ ЗДЕСЬ КОРОТКО - МИР вступает в новую эру.
+272|AN EVIL SPIRIT FROM AN UNHOLY POOL GUIDES YOUR ENEMIES. IT HIDES BEHIND A FAIR COUNTENANCE. BE NOT DECEIVED.' WITH THAT, THE WOMAN IS GONE.|ЗЛОЙ ДУХ ИЗ НЕЧЕСТНОГО БАССЕЙНА НАПРАВЛЯЕТ ВАШИХ ВРАГОВ. ЭТО СКРЫВАЕТСЯ ЗА СПРАВЕДЛИВОЙ СЧЁТНОСТЬЮ. НЕ ОБМАНЫВАЙТЕСЬ ". С ЭТИМ ЖЕНЩИНА УШЛА.
+273|NORTH WALL.|СЕВЕРНАЯ СТЕНА.
+274|SOUTH WALL.|ЮЖНАЯ СТЕНА.
+275|YOU PASS INTO HIDDEN CATACOMBS. THIS LARGE ROOM IS DIMLY LIT BY SPUTTERING TORCHES. THROUGH THE SMOKE YOU SEE CURTAINS HUNG TO COVER DOORWAYS.|ВЫ ПРОХОДИТЕ В СКРЫТЫЕ КАТАКОМБЫ. ЭТА БОЛЬШАЯ КОМНАТА ТЯГКО ОСВЕЩЕНА ФАКЕЛЯМИ. В ДУМЕ ВЫ ВИДЕТЕ ЗАВЕСЫ, ЗАКРЫВАЕМЫЕ, ЗАКРЫВАЕМЫЕ ДВЕРНЫМИ ПРОЕЗДАМИ.
+276|SOME MOVEMENT OCCURS IN THE ROOM'S FAR CORNER AND THEN A VOLLEY OF ARROWS TEARS INTO THE GROUP.|НЕКОТОРЫЕ ДВИЖЕНИЯ ПРОИСХОДИТ В ДАЛЬНЕМ УГЛУ КОМНАТЫ, И ПОТОМ ЗВОНОК СТРЕЛ СЛЁЗЫВАЕТ НА ГРУППУ.
+277|YOU HAVE FOUND THE BANDIT'S TREASURE.  DO YOU TAKE IT?|ВЫ НАШЛИ СОКРОВИЩЕ БАНДИТА. ВЫ ПРИНИМАЕТЕ?
+278|YOU GRAB THE LOOT.|ВЫ ХРАТИТЕ ЛУБОЙ.
+279|JUST ABOVE THE WATERLINE, A SECRET DOOR HAS BEEN LEFT AJAR IN THE SOUTH WALL OF THE WELL.  DO YOU WANT TO CLIMB UP THE RUNGS?|ПРОСТО НАД ВОДНОЙ ЛИНИЕЙ В ЮЖНОЙ СТЕНЕ СКВАЖИНА ОСТАЛАСЬ СЕКРЕТНАЯ ДВЕРЬ. ВЫ ХОТИТЕ ПОДНЯТЬСЯ ПО СТЕПЕНИ?
+280|YOU MAKE THE LONG, ARDUOUS CLIMB UP THE WELL.|ВЫ ПРОДОЛЖАЙТЕ, ТРУДНО ЗАБРАСАТЬСЯ НА ДОБРО ПОЖАЛОВАТЬ.
+281|YOU ARE JUST |ВЫ ПРОСТО
+282| OF KUTO'S WELL.| КУТО ХОРОШО.
+283|A RAIN OF ARROWS POURS OVER YOU.|ДОЖДЬ СТРЕЛ НАХОДИТ НА ВАС.
+284|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+285|YOU ARE STRIPPED OF ALL VALUABLES AND BLINDFOLDED.  THE BANDITS RELEASE YOU SOMEWHERE ABOVE GROUND.|У ВАС ОГРАНИЧЕНЫ ВСЕ ЦЕННОСТИ И ОСВОБОЖДЕНЫ. БАНДИТЫ ВЫПУСКАЮТ ВАС ГДЕ-ТО НАД ЗЕМЛЕЙ.
+286|GNOLLS |GNOLLS
+287|KOBOLDS. |КОБОЛЬДЫ.
+288|LIZARDMEN. |Ящерицы.
+289|YOU ARE SUDDENLY FACE TO FACE WITH ARMED |ТЫ ВНЕЗАПНО ЛИЦОМ С ВООРУЖЕННЫМ
+290|YOU ARE BEING AVOIDED BY SOME |ВАС ИЗБЕГАЮТ НЕКОТОРЫЕ
+291|YOU HAVE SURPRISED A PARTY OF |ВЫ УДИВИЛИ ВЕЧЕРИНКУ
+292|YOU SPOT A SMALL BAND OF SICKLY KOBOLDS CAREFULLY PICKING ITS WAY THROUGH THE RUBBLE.  WHEN THEY SPOT YOU, THEY STOP AND STARE IN SURPRISE.|ВЫ ОБНАРУЖИВАЕТЕ МАЛЕНЬКУЮ ПОЛОСКУ БОЛЬНЫХ КОБОЛДОВ, ВНИМАТЕЛЬНО ВЫБИРАЯ ЕЕ ЧЕРЕЗ РЕЗИНУ. КОГДА ОНИ ЗАНИМАЮТ ВАС, ОНИ останавливаются и смотрят в удивлении.
+293|THE KOBOLDS ARE TRYING TO SNEAK OFF.|КОБОЛДЫ ПЫТАЮТСЯ ОТКРЫТЬСЯ.
+294|YOU SEE SOME BLOODTHIRSTY |ВЫ ВИДЕТЕ НЕКОТОРЫЕ КРОВИ
+295|YOU ARE SUDDENLY FACE TO FACE WITH ARMED |ТЫ ВНЕЗАПНО ЛИЦОМ С ВООРУЖЕННЫМ
+296|YOU ARE BEING AVOIDED BY SOME |ВАС ИЗБЕГАЮТ НЕКОТОРЫЕ
+297|YOU HAVE SURPRISED A PARTY OF |ВЫ УДИВИЛИ ВЕЧЕРИНКУ
+298|YOU SPOT A SMALL BAND OF SICKLY KOBOLDS CAREFULLY PICKING ITS WAY THROUGH THE RUBBLE.  WHEN THEY SPOT YOU, THEY STOP AND STARE IN SURPRISE.|ВЫ ОБНАРУЖИВАЕТЕ МАЛЕНЬКУЮ ПОЛОСКУ БОЛЬНЫХ КОБОЛДОВ, ВНИМАТЕЛЬНО ВЫБИРАЯ ЕЕ ЧЕРЕЗ РЕЗИНУ. КОГДА ОНИ ЗАНИМАЮТ ВАС, ОНИ останавливаются и смотрят в удивлении.
+299|THE KOBOLDS ARE TRYING TO SNEAK OFF.|КОБОЛДЫ ПЫТАЮТСЯ ОТКРЫТЬСЯ.
+300|RUNGS ARE SET IN THE SIDES OF THE WELL WALL.  DO YOU WANT TO CLIMB DOWN?|СТЕНЫ УСТАНАВЛИВАЮТСЯ ПО СТОРОНАМ СТЕНЫ СКВАЖИНА. ВЫ ХОТИТЕ СПАСАТЬСЯ?
+301|YOU SLOWLY CLIMB DOWN THE SLIPPERY RUNGS.|ВЫ МЕДЛЕННО СПУСКАЕТЕСЬ ПО СТЕПЕННЫМ СТЕПКАМ.
+302|THE KOBOLDS FAWN ON YOU PATHETICALLY.  'PLEASE, OH PLEASE NOBLE ONES, DON'T HURT US,' THEY BEG.  'WE WERE SENT ON A SCOUTING MISSION BY OUR KING.  RUMORS OF A WONDROUS POOL CAME TO HIM IN HIS LAIR.|КОБОЛЬДЫ НАХОДЯТСЯ НА ВАС ПАТОЛОГИЧЕСКИ. "ПОЖАЛУЙСТА, ОХ, ПОЖАЛУЙСТА, ДРАГОЦЕННЫЕ, НЕ УБИВАЙТЕ НАС", - УБИВАЛИ ОНИ. "НАС НАС НАШИМ КОРОЛЕМ НАСЫЛ НА РАЗВЕДКУ. СЛУХЫ О ЧУДЕСНОМ БАССЕЙНЕ дошли до него в его логове.
+303|WE ARE ALL THAT REMAINS OF THE MIGHTY BAND THAT WAS SENT WEST TO TEST THE TALES.  WE MEAN YOU NO HARM.  WE ONLY SEEK TO RETURN TO OUR FAMILIES.'  (WHAT DO YOU DO?)|МЫ ОСТАЛОСЬ ВСЕ, ЧТО ОСТАЛОСЬ ОТ МОГУЧЕГО БЕНДА, ПОСЛАННОГО НА ЗАПАД ДЛЯ ПРОВЕРКИ СКАЗОК. МЫ ЗНАЧАЕМ, ЧТО ВАМ НЕ ВРЕДА. МЫ СТРАМИМСЯ ТОЛЬКО В НАШИ СЕМЬИ ". (ЧТО ВЫ ДЕЛАЕТЕ?)
+304|RELEASE THEM?|ВЫПУСТИТЬ ИХ?
+305|FIGHT?|БОРЬБА?
+306|QUESTION THEM?|ВОПРОС ИМ?
+307|THE KOBOLDS COLLAPSE INTO A PATHETIC, MEWING HEAP. 'PLEASE, OH PLEASE DON'T HURT US,' THEY WAIL.  'WE KNOW NOTHING.  WE ARE POOR LOST SOULS LOOKING FOR OUR HOMES.' (WHAT DO YOU DO?)|КОБОЛЬДЫ ОБРАБАТЫВАЮТСЯ В ПАТЕТИЧЕСКУЮ, КРУПНУЮ ГОЛОВУ. "ПОЖАЛУЙСТА, ОН, ПОЖАЛУЙСТА, НЕ УБИВАЙТЕ НАС", - ВОЛИ ОНИ. "МЫ НИЧЕГО НЕ ЗНАЕМ. МЫ БЕДНЫЕ ПОТЕРЯННЫЕ ДУШИ ИЩЕМ НАШИ ДОМА ". (ЧТО ВЫ ДЕЛАЕТЕ?)
+308|RELEASE THEM?|ВЫПУСТИТЬ ИХ?
+309|FIGHT THEM?|БОРЬБА С НИМИ?
+310|THE KOBOLDS SCAMPER QUICKLY AWAY.  JUST BEFORE PASSING OUT OF SIGHT, ONE TURNS AND RAISES HIS HAND IN A GESTURE, AS IF TO WAVE FAREWELL.|КОБОЛЬДЫ БЫСТРО УБЕГАЮТ. ТОЛЬКО ПЕРЕД ВЫХОДОМ ИЗ ЗНАКА ОДИН поворачивается и поднимает руку в жесте, как если бы помахал на прощание.
+311|BENEATH A RUG YOU FIND A COMPARTMENT CONTAINING ARMS AND ARMOR.  DO YOU TAKE THEM?|ВЫ НАЙДЕТЕ ОТДЕЛЕНИЕ, СОДЕРЖАЩЕЕ ОРУЖИЕ И Доспехи. ВЫ ИХ ПРИНИМАЕТЕ?
+312|YOU FIND A SECRET DOOR IN THE |ВЫ НАХОДИТЕ СЕКРЕТНУЮ ДВЕРЬ В
+313|THROUGH THE SMOKE AND DARKNESS, A DIMLY SEEN FIGURE FIRES AN ARROW INTO THE PARTY.  THE FIGURE FADES AWAY.|ЧЕРЕЗ ДЫМ И ТЬМУ ТУМНО ВИДНАЯ ФИГУРА СТРЕЛЯЕТ СТРЕЛКУ В СТОРОНУ. Фигура исчезает.
+314|THROUGH THE SMOKE AND DARKNESS, A DIMLY SEEN FIGURE FIRES AN ARROW INTO THE PARTY.  THE FIGURE FADES AWAY.|ЧЕРЕЗ ДЫМ И ТЬМУ ТУМНО ВИДНАЯ ФИГУРА СТРЕЛЯЕТ СТРЕЛКУ В СТОРОНУ. Фигура исчезает.
+315|YES|ДА
+316|NO|НЕТ
+317|SOUTH|ЮГ
+318|WEST|ЗАПАД
+319|NORTH|К СЕВЕРУ
+320|EAST|ВОСТОК
+321|THE DOOR HAS BEEN NAILED SHUT.  WILL YOU FORCE IT OPEN?|ДВЕРЬ ЗАКРЫТА. ВЫ ПРИНУДИТЕ ЕЕ ОТКРЫТЬ?
+322|THE DOOR IS FREED.|ДВЕРЬ СВОБОДНА.
+323|YOU STUMBLE ON SOME WAITING KOBOLDS!|ВЫ НАКАЧИВАЕТЕСЬ НА НЕКОТОРЫХ ЖДУЩИХ КОБОЛДОВ!
+324|'WE HAVE TO KEEP THIS AREA FREE OF INTRUDERS -- BOSS'S ORDERS.  WE'LL LET YOU GO THIS TIME.  BUT IF YOU COME BACK, YOU'LL FACE BIG TROUBLE.' THE MONSTERS LEAVE.|"МЫ ДОЛЖНЫ БЕЗОПАСНЫМ В ЭТОМ ЗОНЕ ОТ ВНУТРЕННИХ ЗАКАЗОВ - ЗАКАЗОВ БОССА. НАСТОЯЩИЙ РАЗ. НО ЕСЛИ ВЫ ВОЗВРАЩАЕТЕСЬ ВЕРНУТЬСЯ, У ВАС БУДЕТ БОЛЬШАЯ ПРОБЛЕМА ". МОНСТРЫ УХОДЯТ.
+325|YOU HAVE OFFENDED THE |ВЫ ОШИБИЛИ
+326|THEY ATTACK.|ОНИ НАПАДАЮТ.

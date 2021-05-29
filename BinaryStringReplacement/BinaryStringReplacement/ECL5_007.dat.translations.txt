@@ -1,0 +1,63 @@
+﻿372|KNOWING THAT TYRANTHRAXUS HAS FINALLY BEEN DEFEATED, YOU LEAVE THE CASTLE. MOVING THROUGH THE STREETS YOU CATCH OCCASIONAL GLIMPSES OF MONSTERS IN HIDING. NONE ATTACK.|ЗНАЯ, ЧТО ТИРАНТРАКСУС НАКОНЕЦ ПОБЕДИЛ, ВЫ покидаете ЗАМОК. ДВИГАЯСЬ ПО УЛИЦАМ, ВЫ ИЗБЫВАЕТЕ ОТНОСИТЕЛЬНО МОНСТРОВ, КОТОРЫЕ СКРЫВАЕТСЯ. НЕТ АТАКИ.
+373|FINALLY YOU ENTER THE CIVILIZED AREA OF PHLAN.|НАКОНЕЦ ВЫ ВХОДИТЕ В ЦИВИЛИЗОВАННУЮ ЗОНУ ФЛАНА.
+374|YOU ARE IN AN EMPTY ROOM. THE ONLY FEATURE IS A TRAP DOOR IN THE CENTER. DO YOU OPEN IT?|ВЫ В ПУСТОЙ КОМНАТЕ. ЕДИНСТВЕННАЯ ОСОБЕННОСТЬ - ДВЕРЬ-ЛЮК В ЦЕНТРЕ. ВЫ ОТКРЫВАЕТЕ?
+375|WHO WILL OPEN IT?|КТО ОТКРЫВАЕТ?
+376|QUICKLY LOOKING AWAY, |БЫСТРО СМОТРЕТЬ,
+377| SAYS, 'I SAW BROKEN REMAINS OF STATUES... HEADS WITH FACES FULL OF TERROR.| ГОВОРИТ: "Я УВИДЕЛ СЛОМАННЫЕ ОСТАТКИ СОСТОЯНИЙ ... ГОЛОВЫ С ЛИЦАМИ, ПОЛНЫМИ УЖАСА.
+378|YOU ARE IN A ROOM FILLED WITH BROKEN STATUES. A HEAD BROKEN LOOSE FROM THE TORSO SHOWS A FACE FILLED WITH TERROR.|ВЫ В КОМНАТЕ, ЗАПОЛНЕННОЙ СЛОМАННЫМИ СТАТУЯМИ. Сломанная голова выходит из туловища, показывает лицо, наполненное ужасом.
+379|A MEDUSA COMES RUNNING TOWARD YOU.|К ВАМ ПРИБЕГАЕТ МЕДУЗА.
+380|YOU ARE IN A ROOM FURNISHED WITH CHAIRS AND BENCHES.|ВЫ НАХОДИТЕСЬ В КОМНАТЕ, ОБСТАНОВЛЕННОЙ СТУЛЬЯМИ И Скамейками.
+381| WAITING HERE IS A MAN PLAYING WITH A DAGGER.| ЖДЕТ ЧЕЛОВЕК, ИГРАЮЩИЙ С КИНЖАЛОМ.
+382| AS YOU COME IN HE NODS AT YOU.| КАК ВЫ входите, он кивает на вас.
+383|HE STARES MOODILY AT HIS FEET.|Он мрачно смотрит в ноги.
+384|'HEY LOOK, COULD YOU KEEP QUIET? I JUST GOT BACK FROM THE NORTH AND I'M TIRED. OKAY?' A MOMENT LATER A VOICE FROM CALLS FROM THE OTHER DOORWAY, 'MESSENGER!'|"ЭЙ ПОСМОТРИ, МОЖЕТЕ ЛИ ТЫ БЫТЬ ТИХИМ? Я только что вернулся с севера и устал. ХОРОШО?' МГНОВЕНИЕМ СПУСТЯ ГОЛОС ИЗ ЗВОНКОВ С ДРУГОГО ПОДЪЕМА: "МЕССЕНДЖЕР!"
+385|THE MAN GETS UP WITH A SIGH AND GOES INTO THE OFFICE. A MINUTE LATER HE COMES OUT PUTTING PAPERS INTO A POUCH AND GOES OUT THE DOOR. THE VOICE CALLS, 'MESSENGER!'|ЧЕЛОВЕК ВЗРЫВАЕТСЯ И УХОДИТ В ОФИС. МИНУТУ СПУСТЯ ОН ВЫХОДИТ, ЗАКЛАДЫВАЯ БУМАГИ В ЧАШКУ, И ВЫХОДИТ НА ДВЕРЬ. ГОЛОСОВЫЙ ЗОВЕТ: "ПОСЛАННИК!"
+386|YOU ENTER A ROOM FURNISHED AS THE APARTMENT OF A WEALTHY IF ECCENTRIC MERCHANT.|ВЫ входите в комнату, обставленную как квартира состоятельного продавца.
+387| A MIDDLE AGED MAN IN ROBES LOOKS UP FROM A DESK.| МУЖЧИНА СРЕДНЕГО ВОЗРАСТА В РОБАХ ВЫГЛЯДИТ ИЗ-ЗА СТОЛА.
+388|'SO WHAT MESSAGE FROM TYRANTHRAXUS REQUIRES ALL OF YOU TO DELIVER IT?'|"ТАК КАКОЕ СООБЩЕНИЕ ОТ ТИРАНТРАКСА ТРЕБУЕТСЯ ВСЕХ, ЧТОБЫ ДОСТАВИТЬ ЕГО?"
+389|'TELL AL-HYAM DHAZID TO EXECUTE PHASE 2 OF PLAN A. DISMISSED.'|"СКАЗАТЬ АЛЬ-ХАМУ ДАЗИДУ ВЫПОЛНИТЬ ФАЗУ 2 ПЛАНА A. ОТКЛОНЕН".
+390|LEAVE|ПОКИНУТЬ
+391|STAY|ОСТАТЬСЯ
+392|A SUDDEN LOOK OF FEAR COMES OVER HIS FACE. 'IF YOU'VE COME  FROM TYRANTHRAXUS I CAN OFFER A BETTER DEAL. IF YOU KILL HIM INSTEAD OF ME I WILL MAKE YOU ALL GENERALS!'|ВНЕЗАПНЫЙ ВЗГЛЯД СТРАХА НАХОДИТСЯ НА ЕГО ЛИЦЕ. "ЕСЛИ ВЫ ПРИШЛИ ОТ ТИРАНТРАКСА, Я МОГУ ПРЕДЛОЖИТЬ ЛУЧШУЮ СДЕЛКУ. ЕСЛИ ВЫ УБЬЕТЕ ЕГО ВМЕСТО МЕНЯ, Я СДЕЛАЮ ВАС ВСЕМИ ГЕНЕРАЛАМИ!
+393|'IN FACT I WILL JOIN YOU. IS IT A DEAL?'|"НА ФАКТЕ Я ПРИСОЕДИНЯЮСЬ К ВАМ. ЭТО СДЕЛКА?
+394|GOOD.|ХОРОШО.
+395|YOU ARE IN THE AUDIENCE HALL OF TYRANTHRAXUS, CONQUEROR OF PHLAN. THE CEILING HAS BEEN TORN AWAY LEAVING THE ENTIRE SECTION OF THE TOWER OPEN TO THE SKY.|ВЫ В АУДИТОРИИ ТИРАНТРАКСА, ЗАВОЕВАТЕЛЯ ФЛАНА. ПОТОЛОК ОТРЫВАЛСЯ, ОСТАВЛЯЯ ВЕСЬ СЕКЦИЮ БАШНИ ОТКРЫТЫМ ДЛЯ НЕБО.
+396|IN THE CENTER OF THE ROOM IS A GLOWING POOL. AN ANCIENT BRONZE DRAGON, SURROUNDED BY A FIERY AURA, RISES FROM WHERE IT WAS COILED NEARBY.|В ЦЕНТРЕ НОМЕРА СВЕТЯЩИЙСЯ БАССЕЙН. ДРЕВНИЙ БРОНЗОВЫЙ ДРАКОН, ОКРУЖЕННЫЙ ОГНЕННОЙ АУРОЙ, ВЫСТАВЛЯЕТСЯ ОТ ГДЕ, ОТКРЫТОЕ ПОБЛИЗОСТИ.
+397|TWO GUARDS MOVE TO BAR YOUR PATH. THE DRAGON LOOKS AT YOU WITH MALEVOLENCE. 'GUARDS, KILL THESE PESTS.'|ДВА ОХРАННИКА ПЕРЕДАЮТ ВАШУ ПУТЬ. ДРАКОН СМОТРИТ НА ВАС С ЗЛОУПОТРЕБЛЕНИЕМ. "ОХРАННИКИ, УБИВАЙТЕ ЭТИХ ВРЕДИТЕЛЕЙ".
+398|GENHEERIS|GENHEERIS
+399|PRESS BUTTON OR RETURN TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ ВОЗВРАТ, ЧТОБЫ ПРОДОЛЖИТЬ
+400| | 
+401|A SECRET DOOR IS FOUND |НАЙДЕНА ТАЙНАЯ ДВЕРЬ
+402|YES|ДА
+403|NO|НЕТ
+404| | 
+405|WITH A SCREAM OF HORROR |С КРИКОМ УЖАСА
+406| TURNS TO STONE.| ПРЕВРАЩАЕТСЯ В КАМЕНЬ.
+407| DO YOU WANT TO JUMP THROUGH THE TRAP DOOR?| ВЫ ХОТИТЕ ПРОЙТИ ЧЕРЕЗ ДВЕРЬ ЛОВУШКА?
+408|THE PARTY JUMPS DOWN THROUGH THE TRAP DOOR...|Партия прыгает через люк ...
+409|YOU ARE IN A ROOM FILLED WITH BROKEN STATUES. A HEAD BROKEN LOOSE FROM THE TORSO SHOWS A FACE FILLED WITH TERROR.|ВЫ В КОМНАТЕ, ЗАПОЛНЕННОЙ СЛОМАННЫМИ СТАТУЯМИ. Сломанная голова выходит из туловища, показывает лицо, наполненное ужасом.
+410|A MEDUSA COMES RUNNING TOWARD YOU.|К ВАМ ПРИБЕГАЕТ МЕДУЗА.
+411|THE THIEF SHOUTS 'BLASPHEMERS!' AND ATTACKS.|ВОР КРИЧИТ: "БЛАГОДАРЯ!" И АТАКИ.
+412|'IS IT A DEAL?|"ЭТО СДЕЛКА?
+413|'GOOD. I WILL NOTIFY SOME OTHERS. YOU GO KILL HIM.' HE QUICKLY GETS UP AND LEAVES THE ROOM.|'ХОРОШО. Я УВЕДОМЛЯЮ О НЕКОТОРЫХ ДРУГИХ. ВЫ ИДЕТЕ УБИТЬ ЕГО. ОН БЫСТРО встает и покидает комнату.
+414|THE DRAGON LOOKS AT YOU WITH INTEREST. 'YOU ARE INDEED MIGHTY WARRIORS. EVEN SO, THERE IS NO HOPE OF YOUR SUCCESS. BUT YOU INTEREST ME.'|ДРАКОН С ИНТЕРЕСОМ НА ВАС СМОТРИТ. "ВЫ НАДО МОГУЧИМЫЕ ВОИНЫ. ДАЖЕ НА ВАШ УСПЕХ НЕТ НАДЕЖДЫ. НО ВЫ МЕНЯ ИНТЕРЕСУЮТ.
+415|'IF YOU JOIN ME I WILL MAKE YOU THE COMMANDERS OF THE ARMIES THAT WILL SWEEP THE MOONSEA. I CAN NOT BE DEFEATED, YOU KNOW. WILL YOU JOIN ME?'|"ЕСЛИ ВЫ ПРИСОЕДИНЯЕТЕСЬ ко МНЕ, Я СДЕЛАЮ ВАС КОМАНДУЮЩИМИ АРМИЯМИ, КОТОРЫЕ УМЕТЬ ЛУНУ. Я НЕ МОГУ ПОБЕДИТЬ, ВЫ ЗНАЕТЕ. ТЫ ПРИСОЕДИНИШЬСЯ КО МНЕ?'
+416| HOW DO YOU VOTE?| КАК ВЫ ГОЛОСОВАТЬ?
+417|ATTACK|АТАКА
+418|JOIN TYRANTHRAXUS|ПРИСОЕДИНЯЙТЕСЬ К TYRANTHRAXUS
+419|THE DRAGON LOOKS AT YOU WITH INTEREST. 'YOU ARE INDEED MIGHTY WARRIORS. EVEN SO, THERE IS NO HOPE OF YOUR SUCCESS. BUT YOU INTEREST ME.'|ДРАКОН С ИНТЕРЕСОМ НА ВАС СМОТРИТ. "ВЫ НАДО МОГУЧИМЫЕ ВОИНЫ. ДАЖЕ НА ВАШ УСПЕХ НЕТ НАДЕЖДЫ. НО ВЫ МЕНЯ ИНТЕРЕСУЮТ.
+420|'IF YOU JOIN ME I WILL MAKE YOU THE COMMANDERS OF THE ARMIES THAT WILL SWEEP THE MOONSEA. I CAN NOT BE DEFEATED, YOU KNOW. WILL YOU JOIN ME?'|"ЕСЛИ ВЫ ПРИСОЕДИНЯЕТЕСЬ ко МНЕ, Я СДЕЛАЮ ВАС КОМАНДУЮЩИМИ АРМИЯМИ, КОТОРЫЕ УМЕТЬ ЛУНУ. Я НЕ МОГУ ПОБЕДИТЬ, ВЫ ЗНАЕТЕ. ТЫ ПРИСОЕДИНИШЬСЯ КО МНЕ?'
+421| HOW DO YOU VOTE?| КАК ВЫ ГОЛОСОВАТЬ?
+422|ATTACK|АТАКА
+423|JOIN TYRANTHRAXUS|ПРИСОЕДИНЯЙТЕСЬ К TYRANTHRAXUS
+424|DO YOU WANT TO GO DOWN THESE STAIRS?|ВЫ ХОТИТЕ СПУСИТЬСЯ ПО ЭТИМ ЛЕСТНИЦАМ?
+425|DO YOU WANT TO GO UP THESE STAIRS?|ВЫ ХОТИТЕ ПОДНЯТЬСЯ ПО ЭТИМ ЛЕСТНИЦАМ?
+426|IN FRONT OF YOU.|ПЕРЕД ТОБОЙ.
+427|TO YOUR LEFT.|СЛЕВА.
+428|BEHIND YOU.|ЗА ТОБОЙ.
+429|TO YOUR RIGHT.|НА ВАШЕ ПРАВО.
+430|KNOWING THAT TYRANTHRAXUS HAS FINALLY BEEN DEFEATED, YOU LEAVE THE CASTLE. MOVING THROUGH THE STREETS YOU CATCH OCCASIONAL GLIMPSES OF MONSTERS IN HIDING. NONE ATTACK.|ЗНАЯ, ЧТО ТИРАНТРАКСУС НАКОНЕЦ ПОБЕДИЛ, ВЫ покидаете ЗАМОК. ДВИГАЯСЬ ПО УЛИЦАМ, ВЫ ИЗБЫВАЕТЕ ОТНОСИТЕЛЬНО МОНСТРОВ, КОТОРЫЕ СКРЫВАЕТСЯ. НЕТ АТАКИ.
+431|FINALLY YOU ENTER THE CIVILIZED AREA OF PHLAN.|НАКОНЕЦ ВЫ ВХОДИТЕ В ЦИВИЛИЗОВАННУЮ ЗОНУ ФЛАНА.
+432|GENHEERIS|GENHEERIS
+433|KNOWING THAT TYRANTHRAXUS HAS FINALLY BEEN DEFEATED, YOU LEAVE THE CASTLE. MOVING THROUGH THE STREETS YOU CATCH OCCASIONAL GLIMPSES OF MONSTERS IN HIDING. NONE ATTACK.|ЗНАЯ, ЧТО ТИРАНТРАКСУС НАКОНЕЦ ПОБЕДИЛ, ВЫ покидаете ЗАМОК. ДВИГАЯСЬ ПО УЛИЦАМ, ВЫ ИЗБЫВАЕТЕ ОТНОСИТЕЛЬНО МОНСТРОВ, КОТОРЫЕ СКРЫВАЕТСЯ. НЕТ АТАКИ.
+434|FINALLY YOU ENTER THE CIVILIZED AREA OF PHLAN.|НАКОНЕЦ ВЫ ВХОДИТЕ В ЦИВИЛИЗОВАННУЮ ЗОНУ ФЛАНА.

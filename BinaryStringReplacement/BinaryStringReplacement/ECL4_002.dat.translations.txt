@@ -1,0 +1,114 @@
+﻿1|YOU ARE ENTERING A WEEDY, GARBAGE STREWN COURTYARD. A DRUM BEGINS TO BEAT AND HOBGOBLINS ATTACK.|ВЫ ВХОДИТЕ НА СЛОЖНЫЙ, ПОЛОЖЕННЫЙ МУСОР ДВОР. БАРАБАН НАЧИНАЕТ БИТЬ И ХОБГОБЛИНЫ АТАКУЮТ.
+2|THINGS SEEM STRANGELY QUIET. THE DRUM HAS FADED TO SILENCE.|Вещи кажутся странно тихими. БАРАБАН ПРИМолчал.
+3|THIS CAVERNOUS BUILDING SERVES AS A BARRACKS.|ЭТО ПОМЕЩЕННОЕ ЗДАНИЕ СЛУЖИТ БАРРАКОМ.
+4|YOU ARE APPALLED BY THE STENCH IN THIS DAMP BUILDING.|ВАС ПРИВЕТСТВУЕТ ШТОР В ЭТОМ ВЛАЖНОМ ЗДАНИИ.
+5|YOU ARE IN A DETERIORATED BUILDING.|ВЫ НАХОДИТЕСЬ В ОБЛАСТИ ЗДАНИЯ.
+6|WHEN YOU ENTER, A FEW FADED, MOTHEATEN TAPESTRIES FLUTTER MOURNFULLY.|КОГДА ВЫ входите, несколько потускневших матерых гобеленов уныло трепещут.
+7|SEVERAL BABY HOBGOBLINS FLEE, SCREAMING IN FEAR!|НЕСКОЛЬКО МЛАДЕНЦЕВ-ХОБГОБЛИНОВ БЕГАЮТ, КРИКАЯ ОТ СТРАХА!
+8|THE FLOOR IS SLIPPERY FROM DUNG AND REEKS OF URINE.|ПОЛ скользкий от навоза и пахнет мочой.
+9|'SKULLCRUSHER WAS HERE' IS CARVED INTO THE NORTH WALL.|НА СЕВЕРНОЙ СТЕНЕ ВЫРЕЗАНО "ЗДЕСЬ ЧЕРЕПОДКАТЧИК".
+10| SKULLCRUSHER PROUDLY POINTS OUT HIS HANDIWORK.| SKULLCRUSHER ГОРДО УКАЗЫВАЕТ СВОЮ РУЧНУЮ РАБОТУ.
+11|GRAFFITI COVERS THE WALLS IN MEANINGLESS ABANDON.|GRAFFITI ЗАКРЫВАЕТ СТЕНЫ БЕССМЫСЛЕННЫМ ЗАБРОСОМ.
+12|YOU CAN BARELY SEE A DARK OBJECT TO THE WEST.|ЕДИНСТВЕННО ВИДЕТЬ ТЕМНЫЙ ОБЪЕКТ НА ЗАПАД.
+13|YOU SEE A DEAD HOBGOBLIN WITH ITS HEAD CRUSHED. WRITTEN IN BLOOD IS A MESSAGE: 'SKULLCRUSHER WAS HERE.'|ВЫ ВИДИТЕ МЕРТВОГО ХОБГОБЛИНА С РАЗМОЛЕННОЙ ГОЛОВОЙ. НАПИСАНО КРОВЬЮ СООБЩЕНИЕ: "ЗДЕСЬ БЫЛ ДРОБИТЕЛЬ ЧЕРЕПОВ".
+14|SKULLCRUSHER LAUGHS AND CRACKS HIS KNUCKLES.|Череподробитель смеется и трещит костяшками пальцев.
+15|WHAT DO YOU DO WITH THE BODY?|ЧТО ТЫ ДЕЛАЕШЬ С ТЕЛОМ?
+16|SEARCH|ПОИСК
+17|DESTROY|РАЗРУШАТЬ
+18|LEAVE|ПОКИНУТЬ
+19|YOU FIND NOTHING OF ANY VALUE.|ВЫ НИЧЕГО НЕ НАЙДЕТЕ КАКОЙ-ЛИБО ЦЕННОСТИ.
+20|A SIMPLE KITCHEN, A FEW CLAY BOWLS ADORN THE FLOOR.|ПРОСТАЯ КУХНЯ, ПОЛ УКРАШЕНЫ НЕСКОЛЬКО ГЛИНЯНЫХ ЧАШЕЙ.
+21|THE REMAINS OF A SMOKING FIRE.|ОСТАЕТСЯ ДЫМЯЩИЙСЯ ОГОНЬ.
+22|BREAD AND MEAT LIE ABOUT, AS WELL AS PIECES OF HUMAN ANATOMY.|О ХЛЕБЕ И МЯСЕ ЛОЖЬ, А ТАКЖЕ, КАК ОБЪЕКТЫ АНАТОМИИ ЧЕЛОВЕКА.
+23|YOU ARE IN A VERY SMALL, DARK ROOM.|ВЫ В ОЧЕНЬ МАЛЕНЬКОЙ, ТЕМНОЙ КОМНАТЕ.
+24|A MUSCULAR MAN LOCKED IN CHAINS LIES HERE. NEAR HIM IS A PAGE THAT YOU PLACE IN YOUR JOURNAL UNDER ENTRY 47.|Мускулистый мужчина, запертый в цепях, находится здесь. РЯДОМ С НЕМ ЯВЛЯЕТСЯ СТРАНИЦЕЙ, КОТОРОЙ ВЫ РАЗМЕЩАЕТЕ В ВАШЕМ ЖУРНАЛЕ ПОД ЗАПИСЕЙ 47.
+25|WHAT DO YOU DO WITH THE MAN?|ЧТО ТЫ ДЕЛАЕШЬ С МУЖЧИНОЙ?
+26|FREE|БЕСПЛАТНО
+27|ATTACK|АТАКА
+28|PARLAY|ПАРЛАЙ
+29|LEAVE|ПОКИНУТЬ
+30|YOU ARE IN A LARGE ROOM WHICH SERVES AS A CRUDE TEMPLE, AND CAUSES A VAGUE FEELING OF DISQUIET.|ВЫ НАХОДИТЕСЬ В БОЛЬШОЙ КОМНАТЕ, КОТОРЫЕ СЛУЖАЕТ ГРОМКОГО ХРАМА И ВЫЗЫВАЕТ ЧУВСТВИТЕЛЬНОСТЬ ЧУВСТВА НЕПРЕРЫВНОСТИ.
+31|ATOP A SMALL BONE ALTAR, STANDS AN ANCIENT, HOBGOBLIN. SHE SCREAMS 'I AM THE MIGHTY GRISHNAK! YOU HAVE INTERRUPTED MY UNHOLY RITES! FEEL MY INFERNAL WRATH!'|АТОП МАЛЕНЬКИЙ КОСТНЫЙ АЛТАР, СТОИТ ДРЕВНИЙ, ХОБГОБЛИН. ОНА КРИЧИТ: "Я МОГУЩЕСТВЕННЫЙ ГРИШНАК! ВЫ ПРЕРЫВАЛИ МОИ НЕЧЕСТНЫЕ ОБРЯДЫ! ПОЧУВСТВУЙ МОЙ адский гнев!
+32|THIS ROOM HAS HAD BLOOD SMEARED ON THE FLOOR AND WALLS IN A RITUAL, UNHOLY MANNER.|В ЭТОЙ НОМЕРЕ ИМЕЕТСЯ КРОВЬ НА ПОЛУ И СТЕНАХ ПО РИТУАЛЬНОМУ НЕЧАСТНЫМ ОБЫЧАМ.
+33|'IN THE EAST WALL IS THE SECRET DOOR.' SAYS SKULLCRUSHER.'IF WE GO THROUGH WE CAN SURPRISE THEM.'|"В ВОСТОЧНОЙ СТЕНЕ СЕКРЕТНАЯ ДВЕРЬ". ГОВОРИТ SKULLCRUSHER. "ЕСЛИ МЫ ПРОХОДИМ, МЫ МОЖЕМ ИХ УДИВИТЬ".
+34|THIS ROOM IS DIMLY LIT WITH GUTTERING TORCHES.|ДАННАЯ КОМНАТА ТУМНО ОСВЕЩЕНА ФАКЕРАМИ.
+35|YOU SEE THE CHIEF OF THE HOBGOBLINS, A HUGE OGRE. AS YOU ENTER, HE RISES TO HIS FULL, TEN FEET OF HEIGHT; HIS HEAD WREATHED IN THE FLICKERING SHADOWS.|ВЫ ВИДЕТЕ НАЧАЛЬНИКА ХОБГОБЛИНОВ, ОГРОМНОГО ОГРА. Когда вы входите, он поднимается в ДЕСЯТЬ ФУТОВ ВЫСОТЫ; Его голова плыла в мерцающих тенях.
+36|'PUNY CREATURES,' HE BELLOWS.'I ALLOWED YOU TO TOY WITH MY MINIONS, BUT NOW I'LL CRUSH THE LIFE FROM YOUR LIMBS.'|"PUNY CREATURES", - СООБЩАЕТ ОН, - "Я РАЗРЕШАЮ ВАМ ИГРАТЬ С МОИМИ МИНЬОНАМИ, НО СЕЙЧАС Я РАЗРУШЬ ЖИЗНЬ ВАШИМИ КОНЕЧНОСТЯМИ".
+37|YOU FIND AN IRON BOX, ACROSS THE LOCK IS THE SEAL OF THE FAMILY OF CADORNA. OPENING THE BOX WILL DAMAGE THE SEAL BEYOND REPAIR. WHAT DO YOU DO?|ВЫ НАХОДИТЕ ЖЕЛЕЗНЫЙ ЯЩИК, ЧЕРЕЗ ЗАМОК НАХОДИТСЯ ПЕЧАТЬ СЕМЬИ КАДОРНА. ОТКРЫТИЕ КОРОБКИ ПРИВЕСТИ К ПОВРЕЖДЕНИЮ УПЛОТНЕНИЯ. ЧТО ВЫ ДЕЛАЕТЕ?
+38|OPEN IT|ОТКРОЙ ЭТО
+39|TAKE IT UNOPENED|ПРИНИМАЙТЕ ЭТО НЕОТКРЫТО
+40|YOU FIND A PAGE FROM A DIARY AND PLACE IT IN YOUR JOURNAL UNDER ENTRY 11.|ВЫ НАХОДИТЕ СТРАНИЦУ ИЗ ДНЕВНИКА И РАЗМЕЩАЕТЕ ЕЕ В СВОЕМ ЖУРНАЛЕ ПОД ЗАПИСЕЙ 11.
+41|ON THE WELL IS A NOTE,'THIEVES ONLY.' THE WELL HAS NO RUNGS OR ROPE AND SEEMS VERY DEEP. ONLY A SKILLFUL CLIMBER COULD SURVIVE THE DESCENT. WHAT DO YOU DO?|НА СКЛАДЕ НОТА "ТОЛЬКО ВОРЫ". У КОЛОДКИ НЕТ НИЖНЕЙ ВЕРЕВКИ И КАЖЕТСЯ ОЧЕНЬ ГЛУБОКОЙ. Выжить на спуске может только опытный альпинист. ЧТО ВЫ ДЕЛАЕТЕ?
+42|LEAVE|ПОКИНУТЬ
+43|CLIMB DOWN|СЛЕЗАТЬ
+44|WHO WILL CLIMB DOWN?|КТО СПАСИТСЯ?
+45|THAT ONE IS NOT WELL ENOUGH TO CLIMB.|ЭТОГО НЕДОСТАТОЧНО, чтобы подняться.
+46|EVIL LOOKING FROGS BOIL UP FROM BELOW.|ЗЛО СМОТРЕТЬ ЛЯГУШКИ КИПАТЬСЯ НИЖЕ.
+47|PRESS <RETURN> OR BUTTON TO CONTINUE.|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ.
+48|YOU ARE CHASED OUT INTO THE STREETS.|ВАС ВЫГОНЯЮТ НА УЛИЦЫ.
+49|YOU ENCOUNTER HOBGOBLINS!|ВЫ ВСТРЕЧАЕТЕ ХОБГОБЛИНЫ!
+50|THE HOBGOBLINS RESPOND WITH A PIERCING BATTLE CRY!|ХОБГОБЛИНЫ ОТВЕЧАЮТ БИТВЫМ КРИКОМ!
+51|SKULLCRUSHER|Дробилка Черепов
+52|YOU DESTROY EVERYTHING OF VALUE.|ВЫ УНИЧТОЖАЕТЕ ВСЮ ЦЕННОСТЬ.
+53|THERE IS A FREE MAN HERE. WHAT DO YOU DO?|ЗДЕСЬ СВОБОДНЫЙ ЧЕЛОВЕК. ЧТО ВЫ ДЕЛАЕТЕ?
+54|ATTACK|АТАКА
+55|WAIT|ЖДАТЬ
+56|FLEE|БЕЖАТЬ
+57|PARLAY|ПАРЛАЙ
+58|LEAVE|ПОКИНУТЬ
+59|HOW WILL YOU FREE HIM?|КАК ВЫ ОСВОБОДИТЕ ЕГО?
+60|UNLOCK|РАЗБЛОКИРОВАТЬ
+61|PICK LOCK|ВЫБРАТЬ ЗАМОК
+62|BREAK CHAINS|РАЗРЫВ ЦЕПИ
+63|LEAVE|ПОКИНУТЬ
+64|YOU HAVE NO KEY TO UNLOCK THE PADLOCKS.|У ВАС НЕТ КЛЮЧА ДЛЯ РАЗБЛОКИРОВКИ ЗАМКОВ.
+65|THE MAN DIES A CRUEL DEATH.|ЧЕЛОВЕК УМИРАЕТ ЖЕСТКОЙ СМЕРТЬЮ.
+66| 'WHATS YOUR PROBLEM?'| 'В ЧЕМ ТВОЯ ПРОБЛЕМА?'
+67|THE HOBGOBLINS GIVE CHASE, BUT YOU ESCAPE.|ХОБГОБЛИНЫ ДАЮТ УДАЧУ, НО ВЫ УБЕГАЕТЕ.
+68|YOU BEGIN A LONG FALL.|ВЫ НАЧИНАЕТЕ ДЛИТЕЛЬНУЮ ПАДЕНИЕ.
+69|HOBGOBLINS CHARGE SCREAMING.|ХОБГОБЛИНЫ ЗАРЯДНЫЙ КРИК.
+70|A SKELETAL FORCE SPOTS YOU AND ATTACKS.|СКЕЛЕТНАЯ СИЛА ОБЪЕДИНЯЕТ ВАС И НАПАДАЕТ.
+71|SOME GHOULS DECIDE TO ADD YOU TO THEIR MENU.|НЕКОТОРЫЕ ГУЛЫ РЕШАЮТ ДОБАВИТЬ ВАС В СВОЕ МЕНЮ.
+72|SCORPIONS APPROACH HUNGRILY.|СКОРПИОНЫ ПОДХОДЯТ ЖЕЛО.
+73|THE MAN WAITS IMPATIENTLY.|ЧЕЛОВЕК НОЖАЛЕНО ЖДЕТ.
+74|YOU FLEE THE ROOM.|ВЫ ВЫБЕГАЕТЕ ИЗ КОМНАТЫ.
+75|'THANKS FOR FREEING ME. I'M LORD CADORNA'S SERVANT.|СПАСИБО ЗА МЕНЯ ОСВОБОДИТЬ. Я СЛУГА ЛОРДА КАДОРНЫ.
+76|ADD HIM TO YOUR PARTY?|ДОБАВИТЬ ЕГО В СВОЮ ПАРТИЮ?
+77|YES|ДА
+78|NO|НЕТ
+79|THERE IS NO ROOM IN YOUR PARTY FOR HIM.|НА ВАШЕЙ ВЕЧЕРИНЕ НЕТ КОМНАТЫ ДЛЯ НЕГО.
+80|NO ONE IS ABLE TO PICK ALL THE PADLOCKS.|НИКТО НЕ МОЖЕТ ВЫБРАТЬ ВСЕ ЗАМКИ.
+81|DESPITE GREAT EFFORT, THE CHAINS HOLD.|НЕСМОТРЯ НА БОЛЬШИЕ УСИЛИЯ, ЦЕПИ ДЕРЖАТСЯ.
+82|THE BRASS KEY YOU FOUND OPENS ALL OF THE PADLOCKS.|НАЙДЕННЫЙ ЛАТУННЫЙ КЛЮЧ ОТКРЫВАЕТ ВСЕ НАВЕСНЫЕ ЗАМКИ.
+83| 'DON'T TRY TO FOOL ME.' HE GROWLS.| "НЕ ПЫТАЙТЕСЬ ОБУЧАТЬ МЕНЯ". Он рычит.
+84| 'I ALMOST KILLED THE LEADER OF THESE SCUMMY HOBGOBLINS, BUT THE REST JUMPED ME!'| "Я ПОЧТИ УБИЛ ЛИДЕРА ЭТИХ ПОДТЯННЫХ ХОБГОБЛИНОВ, НО ОТДЫХ НА МЕНЯ СКАЧАЛСЯ!"
+85| 'FREE ME AND I'LL HELP YOU.'| "ОСВОБОДИТЕ МЕНЯ, И Я ПОМОГУ ВАМ".
+86| 'WORDS DON'T BREAK CHAINS!' HE SNARLS.| "СЛОВАМИ НЕ РАЗРЫВАЙТЕ ЦЕПИ!" ОН ШИКАЛ.
+87|AN OLD THIEF STANDS HERE.'WELCOME TO MY GUILD. I AM RESTAL.' HE BOWS LOW.|СТАРИК ВОР СТОИТ. ДОБРО ПОЖАЛОВАТЬ В МОЮ ГИЛЬДЮ. Я ЕСМЬ РЕСТАЛ ". ОН НИЗКОГО ЛУКА.
+88|'WE CAN DUPLICATE THE SEAL ON THAT CHEST -- FOR HALF THE TREASURE -- NO ONE WILL EVER KNOW. INTERESTED?'|"МЫ МОЖЕМ ДУБЛИРОВАТЬ ПЕЧАТЬ НА ЭТОМ СУНДУКЕ - НА ПОЛОВИНУ СОКРОВИЩА - НИКТО НИКОГДА НЕ ЗНАЕТ. ЗАИНТЕРЕСОВАН?
+89|YES|ДА
+90|NO|НЕТ
+91|THE OLD THIEF LAUGHS, 'PERHAPS WE SHALL MEET AGAIN.'|СТАРЫЙ ВОР СМЕЕТ: "МОЖЕТ БЫТЬ, МЫ ВСТРЕТИМСЯ СНОВА".
+92|YOU FLOAT DOWN THE WELL.|ВЫ ПЛАВАЕТЕ В СКВАЖИНЕ.
+93|FROM AN ARCHWAY AT THE BOTTOM COME ARROWS.|ИЗ АРХВИ ВНИЗ ПРИХОДЯТ СТРЕЛЫ.
+94|YOU HIT AN UNYIELDING STONE FLOOR.|ВЫ ПОПАДАЕТЕ НА НЕПРЕРЫВНЫЙ КАМЕННЫЙ ПОЛ.
+95|YOUR FRIEND FLOATS OUT OF THE WELL.|ВАШ ДРУГ ВЫЛЕТАЕТ ИЗ СКВАЖИНЫ.
+96|THERE IS A FREE MAN HERE. WHAT DO YOU DO?|ЗДЕСЬ СВОБОДНЫЙ ЧЕЛОВЕК. ЧТО ВЫ ДЕЛАЕТЕ?
+97|ATTACK|АТАКА
+98|WAIT|ЖДАТЬ
+99|FLEE|БЕЖАТЬ
+100|PARLAY|ПАРЛАЙ
+101|LEAVE|ПОКИНУТЬ
+102|'I DON'T LIKE YOUR TONE.'|"МНЕ НРАВИТСЯ ВАШ ТОН".
+103|'OH WELL.' HE LEAVES.|'НУ ЧТО Ж.' ОН УХОДИТ.
+104|'GREAT! MY NAME IS SKULLCRUSHER. THERE'S A SECRET DOOR TO THE SOUTHEAST. THAT'S WHERE I MET THE HOBGOBLIN LEADER.'|БОЛЬШОЙ! МОЕ ИМЯ ЧЕРЕПОВОДИТЕЛЬ. ЕСТЬ СЕКРЕТНАЯ ДВЕРЬ НА ЮГО-ВОСТОК. ТАМ ГДЕ Я ВСТРЕТИЛСЯ С ЛИДЕРОМ ХОБГОБЛИНОВ ".
+105|'YOU ARE SEEKING THE TEXTILE HOUSE. WE CAN GET YOU IN UNSEEN AND POSSIBLY HELP YOU WITH THE TREASURE. INTERESTED?'|"ВЫ ИЩЕТЕ ТЕКСТИЛЬНЫЙ ДОМ. МЫ МОЖЕМ ПОЛУЧИТЬ ВАС НЕВИДИМЫМ И ВОЗМОЖНО ПОМОЧЬ С СОКРОВИЩЕМ. ЗАИНТЕРЕСОВАН?
+106|YES|ДА
+107|NO|НЕТ
+108|A ROPE IS TOSSED UP AND THE REST OF THE PARTY COMES DOWN. THE OLD THIEF SAYS 'OUR RULES REQUIRE YOU TO BE BLINDFOLDED IN OUR GUILD HOUSE, OKAY?'|ВЕРЕВКА ПОДБИВАЕТСЯ, И НАХОДИТСЯ ОТДЫХ ПАРТИИ. СТАРИК ВОР ГОВОРЯЕТ: "НАШИ ПРАВИЛА ТРЕБУЮТ, ЧТО ВАМ ЗАСЛУЖИВАЮТ В НАШЕЙ ГИЛЬДИИ, ОК?"
+109|YES|ДА
+110|NO|НЕТ
+111|YOU ARE BLINDFOLDED AND TAKEN ON A LONG, TWISTING WALK, THEN UP A LADDER.'ONLY MEET US AT THE MAIN WELL.'|Вам завязаны глаза, и вы совершите долгую, извилистую прогулку, а затем поднимитесь по лестнице. "ВСТРЕЧАЙТЕ НАС ТОЛЬКО У ГЛАВНОЙ АППАРАТУРЫ".
+112| HE POINTS HIS RING AT YOU AND YOU RISE UP AND OUT THE WELL.| ОН НАПРАВЛЯЕТ НА ВАС КОЛЬЦО, и ВЫ ВОССТАНАВЛИВАЕТЕ И ВЫХОДИТЕ ИЗ НОЖА.
+113|HERE IS A LAUGHING THIEF.|ЗДЕСЬ СМЕЮЩИЙСЯ ВОР.
+114|A PACK OF HUNGRY GHOULS LOPES TOWARD YOU.|ПАКЕТ ГОЛОДНЫХ ГУЛОВ НАПРАВЛЯЕТСЯ НА ВАС.

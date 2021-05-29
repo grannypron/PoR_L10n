@@ -1,0 +1,77 @@
+﻿1|THIS DIRECTION WILL TAKE YOU BACK INTO THE WILDERNESS. DO YOU STILL WANT TO GO THIS WAY?|ЭТО НАПРАВЛЕНИЕ вернет вас в дикую природу. ВЫ ВСЕ ЕЩЕ ХОТИТЕ ИДИТЬ ПО ЭТОМУ ПУТИ?
+2|A GROUP OF NOMADS SPOT YOU. THEY SHOUT AND CHARGE. AS THEY COME CLOSER THEIR NUMBERS SWELL WITH ARRIVALS.|ГРУППА КОЧЕЧНИКОВ ОБЪЕДИНЯЕТ ВАС. ОНИ КРИЧАТ И ЗАРЯДАЮТ. По мере того, как они приближаются, их число растет с прибытием.
+3|THE HEROIC DEATHS OF THOSE YOU HAVE JUST BATTLED HAS BOUGHT TIME FOR THE HEADMAN TO RALLY HIS PEOPLE. WITH A TREMENDOUS CRY HE LEADS HIS TRIBE INTO BATTLE.|ГЕРОИЧЕСКИЕ СМЕРТИ, КОТОРЫЕ ВЫ ПРОСТО СРАЖАЛИ, ПРИОБРЕЛИ ВРЕМЯ ДЛЯ ГОЛОВА СБОРНИТЬ СВОИХ ЛЮДЕЙ. С УДИВИТЕЛЬНЫМ плачем он ведет свой отряд в битву.
+4|THE SOUND OF WAR CRIES DRAWS YOU OUT OF THE HUT. |ЗВУК ВОЕННЫХ КРИКОВ ВЫТЯГАЕТ ВАС ИЗ ХИЖИНЫ.
+5|YOU TRIP ON A WIRE TO THE ACCOMPANIMENT OF BELLS TINKLING. AFTER A MOMENT THERE IS A COMMOTION AHEAD OF YOU.|ВЫ НАПИРАЕТЕСЬ НА ПРОВОД К СОПРОВОЖДЕНИЮ ЗВОНКА КОЛОНКАМИ. ПОСЛЕ МГНОВЕНИЯ ВАС ОПРЕДЕЛЯЕТСЯ ДВИЖЕНИЕ.
+6|FLEE|БЕЖАТЬ
+7|ADVANCE CAUTIOUSLY|ПРЕДОСТЕРЕЖЕНИЕ ОСТОРОЖНО
+8|ATTACK|АТАКА
+9|YOU CHARGE INTO A GROUP OF SCRUFFY LOOKING NOMADS.|ВЫ НАЧИНАЕТЕ ГРУППУ НОМАДОВ НЕВЕРНОГО ВИДА.
+10|THE HEADMAN WALKS UP TO YOU WITH HIS GUARDS. 'GOOD MORNING. THERE ARE CELEBRATIONS PLANNED TODAY.'|РУКОВОДИТЕЛЬ ПОДХОДИТ К ВАМ С ОХРАННИКАМИ. 'ДОБРОЕ УТРО. СЕГОДНЯ ЗАПЛАНИРОВАНЫ ПРАЗДНИКИ ".
+11|'COME, LET THERE BE GAMES FOR OUR GUESTS.' HE LEADS YOU TO THE CAMP'S CENTRAL CLEARING.|"Приходите, ДА БУДЕТ ИГРЫ ДЛЯ НАШИХ ГОСТЕЙ". ОН ВЕДЕТ ВАС В ЦЕНТРАЛЬНЫЙ КЛИРИНГ ЛАГЕРЯ.
+12|YOU ARE TREATED AS HONORED GUESTS FOR THE REST OF THE DAY. THERE ARE CONTESTS OF STRENGTH AND SKILL IN YOUR HONOR.|К ВАМ ЛЕЧИТСЯ КАК ЗАЧЕТНЫЕ ГОСТЯ НА ОТДЫХ ДНЯ. В ВАШЕЙ ЧЕСТИ СОБЫТИЯ СИЛЫ И УМЕНИЯ.
+13|AS NIGHT FALLS, THE NOMADS BUILD A HUGE CAMPFIRE IN THE CENTER OF THE CAMP. THE WHOLE TRIBE GATHERS FOR THE FEAST. AFTER THE FEAST THERE IS DANCING AND WILD CELEBRATIONS.|С наступлением ночи кочевники строят ОГРОМНЫЙ ЛАГЕРЬ В ЦЕНТРЕ ЛАГЕРЯ. ВЕСЬ ПЕРЕВОЗКА СОБИРАЕТСЯ НА ПРАЗДНИК. ПОСЛЕ ПРАЗДНИКА ТАНЦЫ И ДИКИЕ ПРАЗДНИКИ.
+14|DURING THE FESTIVITIES THE CHIEF (HIS TONGUE LOOSENED BY DRINK) TELLS YOU OF THE DANGERS OF THE REGION. YOU MAKE HASSAD AHWAL'S TALK ENTRY 55 IN YOUR JOURNAL.|ВО ВРЕМЯ ПРАЗДНИКА ГЛАВНЫЙ (ЕГО ЯЗЫК ОСЛАБЕН ОТ НАПИТКА) РАССКАЗЫВАЕТ ВАМ ОБ ОПАСНОСТЯХ РЕГИОНА. ВЫ ДЕЛАЕТЕ 55 В СВОЕМ ЖУРНАЛЕ РАЗГОВОР ХАССАДА АХВАЛА.
+15|THE HEADMAN SEEMS VERY UNEASY AS HE CONTINUES TO SPEAK. HE PRACTICALLY BEGS YOU TO STAY FOR A FEW MORE DAYS, RATHER THAN LEAVE IN THE MORNING AS YOU PLANNED.|РУКОВОДИТЕЛЬ ВИДЕТСЯ ОЧЕНЬ НЕУДОБНЫМ, КОГДА ОН ПРОДОЛЖАЕТ ГОВОРИТЬ. ОН ПРАКТИЧНО ПРОСИТ ВАС остаться на несколько дней, а не уехать утром, как вы запланировали.
+16|'MY SCOUTS HAVE SEEN EVIDENCE OF A LARGE BAND OF KOBOLDS IN THE VICINITY. I WORRY ABOUT MY PEOPLE. IF YOU WOULD STAY UNTIL THEY PASS I WOULD APPRECIATE IT.|"МОИ РАЗВЕДКИ ВИДЕЛИ ДОКАЗАТЕЛЬСТВА БОЛЬШОЙ БИРЖИ КОБОЛЬДОВ В БЛИЖАЙШЕСТВЕ. Я беспокоюсь о своих людях. ЕСЛИ ВЫ ОСТАНОВИТЕСЬ ДО ОНИ, Я ЦЕНИТ ЭТО.
+17|'PLEASE THINK ABOUT IT OVERNIGHT.' AFTER A WHILE THE FESTIVITIES END AND YOU ARE ESCORTED TO YOUR LODGING. |"ПОЖАЛУЙСТА, ПОДУМАЙТЕ ОБ ЭТОМ НА НОЧЬ". ПОСЛЕ ЗАКОНЧЕНИЯ ПРАЗДНИКА И ВАС НАХОДИТСЯ В ВАШЕ ЖИЛЬЕ.
+18|THE HEADMAN COMES TO YOU AND SAYS, 'ABOUT MY REQUEST OF LAST NIGHT, WHAT IS YOUR DECISION?'|РУКОВОДИТЕЛЬ подходит к вам и говорит: "КАКОЕ ВАШЕ РЕШЕНИЕ ПО ПРОСЬБЕ ПОСЛЕДНЕЙ НОЧИ?"
+19|STAY AND FIGHT|ОСТАВАЙТЕСЬ И СРАЖАЙТЕСЬ
+20|LEAVE|ПОКИНУТЬ
+21|LOOKING DISAPPOINTED THE HEADMAN SAYS, 'GOOD LUCK IN YOUR TRAVELS.'|РАЗОЧАРОВАНИЕ ВИДА ГОЛОВА говорит: "УДАЧИ В ВАШИХ ПУТЕШЕСТВИЯХ".
+22|YES|ДА
+23|NO|НЕТ
+24| | 
+25|A GUARD APPEARS BEFORE YOU, 'YOU MUST HAVE MADE A MISTAKE. ALLOW ME TO ESCORT YOU TO YOUR LODGING.'|ПЕРЕД ТЕБЯ ПОЯВЛЯЕТСЯ ОХРАННИК: "ВЫ ДОЛЖНЫ СДЕЛАТЬ ОШИБКУ. РАЗРЕШИТЕ ​​МНЕ СКОРБИТЬ ВАС В ВАШЕ ЖИЛЬЕ ".
+26|FOLLOW THE GUARD|СЛЕДУЙТЕ ЗА СТРАЖЕЙ
+27|ATTACK THE GUARD|АТАКА НА СТРАЖИ
+28|AS THE GUARD TURNS TO ESCORT YOU BACK TO YOUR TENT, YOU SMILE AND STICK HIM IN THE BACK. WITH A CHOKED CRY HE COLLAPSES.|Когда охранник поворачивается, чтобы отвести вас обратно в палатку, вы улыбаетесь и приставляете ему в спину. С УДЫЛЕННЫМ КРИКОМ он рушится.
+29|HOWEVER, AWAKENED BY THE TALK SOMEONE IN THE TENT HAS SEEN YOUR ACT AND A SCREAM GOES OUT 'TREACHERY! THEY HAVE SLAIN SAMIR!' THE CAMP BEGINS TO STIR.|ОДНАКО, проснувшись от разговора, кто-то в палатке увидел ваш акт, и раздались крики - "ПРЕДИСЛОВИЕ! ОНИ УБИЛИ САМИРА! ЛАГЕРЬ НАЧИНАЕТСЯ.
+30|THE HEADMAN COMES TO YOU AND SAYS, 'ABOUT MY REQUEST OF LAST NIGHT, WHAT IS YOUR DECISION?'|РУКОВОДИТЕЛЬ подходит к вам и говорит: "КАКОЕ ВАШЕ РЕШЕНИЕ ПО ПРОСЬБЕ ПОСЛЕДНЕЙ НОЧИ?"
+31|STAY AND FIGHT|ОСТАВАЙТЕСЬ И СРАЖАЙТЕСЬ
+32|LEAVE|ПОКИНУТЬ
+33|LOOKING DISAPPOINTED THE HEADMAN SAYS, 'GOOD LUCK IN YOUR TRAVELS.'|РАЗОЧАРОВАНИЕ ВИДА ГОЛОВА говорит: "УДАЧИ В ВАШИХ ПУТЕШЕСТВИЯХ".
+34|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+35| | 
+36|A HORDE OF KOBOLDS IS ATTACKING THE CAMP. A LONE SENTRY CHARGES BUT IS QUICKLY CUT DOWN. A FAMILY EMERGES FROM A HUT AND CHARGES THE KOBOLDS.|ОРДА КОБОЛЬДОВ НАПАДАЕТ НА ЛАГЕРЬ. LONE SENTRY заряжается, но быстро отключается. СЕМЬЯ ВЫХОДИТ ИЗ ХИЖИ И НАПРАВЛЯЕТ КОБОЛДОВ.
+37| YOU SPIN TO FACE THE SOUND.| ВЫ ВРАЩАЕТЕСЬ, ЧТОБЫ СМОТРЕТЬ ЗВУК.
+38|A CROWD OF SCRUFFY LOOKING NOMADS GATHERS AS HIDDEN SENTRIES GIVE WORD OF YOUR APPROACH. THERE ARE ABOUT AN EQUAL NUMBER OF MEN AND WOMEN.|Толпа неряшливо выглядящих кочевников собирает, когда скрытые стражи говорят о вашем подходе. МУЖЧИН И ЖЕНЩИН ОКОЛО РАВНО.
+39|ALL THE NOMADS HOLD THEIR SWORDS AT THE READY, WATCHING YOU WARILY. MORE NOMADS APPEAR FROM OUT OF TENTS IN THE CAMP.|ВСЕ кочевники держат мечи наготове, осторожно наблюдая за вами. БОЛЬШЕ КОЧЕЧНИКОВ ПОЯВЛЯЮТСЯ ИЗ ПАЛАТК В ЛАГЕРЬЕ.
+40|YOU CAN SEE CHILDREN PEERING OUT OF THE TENT OPENINGS, ONLY TO BE PUSHED BACK INSIDE BY THEIR MOTHERS.|ВЫ МОЖЕТЕ ВИДЕТЬ ДЕТЕЙ, ВЫСАДЫВАЮЩИХСЯ ИЗ ОТВЕРСТИЙ ТЕНТА, ТОЛЬКО ДЛЯ ОТТЫКАНИЯ ВНУТРИ ИХ МАТЕРИ.
+41|THE NOMADS WAIT FOR YOU TO MAKE THE FIRST MOVE.|Кочевники ждут, что вы сделаете первый ход.
+42|THE BIGGEST, MEANEST, DIRTIEST NOMAD PUSHES HIS WAY TO THE FRONT OF THE CROWD. FIVE OTHER NOMADS STAND AROUND HIM AS IF TO PROTECT HIM.|САМЫЙ БОЛЬШОЙ, САМЫЙ, САМЫЙ, Грязный кочевник продвигается вперед к толпе. ПЯТЬ ДРУГИХ кочевников стоят вокруг него, чтобы защитить его.
+43|TOMORROW|ЗАВТРА
+44|TONIGHT|СЕГОДНЯ НОЧЬЮ
+45|THE BIGGEST NOMAD, APPARENTLY THE CHIEF OR HEADMAN, ACKNOWLEDGES YOU WITH A NOD, 'WE WILL GIVE A FEAST IN YOUR HONOR |САМЫЙ БОЛЬШОЙ КОЧЕЧНИК, ЯВНО, ГЛАВНЫЙ ИЛИ РУКОВОДИТЕЛЬ, ПОДТВЕРЖДАЕТ ВАС кивком: "Мы устроим праздник в вашу честь".
+46|. WILL YOU JOIN US?'|. ТЫ К НАМ ПРИСОЕДИНИШЬСЯ?'
+47|'THEN YOU MUST LEAVE US,' HE RESPONDS WITH AS MUCH DIGNITY AS HE CAN MUSTER. DO YOU LEAVE?|"ТОГДА ВЫ ДОЛЖНЫ УЙТИ НАС", - ОН ОТВЕЧАЕТ С ТАКЖЕ ДОСТОИНСТВОМ, КАК ОН МОЖЕТ. ТЫ УХОДИШЬ?
+48|'YOUR INSULTS ARE TOO MANY! KILL THEM!'|"ВАШИ ИЗОЛЯЦИИ СЛИШКОМ МНОГО! УБЕЙ ИХ!'
+49|'HERE YOU MAY REST.'|"ЗДЕСЬ МОЖНО ОТДЫХАТЬ".
+50|'I AND MY PEOPLE THANK YOU. AND KNOW THAT WE HAVE HONOR. YOU SHALL BE RICHLY REWARDED FOR YOUR GENEROUS AID.'|"Я И МОИ ЛЮДИ СПАСИБО. И ЗНАЕМ, ЧТО У НАС ЧЕСТЬ. ВЫ ДОЛЖНЫ БЫТЬ БОГАТЫМ НАГРАДНЫ ЗА ЩЕДРУЮЩУЮ ПОМОЩЬ ".
+51|'YOU MAY WANDER AS YOU WILL OR YOU MAY STAY HERE AND REST AND STUDY. FORGIVE ME, I MUST SEE TO MY PEOPLE.' HE LEAVES.|"ВЫ МОЖЕТЕ Бродить, как хотите, или оставаться здесь, отдыхать и учиться. ПРОЩИТЕ МЕНЯ, Я ДОЛЖЕН ВИДЕТЬ НА СВОИХ ЛЮДЕЙ ". ОН УХОДИТ.
+52|YOU HEAR WAR CRIES AND THE CLANG OF METAL |ВЫ СЛЫШАЕТЕ ВОЙНЫ КРИЧИ И ЛАК МЕТАЛЛА
+53| YOU SPIN TO FACE THE SOUND.| ВЫ ВРАЩАЕТЕСЬ, ЧТОБЫ СМОТРЕТЬ ЗВУК.
+54|A HORDE OF KOBOLDS IS ATTACKING THE CAMP.|ОРДА КОБОЛЬДОВ НАПАДАЕТ НА ЛАГЕРЬ.
+55|AHEAD YOU SEE A LARGE GROUP OF KOBOLDS ENGAGED IN MELEE WITH SOME NOMADS. |ВПЕРЕДИ ВЫ ВИДИТЕ БОЛЬШУЮ ГРУППУ КОБОЛДОВ, ЗАНИМАЮЩИХСЯ МЕЧТОМ С НЕКОТОРЫМИ КОМИТЕТАМИ.
+56|THE NOMADS SEE YOU AND SHOUT, 'THE FILTHY TRAITORS! GET THEM!' THE KOBOLDS, SEEING AN OPPORTUNITY, JOIN WITH THEM.|Кочевники видят вас и кричат: "Грязные предатели! ВЗЯТЬ ИХ!' КОБОЛДЫ, УВИДЯЩИЕ ВОЗМОЖНОСТЬ, ПРИСОЕДИНЯЮТСЯ К НИМ.
+57|YOU SEE A HUGE GROUP OF KOBOLDS MOVING RELUNCTANTLY FORWARD UNDER THE CURSES OF THEIR LEADER. THE HEADMAN WALKS UP AND SLAPS YOU ON THE BACK.|ВЫ ВИДИТЕ ОГРОМНУЮ ГРУППУ КОБОЛДОВ, НЕОБХОДИМЫХ, ПОДДЕРЖИВАЮЩИХСЯ ПРОКЛЯТИЕМ СВОЕГО ЛИДЕРА. РУКОВОДИТЕЛЬ подходит и хлопает вас по спине.
+58|'WELL DONE! WHAT SAY WE FINISH THIS TOGETHER?'|'ОТЛИЧНАЯ РАБОТА! ЧТО ГОВОРЯЕМ ВМЕСТЕ?
+59|DESTROY THE KOBOLDS|УНИЧТОЖАЙТЕ КОБОЛДОВ
+60|FLEE|БЕЖАТЬ
+61|THE HEADMAN SNEERS, 'COWARDS!' HE TURNS TO THE TWO GUARDS STILL LIVING AND YELLS, 'FOR HYRNKA!' HE AND HIS TWO GUARDS CHARGE INTO THE PACK.|ГЛАВНЫЙ СНИР: "ТЫСЫ!" ОН ОБРАЩАЕТСЯ К ДВУМЯ ОХРАННИКАМ, ВСЕ ЕЩЁ ЖИВЫМ, И КРИЧИТ: "ЗА ГЫРНКУ!" ОН И ЕГО ДВА ОХРАННИКА ЗАРЯДЫВАЮТСЯ В ПАКЕТУ.
+62|AS THEY REACH THE PACK A FLURRY OF ARROWS STRIKE THEM. UNDAUNTED THEY STRIKE. KOBOLDS DIE LIKE FLIES AROUND THESE HEROES. A GUARD FALLS WITH A SCORE OF WOUNDS.|КАК ОНИ ДОХОДЯТ В ПАКЕТ, ИХ УДАЛЯЕТ СТРЕЛКА СТРЕЛ. НЕПРЕДНАЗНАЧЕННЫЙ ОНИ УДАР. КОБОЛДЫ УМИРАЮТ КАК МУХИ НА ЭТИХ ГЕРОЯХ. Охранник падает с множеством ран.
+63|WITHIN TEN MINUTES THE KOBOLDS BREAK, HALF THEIR NUMBER DEAD. THE CHIEF COMES BACK, 'I PROMISED YOU REWARD FOR YOUR AID. SO IT SHALL BE... EQUAL TO YOUR HONOR.'|В ТЕЧЕНИЕ ДЕСЯТИ МИНУТ КОБОЛДЫ РАЗРЫВАЮТСЯ, ИХ ПОЛОВИНА МЕРТВА. ШЕФ ВЕРНУЛСЯ: "Я ОБЕЩАЛА ВАМ НАГРАДУ ЗА ВАШУ ПОМОЩЬ. ТАК ЭТО ДОЛЖНО БЫТЬ ... РАВНО ВАШЕЙ ЧЕСТИ ".
+64|'NOW LEAVE. WE HAVE OUR WOUNDED TO LOOK TO.'|"СЕЙЧАС УЙДИТЕ. НАШИ РАНЕНЫ, НА КОТОРЫЕ СМОТРЕТЬ ".
+65|THERE IS NOWHERE LEFT TO RETREAT. YOU MUST FIGHT.|ОТКРЫТЬ НЕ НУЖНО. ВЫ ДОЛЖНЫ БОРЬБАТЬСЯ.
+66|'YOU MUST BE TIRED FROM YOUR TRAVELS. WE WILL PROVIDE YOU WITH LODGING.' HE LEADS THE WAY TO A HUT WHICH IS HURRIEDLY BEING CLEARED OF ITS OCCUPANTS.|"ВЫ ДОЛЖНЫ УСТАВИТЬ ОТ ПУТЕШЕСТВИЙ. МЫ ПРЕДОСТАВЛЯЕМ ВАМ ЖИЛЬЕ ". ОН ВЕДЕТ ПУТЬ К ХИЖИНЕ, КОТОРЫЙ СРОЧНО ОЧИЩАЕТСЯ ОТ ЕГО.
+67|'HERE YOU MAY REST.'|"ЗДЕСЬ МОЖНО ОТДЫХАТЬ".
+68|TO YOUR LEFT.|СЛЕВА.
+69|BEHIND YOU.|ЗА ТОБОЙ.
+70|TO YOUR RIGHT.|НА ВАШЕ ПРАВО.
+71|IN FRONT OF YOU.|ПЕРЕД ТОБОЙ.
+72|ADVANCING ON YOU IS A LARGE BAND OF KOBOLDS WITH BLOOD LUST IN THEIR EYES.|НАПРЯЖЕНИЕ НА ВАС - БОЛЬШАЯ ГРУППА КОБОЛДОВ С КРОВЬЮ ЖАЖДУ В ГЛАЗАХ.
+73|YOU SEE A HUGE GROUP OF KOBOLDS MOVING RELUNCTANTLY FORWARD UNDER THE CURSES OF THEIR LEADER.|ВЫ ВИДИТЕ ОГРОМНУЮ ГРУППУ КОБОЛДОВ, НЕОБХОДИМЫХ, ПОДДЕРЖИВАЮЩИХСЯ ПРОКЛЯТИЕМ СВОЕГО ЛИДЕРА.
+74|JUST AS YOU THINK YOURSELVES FREE OF DANGER, THE HEADMAN, HIS SHAMAN AND GUARDS ATTACK WITH CRIES OF 'FOUL TRAITORS!' AT THE SAME TIME KOBOLDS ATTACK.|КАК ВЫ ДУМАЕТЕ ДЛЯ СЕБЯ БЕЗОПАСНОСТИ, РУКОВОДИТЕЛЬ, ЕГО ШАМАН И ОХРАННИКИ НАПАДАЮТ С КРИКОМ "ГЛУБОКИХ ПРЕДАТЕЛЕЙ!" В ЖЕ ВРЕМЯ КОБОЛЬД АТАКА.
+75|'THEN LET US DO IT!'|ТОГДА ДАВАЙТЕ НАМ СДЕЛАТЬ ЭТО!
+76|THE SHAMAN WALKS UP TO YOU. 'YOU FOUGHT AS THE HEROES OF LEGEND. A REWARD WAS PROMISED AND SO SHALL IT BE.'|ШАМАН ПОДХОДИТ К ВАМ. "ВЫ СРАЖАЛИСЬ КАК ГЕРОИ ЛЕГЕНДЫ. НАГРАДА ОБЕЩАНА, И ТАК БУДЕТ ".
+77|'NOW PLEASE LEAVE US TO OUR MOURNING. IT IS A PERSONAL THING FOR OUR PEOPLE.'|А теперь, пожалуйста, оставьте нас на траур. ЭТО ЛИЧНАЯ ВЕЩЬ ДЛЯ НАШИХ ЛЮДЕЙ ".

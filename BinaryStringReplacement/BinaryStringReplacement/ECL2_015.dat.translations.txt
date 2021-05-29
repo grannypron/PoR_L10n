@@ -1,0 +1,79 @@
+﻿80|A SPECTRE SUDDENLY APPEARS BEFORE YOU. 'THIEF! I DEFENDED THESE BOOKS IN LIFE AND I WILL DEFEND THEM IN DEATH!' IT ATTACKS YOU.|ВНЕЗАПНО ПРЕДСТАВЛЯЕТСЯ ПРИЗРАК. 'ВОР! Я ЗАЩИЩИЛ ЭТИ КНИГИ ЖИЗНИ И ЗАЩИТУ ИХ СМЕРТЬ! ' ЭТО НАПАДАЕТ НА ВАС.
+81|THESE ARE THE LIBRARY STACKS. OLD AND MOLDERING BOOKS ARE STORED ON SHELVES. A SIGN OVER THE ENTRANCE READS |ЭТО БИБЛИОТЕКА. СТАРЫЕ И ФОРМОВЫЕ КНИГИ ХРАНИЛИСЬ НА ПОЛКАХ. ЗАПИСЬ НАД ВХОДНЫМИ ЧИТАМИ
+82|AS YOU SEARCH THE ROOM YOU SCAN RANDOM BOOKS.|ПОИСК НОМЕРА, ВЫ СКАНИРУЕТЕ СЛУЧАЙНЫЕ КНИГИ.
+83|RHETORIC.|РИТОРИКА.
+84|YOU SEE A RUINED ROOM WITH ROTTED FURNITURE. HUMAN BONES LIE SCATTERED ABOUT A DESK.|ВЫ ВИДИТЕ РАЗРУШЕННУЮ КОМНАТУ С ГНЕЗДАМИ МЕБЕЛИ. ЧЕЛОВЕЧЕСКИЕ КОСТИ РАССЕПАНЫ НА СТОЛ.
+85|YOU SEE A JAR UNDER THE FLOORBOARDS.|ВЫ ВИДИТЕ БАНКУ ПОД ПОЛОМ.
+86|YOU SEE A CHAMBER FILLED WITH ROTTED FURNITURE AND BENCHES.|ВЫ ВИДИТЕ КАМЕРУ, ЗАПОЛНЕННУЮ СКОРЕННУЮ МЕБЕЛЬ И СКАМЬИ.
+87|YOU SEE AN EMPTY ROOM. THE ONLY FEATURE IS A SERIES OF FRESCOES ON THE WALLS OF LEARNED MEN AND THE HEAVENLY PATRONS OF ART AND LEARNING. YOU GET A FEELING OF PEACE.|ВЫ ВИДИТЕ ПУСТУЮ КОМНАТУ. ЕДИНСТВЕННАЯ ОСОБЕННОСТЬ - СЕРИЯ ФРЕСКИ НА СТЕНАХ ОБУЧЕННЫХ МУЖЧИН И НЕБЕСНЫХ ПОПЕЧИТЕЛЕЙ ИСКУССТВА И ОБУЧЕНИЯ. ВЫ ПОЛУЧАЕТЕ ЧУВСТВО МИРА.
+88|YOU ENTER A HALL WHICH IS FILLED WITH ROWS OF WRITING TABLES AND HIGH STOOLS. ROTTED MOUNDS OF PARCHMENT LITTER THE FLOOR.|ВЫ ВЫХОДИТЕ В ЗАЛ, ЗАПОЛНЕННЫЙ РЯДАМИ ПИСЬМЕННЫХ ТАБЛИЦ И СТУЛЬЯМИ. ГОРНИЧНЫЕ КУГЛИНЫ ПЕРГАМЕНТОВ ЗАМЕТИЛИ ПОЛ.
+89|YOU FIND A FIGHTER WITH BATTERED ARMOR AND WILD EYES COWERING IN THE CORNER. 'YAI! MERCY! MERCY!' HE CRIES. AND THEN AS SUDDENLY, 'DIE! DIE YOU SLIME FROM THE PIT!'|ВЫ НАЙДЕТЕ БОРЬБА С ПОРНОЙ ДРОНЕЙ И ДИКИМИ ГЛАЗАМИ, ПРИКЛЮЧЕННЫМИ В УГОЛ. 'YAI! МИЛОСЕРДИЕ! МИЛОСЕРДИЕ!' ОН ПЛАЧЕТ. И ПОТОМ ВНЕЗАПНО "УМЕРЬ! УМЕРЬТЕ СЛИЗЬ ИЗ ЯМЫ! '
+90|COMBAT|БОЙ
+91|WAIT|ЖДАТЬ
+92|FLEE|БЕЖАТЬ
+93|PARLAY|ПАРЛАЙ
+94|IGNORE|ИГНОРИРОВАТЬ
+95| | 
+96|WATCHING YOU WARILY, HE INCHES AWAY. WHEN HE IS OUT OF SWORD'S REACH HE SCRAMBLES TO HIS FEET AND FLEES THE ROOM.|С осторожностью наблюдая за вами, он уходит. КОГДА ОН ВНЕ ДЕЙСТВИЯ МЕЧА, ОН КАРКАЕТ НОГАМИ И УБЕГАЕТ ИЗ КОМНАТЫ.
+97|THIS ROOM WAS ONCE A STUDY. IT IS NOW A SHATTERED RUIN.|ЭТА КОМНАТА БЫЛА ОДИН ИССЛЕДОВАНИЕМ. ТЕПЕРЬ РАЗРЕШЕННАЯ РАЗРУША.
+98|BURIED AMID ALL THE TRASH YOU SEE A BOOK.|ПОХОРОНЕННОЕ В МУСОРУ ВЫ ВИДИТЕ КНИГУ.
+99|YOU ARE IN THE ILLUMINATORS CARRELS. ALL THEIR EQUIPMENT HAS DECAYED AND LIES ROTTING ON THE FLOOR.|ВЫ НАХОДИТЕСЬ В КОМПАНИИ ILLUMINATORS CARRELS. ВСЕ ИХ ОБОРУДОВАНИЕ РАЗРУШЕНО И ГНИМАЕТ НА ПОЛ.
+100|AMID THE TRASH YOU FIND A BOX WHICH CONTAINS GOLD FOIL.|СРЕДИ МУСОРА ВЫ НАХОДИТЕ КОРОБКУ С ЗОЛОТОЙ ФОЛЬГОЙ.
+101|YOU ARE IN A SMALL ROOM HAVING LITTLE MORE THAN A BENCH AND A SMALL DESK.|ВЫ НАХОДИТЕСЬ В МАЛЕНЬКОЙ КОМНАТЕ, ИМЕЮЩЕЙ НЕМНОГО БОЛЬШЕ, ЧЕМ СКАМЬЯ И МАЛЕНЬКИЙ СТОЛ.
+102|YOU HAVE ENTERED A STOREROOM FULL OF SUPPLIES TOO OLD TO BE USEFUL.  |ВЫ ЗАЙТИЛИ В МАГАЗИН, ЗАПОЛНЕННЫЙ ТОВАРАМИ, Слишком старыми, чтобы быть полезными.
+103|LOOKING UP FROM A TABLE ARE FIVE KOBOLDS.|Из-за стола смотрят пять коболов.
+104|THEY PLEAD FOR MERCY.|ОНИ МОГУТ О МИЛОСЕРДИИ.
+105|THEY STAND ARMS RAISED IN SURRENDER.|ОНИ ВЫДЕРЖИВАЮТ ПОДНЯТЫЕ ОРУЖИЕ.
+106| | 
+107| | 
+108|YOU SEE WHAT ONCE WAS A GARDEN, NOW-WEED FILLED. THE PLEASANT POND HAS BECOME A SWAMP.|ВЫ ВИДИТЕ, ЧТО ТОЛЬКО БЫЛ САД, СЕЙЧАС ЗАПОЛНЕН ТРАПНИЦЫ. ПРИЯТНЫЙ ПРУД СТАЛ БОЛОТОМ.
+109|AS YOU MOVE THROUGH THE GARDEN |КАК ВЫ ПРОХОДИТЕ ПО САДУ
+110|YOU SEE A STRANGE GREEN PLANT GROWTH WHICH YOU RECOGNIZE AS GREEN SLIME. YOU CAREFULLY MOVE AROUND IT.|ВЫ ВИДЕТЕ СТРАННОЕ ЗЕЛЕНОЕ РАСТЕНИЕ, КОТОРОЕ ВЫ ПРИЗНАЕТЕ как ЗЕЛЕНУЮ СЛИЗЬ. ВЫ ВНИМАТЕЛЬНО ПЕРЕМЕЩАЕТЕ ПО ЭТОМУ.
+111|PHILOSOPHY.|ФИЛОСОФИЯ.
+112|MATHEMATICS.|МАТЕМАТИКА.
+113|HISTORY.|ИСТОРИЯ.
+114|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+115| | 
+116|AMID THE LITTER OF THE ROOM YOU SEE A DULL BROWN REPTILIAN MONSTER.|В НОМЕРЕ КОМНАТЫ ВЫ ВИДИТЕ ТУТОВО-КОРИЧНЕВЫЙ РЕПТИЛИАНСКИЙ МОНСТР.
+117|IT HISSES AT YOU.|ОНО ШЁСТИТ У ВАС.
+118| | 
+119|YOU HEAR A HISS. AS YOU LOOK DOWN YOU SUDDENLY SEE A DULL BROWN REPTILIAN MONSTER.|ВЫ СЛЫШАЕТЕ ШЕПИЩЕ. Когда вы смотрите вниз, вы внезапно видите тускло-коричневого рептилии-монстра.
+120|YOU FIND WORKS ON NATURAL PHILOSOPHY, THEORIES OF ART, AND THE SUPERNATURAL SCIENCES. IT IS VERY BORING.|ВЫ НАЙДЕТЕ РАБОТЫ ПО ЕСТЕСТВЕННОЙ ФИЛОСОФИИ, ТЕОРИЯМ ИСКУССТВА И НАУКАМ Сверхприроды. ЭТО ОЧЕНЬ СКУЧНО.
+121|YOU FIND ESSAYS ON GEOMETRY, METAMAGICAL MATH, UNIVERSAL GEOMETRY, ETC., BUT NOTHING USEFUL.|ВЫ НАХОДИТЕ ОЧЕРКИ ПО ГЕОМЕТРИИ, МЕТАМАГИЧЕСКОЙ МАТЕМАТИКЕ, УНИВЕРСАЛЬНОЙ ГЕОМЕТРИИ И Т.Д., НО НИЧЕГО ПОЛЕЗНОГО.
+122|YOU FIND VARIOUS BOOKS WHICH ARE SO FILLED WITH MYTH THAT YOU DON'T FIND ANYTHING USEFUL.|ВЫ НАХОДИТЕ РАЗЛИЧНЫЕ КНИГИ, КОТОРЫЕ НАСТОЛЬКО ЗАПОЛНЕНЫ МИФОМ, ЧТО ВЫ НЕ НАЙДЕТЕ НИЧЕГО ПОЛЕЗНОГО.
+123|YOU FIND SPEECHES FROM FAMOUS MURDER TRIALS, PUBLIC DEBATES, ETC., BUT NOTHING OF INTEREST.|ВЫ НАЙДЕТЕ РЕЧИ ИЗ ИЗВЕСТНЫХ СУДОВ ОБ УБИЙСТВАХ, ОБЩЕСТВЕННЫХ ДЕБАТАХ И Т.Д., НО НИЧЕГО ИНТЕРЕСНОГО.
+124|DO YOU TAKE IT?|ВЫ ПРИНИМАЕТЕ?
+125| | 
+126|YOU SEE THE MAN IS QUITE MAD. DO YOU TAKE PITY AND INVITE HIM TO GO WITH YOU?|ВЫ ВИДИТЕ, ЧЕЛОВЕК СОВЕРШЕННО С ума сошел. ВЫ МОЖЕТЕ ПОЖАЛУЙСТА И ПРИГЛАШАЕТЕ ЕГО ПОЙТИ С ВАМИ?
+127|HE LOOKS RELUCTANT AND SAYS, 'BUT HIS MINIONS ARE THERE. HE WILL COME TOO!' DO YOU INSIST HE COME?|ОН ВЫГЛЯДИТ НАДЕЖНЫМ И ГОВОРИТ: "НО ЕГО ПРИСПОСОБЫ ЕСТЬ. ОН ПРИДЕТ ТОЖЕ! ' ТЫ НАСТОЯТЕЛЬНО ПРИХОДИТ?
+128|HE STANDS UP, MUTTERING TO HIMSELF, AND JOINS YOU.|Он встает, бормоча себе под нос, и присоединяется к вам.
+129|ONE OF THE KOBOLDS SAYS, 'IF YOU SPARE OUR LIVES WE WILL TELL YOU ALL WE KNOW ABOUT THIS AREA!' WILL YOU SPARE THEM?|ОДИН ИЗ КОБОЛДОВ ГОВОРИТ: "ЕСЛИ ВЫ СОХРАНИТЕ СВОЮ ЖИЗНЬ, МЫ СКАЖЕМ ВАМ ВСЕ, ЧТО МЫ ЗНАЕМ ОБ ЭТОЙ ОБЛАСТИ!" БУДЕТЕ ЛИ ВЫ ИХ ПОБЕРЕЖАТЬ?
+130|THEY DESCRIBE THE SURROUNDING AREA TO YOU. YOU LISTEN CAREFULLY, QUESTION THEM AND FROM THIS, SKETCH A MAP INTO YOUR JOURNAL CALLING IT ENTRY 10.|ОНИ ОПИСЫВАЮТ ДЛЯ ВАС ОКРУЖАЮЩУЮ РАЙОНУ. ВЫ ВНИМАТЕЛЬНО СЛУШАЕТЕ, ЗАПРОСИТЕ ИХ И ОТПРАВЛЯЙТЕ КАРТУ В ВАШЕМ ЖУРНАЛЕ, НАЗЫВАЯ ЕГО ЗАПИСЬ 10.
+131|YOU STEP INTO A STRANGE GREEN PLANT GROWTH... IT'S GREEN SLIME! QUICKLY, YOU SCRAPE IT OFF, TAKING A GOOD DEAL OF DAMAGE.|ВЫ ВСТУПИЛИ В СТРАННЫЙ РОСТ ЗЕЛЕНЫХ РАСТЕНИЙ ... ЭТО ЗЕЛЕНАЯ СЛИЗЬ! ВЫ БЫСТРО СБИРАЕТЕ ЕГО, ПРИНЯЯ ХОРОШИЙ УЩЕРБ.
+132|YOU NOW CAREFULLY AVOID THE GREEN SLIME.|ТЕПЕРЬ ТЩАТЕЛЬНО ИЗБЕГАЙТЕ ЗЕЛЕНОЙ СЛИЗИ.
+133|YOU SEE A DULL BROWN REPTILIAN MONSTER. IT DOESN'T SEEM AWARE OF YOU.|ВЫ ВИДИТЕ ТУТОВОГО КОРИЧНЕВОГО РЕПТИЛИАНСКОГО МОНСТРА. ОНО НЕ ЗНАЕТ ВАС.
+134|COMBAT|БОЙ
+135|WAIT|ЖДАТЬ
+136|FLEE|БЕЖАТЬ
+137|APPROACH|ПОДХОД
+138| | 
+139|SUDDENLY, YOU SPOT A DULL BROWN REPTILIAN MONSTER WHICH IS JUST COMING AWAKE.|ВНЕЗАПНО ВЫ УВИДЕТЕ ТУТОВОГО КОРИЧНЕВОГО РЕПТИЛИАНСКОГО МОНСТРА, КОТОРЫЙ ПРОСТО ПРОБУДЕТСЯ.
+140|YOU FIND FYERDETHA'S DISCOURSES ON POWER. AMONG ALL THE DRY TEXT YOU FIND AN INTERESTING PASSAGE WHICH YOU COPY INTO YOUR JOURNAL AS ENTRY 7.|ВЫ НАЙДЕТЕ ДИСКУРСЫ ФЬЕРДЕТЫ О ВЛАСТИ. СРЕДИ ВСЕХ СУХИХ ТЕКСТОВ ВЫ НАХОДИТЕ ИНТЕРЕСНЫЙ ОТЧЕТ, КОТОРЫЙ ВЫ КОПИРУЕТЕ В СВОЙ ЖУРНАЛ В КАЧЕСТВЕ ЗАПИСИ 7.
+141|YOU FIND URGUND'S DESCRIPTION OF DARKNESS. THIS IS AN ACCOUNT OF HIS IMPRISONMENT IN THE LOWER REALMS. THERE IS A PASSAGE OF INTEREST WHICH YOU COPY AS ENTRY 19 IN YOUR JOURNAL.|ВЫ НАЙДЕТЕ ОПИСАНИЕ ТЬМЫ УРГУНДА. ЭТО СЧЕТ ЕГО ЗАКЛЮЧЕНИЯ В НИЖНИХ ЦАРСТВАХ. ПРЕДСТАВЛЕНИЕ ИНТЕРЕСОВ, КОТОРОЕ ВЫ КОПИРУЕТЕ В ЗАПИСИ 19 В ВАШЕМ ЖУРНАЛЕ.
+142|YOU FIND A BOOK ENTITLED |ВЫ НАШЛИ КНИГУ С НАЗВАНИЕМ
+143|YOU FIND LEX GEOGRAPHICA, AN ATLAS DRAWN BY TOMARUS. IT HAS A MAP OF PHLAN WHICH, THOUGH OLD, STILL COULD BE USEFUL. IT BECOMES ENTRY 37 IN YOUR JOURNAL.|ВЫ НАЙДЕТЕ LEX GEOGRAPHICA, АТЛАС, НАрисованный ТОМАРУСОМ. ЕСТЬ КАРТА ФЛАНА, КОТОРАЯ ХОТЯ СТАРА, МОЖЕТ БЫТЬ ПОЛЕЗНОЙ. ЭТО СТАНОВИТСЯ ЗАПИСЕЙ 37 В ВАШЕМ ЖУРНАЛЕ.
+144|YOU FIND THE HISTORY OF THE NORTH. IT IS MOSTLY WRITTEN TO PLEASE A ROYAL LINE. HOWEVER, THERE IS AN INTERESTING PASSAGE WHICH YOU COPY INTO YOUR JOURNAL AS ENTRY 8.|ВЫ НАЙДЕТЕ ИСТОРИЮ СЕВЕРА. НАПИСАНО, ПОЖАЛУЙСТА, ДЛЯ КОРОЛЕВСКОЙ ЛИНИИ. ОДНАКО, ЕСТЬ ИНТЕРЕСНЫЙ ОТПУСК, КОТОРЫЙ ВЫ КОПИРУЕТЕ В СВОЙ ЖУРНАЛ В КАЧЕСТВЕ ЗАПИСИ 8.
+145|YOU FIND THE GRAND HISTORIAN'S RECORDS OF THE ARTS OF WAR. IN IT YOU FIND A USEFUL PASSAGE WHICH YOU COPY INTO YOUR JOURNAL AS ENTRY 21.|ВЫ НАЙДЕТЕ ЗАПИСИ ВЕЛИКОГО ИСТОРИКА О ВОЕННОМ ИСКУССТВЕ. В нем ВЫ НАЙДЕТЕ ПОЛЕЗНЫЙ ОТПУСК, КОПИРУЕМЫЙ В СВОЙ ЖУРНАЛ В КАЧЕСТВЕ ЗАПИСИ 21.
+146|YES|ДА
+147|NO|НЕТ
+148| | 
+149|THE MAN SCREAMS WHILE FROTHING AT THE MOUTH, |МУЖЧИНА КРИЧИТ, ПУЛЯЯ В РОТ,
+150|MEDITATIONS.|МЕДИТАЦИИ.
+151|THE HARMONY OF THE ROCK.|ГАРМОНИЯ СКАЛЫ.
+152|STROM'S DISCUSSIONS OF POETICS.|ОБСУЖДЕНИЕ ПОЭТИКИ СТРОМА.
+153|CHRONICLES OF ARRAM.|ХРОНИКИ ARRAM.
+154|DISCOURSE ON THE NATURE OF WRITING.|ДИСКУРС О ПРИРОДЕ ПИСАНИЯ.
+155|'HE IS WRAPPED IN FIRE AND SO CRUEL!'|"ОН ЗАКРЫТ В ОГНЕ И ТАК ЖЕСТКИЙ!"
+156|'THE BIG ONE, THE EVIL ONE IN THE CASTLE OF FLOWERS -- HE IS COMING! IT IS COMING!'|"БОЛЬШОЙ, ЗЛОЙ В ЗАМКЕ ЦВЕТОВ - ОН ИДЕТ! ОНО ПРИБЛИЖАЕТСЯ!'
+157|'DON'T GO THERE! DON'T GO ON THE HILL!'|"НЕ ИДИТЕ СЮДА! НЕ ИДТИ В ГОРУ! '
+158|'HE IS NOT HUMAN I TELL YOU! NOT AT ALL!'|"ОН НЕ ЧЕЛОВЕК, Я ТЕБЕ СКАЗЫВАЮ! НИСКОЛЬКО!'

@@ -1,0 +1,124 @@
+﻿1| GOBLINS| ГОБЛИНЫ
+2|THE AUCTIONEER CRIES 'CREATURES OF ALL AGES, WELCOME TO THIS AUCTION FOR AN ITEM BOTH MAGICAL AND POWERFUL!'|АУКЦИОНЕР ПЛАЧЕТ: "ТВОРЕНИЯ ВСЕХ ВОЗРАСТОВ, ДОБРО ПОЖАЛОВАТЬ НА ЭТОТ АУКЦИОН ЗА ВОЛШЕБНЫМ И МОЩНЫМ ПРЕДМЕТОМ!"
+3|THE AUCTIONEER HAS EITHER A WAND OR STAFF.|У АУКЦИОНЕРА ЕСТЬ ЖЕЗЛО ИЛИ ПЕРСОНАЛ.
+4|DO YOU WISH TO:|ВЫ ХОТИТЕ:
+5|STAND AND LISTEN|СТЕНД И СЛУШАЙТЕ
+6|MOVE IN CLOSER|ПОДЪЕМ БЛИЖЕ
+7|LISTEN TO COMMENTS|СЛУШАТЬ КОММЕНТАРИИ
+8|LEAVE|ПОКИНУТЬ
+9|THE BIDDING ESCALATES TO 5,000 GOLD PIECES -- HIGH BID FROM A MAN IN PLAIN CLOTHES, NEXT TO AN OGRE.|ТОРГ ПОВЫШАЕТСЯ ДО 5000 ЧАСТЕЙ ЗОЛОТА - ВЫСОКАЯ СТАВКА ОТ МУЖЧИНЫ В ОБЫЧНОЙ ОДЕЖДЕ, СЛЕДУЮЩИЙ С ОГРЕ.
+10|DO YOU WISH TO:|ВЫ ХОТИТЕ:
+11|MAKE A BID|СДЕЛАТЬ СТАВКУ
+12|WAIT FOR WINNER|ЖДЕМ ПОБЕДИТЕЛЯ
+13|TRY TO LEAVE|ПОПЫТАЙТЕСЬ УЙТИ
+14|YOU UP THE BID. MONSTERS NEARBY TURN, STARE,|ВЫ ПОДНИМАЕТЕ СТАВКУ. МОНСТРЫ РЯДОМ ПОВОРОТА, СМОТРЕТЬ,
+15|THE MAN THEN SPEAKS A WORD AND THE AUCTIONEER'S BLOCK IS ENVELOPED IN DARKNESS.|ЧЕЛОВЕК ГОВОРИТ СЛОВО, И БЛОК АУКЦИОНЕРА окутан тьмой.
+16|THERE IS MASS CONFUSION. SUDDENLY, THE OGRE SPRINTS FROM THE DARKNESS.|ЕСТЬ МАССОВАЯ ЗАБОТА. ВНЕЗАПНО ОГРЕ СПРИНЕТСЯ ИЗ ТЬМЫ.
+17|DO YOU:|ТЫ:
+18|FOLLOW THE OGRE|ПОСЛЕДУЮЩИЕ ЗА ОГРЕ
+19|MOVE QUIETLY AWAY|ТИХОЙ УХОД
+20|LOOK FOR THE MAN IN PLAIN CLOTHES|ПОИСК МУЖЧИНЫ В ОДНОЙ ОДЕЖДЕ
+21|THE OGRE IS TACKLED AND SEARCHED. HE DOESN'T HAVE THE ITEM ON HIM.|ОГРЕ ОБРАЩАЕТСЯ И ПОИСК. У Него НЕТ ПРЕДМЕТА НА НЕМ.
+22|THE MONSTERS LOOK AROUND FOR A SCAPEGOAT. THEIR EYES FALL UPON YOUR PARTY, THEN THEY |ЧУДОВИЩА СМОТРИТ НА СКАПЕГОС. ИХ ГЛАЗА ЗАПАДАЮТ НА ВАШУ ПАРТНЮ, ТОГДА ОНИ
+23|YOU HAVE ENTERED A CROWDED TAVERN.|ВЫ ВОшли в переполненную таверну.
+24|YOU OPENED THE DOOR INTO A DRUNK BUCCANEER.|ВЫ ОТКРЫЛИ ДВЕРЬ В НАПИТОЙ БУКАНЕР.
+25|HE GLARES AT YOU,'ONE OF YOU SHALL PAY FOR THIS INSULT. WHO WILL IT BE?'WHAT DO YOU DO?|ОН СМОТРИТ НА ВАС: "ОДИН ИЗ ВАС ПЛАТИТ ЗА ЭТОТ НАРУШЕНИЕ. КТО ЭТО БУДЕТ? "ЧТО ВЫ ДЕЛАЕТЕ?
+26|CHALLENGE|ВЫЗОВ
+27|ATTACK|АТАКА
+28|FLEE|БЕЖАТЬ
+29|BRIBE|ВЗЯТЬ
+30|WHO WILL CHALLENGE THE BUCCANEER?|КТО БУДЕТ ВЫЗОВАТЬ БУКАНЕР?
+31|THAT ONE IS UNACCEPTABLE. CHOOSE ANOTHER.|ЭТО НЕДОПУСТИМО. ВЫБРАТЬ ДРУГОЙ.
+32|OVER THIS DOOR IS A CRUDE SIGN SAYING, 'THE PITT.'|НАД ЭТОЙ ДВЕРЬЮ ГРОМКИЙ ЗНАК ГОВОРИТ: "ПИТТ".
+33|THIS IS A HIDDEN TEMPLE OF ILMATER. YOU FEEL SAFE HERE.|ЭТО СКРЫТЫЙ ХРАМ ИЛМАТЕРА. ВЫ ЧУВСТВУЕТЕ ЗДЕСЬ В БЕЗОПАСНОСТИ.
+34|A YOUNG WOMAN COMES FORWARD 'WE PROVIDE HELP FOR THOSE WHO CAN REACH US. ARE YOU IN NEED OF HEALING?|МОЛОДАЯ ЖЕНЩИНА идет вперед "МЫ ОКАЗЫВАЕМ ПОМОЩЬ ТЕМ, КТО МОЖЕТ ДОСТУПИТЬ К НАМ. ВАМ НУЖНО ИСЦЕЛЕНИЕ?
+35|YES|ДА
+36|NO|НЕТ
+37|'YOU CAN REST HERE AS LONG AS YOU WISH.' SHE THEN LEAVES.|"ВЫ МОЖЕТЕ ОТДЫХАТЬ ЗДЕСЬ СКОЛЬКО ХОТИТЕ". ОНА ТОГДА УХОДИТ.
+38|THIS IS A SMALL SHRINE. SYMBOLS OF BANE HAVE REPLACED THOSE OF ILMATER.|ЭТО НЕБОЛЬШОЙ СВЯТОЙ. СИМВОЛЫ БЕЙНА ЗАМЕНИЛИ ИЛМАТЕР.
+39|A ROBED ORC IS SITTING HERE. WHAT DO YOU DO?|ЗДЕСЬ СИДЕТ БЕЗОПАСНЫЙ ОРК. ЧТО ВЫ ДЕЛАЕТЕ?
+40|LEAVE|ПОКИНУТЬ
+41|GREET|ПРИВЕТСТВОВАТЬ
+42|ATTACK|АТАКА
+43|THE ORC SMILES CROOKEDLY.'GREETINGS FROM BANE.|ОРК криво улыбается: "ПРИВЕТ ОТ БЕЙНА.
+44| WE ARE RECRUITING CREATURES FOR OUR TEMPLE TO THE NORTHEAST. ARE YOU INTERESTED?'| МЫ НАБИРАЕМ СУЩЕСТВ ДЛЯ НАШЕГО ХРАМА НА СЕВЕРО-ВОСТОКЕ. ВАС ЗАИНТЕРЕСОВАН? '
+45|YES|ДА
+46|NO|НЕТ
+47| WE ARE HIRING CREATURES TO RECOVER OUR TEMPLE. ARE YOU INTERESTED?'| МЫ НОРМАЕМ СУЩЕСТВ, ЧТОБЫ ВОССТАНОВИТЬ НАШ ХРАМ. ВАС ЗАИНТЕРЕСОВАН? '
+48|AN ABANDONED SHOP. BROKEN SHELVES ARE ALL THAT REMAIN.|ЗАБРОШЕННЫЙ МАГАЗИН. ВСЕ, ЧТО ОСТАЛОСЬ - СЛОМАННЫЕ ПОЛКИ.
+49|A DECAYED BUILDING LEFT TO THE RATS.|РАЗРУШЕННОЕ ЗДАНИЕ ОСТАЛОСЬ КРЫСАМ.
+50|AS YOU MOVE YOU OVERHEAR SOME|КАК ВЫ ПЕРЕМЕЩАЕТЕ, ВЫ НЕ СЛУШАЕТЕ НЕКОТОРЫЕ
+51| SAY, | СКАЗАТЬ,
+52|'DO YOU THINK HE'LL REALLY SHOW UP -- THE BOSS I MEAN?'|"ВЫ ДУМАЕТЕ, ЧТО ОН ДЕЙСТВИТЕЛЬНО ПОКАЗЫВАЕТСЯ - БОССА, Я ХОЧУ?"
+53|THEY GLARE AT YOUR PARTY, |ОНИ СМОТРИТ НА ВАШУ ПАРТИЮ,
+54|THE PLAZA AHEAD IS CROWDED WITH MONSTERS. HOW WILL YOU PROCEDE?|ПЛОЩАДЬ ВПЕРЕДИ НАПОЛНЕНА МОНСТРАМИ. КАК ВЫ БУДЕТЕ ПРОЦЕДУРА?
+55|STRIDE BOLDLY FORWARD!|СМОТРИТЕ ВПЕРЕД!
+56|DISGUISE PARTY AS MONSTERS.|ЗАКРЫВАЙТЕ ВЕЧЕРИНКУ КАК МОНСТРОВ.
+57|SNEAK, REMAINING UNSEEN|КРОССОВКА, ОСТАЮЩАЯСЯ НЕВИДИМОЙ
+58| ORCS| ORCS
+59| HOBGOBLINS| ХОБГОБЛИНЫ
+60| OGRES| ОГРЭС
+61| RUSH TO ATTACK.| БЕГАТЬ В АТАКУ.
+62|YOUR COVER IS BLOWN.|ВАША КРЫШКА ВДУВАЕТСЯ.
+63|THE PARTY RUNS AND ESCAPES.|ВЕЧЕРИНКА УБЕГАЕТ И УБЕГАЕТ.
+64|YOUR COVER IS BLOWN.|ВАША КРЫШКА ВДУВАЕТСЯ.
+65|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+66|THE MONSTERS SHOOT YOU ANGRY LOOKS, |МОНСТРЫ СТРЕЛЯЮТ ВАС ЗЛОЙ ВИДОМ,
+67|YOU NOW SEE THE WAND ISN'T A MAJOR ARTIFACT, IT'S ONLY A WAND OF FEAR!|ВЫ СЕЙЧАС ВИДЕТЕ ЖЕЛОК - НЕ ГЛАВНЫЙ АРТЕФАКТ, ЭТО ТОЛЬКО ЖЕЗЛО СТРАХА!
+68|'IT'S A WAND OF ILLUMINATION. WHO CARES, I SEE IN THE DARK ANYWAY!'|"ЭТО ЖЕЗЛО ОСВЕЩЕНИЯ. КТО ЗАБОТИТСЯ, Я ВСЕ ВИДЮ В ТЕМНОМ! '
+69|AS YOU MOVE AWAY THE MONSTERS GLANCE YOUR WAY, |КОГДА ВЫ УХОДИТЕ, МОНСТРЫ ВЗЛЯЮТ НА ВАШУ ПУТЬ,
+70|THE AUCTION ENDS. YOU DON'T SEE WHO BOUGHT THE ITEM.|АУКЦИОН ЗАКОНЧИЛСЯ. ВЫ НЕ ВИДИТЕ, КТО КУПИЛ ПРЕДМЕТ.
+71|'GOING... GOING... GONE!' THE AUCTIONEER CRIES.|ИДЕТ ... ИДЕТ ... ПРОЙДЕТ! АУКЦИОНЕР плачет.
+72|A MAN AND OGRE EXCHANGE THE WAND AND A LARGE BAG, THEN DISAPPEAR INTO THE CROWD.|ЧЕЛОВЕК И ОГРЕ ОБМЕНЯЮТСЯ ПАЛОЧКОЙ И БОЛЬШОЙ СУМКОЙ, ПОТОМ ИСЧЕЗДАЮТСЯ В ТОЛПЕ.
+73| AND YELL 'SETTLERS! KILL THEM!'| И КРИЧАТЬ ПОСЕЛЕНИЯМ! УБЕЙ ИХ!'
+74|'THE AUCTION IS CANCELLED!' YELLS THE AUCTIONEER AS HE FLEES.|"АУКЦИОН ОТМЕНЕН!" КРИЧИТ АУКЦИОНЕР, УБЕГАЯ.
+75|GRUMBLE, AND TURN AWAY.|Ворчать и отвернуться.
+#NAME?
+77|THE AUCTION OVER, THE MONSTERS GRUMBLE AND TURN AWAY.'|АУКЦИОН ЗАКОНЧИЛСЯ, МОНСТРЫ ВОРЧАЮТСЯ И УБЕГАЮТ.
+78|THE CREATURES IGNORE YOU FOR THE MOMENT.|СОЗДАНИЯ ИГНОРИРУЮТ ВАС НА МГНОВЕНИИ.
+79|WHAT DO YOU DO?|ЧТО ВЫ ДЕЛАЕТЕ?
+80|MIX WITH MONSTERS|СМЕШАТЬ С МОНСТРАМИ
+81|DRINK HEAVILY|ПЕЙТЕ НАСЫЩЕННО
+82|ATTACK|АТАКА
+83|LEAVE|ПОКИНУТЬ
+84|MONSTERS INSULT YOUR ABILITIES AND PARENTAGE.|МОНСТРЫ ОСТАВЛЯЮТ ВАШИ СПОСОБНОСТИ И РОДИТЕЛЬСТВО.
+85|WHAT DO YOU DO?|ЧТО ВЫ ДЕЛАЕТЕ?
+86|ATTACK|АТАКА
+87|TRY TO LEAVE|ПОПЫТАЙТЕСЬ УЙТИ
+88|INSULT BACK|НАЗАД НАЗАД
+89|JOIN IN HEAVY DRINKING|ПРИСОЕДИНЯЙТЕСЬ К ПИТЬЮ
+90|YOU HAD A GREAT TIME UNTIL YOU ALL PASSED OUT. YOUR PURSE IS MISSING.|У ВАС БЫЛО ОТЛИЧНОЕ ВРЕМЯ, ЧТО ВЫ ВСЕ НЕ ПРОШЛИ. ВАШЕГО КОШЕЛЬКА ОТСУТСТВУЕТ.
+91|YOUR ACTIONS ANGER THE PATRONS AND THEY ATTACK.|ВАШИ ДЕЙСТВИЯ ГНУТ ЗАЩИТНИКОВ, И ОНИ НАПАДАЮТ.
+92|'A TENTH OF YOUR MONEY THEN.'DO YOU ACCEPT?|ЗАТЕМ ДЕСЯТУЮ ДЕНЕГ. ВЫ ПРИНИМАЕТЕ?
+93|YES|ДА
+94|NO|НЕТ
+95|THE BATTLE IS OVER, THE PATRONS RETURN TO DRINKING.|БИТВА ОКОНЧЕНА, ЗАЩИТНИКИ возвращаются к питью.
+96|MANY CREATURES HAVE GATHERED. THE ROBED ORC STANDS AND CALLS OUT,'FIRST, TO SHOW YOUR LOYALTIES, KILL THE UNBELIEVERS.' HE POINTS AT YOUR GROUP.|СОБЕРИЛО МНОГИЕ СУЩЕСТВА. ОПАСНЫЙ ОРК ВЫСТАВЛЯЕТСЯ И ПРИЗЫВАЕТ: "ПРЕЖДЕ ЧТОБЫ ПРОЯВИТЬ СВОЮ ЛОЯЛЬНОСТЬ, УБИВАЙТЕ НЕВЕРУЮЩИХ" ОН УКАЗЫВАЕТ НА ВАШУ ГРУППУ.
+97|'MEET HERE IN TWO HOURS. YOU MAY MEET HIGH PRIEST MACE.' HE ESCORTS YOU OUT.|"ВСТРЕЧАЕТСЯ ЗДЕСЬ ЧЕРЕЗ ДВА ЧАСА. ВЫ МОЖЕТЕ ВСТРЕЧИТЬСЯ ВСТРЕЧИ МАКУ. ОН ВЫСТУПАЕТ ВАС.
+98|'IF YOU CHANGE YOUR MIND, RETURN IN TWO HOURS.' HE ESCORTS YOU OUT.|"Если ты изменишь свой разум, вернись через два часа". ОН ВЫСТУПАЕТ ВАС.
+99|'MORE OGRES ON THE STREET, SINCE THE GIANTS TOOK OVER THE CASTLE.'|"БОЛЬШЕ ОГРОВ НА УЛИЦЕ, С тех пор, как ГИГАНТЫ ЗАНЯЛИ ЗАМОК".
+100|'THE PLAZA'S BANE TEMPLE IS RECRUITING FOR MACE AGAIN. GRISHNAK WON'T BE HAPPY.'|ХРАМ БЕЙНА ПЛАЗЫ СНОВА НАБИРАЕТСЯ ДЛЯ MACE. ГРИШНАК НЕ БУДЕТ СЧАСТЛИВЫ.
+101|'HE MELTED INTO A PUDDLE OF LARD WHEN HE TOUCHED THE THING!'|"Он растаял в лужице сала, когда прикоснулся к ней!"
+102|'THE BOSS WILL BE THE GUY BIDDING UP THE PRICE.'|"БОСС БУДЕТ ПАРНЕМ, УДОВЛЕТВАЮЩИМ ЦЕНУ".
+103|THE MONSTERS STAND READY|МОНСТРЫ ГОТОВЫ
+104|THE MONSTERS PREPARE|МОНСТРЫ ГОТОВЯТСЯ
+105|YOU SPOT A GROUP OF|ВЫ УВИДИТЕ ГРУППУ
+106|. |.
+107|YOUR PARTY SLIPS PAST THEM.|ВАША ПАРТИЯ ПРОИСХОДИТ МИНИМУМ.
+108|THEY CHECK OUT YOUR PARTY, |ОНИ ПРОВЕРЯЮТ ВАШУ СТОРОНУ,
+109|AND DEMAND, 'WHO ARE YOU?'|И ТРЕБУЙТЕ: "КТО ВЫ?"
+110|THEY YELL 'SETTLERS! KILL THEM!'|ОНИ ОЧИЩАЮТ ПОСЕЛЕНИЙ! УБЕЙ ИХ!'
+111|'IT'S A STAFF OF COMMAND. I COULD HAVE MY OWN ARMY!'|"ЭТО КОМАНДНЫЙ ПЕРСОНАЛ. МОЖЕТ БЫТЬ СОБСТВЕННАЯ АРМИЯ!
+112|THE BAR LOOKS LIKE IT WAS DESTROYED BY EXPERTS.|БАР ВЫГЛЯДИТ, КАК БЫЛ РАЗРУШЕН ЭКСПЕРТАМИ.
+113|YOUR ACTIONS TRIGGER A FREE FOR ALL.|ВАШИ ДЕЙСТВИЯ БЕСПЛАТНЫ ДЛЯ ВСЕХ.
+114|THE BAR LOOKS LIKE IT WAS DESTROYED BY EXPERTS.|БАР ВЫГЛЯДИТ, КАК БЫЛ РАЗРУШЕН ЭКСПЕРТАМИ.
+115|THE BUCCANEER SMILES.'THAT IS SUFFICIENT PAYMENT.' HE LEAVES.|БУКАНЕР УЛЫБАЕТСЯ. "ЭТО ДОСТАТОЧНАЯ ПЛАТА". ОН УХОДИТ.
+116|'WE'LL LET YOU OFF THIS TIME.' THE MONSTERS SCUTTLE AWAY.|"МЫ ДАВАЕМ ВАМ НА ЭТОЙ ВРЕМЯ". МОНСТРЫ УБЕГАЮТ.
+117|YOU STOP, AND THEY MOVE ON.|ВЫ ОСТАНАВЛИВАЕТЕСЬ, И ОНИ ДВИГАЮТСЯ.
+118|AND WALK ON.|И ПРОЙДИТЕ.
+119|THEY GRUMBLE AND MOVE ON.|Они ворчат и двигаются дальше.
+120|'OH, YOU'RE HERE FOR THE BOSS.'|"О, ВЫ ЗДЕСЬ ДЛЯ БОССА".
+121|'MOVE IT, TROLL-BAIT!' THEY SNARL AND MOVE OFF.|"ДВИГАЙТЕ ЭТО, ТРОЛЛЬ-ПРИМАНКА!" Они рычат и уезжают.
+122|LAUGH TO THEMSELVES AND WALK ON.|СМЕЙТЕ СЕБЯ И ИДИТЕ.
+123|'WE'RE GONNA HAVE TA TEACH YOU A LESSON!'|"МЫ СОБИРАЕМСЯ НАУЧИТЬ ВАС УРОК!"
+124|WHILE IN CAMP YOU ARE SUDDENLY ATTACKED BY ORCS.|ВО ВРЕМЯ ЛАГЕРЯ НА ВАС ВНЕЗАПНО НАПАДАЮТ ОРКИ.

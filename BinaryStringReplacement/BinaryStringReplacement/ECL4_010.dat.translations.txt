@@ -1,0 +1,84 @@
+﻿115|THE SPECTRE HAS NOTICED YOU.|СПЕКТР ВАС ЗАМЕТИЛ.
+116|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+117|THE SKY DARKENS. |НЕБО ТЕМНЕТ.
+118|FIERCE GUSTS OF WIND HOWL PAST AND THE GROUND SHAKES AS PEALS OF THUNDER ROCK THE LAND.  THE SWIRLING MURK HIDES WHAT LIES AHEAD.|Яростные порывы ветра пронеслись мимо, и земля сотряслась, как раскаты грома сотрясли землю. КРУТЯЩИЙСЯ МУРК скрывает то, что впереди.
+119|UNTIL AN EXPLOSION OF LIGHTNING REVEALS THE NIGHTMARE SCENE OF A GRAVEYARD TURNED UPSIDE DOWN.|ПОКА ВЗРЫВ МОЛНИИ не откроет кошмарную сцену, когда кладбище перевернуто вверх дном.
+120| SKELETONS.| СКЕЛЕТЫ.
+121|CLAWS RISE FROM THE SOIL AND ATTEMPT TO DRAG YOU DOWN.|Когти поднимаются из-под почвы и пытаются утащить вас вниз.
+122|THE ENCLAVE IS GUARDED BY A SKELETON ARMY!|АНКЛАВ ОХРАНЯЕТ АРМИЯ СКЕЛЕТОВ!
+123|YOU FIND A GIANT SKELETON|ВЫ НАЙДЕТЕ ГИГАНТСКИЙ СКЕЛЕТ
+124| AND ITS RETAINERS.| И ЕГО ФИКСАТОРЫ.
+125|YOU FIND A MARBLE CHEST.  OPEN IT?|ВЫ НАХОДИЛИ МРАМОРНЫЙ СУНДУК. ОТКРОЙ ЭТО?
+126| ZOMBIES.| ЗОМБИ.
+127|ZOMBIES SHUFFLE DOWN THE STAIRS!|ЗОМБИ СПУСКАЮТСЯ ПО ЛЕСТНИЦАМ!
+128|A ZOMBIE WITH GRAY, LEATHERY-HARD SKIN GAZES AT YOU WITH HATE-FILLED EYES.|ЗОМБИ С СЕРЫМ, ЖЕСТКОЙ КОЖЕЙ СМОТРИТ НА ВАС НАПОЛНЕННЫМИ НЕНАВИЕЙ ГЛАЗАМИ.
+129|VARIOUS OBJECTS ARE SCATTERED ABOUT. WILL YOU PICK THEM UP?|РАЗЛИЧНЫЕ ОБЪЕКТЫ РАСПРОСТРАНЯЮТСЯ ОКОЛО. ВЫ ЗАБЕРИТЕ ИХ?
+130| WIGHTS.| ПЕРЧАТКИ.
+131|YOU STAND BEFORE A HUGE TOWER. THE SINGLE ENTRANCE IS LOCKED AND STRONGLY BUILT.|ВЫ стоите перед огромной башней. ЕДИНЫЙ ВХОД ЗАБЛОКИРОВАН И ПРОЧНО СОЗДАН.
+132|WARNING VOICES CRY FROM WITHIN.  'WE ARE THE SPIRITS OF THOSE WHO FOUGHT THE DRAGONS.  LEAVE US OR DIE.'|ПРЕДУПРЕЖДАЮЩИЕ ГОЛОСА плачут изнутри. "МЫ - ДУХИ БОРЬБОВ С ДРАКОНАМИ. УЙДИТЕ ОТ НАС ИЛИ УМЕРТЬ ".
+133|DO YOU LEAVE?|ТЫ УХОДИШЬ?
+134|YOU ARE ATTACKED BY WIGHTS.|НА ВАС НАПАДАЮТ ПЛОЩАДКИ.
+135|IN THE CHAMBER IS A SINGLE CRYPT.  FLOATING ABOVE THE CRYPT IS A WRAITH. 'I AM THE PROTECTOR OF THE PALADIN. I GUARD HIS REMAINS FOR ALL ETERNITY.  LEAVE OR SUFFER.'  WHAT DO YOU DO?|В КАМЕРЕ ЕДИНЫЙ КРИПТ. ПЛАВАЕТ НАД КРИПТОМ - ПРИЗРАК. "Я ЗАЩИТНИК ПАЛАДИНА. Я СТРАЖУ ЕГО ОСТАТКИ НА ВСЮ ВЕЧНОСТЬ. УЙДИТЕ ИЛИ ПОСТРАДАЙТЕ ". ЧТО ВЫ ДЕЛАЕТЕ?
+136|LEAVE|ПОКИНУТЬ
+137|STAY|ОСТАТЬСЯ
+138|A TOWER STANDS CLEARLY ABOVE ALL CRYPTS IN THE AREA.  HUGE PILES OF HUMAN BONES ARE STREWN ABOUT.|БАШНЯ СТОИТ ЯВНО НАД ВСЕМИ КРИПТАМИ В ОБЛАСТИ. ОГРОМНЫЕ КУЧИ ЧЕЛОВЕЧЕСКИХ КОСТИ ВСЕГО.
+139|A SMALL ARMY OF SKELETONS RUSHES FROM THE TOWER.|МАЛЕНЬКАЯ АРМИЯ СКЕЛЕТОВ УБИВАЕТСЯ ОТ БАШНЯ.
+140|NOXIOUS FUMES TEAR AT YOUR THROAT AS YOU CRUNCH THROUGH PILES OF DRIED BONES.|Ядовитый дым разрывает вам горло, когда вы прогуливаетесь сквозь груды высушенных костей.
+141| YOU SURPRISE A SHADOWY FORM CREATING NEW SKELETONS.| ВЫ УДИВИТЕ ОТТЕННУЮ ФОРМУ, СОЗДАВАЯ НОВЫЕ СКЕЛЕТЫ.
+142|ALL AROUND THE TOWER, PILES OF HAIR AND FUR COVER THE AREA.|ВОКРУГ БАШНЯ ВОЛОСЫ И МЕХА ПОКРЫВАЮТ ПЛОЩАДЬ.
+143|THE TOWER DOOR SWINGS OPEN AND A SMALL ARMY OF ZOMBIES SHUFFLES OUT.  THE DOOR CLOSES WITH A CLAMOR OF LOCKS FALLING INTO PLACE.|ДВЕРЬ БАШНИ ОТКРЫВАЕТСЯ, И ВЫХОДИТ МАЛЕНЬКАЯ АРМИЯ ЗОМБИ. ДВЕРЬ ЗАКРЫВАЕТСЯ С ЗАХВАТОМ ЗАМКОВ.
+144|THE CHAMBER IS FILLED WITH USELESS CLOTHING AND RUSTING ARMOR.|КАМЕРА ЗАПОЛНЕНА БЕЗОПАСНОЙ ОДЕЖДОЙ И РЖАВЧИНОЙ БРОНЕЙ.
+145|IN A CHAMBER FILLED WITH RUINED PARCHMENTS, YOU SURPRISE A SHAPE THAT IS CREATING ZOMBIES.|В КАМЕРЕ, ЗАПОЛНЕННОЙ РАЗРУШЕННЫМИ ПАРКАМЕНТАМИ, ВЫ УДИВИТЕ ФОРМУ, КОТОРАЯ СОЗДАЕТ ЗОМБИ.
+146|WITH SLOW, OMINOUS CREAKS, MUMMIES OPEN THEIR SARCOPHOGI.|Медленными зловонными тресками мумии открывают свои саркофоги.
+147|THE AIR AROUND THE TOWER IS CHARGED WITH STATIC ELECTRICITY AND BALL LIGHTNING. |ВОЗДУХ ВОКРУГ БАШНЯ ЗАРЯЖЕН СТАТИЧЕСКИМ ЭЛЕКТРИЧЕСТВОМ И ШАРОВЫМ МОЛНИЕЙ.
+148| WIGHTS APPEAR FROM BEHIND THE TOWER.| ИЗ-ЗА БАШНИ ПОЯВЛЯЮТСЯ ПЛАТЫ.
+149|THE LOWER CHAMBER IS FILLED WITH GLASS AND FUR OBJECTS OF ALL TYPES. |НИЖНЯЯ КАМЕРА ЗАПОЛНЕНА СТЕКЛЯННЫМИ И МЕХОВЫМИ ПРЕДМЕТАМИ ВСЕХ ТИПОВ.
+150|A SHARP CRACK SPLITS THE AIR AND YOU ARE STUNG.|ОСТРАЯ ТРЕЩИНА РАЗДЕЛЯЕТ ВОЗДУХ, И ВЫ УЖАЛИТЕСЬ.
+151|YOU SURPRISE A FIGURE AS IT SUMMONS A WIGHT.|ВЫ УДИВИТЕ ФИГУРУ, КАК ОНА ВЫЗЫВАЕТ УМЕР.
+152|IN THE ENTRY IS SET A HUGE PAIR OF BRASS DOORS.|В ПОДЪЕМЕ УСТАНАВЛИВАЕТСЯ ОГРОМНАЯ ПАРА ЛАТУННЫХ ДВЕРЕЙ.
+153|SHADOWY FORMS FLOW FROM BETWEEN THE DOORS AND ATTACK.|ТЕНЕВЫЕ ФОРМЫ ПОТОКАЮТ МЕЖДУ ДВЕРЬЮ И АТАКУЮТ.
+154|A VOICE SPEAKS, 'COME, MY BRAVE ADVENTURERS.  YOU MUST TAKE MY GIFTS TO BETTER FIGHT THE EVIL THAT HAS COME TO THE CITY.'|ГОЛОС ГОВОРИТ: "Приходите, МОИ ХРАБШИЕ ПРИКЛЮЧАТЕЛИ. ВЫ ДОЛЖНЫ ПРИНИМАТЬ МОИ ПОДАРКИ, ЧТОБЫ БОРОТЬСЯ со злом, которое пришло в город ".
+155|FROM THE MAGICALLY-LIT TOMB OF A BRAVE KNIGHT, A BODY RISES FROM ITS RESTING PLACE TO LAY WEAPONS BEFORE THE PARTY.|ИЗ ВОЛШЕБНО ОСВЕЩЕННОЙ Гробницы Храброго Рыцаря поднимается тело, чтобы заложить оружие перед партией.
+156|INSIDE THE RUINS OF A BLACK MARBLE CRYPT IS A COFFIN FILLED WITH DUST.  AMONG THE PILES OF DUST ARE SEVERAL BROKEN CROSSES, VIALS OF SPILLED HOLY WATER, AND A SCROLL.|ВНУТРИ РУИН ЧЕРНОГО МРАМОРНОГО КРИПТА НАХОДИТСЯ ГРОБ, ЗАПОЛНЕННЫЙ ПЫЛЬЮ. СРЕДИ КУПОК ПЫЛИ НЕСКОЛЬКО СЛОМАННЫХ КРЕСТОВ, ФУНКЦИЙ С ПРОЛИВОМ СВЯТОЙ ВОДЫ И СВИТОК.
+157|DO YOU READ THE SCROLL?|ВЫ ЧИТАЕТЕ СВИТОК?
+158|THE SCROLL IS PLACED IN YOUR JOURNAL AS ENTRY 43.|СВИТОК РАЗМЕЩЕНА В ВАШЕМ ЖУРНАЛЕ КАК ЗАПИСЬ 43.
+159|DO YOU WANT TO DO ANYTHING WITH THE COFFIN?|ВЫ ХОТИТЕ ЧТО ДЕЛАТЬ С ГРОБОМ?
+160|WHAT DO YOU WANT TO DO TO IT?|ЧТО ВЫ ХОТИТЕ С ЭТОМ ДЕЛАТЬ?
+161|EXAMINE|ИССЛЕДОВАТЬ
+162|SANCTIFY|Освящать
+163|OVERTURN|ПЕРЕВОЗКА
+164|YOU FIND NOTHING.|ВЫ НИЧЕГО НЕ НАХОДИТЕ.
+165|YOU ARE APPROACHED BY A MAN CLAD IN MYSTIC ROBES.|К ВАМ ОБРАЩАЕТСЯ ЧЕЛОВЕК, ЗАКРЫТЫЙ В ТАИНСТВЕННЫХ РЯДАХ
+166|'HAIL, NOBLE ADVENTURERS,' HE CALLS. 'I WOULD ASK YOU TO HELP ME END THIS FOUL UNDEAD CURSE.'|"ПРИВЕТ, благородные авантюристы", - ПРИЗЫВАЕТ ОН. "Я ПРОСЬБА ВАС ПОМОЧЬ МНЕ ПРЕКРАТИТЬ ЭТО ФОЛЬШОЕ НЕМЕРТНОЕ ПРОКЛЯТИЕ".
+167|DO YOU LET HIM JOIN THE PARTY OR SEND HIM AWAY?|ВЫ РАЗРЕШАЕТЕ ЕГО ПРИСОЕДИНЯТЬСЯ К ПАРТИИ ИЛИ ОТПРАВИТЬ ЕГО?
+168|LET HIM JOIN|ПОЗВОЛЬТЕ ЕМУ ПРИСОЕДИНЯТЬСЯ
+169|SEND HIM AWAY|ОТПРАВИТЬ ЕГО
+170|'THE UNDEAD ARE CONTROLLED BY A VAMPIRE WHO LURKS IN THE NORTHEAST CORNER OF THE GRAVEYARD,' THE MAN SAYS.|"НЕМЕРТЫМИ контролирует вампир, который прячется в северо-восточном углу кладбища", - ГОВОРИТ ЧЕЛОВЕК.
+171|WOODEN STAIRS LEAD INTO A PIT.  DO YOU GO DOWN?|ДЕРЕВЯННАЯ ЛЕСТНИЦА ВЕДУТ В ЯМУ. ВЫ ПОПАДАЕТЕ?
+172|THE CHAMBER LIGHTS UP TO REVEAL A TALL, PALE MAN WITH VERY WHITE TEETH.|КАМЕРА СВЕТАЕТСЯ, ЧТОБЫ ВЫЯВИТЬ ВЫСОКОГО БЕЛОГО ЧЕЛОВЕКА С ОЧЕНЬ БЕЛЫМИ ЗУБАМИ.
+173|THE VAMPIRE TURNS INTO A VAPOR CLOUD AND FLOATS AWAY.|ВАМПИР превращается в паровое облако и улетает прочь.
+174|THE MYSTIC MAN SPEAKS, 'THE VAMPIRE IS BEHIND THE NORTHERN WALL.'|МИСТИЧЕСКИЙ ЧЕЛОВЕК ГОВОРИТ: "ВАМПИР ЗА СЕВЕРНОЙ СТЕНОЙ".
+175|YOU ARE SUDDENLY CONFRONTED BY |ВАМ ВНЕЗАПНО ПРОТИВОПОКАЗЫВАЕТ
+176|YES|ДА
+177|NO|НЕТ
+178|IN THE CRYPT LIES THE FULLY-EQUIPPED BODY OF A MIGHTY WARRIOR.  DO YOU STRIP THE BODY?|В КРИПТЕ ПОЛНОСТЬЮ ОБОРУДОВАННОЕ ТЕЛО МОГУЩЕГО ВОИНА. ТЫ РАЗДЕЛЯЕТЕ ТЕЛО?
+179|IN THE CRYPT LIES THE FULLY-EQUIPPED BODY OF A MIGHTY WARRIOR.  DO YOU STRIP THE BODY?|В КРИПТЕ ПОЛНОСТЬЮ ОБОРУДОВАННОЕ ТЕЛО МОГУЩЕГО ВОИНА. ТЫ РАЗДЕЛЯЕТЕ ТЕЛО?
+180|NOXIOUS FUMES POUR FROM THE TOWER DOORWAY, MAKING IT IMPOSSIBLE TO SEE INSIDE.|ЯДЕРНЫЙ ДЫМ ВЫХОДИТ ИЗ ДВЕРНОГО ПРОЕМА БАШНИ, НЕВОЗМОЖНО ВИДЕТЬ ВНУТРИ.
+181|WRITTEN ON THE DOOR (IN THE COMMON TONGUE) IS: 'DO NOT OPEN THIS DOOR. A GREAT EVIL HAS BEEN LAID TO REST HERE.'|НА ДВЕРИ (НА ОБЩЕСТВЕННОМ ЯЗЫКЕ) НАПИСАНО: "НЕ ОТКРЫВАЙТЕ ЭТУ ДВЕРЬ. БОЛЬШОЕ ЗЛО ЗАЛОЖЕНО ЗДЕСЬ ОТДЫХАТЬ ".
+182|THERE ARE LARGE SILVER HOLY SYMBOLS UP AND DOWN THE CRACK IN THE DOORWAY.|ЕСТЬ БОЛЬШИЕ СЕРЕБРЯНЫЕ СВЯТЫЕ СИМВОЛЫ ВВЕРХ И ВНИЗ ТРЕЩИНУ В ДВЕРИ.
+183|IN THE MIDDLE OF A DOOR IS A PANEL OF A POWERFUL KNIGHT FIGHTING SEVERAL UNDEAD.|ПОСРЕДНЕЙ ДВЕРИ - ПАНЕЛЬ МОЩНОГО РЫЦАРЯ, БОРЬШЕГО С НЕСКОЛЬКО НЕМЕРТВЫХ.
+184|YOU ARE IN THE DUSTY REMAINS OF A BLACK MARBLE CRYPT.|ВЫ В ПЫЛИ ОСТАВАЕТСЯ ЧЕРНОМРАМОРНЫЙ КРИПТ.
+185|THERE IS A VAMPIRE HERE.|ЗДЕСЬ ВАМПИР.
+186|YOU SCATTER THE DUST AND PLACE WHAT HOLY ITEMS YOU CAN SPARE INSIDE.|ВЫ РАССЕРИВАЕТЕ ПЫЛЬ И РАЗМЕЩАЙТЕ СВЯТЫЕ ПРЕДМЕТЫ ВНУТРИ.
+187|THE COFFIN MAKES A MESS ON THE FLOOR.|ГРОБ ДЕЛАЕТ МЕССУ НА ПОЛУ.
+188|'THEN DIE YOU SCUM,' THE MAN SPITS.|"ТОГДА УМЕРЬ ВЫ, ПОДНИЗЬ", - ПЛЮЧИЛ ЧЕЛОВЕК.
+189|YOUR PARTY IS TOO LARGE FOR ME TO JOIN.|ВАША ПАРТИЯ слишком велика, чтобы я мог присоединиться к ней.
+190|YOU FIND THE VAMPIRE'S TREASURE TROVE.  DO YOU TAKE IT?|ВЫ НАХОДИТЕ БУМАГУ СОКРОВИЩА ВАМПИРА. ВЫ ПРИНИМАЕТЕ?
+191|SKELETONS SILENTLY ATTACK.|СКЕЛЕТЫ БЕСШУМНАЯ АТАКА.
+192|LUMBERING FIGURES REACH FOR YOU.|ДОРОЖНЫЕ ЦИФРЫ ДОСТУПАЮТ ДЛЯ ВАС.
+193|DARK, BENT CREATURES RUSH SWIFTLY AT YOU.|DARK, BENT CREATURES БЫСТРО БЫСТРО НА ВАС.
+194|YOU HAVE MANAGED TO SNEAK UP ON SOME |ВАМ УДАЛИЛИСЬ НА НЕКОТОРЫХ
+195|YOU ARE NOTICED.|ВАС ЗАМЕТИЛИ.
+196|YOU FIND SOME UNDEAD.|ВЫ НАЙДЕТЕ НЕКОТОРЫЕ НЕМЕРТЫЕ.
+197|THEY DON'T LISTEN.|ОНИ НЕ СЛУШАЮТ.
+198|NOXIOUS FUMES POUR FROM THE TOWER DOORWAY, MAKING IT IMPOSSIBLE TO SEE INSIDE.|ЯДЕРНЫЙ ДЫМ ВЫХОДИТ ИЗ ДВЕРНОГО ПРОЕМА БАШНИ, НЕВОЗМОЖНО ВИДЕТЬ ВНУТРИ.
