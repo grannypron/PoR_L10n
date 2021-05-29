@@ -1,16 +1,16 @@
 ﻿1|A PATROL OF GIANTS LED BY A HUMAN FIGHTER|ПАТРУЛЬ ГИГАНТОВ, СВЯЗАННЫЙ БОРЬБОМ-ЧЕЛОВЕКОМ
 2| SURPRISES YOU.| УДИВИТ ВАС.
-3| 'THAT'S THEM! GET THEM!'| ЭТО ОНИ! ВЗЯТЬ ИХ!'
+3| 'THAT'S THEM! GET THEM!'| ЭТО ОНИ! ВЗЯТЬ ИХ!"
 4|YOU SEE A|ВЫ ВИДИТЕ
 5|. THE LEADER YELLS 'SACRILEGIOUS SCUM!'|. ВЕДУЩИЙ КРИЧИТ: "СВЯЩЕННАЯ ОТБИВАЯ!"
-6|'BLASPHEMERS! GET THEM!'|"БЛАГОДАРЯ! ВЗЯТЬ ИХ!'
+6|'BLASPHEMERS! GET THEM!'|"БЛАГОДАРЯ! ВЗЯТЬ ИХ!"
 7|YOU SEE A|ВЫ ВИДИТЕ
-8|'WHAT ARE YOU DOING HERE?'|'ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?'
+8|'WHAT ARE YOU DOING HERE?'|"ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?"
 9|THE LEADER ADVANCES.|ЛИДЕР ПРОДВИГАЕТСЯ.
 10|WHAT ARE YOU DOING HERE?|ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?
 11|THEY ADVANCE, WEAPONS READY|ОНИ ВПЕРЕДИ, ОРУЖИЕ ГОТОВО
 12|YOU SEE A|ВЫ ВИДИТЕ
-13|'WHAT ARE YOU DOING HERE?'|'ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?'
+13|'WHAT ARE YOU DOING HERE?'|"ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?"
 14|THE LEADER ADVANCES.|ЛИДЕР ПРОДВИГАЕТСЯ.
 15|WHAT ARE YOU DOING HERE?|ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?
 16|THE DOOR OF THE BUILDING YOU ARE PASSING SLAMS. |ДВЕРЬ ЗДАНИЯ, КОТОРЫЙ ВЫ ПРОХОДИТЕ, ЗАХЛОПЫВАЕТСЯ.
@@ -20,7 +20,7 @@
 20|THE GIANTS STAND IN FRONT OF YOU LOOKING SUSPICIOUS.|ГИГАНТЫ СТОЯТ ПЕРЕД ВАМИ, СМОТРИТЕ ПОДОЗРЕНИЕ.
 21|THE GIANTS ARE WALKING TOWARD YOU.|К ВАМ ГИГАНТЫ.
 22|'HEY, WHAT DO YOU THINK YOU'RE DOING?'|"ЭЙ, ЧТО ВЫ ДУМАЕТЕ, ВЫ ДЕЛАЕТЕ?"
-23|'OH... OKAY.' AND WITH THAT THEY LEAVE.|'ОХ, ЛАДНО.' И С ЭТИМ ОНИ УЕЗЖАЮТ.
+23|'OH... OKAY.' AND WITH THAT THEY LEAVE.|"ОХ, ЛАДНО." И С ЭТИМ ОНИ УЕЗЖАЮТ.
 24|UNDER A LOOSE STONE YOU FIND SOME TREASURE. |ПОД КАМНЕМ ВЫ НАХОДИТЕ НЕКОТОРЫЕ СОКРОВИЩА.
 25|YOU ENTER A LATRINE. THE LACK OF BAD SMELL GIVES YOU A GENERAL IDEA OF THE LEVEL OF SANITATION PRACTICED BY THE INHABITANTS OF THE AREA.|ВЫ ВОЙДЕТЕ В ЛАТРИНУ. ОТСУТСТВИЕ ПЛОХОГО ЗАПАХА ДАЕТ ВАМ ОБЩЕЕ ПРЕДСТАВЛЕНИЕ ОБ УРОВНЕ САНИТАРИИ, ПРАКТИЧЕСКОГО ЖИТЕЛЯМИ РАЙОНА.
 26|AS YOU OPEN THE DOOR A BUCKET OF SAND THAT WAS PROPPED ABOVE THE DOOR FALLS.|КАК ВЫ ОТКРЫВАЕТЕ ДВЕРЬ, ВЕДРО С ПЕСКОМ, ПОДПИСАННОЕ НАД ДВЕРЬЮ, ВЫПАДАЕТ.
@@ -30,34 +30,34 @@
 30|AS YOU PUSH THE DOOR OPEN THE CEILING CAVES IN.|КАК ВЫ НАДВИВАЕТЕ ДВЕРЬ, ОТКРЫВАЙТЕ ПОТОЛОЧНЫЕ ПЕЩЕРЫ.
 31|TWO GIANTS COME BOUNDING OUT OF A DOORWAY. ONE STAYS BY THE DOOR.|Два гиганта выходят из дверного проема. ОДИН ОСТАЕТСЯ У ДВЕРИ.
 32|'WHAT PASSWORD?'|КАКОЙ ПАРОЛЬ?
-33|'TELL ME PASSWORD OR I KILL YOU. NOW!'|"СКАЖИ МНЕ ПАРОЛЬ, ИЛИ Я УБЬЮ ТЕБЯ. СЕЙЧАС!'
+33|'TELL ME PASSWORD OR I KILL YOU. NOW!'|"СКАЖИ МНЕ ПАРОЛЬ, ИЛИ Я УБЬЮ ТЕБЯ. СЕЙЧАС!"
 34|BEFORE YOU IS A WELL FILLED WITH WATER.|ДО ТОГО, КАК ВЫ НАЛИВАЕТСЯ ВОДОЙ.
 35|THIS IS A SMALL CELL. CHAINED TO THE WALL IS A MAN BEATEN TO WITHIN AN INCH OF HIS LIFE. AS YOU OPEN THE DOOR HE LOOKS UP AND YOU FEEL A SHOCK... THE MAN IS PORPHYRYS CADORNA.|ЭТО МАЛЕНЬКАЯ ЯЧЕЙКА. ПРИВЯЗАН К СТЕНЕ ЧЕЛОВЕК, ИЗБИВАЕМЫЙ НА ДЮЙМ СВОЕЙ ЖИЗНИ. КАК ВЫ ОТКРЫВАЕТЕ ДВЕРЬ, ОН СМОТРИТ И ВЫ ЧУВСТВУЕТЕ ШОК ... ЧЕЛОВЕК - PORPHYRYS CADORNA.
 36|'IN THE NAME OF CHANTUA, HELP ME, PLEASE! BY ALL THAT'S MERCIFUL HELP ME.' HE BEGINS TO COUGH.|"ИМЯ ЧАНТУА, ПОМОГИТЕ МНЕ, ПОЖАЛУЙСТА! ВСЕМ МИЛОСЕРДИЕ ПОМОГИТЕ МНЕ ". Он начинает кашлять.
 37|RELEASE HIM|ВЫПУСТИТЕ ЕГО
 38|LEAVE HIM|ОСТАВИТЬ ЕГО
 39|KILL HIM|УБЕЙ ЕГО
-40|'WAIT!' HE SHRIEKS. 'I KNOW HOW TO GET THROUGH THE MAIN GATES. I CAN HELP YOU.'|ЖДАТЬ!' ОН ВРИЧИТ. "Я ЗНАЮ, КАК ПРОЙТИ ЧЕРЕЗ ГЛАВНЫЕ ВОРОТА. Я МОГУ ПОМОЧЬ ВАМ.'
+40|'WAIT!' HE SHRIEKS. 'I KNOW HOW TO GET THROUGH THE MAIN GATES. I CAN HELP YOU.'|ЖДАТЬ!" ОН ВРИЧИТ. "Я ЗНАЮ, КАК ПРОЙТИ ЧЕРЕЗ ГЛАВНЫЕ ВОРОТА. Я МОГУ ПОМОЧЬ ВАМ."
 41|YOU SEE GIANT SNAKES.|ВЫ ВИДЕТЕ ГИГАНТСКИХ ЗМЕЕЙ.
 42|TWO GIANTS STAND BARRING YOUR WAY.|ДВА ГИГАНТА ОСТАВЛЯЮТ ВАШУ ПУТЬ.
-43|. THE LEADER SEES YOU. 'THAT'S THEM!'|. ЛИДЕР ВАС ВИДЕТ. 'ЭТО ОНИ!'
+43|. THE LEADER SEES YOU. 'THAT'S THEM!'|. ЛИДЕР ВАС ВИДЕТ. "ЭТО ОНИ!"
 44|THEY ADVANCE, WEAPONS READY|ОНИ ВПЕРЕДИ, ОРУЖИЕ ГОТОВО
 45|YOU SEE A|ВЫ ВИДИТЕ
-46|'WHAT ARE YOU DOING HERE?'|'ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?'
+46|'WHAT ARE YOU DOING HERE?'|"ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?"
 47|THE LEADER ADVANCES.|ЛИДЕР ПРОДВИГАЕТСЯ.
 48|WHAT ARE YOU DOING HERE?|ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?
 49|'I'M SORRY, SIR, THERE'S AN ALERT. |"Я ИЗВИНЯЮСЬ, СЭР, ЕСТЬ ТРЕВОГА.
 50|ON WHOSE AUTHORITY ARE YOU HERE?'|В КАКОЙ ВЛАСТИ ВЫ ЗДЕСЬ?
-51|'WELL BOYS, I THINK WE HAVE THE INTRUDERS HERE. GET THEM!'|"НУ, МАЛЬЧИКИ, Я ДУМАЮ, У НАС ЗДЕСЬ ЕСТЬ ИНТРУДЕРЫ. ВЗЯТЬ ИХ!'
-52|'ALL RIGHT THEN. WHAT IS TODAY'S PASSWORD?'|'ТОГДА ВСЕ В ПОРЯДКЕ. ЧТО ТАКОЕ СЕГОДНЯ ПАРОЛЬ?
+51|'WELL BOYS, I THINK WE HAVE THE INTRUDERS HERE. GET THEM!'|"НУ, МАЛЬЧИКИ, Я ДУМАЮ, У НАС ЗДЕСЬ ЕСТЬ ИНТРУДЕРЫ. ВЗЯТЬ ИХ!"
+52|'ALL RIGHT THEN. WHAT IS TODAY'S PASSWORD?'|"ТОГДА ВСЕ В ПОРЯДКЕ. ЧТО ТАКОЕ СЕГОДНЯ ПАРОЛЬ?
 53|HARASH|ХАРАШ
 54|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
-55| | 
+//55| | 
 56|AN ALARM IS SOUNDING.|ЗВУКАЕТ СИГНАЛ ТРЕВОГИ.
 57|A FIGHTER EMERGES FROM THE BUILDING NEARBY AND CONFRONTS YOU.|БОРЬБА ВЫЯВЛЯЕТСЯ ИЗ ЗДАНИЯ ПОБЛИЗОСТИ И ПРОТИВОСТОЯТ ВАМ.
-58|'WHAT ARE YOU DOING HERE?'|'ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?'
-59|'WHAT ARE YOU DOING HERE?' HE REPEATS.|'ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?' ОН ПОВТОРЯЕТ.
-60|HE LUNGES FOR THE DOOR AND HITS A BUTTON. THEN HE TURNS AND FACES THE PARTY WITH SWORD DRAWN. 'IN A MOMENT A PATROL WILL BE HERE. IF YOU STAY TO FIGHT ME YOU WILL DIE.'|ОН НАПЫВАЕТСЯ НА ДВЕРЬ И НАЖИМАЕТ КНОПКУ. ЗАТЕМ ОН ПОВОРАЧИВАЕТСЯ И С НАЧИНЕННЫМ МЕЧОМ ЛИЦОМ СТОРОНЫ. 'В МГНОВЕНИИ ЗДЕСЬ БУДЕТ ДАТЧИК. ЕСЛИ ВЫ ОСТАЕТЕ СРАЖАТЬСЯ СО МНОЙ, ВЫ УМЕРЕТЕ ".
+58|'WHAT ARE YOU DOING HERE?'|"ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?"
+59|'WHAT ARE YOU DOING HERE?' HE REPEATS.|"ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?" ОН ПОВТОРЯЕТ.
+60|HE LUNGES FOR THE DOOR AND HITS A BUTTON. THEN HE TURNS AND FACES THE PARTY WITH SWORD DRAWN. 'IN A MOMENT A PATROL WILL BE HERE. IF YOU STAY TO FIGHT ME YOU WILL DIE.'|ОН НАПЫВАЕТСЯ НА ДВЕРЬ И НАЖИМАЕТ КНОПКУ. ЗАТЕМ ОН ПОВОРАЧИВАЕТСЯ И С НАЧИНЕННЫМ МЕЧОМ ЛИЦОМ СТОРОНЫ. "В МГНОВЕНИИ ЗДЕСЬ БУДЕТ ДАТЧИК. ЕСЛИ ВЫ ОСТАЕТЕ СРАЖАТЬСЯ СО МНОЙ, ВЫ УМЕРЕТЕ ".
 61|STAY AND FIGHT|ОСТАВАЙТЕСЬ И СРАЖАЙТЕСЬ
 62|RUN|ЗАПУСТИТЬ
 63|A PATROL ROUNDS THE CORNER..|Патруль огибает угол ..
@@ -65,7 +65,7 @@
 65|DO YOU TAKE IT?|ВЫ ПРИНИМАЕТЕ?
 66|YES|ДА
 67|NO|НЕТ
-68| | 
+//68| | 
 69|AS YOU ENTER THE ROOM YOU SEE SOME SLEEPING GIANTS.|ВО ВХОДЕ В НОМЕР ВЫ ВИДИТЕ НЕКОТОРЫХ СПЯЩИХ ГИГАНТОВ.
 70|SNEAK OUT QUIETLY|ВЫБИРАЙТЕСЬ ТИХОЙ
 71|ATTACK AS THEY SLEEP|АТАКА, КАК ОНИ СПИТ
@@ -79,7 +79,7 @@
 79|YOU SEE SOME GIANTS STRUGGLING OUT OF BED.|ВЫ ВИДИТЕ НЕКОТОРЫЕ ГИГАНТЫ, ВЫКАСАЮЩИЕСЯ ИЗ КРОВАТИ.
 80|THEY RAISE THEIR CLUBS. 'YOU STOLE FROM LORD BANE'S TEMPLE!'|ОНИ СОЗДАЮТ СВОИ КЛУБЫ. - ТЫ УХРАНИЛИ ХРАМ ЛОРДА БЕЙНА!
 81|THE GIANT HESITATES, 'WHO SENT YOU?'|ГИГАНТ СОМНЕТСЯ: "КТО ВАС послал?"
-82|'THANK YOU! THANK YOU! I JUST THOUGHT THAT THE POOL WAS HERE! THERE WAS NOWHERE ELSE TO GO! I HAVE NOWHERE TO GO. TAKE ME WITH YOU?'|'СПАСИБО! БЛАГОДАРЮ ВАС! Я ПРОСТО ДУМАЛ, ЧТО БАССЕЙН ЗДЕСЬ! ЕХАТЬ НЕ БЫЛО! Мне некуда идти. ВОЗЬМИ МЕНЯ С СОБОЙ?'
+82|'THANK YOU! THANK YOU! I JUST THOUGHT THAT THE POOL WAS HERE! THERE WAS NOWHERE ELSE TO GO! I HAVE NOWHERE TO GO. TAKE ME WITH YOU?'|"СПАСИБО! БЛАГОДАРЮ ВАС! Я ПРОСТО ДУМАЛ, ЧТО БАССЕЙН ЗДЕСЬ! ЕХАТЬ НЕ БЫЛО! Мне некуда идти. ВОЗЬМИ МЕНЯ С СОБОЙ?"
 83|'WAIT DON'T LEAVE ME HERE. IF YOU DO I'LL RAISE THE ALARM.'|"ПОДОЖДИТЕ, НЕ ОСТАВЛЯЙТЕ МЕНЯ ЗДЕСЬ. ЕСЛИ ВЫ БУДЕТЕ ПОДНЯТЬ ТРЕВОГУ ".
 84|WITH A QUICK STROKE YOU RELEASE HIM FROM THIS PAIN... TO ALL THE PAIN TO COME.|БЫСТРОМ УДАРОМ ВЫ ОСВОБОДИТЕ ЕГО ОТ ЭТОЙ БОЛИ ... ЧТОБЫ БОЛЬ БЫЛА ПРИХОДИТЬ.
 85|A DEEP VOICE CALLS DOWN, 'WHAT IS THE PASSWORD?'|ГЛУБОКИЙ ГОЛОС ПРИЗЫВАЕТ: "ЧТО ТАКОЕ ПАРОЛЬ?"
@@ -92,7 +92,7 @@
 92|AND YOU FIND A SWORD! |И ВЫ НАЙДЕТЕ МЕЧ!
 93|WITH A NOD OF THE HEAD YOU ARE LEFT ALONE.|Кивнув головой, вы остаетесь одни.
 94|HE QUICKLY RETREATS THROUGH THE DOOR AND SLAMS IT, YELLING, 'INTRUDERS!'|ОН БЫСТРО ПРОБИРАЕТСЯ В ДВЕРЬ И ЗАХЛОПЫВАЕТСЯ, КРИЧАЯ: "ИНТРУДЕРЫ!"
-95|'I KNOW THE WAY THROUGH THE HEDGE... LEFT RIGHT RIGHT... FOR CHANTUA'S SAKE! DON'T LEAVE ME!'|"Я ЗНАЮ ПУТЬ ЧЕРЕЗ ИЗОБРАЖЕНИЕ… НАПРАВО НАПРАВО… ДЛЯ ЧАНТУА! НЕ ОСТАВЛЯЙТЕ МЕНЯ! '
+95|'I KNOW THE WAY THROUGH THE HEDGE... LEFT RIGHT RIGHT... FOR CHANTUA'S SAKE! DON'T LEAVE ME!'|"Я ЗНАЮ ПУТЬ ЧЕРЕЗ ИЗОБРАЖЕНИЕ… НАПРАВО НАПРАВО… ДЛЯ ЧАНТУА! НЕ ОСТАВЛЯЙТЕ МЕНЯ! "
 96|YOU HEAR A DEEP VOICE,'THIEF! YOU STOLE FROM LORDBANE!'|ВЫ СЛЫШАЕТЕ ГЛУБОКИЙ ГОЛОС: "ВОР! ТЫ УКОРАЛ У ЛОРДБЕЙНА!
 97|A VOLLEY OF BOULDERS ARE THROWN AT YOU...|В ВАС БРОСЯТСЯ БОУЛДЕРЫ ...
 98|CADORNA HANDS YOU A SLIP OF PAPER AND WHISPERS, 'HERE IS TODAY'S GATE PASSWORD.'|КАДОРНА ВРУЧИВАЕТ ВАМ КЛАСС БУМАГИ и Шепчет: "ВОТ СЕГОДНЯ ВОРОТНЫЙ ПАРОЛЬ".
@@ -100,11 +100,11 @@
 100|ASIDE FROM A LAYER OF MUD, YOU DON'T FIND ANYTHING.|В ОТЕЛЕ ГРЯЗИ, ВЫ НИЧЕГО НЕ НАЙДЕТЕ.
 101|YOU ARE RUNNING OUT OF AIR... |У ВАС КОНЕЦ ВОЗДУХА ...
 102|YOU BREAK THE SURFACE GASPING FOR AIR.|ВЫ РАЗРЫВАЕТЕ ПОВЕРХНОСТЬ, ЗАЖИГАЕТ ВОЗДУХ.
-103|'WHAT? I THINK THESE SCUM ARE IMPOSTERS!'|'КАКИЕ? Я ДУМАЮ, ЭТИ ПОДНИЗЬИ - САМОУБИЛЬНИКИ!
-104|YOU LEAVE. BEHIND YOU ARE HIS SCREAMS, 'INTRUDERS! INTRUDERS!'|ТЫ УХОДИШЬ. ЗА ВАМИ ЕГО КРИКИ, "ИНТРУДЕРЫ! ИНТРУДЕРЫ! '
+103|'WHAT? I THINK THESE SCUM ARE IMPOSTERS!'|"КАКИЕ? Я ДУМАЮ, ЭТИ ПОДНИЗЬИ - САМОУБИЛЬНИКИ!
+104|YOU LEAVE. BEHIND YOU ARE HIS SCREAMS, 'INTRUDERS! INTRUDERS!'|ТЫ УХОДИШЬ. ЗА ВАМИ ЕГО КРИКИ, "ИНТРУДЕРЫ! ИНТРУДЕРЫ! "
 105|WHAT PASSWORD DO YOU GIVE? |КАКОЙ ПАРОЛЬ ВЫ ДАЕТЕ?
 106|RHODIA|РОДИЯ
-107|'ALL RIGHT, THEN. PASS!' AND WITH THAT THE GATES SWING OPEN AND YOU PASS THROUGH THE GATE.|'ТОГДА ВСЕ В ПОРЯДКЕ. ПРОХОДИТЬ!' И С ЭТИМ ВОРОТА ОТКРЫВАЮТСЯ, И ВЫ ПРОХОДИТЕ ЧЕРЕЗ ВОРОТА.
+107|'ALL RIGHT, THEN. PASS!' AND WITH THAT THE GATES SWING OPEN AND YOU PASS THROUGH THE GATE.|"ТОГДА ВСЕ В ПОРЯДКЕ. ПРОХОДИТЬ!" И С ЭТИМ ВОРОТА ОТКРЫВАЮТСЯ, И ВЫ ПРОХОДИТЕ ЧЕРЕЗ ВОРОТА.
 108|YOU BREAK THE SURFACE JUST AS YOU BREATHE IN SOME WATER.|ВЫ РАЗРЫВАЕТЕ ПОВЕРХНОСТЬ ТАК, КАК ДЫШАЕТЕ ВОДОЙ.
 109|TRY AGAIN?|ПОПРОБУЙ ЕЩЕ РАЗ?
 110|'HAH! HAH! YOU'RE DUMB! THAT'S NOT THE PASSWORD!'|АА! Ха! ТЫ ТУПОЙ! ЭТО НЕ ПАРОЛЬ!

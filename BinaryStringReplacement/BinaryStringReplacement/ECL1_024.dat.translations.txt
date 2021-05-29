@@ -55,13 +55,13 @@
 179|THE OLD BLIND ORC PAWS THE PARTY AS IF LOOKING FOR SOMETHING.  AFTER A CAREFULL PAWING, HE BACKS AWAY AND YELLS 'GUARDS, IN THE NAME OF BANE, KILL THESE UNBELIEVERS!'|СТАРЫЙ СЛЕПЫЙ ОРК ЗАМЕТИЛ ПАРТИЮ, КАК ИЩЕТ ЧТО-ТО. ПОСЛЕ ТЩАТЕЛЬНОЙ МАШИНЫ, ОН ОТКЛОНЯЕТСЯ И КРИЧЕТ: "ОТ ИМЕНИ БЕЙНА:" ОХРАННИКИ УБИВАЮТ ЭТИХ НЕВЕРУЮЩИХ! "
 180|AS YOU BACK AWAY AGAIN THE OLD BLIND ORC IS CONVINCED YOU ARE NOT WORSHIPPERS.  HE GRUNTS AN ORDER TO ATTACK.|Когда вы снова встретились со старым слепым орком, убеждены, что вы не поклоняетесь. ОН ОТВЕТАЕТ ПРИКАЗ НА АТАКУ.
 181|YOU SPOT A GROUP OF |ВЫ УВИДИТЕ ГРУППУ
-182|.|.
+//182|.|.
 183|THE MONSTERS STAND READY|МОНСТРЫ ГОТОВЫ
 184|YOU SEE A GROUP OF FOUR ORCS WHOSE SHIELDS BEAR A BLACK HAND ON A RED FIELD.  THEY CAUTIOSLY LOOK YOU OVER.|ВЫ ВИДИТЕ ГРУППУ ИЗ ЧЕТЫРЕХ ОРКОВ, ЩИТЫ которых НОСИТ ЧЕРНУЮ РУКУ НА КРАСНОМ ПОЛЕ. ОНИ ОСТОРОЖНО НА ВАС СМОТРИТ.
-185|PRESS <RETURN> TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+185|PRESS <RETURN> TO CONTINUE|НАЖМИТЕ ВОЗВРАТ, ЧТОБЫ ПРОДОЛЖИТЬ
 186|THE ORCS READY THEIR SPEARS|ОРКИ ПОДГОТОВИЛИ СВОИ КОПЬЯ
 187|YOU ARE SURPRISED BY |ТЫ УДИВЛЕН
-188|.|.
+//188|.|.
 189|THE MINUTE YOU FIND THE TREASURE A LARGE GROUP OF ORCS CHARGE THROUGH THE TEMPLE DOORS.  LEADING THEM IS A HALF-ORC WHO IS SCREAMING 'KILL!  KILL, THESE SCUM WHO WOULD STEAL FROM OUR TEMPLE.'|В МИНУТУ ВЫ НАХОДИТЕ СОКРОВИЩЕ, БОЛЬШАЯ ГРУППА ОРКОВ ПРОХОДИТ ЧЕРЕЗ ХРАМ ДВЕРИ. ИМИ ВЕДЕТ ПОЛОВИНКА, КРИЧУЩАЯ "УБИЙ!" УБИВАЙТЕ, ЭТУ ОПАСНУЮ, КОТОРАЯ УБИРАЕТ ИЗ НАШЕГО ХРАМА.
 190|ON THE DEAD BODY OF THE HALF-ORC CLERIC YOU FIND A PIECE OF PAPER.  YOU PUT THE PAPER IN YOUR JOURNAL UNDER ENTRY 25.|НА МЕРТВОМ ТЕЛЕ КЛЕРИКА ПОЛУОРКА ВЫ НАХОДИЛИ КУСОК БУМАГИ. ВЫ ПОМЕЩАЕТЕ БУМАГУ В ЖУРНАЛ ПОД ЗАПИСЬЮ 25.
 191|DIRTEN|ГРЯЗНЫЙ
@@ -70,10 +70,10 @@
 194|THE OLD BLIND ORC PAWS THE CHARACTERS LOOKING FOR SOMETHING.  FINDING THE LEATHER HOLY SYMBOL, HE SMILES THEN GRUNTS 'WELCOME TO THE TEMPLE OF BANE, SUPREME GOD OF THE REALMS.'|СТАРЫЙ СЛЕПЫЙ ОРК ЛАПЫВАЕТ ПЕРСОНАЖЕЙ, ИЩУЩИХ ЧЕГО. НАХОДЯЩИЙ КОЖАНЫЙ СВЯТОЙ СИМВОЛ, ОН УЛЫБЛЯЕТСЯ, ПОТОМ ВЕРХИВАЕТ: "ДОБРО ПОЖАЛОВАТЬ В ХРАМ БЕЙНА, ВЕРХОВНОГО БОГА Царств".
 195|GOBLINS|ГОБЛИНЫ
 196|YOU SPOT A GROUP OF |ВЫ УВИДИТЕ ГРУППУ
-197|.|.
+//197|.|.
 198|YOU HAVE SURPRISED THEM.|ВЫ ИХ УДИВИЛИ.
 199|YOU ARE SUDDENLY FACE TO FACE WITH A GROUP OF |ВЫ ВНЕЗАПНО встретились лицом к лицу с группой
-200|.|.
+//200|.|.
 201|THEY ARE AS SURPRISED AS YOU.|ОНИ ТАКЖЕ УДИВЛЕННЫ, как и ВЫ.
 202|YOU INTIMIDATE THE MONSTERS SO MUCH THEY RUN AWAY!|ВЫ ЗАПРЕЩАЕТЕ МОНСТРОВ ТАК, ЧТО ОНИ УБЕГАЕТ!
 203|THE ORCS YELL OUT, 'WE HAVE ORDERS TO CHECK OUT SUSPICIOUS INDIVIDUALS, BUT YOUSE GUYS LOOK HARMLESS ENOUGH.'  AFTER TALKING THE FOUR ORCS WANDER AWAY.|Орки кричат: "У нас есть приказы, чтобы проверить подозрительных лиц, но вы, парни, выглядите достаточно безвредными". После разговора с четырьмя орками уходят прочь.

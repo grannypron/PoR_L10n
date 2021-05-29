@@ -11,7 +11,7 @@
 88|YOU ARE SURPRISED BY|ТЫ УДИВЛЕН
 89|YOU SURPRISE|ВЫ УДИВИТЕ
 90|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
-91| | 
+//91| | 
 92|THEY SMILE AT YOU.|ОНИ УЛЫБЛЯЮТСЯ ВАМ.
 93|THEY WAVE AND SAY 'SAVED!'|ОНИ ВОЛНУЛИСЬ И ГОВОРЯТ: "СПАСИЛИ!"
 94|THE LEADER WAVES AND CALLS TO YOU.|ЛИДЕР ВОЛНЫ И ЗОВЕТ К ВАМ.
@@ -21,19 +21,19 @@
 98|PEACE BROTHER. YOU, TOO, ARE ONE OF MY FLOCK. I HAVE BUT RECENTLY PRAYED FOR ANOTHER OF MY FLOCK AND MAY PRAY NO MORE.|МИР БРАТ. ВЫ ТАКЖЕ ОДИН ИЗ МОЕГО СТАЯ. Я НЕДАВНО МОЛИЛСЯ ЗА ДРУГОГО ИЗ МОЕГО СТАЯ И БОЛЬШЕ НЕ МОГУ МОЛИТЬСЯ.
 99|YES|ДА
 100|NO|НЕТ
-101| | 
+//101| | 
 102|GO BACK|ВЕРНИТЕСЬ НАЗАД
 103|MOVE ON|ДВИГАТЬСЯ ДАЛЬШЕ
 104|THROW A ROCK|БРОСИТЬ КАМЕНЬ
-105| | 
+//105| | 
 106|AS YOU CAREFULLY SEARCH THE ROOM, YOU FEEL A STRANGE TINGLE WHEN YOU GET CLOSE TO A BARE AREA.|ПРИ ВНИМАТЕЛЬНОМ ИССЛЕДОВАНИИ НОМЕРА, ВЫ ЧУВСТВУЕТЕ СТРАННОЕ ПОКОЛЕНИЕ, КОГДА ПОДБИРАЕТЕСЬ К ГОЛОМУ ПЛОЩАДКУ.
 107|GO BACK|ВЕРНИТЕСЬ НАЗАД
 108|MOVE ON|ДВИГАТЬСЯ ДАЛЬШЕ
 109|THROW A ROCK|БРОСИТЬ КАМЕНЬ
-110| | 
+//110| | 
 111|AS YOU MOVE THROUGH THE ROOM THERE IS A FLASH, AND YOU SUDDENLY FIND YOURSELVES ELSEWHERE.|КОГДА ВЫ ПРОХОДИТЕ ПО КОМНАТЕ, ЕСТЬ ВСПЫШКА, И ВЫ ВНЕЗАПНО НАХОДИТЕ СЕБЯ В другом месте.
 112|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
-113| | 
+//113| | 
 114| DISPLACER BEASTS.| ДВИГАТЕЛЬ ЗВЕРЬ.
 115| DWARVEN FIGHTERS.| ДВАРВЕНСКИЕ БОЙЦЫ.
 116| A TRIO OF LIZARD MEN.| ТРИО ЯЩЕРИЦ.
@@ -48,4 +48,4 @@
 125| BEHIND YOU.| ЗА ТОБОЙ.
 126| TO YOUR LEFT.| СЛЕВА.
 127|YOU THROW A ROCK. SUDDENLY IT DISAPPEARS WITH A FLASH!|ВЫ БРОСАЕТЕ КАМЕНЬ. ВНЕЗАПНО ПРОИСХОДИТ ВСПЫШКОЙ!
-128| | 
+//128| | 

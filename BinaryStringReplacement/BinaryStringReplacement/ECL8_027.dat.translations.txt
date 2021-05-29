@@ -10,7 +10,7 @@
 204|YOU HAVE FOUND A SMALL, DARK CAVE.  WILL YOU ENTER?|ВЫ НАШЛИ МАЛЕНЬКУЮ ТЕМНУЮ ПЕЩЕРУ. ВЫ ВОЙДЕТЕ?
 205|ENTER|ВХОДИТЬ
 206|LEAVE|ПОКИНУТЬ
-207| | 
+//207| | 
 208|THE |THE
 209| FALL FOR YOUR SPARKLING PERSONALITY AND WANDER AWAY WITHOUT A FIGHT.| ПАДИТЕСЬ ЗА СВОЮ ИСКЛЮЧИТЕЛЬНУЮ ЛИЧНОСТЬ И УХОДИТЕ БЕЗ БОЯ.
 210|YOU HAVE FOUND THE WYVERN'S TREASURE!|ВЫ НАШЛИ СОКРОВИЩЕ ВИВЕРНА!

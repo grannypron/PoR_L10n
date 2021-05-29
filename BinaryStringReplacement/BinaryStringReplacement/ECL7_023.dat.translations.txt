@@ -40,20 +40,20 @@
 168|A NOTE TO A TRAPPER ABOUT KOBOLDS AND HOBGOBLINS. (ENTRY 40)|ЗАПИСКА К ЛОВУШКЕ О КОБОЛЬДАХ И ХОБГОБЛИНАХ. (ЗАПИСЬ 40)
 169|A SECRET DOOR IS FOUND |НАЙДЕНА ТАЙНАЯ ДВЕРЬ
 170|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
-171| | 
+//171| | 
 172|GO BACK|ВЕРНИТЕСЬ НАЗАД
 173|MOVE ON|ДВИГАТЬСЯ ДАЛЬШЕ
 174|THROW A ROCK|БРОСИТЬ КАМЕНЬ
-175| | 
+//175| | 
 176|AS YOU CAREFULLY SEARCH THE ROOM YOU FEEL A STRANGE TINGLE AS YOU GET CLOSE TO A BARE AREA.|ПРИ ВНИМАТЕЛЬНОМ ИССЛЕДОВАНИИ НОМЕРА ВЫ ЧУВСТВУЕТЕ СТРАННОЕ ПОКОЛЕНИЕ, ПРИБЛИЖАЯСЬ К ГОЛОМУ.
 177|GO BACK|ВЕРНИТЕСЬ НАЗАД
 178|MOVE ON|ДВИГАТЬСЯ ДАЛЬШЕ
 179|THROW A ROCK|БРОСИТЬ КАМЕНЬ
-180| | 
+//180| | 
 181|AS YOU MOVE THROUGH THE ROOM THERE IS A FLASH AND YOU SUDDENLY FIND YOURSELF ELSEWHERE.|КОГДА ВЫ ПРОХОДИТЕ ПО КОМНАТЕ, ЕСТЬ ВСПЫШКА, И ВЫ ВНЕЗАПНО НАЙДЕТЕ СЕБЯ В другом месте.
 182|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
-183| | 
-184|'MUTILATING SCUM! WE WILL DIE BEFORE WE LET YOU TWIST US AS YOU HAVE OUR OTHER PEOPLE! BUT YOU WILL DIE FIRST!'|'МУТИЛИРУЮЩАЯ ПАПА! МЫ УМЕРЕМ, ПРЕЖДЕ ЧЕМ МЫ ПОЗВОЛЯЕМ ВАМ КРУТИТЬ НАС, ТАК КАК ВАС ДРУГИЕ НАШИ! НО ВЫ УМЕРЕТЕ ПЕРВЫМ! '
+//183| | 
+184|'MUTILATING SCUM! WE WILL DIE BEFORE WE LET YOU TWIST US AS YOU HAVE OUR OTHER PEOPLE! BUT YOU WILL DIE FIRST!'|"МУТИЛИРУЮЩАЯ ПАПА! МЫ УМЕРЕМ, ПРЕЖДЕ ЧЕМ МЫ ПОЗВОЛЯЕМ ВАМ КРУТИТЬ НАС, ТАК КАК ВАС ДРУГИЕ НАШИ! НО ВЫ УМЕРЕТЕ ПЕРВЫМ! "
 185|YOU RUN FOR THE EXIT. AS YOU SLAM THE DOOR BEHIND YOU, YOU HEAR AN ENORMOUS EXPLOSION. THE EQUIPMENT IS NOW CERTAINLY DESTROYED.|ВЫ БЕГАЕТЕ НА ВЫХОД. ЗАХЛОПЫВАЯ ДВЕРЬ СЗАДИ, ВЫ СЛЫШАЕТЕ ОГРОМНЫЙ ВЗРЫВ. ОБОРУДОВАНИЕ ТЕПЕРЬ ОБЯЗАТЕЛЬНО УНИЧТОЖЕНО.
 186|THERE IS AN ENORMOUS EXPLOSION! BITS OF PIPE AND OTHER PLUMBING FIXTURES FLY IN ALL DIRECTIONS.|ЕСТЬ ОГРОМНЫЙ ВЗРЫВ! ОТРЕЗКИ ТРУБ И ДРУГИЕ САНТЕХНИКИ ЛЕТУЮТ ВО ВСЕХ НАПРАВЛЕНИЯХ.
 187|YOU HAVE DESTROYED THE LAST PIECE OF EQUIPMENT. |ВЫ УНИЧТОЖИЛИ ПОСЛЕДНЮЮ ЧАСТЬ ОБОРУДОВАНИЯ.
@@ -65,7 +65,7 @@
 193|GOLD.|ЗОЛОТО.
 194|YES|ДА
 195|NO|НЕТ
-196| | 
+//196| | 
 197|IN FRONT OF YOU.|ПЕРЕД ТОБОЙ.
 198|TO YOUR RIGHT.|НА ВАШЕ ПРАВО.
 199|BEHIND YOU.|ЗА ТОБОЙ.

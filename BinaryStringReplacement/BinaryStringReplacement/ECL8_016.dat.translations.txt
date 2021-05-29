@@ -1,7 +1,7 @@
 ﻿136|YOU SENSE AN ANTI-MAGIC SHELL AROUND YOU.|ВЫ ЧУВСТВУЕТЕ АНТИМАГИЧЕСКУЮ ОБОЛОЧКУ ВОКРУГ.
-137| | 
+//137| | 
 138|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
-139| | 
+//139| | 
 140|YOU ENTER A BUILDING WHOSE WALLS ARE MORE OR LESS INTACT, THOUGH THE ROOF HAS FALLEN IN. RUBBLE MAKES PASSAGE DIFFICULT.|ВЫ заходите в здание, стены которого более или менее повреждены, хотя крыша обрушилась. РЕЗЬБА ДЕЛАЕТ ПРОХОДИМ СЛОЖНЫМ.
 141|SEARCHING THROUGH THE |ПОИСК ПО
 142| YOU FIND A HIDDEN TUNNEL LEADING DOWN. DO YOU TAKE IT?| ВЫ НАЙДЕТЕ СКРЫТЫЙ ТУННЕЛЬ, ВЕДУЩИЙ ВНИЗ. ВЫ ПРИНИМАЕТЕ?
@@ -24,11 +24,11 @@
 159|SWAMP|БОЛОТО
 160|YES|ДА
 161|NO|НЕТ
-162| | 
+//162| | 
 163| DO YOU TAKE IT?| ВЫ ПРИНИМАЕТЕ?
 164|YES|ДА
 165|NO|НЕТ
-166| | 
+//166| | 
 167|YOU ARE IN FRONT OF A DEEP POOL OF WATER. DO YOU WISH TO DIVE IN AND SEARCH IT?|ВЫ НАХОДИТЕСЬ У ГЛУБОКОГО БАССЕЙНА С ВОДОЙ. ВЫ ХОТИТЕ ПОПРОБОВАТЬ И ПОИСКАТЬ?
 168|YOU DIVE INTO THE POOL AND BEGIN TO SEARCH BY TOUCH. SUDDENLY BEFORE YOUR CLOUDED VISION YOU SEE SOME LIZARD MEN...|ВЫ НЫРЯЕТЕ В БАССЕЙН И НАЧИНАЕТЕ ПОИСК НА СИНЕМУ. ВНЕЗАПНО ПЕРЕД ОБЛАЧНЫМ ВИДЕНИЕМ ВЫ УВИДИТЕ НЕКОТОРЫЕ ЯЩЕРКИ ...
 169|YOU MANAGE TO GET OUT OF THE POOL BEFORE THEY FINISH YOU OFF.|ВАМ УСПЕХИВАЕТСЯ ВЫБРАТЬСЯ ИЗ БАССЕЙНА ДО того, как ОНИ ЗАКОНЧИТ ВАС.
@@ -36,9 +36,9 @@
 171|A GROUP OF HUMANS WERE DESCRIBED TO ME BY THREE OF OUR PEOPLE WHOM THEY RESCUED. IF YOU ARE THEY YOU WILL HAVE BEEN SHOWN OUR TRIBAL FRIEND-WORD.|ГРУППУ ЧЕЛОВЕК БЫЛИ ОПИСАНЫ МНЕ ТРИ НАШИ ЛЮДЕЙ, КОТОРЫЕ ОНИ СПАСИЛИ. ЕСЛИ ВЫ ОНИ, ВАМ БУДЕТ ПОКАЗАНО НАШЕ СЛОВО ДРУЗЬЯ.
 172|WHAT IS IT?|ЧТО ЭТО?
 173|DO YOU REALLY MEAN |ВЫ ДЕЙСТВИТЕЛЬНО ЗНАЧИТЕ
-174|?|?
+//174|?|?
 175|SAVIOR|СПАСИТЕЛЬ
-176|'YOU ARE NOT THEY WHO RESCUED MY CHILDREN, BUT ARE MURDEROUS PIRATES! THEN YOU ARE NOT SAFE HERE!' HE DISAPPEARS WITH AMAZING SPEED INTO THE WILDERNESS AROUND YOU.|"ВЫ НЕ ОНИ СПАСИЛИ МОИХ ДЕТЕЙ, А ЯВЛЯЮТСЯ УБИЙСТВЕННЫМИ ПИРАТАМИ! ТОГДА ЗДЕСЬ ТЫ НЕ В БЕЗОПАСНОСТИ! ' Он с удивительной скоростью исчезает в дикой природе вокруг вас.
+176|'YOU ARE NOT THEY WHO RESCUED MY CHILDREN, BUT ARE MURDEROUS PIRATES! THEN YOU ARE NOT SAFE HERE!' HE DISAPPEARS WITH AMAZING SPEED INTO THE WILDERNESS AROUND YOU.|"ВЫ НЕ ОНИ СПАСИЛИ МОИХ ДЕТЕЙ, А ЯВЛЯЮТСЯ УБИЙСТВЕННЫМИ ПИРАТАМИ! ТОГДА ЗДЕСЬ ТЫ НЕ В БЕЗОПАСНОСТИ! " Он с удивительной скоростью исчезает в дикой природе вокруг вас.
 177|2 LIZARD MEN AND A GIANT LIZARD CHARGE AT YOU.|2 Ящерицы и гигантская ящерица атакуют вас.
 178|SUDDENLY YOU ARE ATTACKED BY TWO LIZARD MEN AND A GIANT LIZARD!|ВНЕЗАПНО НА ВАС НАПАДАЮТСЯ ДВА ЯЩЕРИЦА И ГИГАНСКАЯ ЯЩИЦА!
 179|3 GIANT LIZARDS CHARGE TOWARD YOU.|3 ГИГАНТСКИХ ЯЗЫЧИ НАПРАВЛЯЮТСЯ НА ВАС.

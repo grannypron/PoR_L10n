@@ -1,13 +1,13 @@
 ﻿292|A PATROL OF GIANTS LED BY A HUMAN FIGHTER|ПАТРУЛЬ ГИГАНТОВ, СВЯЗАННЫЙ БОРЬБОМ-ЧЕЛОВЕКОМ
 293| SURPRISES YOU.| УДИВИТ ВАС.
-294| 'THAT'S THEM! GET THEM!'| ЭТО ОНИ! ВЗЯТЬ ИХ!'
+294| 'THAT'S THEM! GET THEM!'| ЭТО ОНИ! ВЗЯТЬ ИХ!"
 295|YOU ENTER A BUILDING WHERE WOMEN ARE WASHING CLOTHES. AS YOU COME IN, THEY RETREAT TO THE CORNER LOOKING FEARFULLY AT YOU.|ВЫ ЗАХОДИТЕ В ЗДАНИЕ, ГДЕ ЖЕНЩИНЫ СТИРАЮТ ОДЕЖДУ. КАК ВЫ заходите, они возвращаются в угол, со страхом глядя на вас.
 296|YOU HEAR ONE OF THEM WHISPER, 'THEY DON'T BELONG HERE; THEY MUST HAVE COME TO KILL TYRANTHRAXUS'. A HALF-ORC WOMAN STEPS FORWARD 'WHAT DO YOU WANT OF US?'|ВЫ СЛЫШАЕТЕ ОДИН ИЗ НИХ шепот: "ОНИ НЕ ЗДЕСЬ; ОНИ ДОЛЖНЫ ПРИБЫТЬ, ЧТОБЫ УБИТЬ ТИРАНТРАКСА ". ЖЕНЩИНА ИЗ ПОЛОВИНКИ ДВИГАЕТСЯ ВПЕРЕД "ЧТО ВЫ ХОТИТЕ ОТ НАС?"
 297|'PLEASE DON'T KILL US,' SHE SAYS. 'IF YOU DON'T WE WILL GIVE YOU THESE CLOTHES TO USE AS A DISGUISE. WE SWEAR WE WON'T SAY ANYTHING!|"ПОЖАЛУЙСТА, НЕ УБИВАЙТЕ НАС", - ГОВОРЕТ ОНА. "ЕСЛИ ТЫ НЕТ, МЫ ДАЕМ ВАМ ЭТУ ОДЕЖДУ ДЛЯ ИСПОЛЬЗОВАНИЯ В КАЧЕСТВЕ ЗАДАЧИ. КЛЯНЕМСЯ, МЫ НИЧЕГО НЕ СКАЖЕМ!
 298|'WELL THEN, GOOD LUCK. BEST YOU LEAVE BEFORE YOU ARE FOUND HERE.|А ПОТОМ, УДАЧИ. ЛУЧШЕ, ВЫ УЙДИТЕ ДО НАЙТИ ЗДЕСЬ.
 299|YOU ARE IN A SMITHY.|ВЫ В КУЗНИЦЕ.
 300| THE SMITH (A HUMAN) AND THREE FIRE GIANTS ARE WORKING ON A SUIT OF ARMOR. PILED UP OUT OF THE WAY ARE AN ASSORTMENT OF WEAPONS AND ARMOR.| СМИТ (ЧЕЛОВЕК) И ТРИ ОГНЕННЫХ ГИГАНТА РАБОТАЮТ НАД Доспехом. НА ДОРОГЕ СОБИРАЕТСЯ АССОРТИМЕНТ ОРУЖИЯ И Доспехов.
-301|THE SMITH LOOKS UP FROM HIS WORK. 'WHAT DO YOU NEED?'|СМИТ ВИДЕТСЯ НА СВОЮ РАБОТУ. 'ЧТО ВАМ НУЖНО?'
+301|THE SMITH LOOKS UP FROM HIS WORK. 'WHAT DO YOU NEED?'|СМИТ ВИДЕТСЯ НА СВОЮ РАБОТУ. "ЧТО ВАМ НУЖНО?"
 302|THE SMITH IGNORES YOU AS HE HAMMERS ON A GREAVE.|СМИТ НЕ ЗАНИМАЕТСЯ ВАС, КАК ОН МОЛОТ НА ГРЕВИНУ.
 303|THE SMITHY WIPES HIS BROW AND SAYS, 'NO, YOU NEVER GET TOTALLY USED TO THE HEAT, BUT IT'S NOT THAT BAD. NOW, IF YOU'LL EXCUSE ME I NEED TO GET BACK TO WORK.'|Смитти вытирает бровь и говорит: "НЕТ, ВАС НИКОГДА НЕ ИСПОЛЬЗУЕТСЯ ПОЛНОСТЬЮ НА ТЕПЛО, НО ЭТО НЕ ТАК ПЛОХО. СЕЙЧАС, ЕСЛИ ВЫ ИЗВИНИТЕ МЕНЯ, МНЕ НУЖНО ВЕРНУТЬСЯ К РАБОТЕ ".
 304|YOU ARE IN A STANDARD MEAT SMOKEHOUSE... WELL MAYBE NOT QUITE STANDARD. YOU FEEL A LITTLE SICK AS YOU LOOK AT THE MEAT. THE SMELL AND THE SMOKE DON'T HELP EITHER.|ВЫ НАХОДИТЕСЬ В СТАНДАРТНОЙ МЯСНОЙ КОПИЧНОЙ ... МОЖЕТ БЫТЬ НЕ СОВЕРШЕННО СТАНДАРТНОЙ. ВЫ ЧУВСТВУЕТЕ НЕМНОГО БОЛЕЕ, Глядя на мясо. ЗАПАХ И ДЫМ НЕ ПОМОГАЮТ.
@@ -24,23 +24,23 @@
 315|BEHIND THE ALTER ARE TWO CROSSED SWORDS. DO YOU TAKE THEM?|ПОЗАДИ АЛЬТЕРА ДВА СКРЕЩЕННЫХ МЕЧА. ВЫ ИХ ПРИНИМАЕТЕ?
 316|YOU SEE A|ВЫ ВИДИТЕ
 317|. THE LEADER YELLS 'SACRILEGIOUS SCUM!'|. ВЕДУЩИЙ КРИЧИТ: "СВЯЩЕННАЯ ОТБИВАЯ!"
-318|'BLASPHEMERS! GET THEM!'|"БЛАГОДАРЯ! ВЗЯТЬ ИХ!'
+318|'BLASPHEMERS! GET THEM!'|"БЛАГОДАРЯ! ВЗЯТЬ ИХ!"
 319|YOU SEE A|ВЫ ВИДИТЕ
-320|'WHAT ARE YOU DOING HERE?'|'ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?'
+320|'WHAT ARE YOU DOING HERE?'|"ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?"
 321|THE LEADER ADVANCES.|ЛИДЕР ПРОДВИГАЕТСЯ.
 322|WHAT ARE YOU DOING HERE?|ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?
-323|'ALL RIGHT, THEN. WHAT IS TODAY'S PASSWORD?'|'ТОГДА ВСЕ В ПОРЯДКЕ. ЧТО ТАКОЕ СЕГОДНЯ ПАРОЛЬ?
+323|'ALL RIGHT, THEN. WHAT IS TODAY'S PASSWORD?'|"ТОГДА ВСЕ В ПОРЯДКЕ. ЧТО ТАКОЕ СЕГОДНЯ ПАРОЛЬ?
 324|HARASH|ХАРАШ
 325|THEY ADVANCE, WEAPONS READY|ОНИ ВПЕРЕДИ, ОРУЖИЕ ГОТОВО
 326|YOU SEE A|ВЫ ВИДИТЕ
-327|'WHAT ARE YOU DOING HERE?'|'ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?'
+327|'WHAT ARE YOU DOING HERE?'|"ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?"
 328|THE LEADER ADVANCES.|ЛИДЕР ПРОДВИГАЕТСЯ.
 329|WHAT ARE YOU DOING HERE?|ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?
-330|'ALL RIGHT, THEN. WHAT IS TODAY'S PASSWORD?'|'ТОГДА ВСЕ В ПОРЯДКЕ. ЧТО ТАКОЕ СЕГОДНЯ ПАРОЛЬ?
+330|'ALL RIGHT, THEN. WHAT IS TODAY'S PASSWORD?'|"ТОГДА ВСЕ В ПОРЯДКЕ. ЧТО ТАКОЕ СЕГОДНЯ ПАРОЛЬ?
 331|HARASH|ХАРАШ
 332|AN ALARM IS SOUNDING.|ЗВУКАЕТ СИГНАЛ ТРЕВОГИ.
 333|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
-334| | 
+//334| | 
 335|WILL YOU USE THE CLOTHING AS A DISGUISE?|БУДЕШЬ ЛИ ВЫ ИСПОЛЬЗОВАТЬ ОДЕЖДУ В КАЧЕСТВЕ ЗАКАЗА?
 336|THEY HELP YOU PUT ON THE CLOTHES. 'HAVE NO FEAR.|ОНИ ПОМОГАЮТ НАДЕТЬ ОДЕЖДУ. "НЕ СТРАХАЙ.
 337| WE WILL KEEP SILENCE.'| МЫ БУДЕМ МОЛЧАТЬ ".
@@ -54,27 +54,27 @@
 345|WHAT? EVERYONE KNOWS THAT... HEY, YOU DON'T BELONG HERE!|КАКИЕ? ВСЕ ЗНАЕТ, ЧТО ... ЭЙ, ТЫ НЕ ПРИНАДЛЕЖИВАЕМСЯ ЗДЕСЬ!
 346|YOU GO FORWARD AND KNEEL. 'IN THE NAME OF LORD BANE, GOD OF GODS, I BLESS YOU.'|ВЫ ИДЕТЕ ВПЕРЕД И НА КОЛЕНАХ. "ИМЯ ГОСПОДА БЕЙНА, БОГА БОГА, БЛАГОСЛОВЛЯЮ ТЕБЯ".
 347| DOUBLES UP IN AGONY.| Удваивается в агонии.
-348|THE PRIEST SHOUTS, 'WHAT'S THIS? YOU AREN'T WORSHIPPERS OF LORD BANE! DIE IMPOSTERS!' HE GRABS THE LAST RHINESTONE FROM A NECKLACE AND THROWS IT AT YOU. A FIREBALL EXPLODES!|ЖРЕЦ КРИЧИТ: "ЧТО ЭТО? ВЫ НЕ ПОКЛОНЯЮЩИЕСЯ ГОСПОДУ БЕЙНУ! УМЕРЕТЬ ИМПОСТЕРЫ! ' ОН ХРАТАЕТ ПОСЛЕДНИЙ СТРАЗ С ОЖЕРЕЛЬЯ И БРОСАЕТ ЕГО В ВАС. ПОЖАРНЫЙ ШАР ВЗРЫВАЕТСЯ!
+348|THE PRIEST SHOUTS, 'WHAT'S THIS? YOU AREN'T WORSHIPPERS OF LORD BANE! DIE IMPOSTERS!' HE GRABS THE LAST RHINESTONE FROM A NECKLACE AND THROWS IT AT YOU. A FIREBALL EXPLODES!|ЖРЕЦ КРИЧИТ: "ЧТО ЭТО? ВЫ НЕ ПОКЛОНЯЮЩИЕСЯ ГОСПОДУ БЕЙНУ! УМЕРЕТЬ ИМПОСТЕРЫ! " ОН ХРАТАЕТ ПОСЛЕДНИЙ СТРАЗ С ОЖЕРЕЛЬЯ И БРОСАЕТ ЕГО В ВАС. ПОЖАРНЫЙ ШАР ВЗРЫВАЕТСЯ!
 349|THEY ATTACK YOU.|ОНИ НАПАДАЮТ НА ВАС.
 350|'I HAVE NO MORE TIME TO TALK WITH YOU, THE LORD BANE REQUIRES MY CONSTANT DEVOTION. COME, BEFORE YOU LEAVE ACCEPT THE BLESSING OF OUR LORD.|"У меня нет больше времени, чтобы поговорить с вами, ГОСПОДЬ БЕЙН ТРЕБУЕТ МОЕЙ ПОСТОЯННОЙ ПРЕДАННОСТИ. ПРИХОДИТЕ, ПРЕЖДЕ ЧЕМ ВЫ УЙДИТЕ, ПРИНИМАЙТЕ БЛАГОСЛОВЕНИЕ НАШЕГО ГОСПОДА.
 351|DO YOU TAKE IT?|ВЫ ПРИНИМАЕТЕ?
 352|YES|ДА
 353|NO|НЕТ
-354| | 
-355|. THE LEADER SEES YOU. 'THAT'S THEM!'|. ЛИДЕР ВАС ВИДЕТ. 'ЭТО ОНИ!'
+//354| | 
+355|. THE LEADER SEES YOU. 'THAT'S THEM!'|. ЛИДЕР ВАС ВИДЕТ. "ЭТО ОНИ!"
 356|THEY ADVANCE, WEAPONS READY|ОНИ ВПЕРЕДИ, ОРУЖИЕ ГОТОВО
 357|YOU SEE A|ВЫ ВИДИТЕ
-358|'WHAT ARE YOU DOING HERE?'|'ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?'
+358|'WHAT ARE YOU DOING HERE?'|"ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?"
 359|THE LEADER ADVANCES.|ЛИДЕР ПРОДВИГАЕТСЯ.
 360|WHAT ARE YOU DOING HERE?|ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?
-361|'ALL RIGHT, THEN. WHAT IS TODAY'S PASSWORD?'|'ТОГДА ВСЕ В ПОРЯДКЕ. ЧТО ТАКОЕ СЕГОДНЯ ПАРОЛЬ?
+361|'ALL RIGHT, THEN. WHAT IS TODAY'S PASSWORD?'|"ТОГДА ВСЕ В ПОРЯДКЕ. ЧТО ТАКОЕ СЕГОДНЯ ПАРОЛЬ?
 362|HARASH|ХАРАШ
 363|'I'M SORRY, SIR, THERE'S AN ALERT. ON WHOSE AUTHORITY ARE YOU HERE?'|"Я ИЗВИНЯЮСЬ, СЭР, ЕСТЬ ТРЕВОГА. В КАКОЙ ВЛАСТИ ВЫ ЗДЕСЬ?
-364|'WELL BOYS, I THINK WE HAVE THE INTRUDERS HERE. GET THEM!'|"НУ, МАЛЬЧИКИ, Я ДУМАЮ, У НАС ЗДЕСЬ ЕСТЬ ИНТРУДЕРЫ. ВЗЯТЬ ИХ!'
+364|'WELL BOYS, I THINK WE HAVE THE INTRUDERS HERE. GET THEM!'|"НУ, МАЛЬЧИКИ, Я ДУМАЮ, У НАС ЗДЕСЬ ЕСТЬ ИНТРУДЕРЫ. ВЗЯТЬ ИХ!"
 365|WITH A NOD OF THE HEAD YOU ARE LEFT ALONE.|Кивнув головой, вы остаетесь одни.
 366|AMID THEIR PROTESTS YOU TIE THEM UP. THESE PROTESTS DIMINSH IN VOLUME AS YOU GAG THE WOMEN AND HIDE THEM IN A CORNER.|ПОСРЕДИ ИХ ПРОТЕСТОВ ВЫ СВЯЗЫВАЕТЕ ИХ. ЭТИ ПРОТЕСТЫ УМЕНЬШАЮТСЯ В ОБЪЕМЕ, ПОТОМУ ЧТО ВЫ ЗАЖИМАЕТЕ ЖЕНЩИН И СПРЯТИТЕ ИХ В УГОЛ.
 367|THE WOMEN SHRIEK AND FLEE BEFORE YOU AS YOU CHOP THEM DOWN. THE HALF-ORC WOMAN WITH HATE IN HER EYES SNARLS 'HEROES! HAH!' THEN HER EYES GLAZE AS SHE DIES.|ЖЕНЩИНЫ кричат ​​и убегают раньше вас, когда вы их сбиваете. ЖЕНЩИНА-ПОЛУОРКА, НЕНАВИВАЮЩАЯ В ГЛАЗАХ, ГЕРОЯМ! АА! ЗАТЕМ ЕЕ ГЛАЗА ЗАСТЕЛЯЮТСЯ, КАК ОНА УМИРАЕТ.
 368|IT SEEMS THAT THEIR SCREAMS WERE HEARD...|КАЖЕТСЯ, ЧТО СЛЫШАЛИ ИХ КРИКИ ...
 369|'HIS IMMENSITY, TYRANTHRAXUS, HAS SEEN FIT TO ESTABLISH THIS TEMPLE TO OUR LORD BANE. THEREFORE IT IS RIGHT THAT YOU ACCEPT THE LORD BANE'S BLESSING.'|"ЕГО НЕПОДВИЖНОСТЬ, ТИРАНТРАКС, СМОТРЕЛА УСТАНОВИТЬ ЭТОТ ХРАМ НАШЕМУ ГОСПОДУ БЕЙНУ. ПОЭТОМУ ВЫ ПРИНИМАЕТЕ БЛАГОСЛОВЕНИЕ ГОСПОДА БЕЙНА - ПРАВИЛЬНО ".
 370|AN ALARM STARTS RINGING!|ТРЕВОГА НАЧИНАЕТ ЗВОНИТЬ!
-371|'WHAT? I THINK THESE SCUM ARE IMPOSTERS!'|'КАКИЕ? Я ДУМАЮ, ЭТИ ПОДНИЗЬИ - САМОУБИЛЬНИКИ!
+371|'WHAT? I THINK THESE SCUM ARE IMPOSTERS!'|"КАКИЕ? Я ДУМАЮ, ЭТИ ПОДНИЗЬИ - САМОУБИЛЬНИКИ!

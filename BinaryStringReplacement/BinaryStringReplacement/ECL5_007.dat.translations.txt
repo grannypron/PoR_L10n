@@ -10,7 +10,7 @@
 381| WAITING HERE IS A MAN PLAYING WITH A DAGGER.| ЖДЕТ ЧЕЛОВЕК, ИГРАЮЩИЙ С КИНЖАЛОМ.
 382| AS YOU COME IN HE NODS AT YOU.| КАК ВЫ входите, он кивает на вас.
 383|HE STARES MOODILY AT HIS FEET.|Он мрачно смотрит в ноги.
-384|'HEY LOOK, COULD YOU KEEP QUIET? I JUST GOT BACK FROM THE NORTH AND I'M TIRED. OKAY?' A MOMENT LATER A VOICE FROM CALLS FROM THE OTHER DOORWAY, 'MESSENGER!'|"ЭЙ ПОСМОТРИ, МОЖЕТЕ ЛИ ТЫ БЫТЬ ТИХИМ? Я только что вернулся с севера и устал. ХОРОШО?' МГНОВЕНИЕМ СПУСТЯ ГОЛОС ИЗ ЗВОНКОВ С ДРУГОГО ПОДЪЕМА: "МЕССЕНДЖЕР!"
+384|'HEY LOOK, COULD YOU KEEP QUIET? I JUST GOT BACK FROM THE NORTH AND I'M TIRED. OKAY?' A MOMENT LATER A VOICE FROM CALLS FROM THE OTHER DOORWAY, 'MESSENGER!'|"ЭЙ ПОСМОТРИ, МОЖЕТЕ ЛИ ТЫ БЫТЬ ТИХИМ? Я только что вернулся с севера и устал. ХОРОШО?" МГНОВЕНИЕМ СПУСТЯ ГОЛОС ИЗ ЗВОНКОВ С ДРУГОГО ПОДЪЕМА: "МЕССЕНДЖЕР!"
 385|THE MAN GETS UP WITH A SIGH AND GOES INTO THE OFFICE. A MINUTE LATER HE COMES OUT PUTTING PAPERS INTO A POUCH AND GOES OUT THE DOOR. THE VOICE CALLS, 'MESSENGER!'|ЧЕЛОВЕК ВЗРЫВАЕТСЯ И УХОДИТ В ОФИС. МИНУТУ СПУСТЯ ОН ВЫХОДИТ, ЗАКЛАДЫВАЯ БУМАГИ В ЧАШКУ, И ВЫХОДИТ НА ДВЕРЬ. ГОЛОСОВЫЙ ЗОВЕТ: "ПОСЛАННИК!"
 386|YOU ENTER A ROOM FURNISHED AS THE APARTMENT OF A WEALTHY IF ECCENTRIC MERCHANT.|ВЫ входите в комнату, обставленную как квартира состоятельного продавца.
 387| A MIDDLE AGED MAN IN ROBES LOOKS UP FROM A DESK.| МУЖЧИНА СРЕДНЕГО ВОЗРАСТА В РОБАХ ВЫГЛЯДИТ ИЗ-ЗА СТОЛА.
@@ -26,11 +26,11 @@
 397|TWO GUARDS MOVE TO BAR YOUR PATH. THE DRAGON LOOKS AT YOU WITH MALEVOLENCE. 'GUARDS, KILL THESE PESTS.'|ДВА ОХРАННИКА ПЕРЕДАЮТ ВАШУ ПУТЬ. ДРАКОН СМОТРИТ НА ВАС С ЗЛОУПОТРЕБЛЕНИЕМ. "ОХРАННИКИ, УБИВАЙТЕ ЭТИХ ВРЕДИТЕЛЕЙ".
 398|GENHEERIS|GENHEERIS
 399|PRESS BUTTON OR RETURN TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ ВОЗВРАТ, ЧТОБЫ ПРОДОЛЖИТЬ
-400| | 
+//400| | 
 401|A SECRET DOOR IS FOUND |НАЙДЕНА ТАЙНАЯ ДВЕРЬ
 402|YES|ДА
 403|NO|НЕТ
-404| | 
+//404| | 
 405|WITH A SCREAM OF HORROR |С КРИКОМ УЖАСА
 406| TURNS TO STONE.| ПРЕВРАЩАЕТСЯ В КАМЕНЬ.
 407| DO YOU WANT TO JUMP THROUGH THE TRAP DOOR?| ВЫ ХОТИТЕ ПРОЙТИ ЧЕРЕЗ ДВЕРЬ ЛОВУШКА?
@@ -39,14 +39,14 @@
 410|A MEDUSA COMES RUNNING TOWARD YOU.|К ВАМ ПРИБЕГАЕТ МЕДУЗА.
 411|THE THIEF SHOUTS 'BLASPHEMERS!' AND ATTACKS.|ВОР КРИЧИТ: "БЛАГОДАРЯ!" И АТАКИ.
 412|'IS IT A DEAL?|"ЭТО СДЕЛКА?
-413|'GOOD. I WILL NOTIFY SOME OTHERS. YOU GO KILL HIM.' HE QUICKLY GETS UP AND LEAVES THE ROOM.|'ХОРОШО. Я УВЕДОМЛЯЮ О НЕКОТОРЫХ ДРУГИХ. ВЫ ИДЕТЕ УБИТЬ ЕГО. ОН БЫСТРО встает и покидает комнату.
+413|'GOOD. I WILL NOTIFY SOME OTHERS. YOU GO KILL HIM.' HE QUICKLY GETS UP AND LEAVES THE ROOM.|"ХОРОШО. Я УВЕДОМЛЯЮ О НЕКОТОРЫХ ДРУГИХ. ВЫ ИДЕТЕ УБИТЬ ЕГО. ОН БЫСТРО встает и покидает комнату.
 414|THE DRAGON LOOKS AT YOU WITH INTEREST. 'YOU ARE INDEED MIGHTY WARRIORS. EVEN SO, THERE IS NO HOPE OF YOUR SUCCESS. BUT YOU INTEREST ME.'|ДРАКОН С ИНТЕРЕСОМ НА ВАС СМОТРИТ. "ВЫ НАДО МОГУЧИМЫЕ ВОИНЫ. ДАЖЕ НА ВАШ УСПЕХ НЕТ НАДЕЖДЫ. НО ВЫ МЕНЯ ИНТЕРЕСУЮТ.
-415|'IF YOU JOIN ME I WILL MAKE YOU THE COMMANDERS OF THE ARMIES THAT WILL SWEEP THE MOONSEA. I CAN NOT BE DEFEATED, YOU KNOW. WILL YOU JOIN ME?'|"ЕСЛИ ВЫ ПРИСОЕДИНЯЕТЕСЬ ко МНЕ, Я СДЕЛАЮ ВАС КОМАНДУЮЩИМИ АРМИЯМИ, КОТОРЫЕ УМЕТЬ ЛУНУ. Я НЕ МОГУ ПОБЕДИТЬ, ВЫ ЗНАЕТЕ. ТЫ ПРИСОЕДИНИШЬСЯ КО МНЕ?'
+415|'IF YOU JOIN ME I WILL MAKE YOU THE COMMANDERS OF THE ARMIES THAT WILL SWEEP THE MOONSEA. I CAN NOT BE DEFEATED, YOU KNOW. WILL YOU JOIN ME?'|"ЕСЛИ ВЫ ПРИСОЕДИНЯЕТЕСЬ ко МНЕ, Я СДЕЛАЮ ВАС КОМАНДУЮЩИМИ АРМИЯМИ, КОТОРЫЕ УМЕТЬ ЛУНУ. Я НЕ МОГУ ПОБЕДИТЬ, ВЫ ЗНАЕТЕ. ТЫ ПРИСОЕДИНИШЬСЯ КО МНЕ?"
 416| HOW DO YOU VOTE?| КАК ВЫ ГОЛОСОВАТЬ?
 417|ATTACK|АТАКА
 418|JOIN TYRANTHRAXUS|ПРИСОЕДИНЯЙТЕСЬ К TYRANTHRAXUS
 419|THE DRAGON LOOKS AT YOU WITH INTEREST. 'YOU ARE INDEED MIGHTY WARRIORS. EVEN SO, THERE IS NO HOPE OF YOUR SUCCESS. BUT YOU INTEREST ME.'|ДРАКОН С ИНТЕРЕСОМ НА ВАС СМОТРИТ. "ВЫ НАДО МОГУЧИМЫЕ ВОИНЫ. ДАЖЕ НА ВАШ УСПЕХ НЕТ НАДЕЖДЫ. НО ВЫ МЕНЯ ИНТЕРЕСУЮТ.
-420|'IF YOU JOIN ME I WILL MAKE YOU THE COMMANDERS OF THE ARMIES THAT WILL SWEEP THE MOONSEA. I CAN NOT BE DEFEATED, YOU KNOW. WILL YOU JOIN ME?'|"ЕСЛИ ВЫ ПРИСОЕДИНЯЕТЕСЬ ко МНЕ, Я СДЕЛАЮ ВАС КОМАНДУЮЩИМИ АРМИЯМИ, КОТОРЫЕ УМЕТЬ ЛУНУ. Я НЕ МОГУ ПОБЕДИТЬ, ВЫ ЗНАЕТЕ. ТЫ ПРИСОЕДИНИШЬСЯ КО МНЕ?'
+420|'IF YOU JOIN ME I WILL MAKE YOU THE COMMANDERS OF THE ARMIES THAT WILL SWEEP THE MOONSEA. I CAN NOT BE DEFEATED, YOU KNOW. WILL YOU JOIN ME?'|"ЕСЛИ ВЫ ПРИСОЕДИНЯЕТЕСЬ ко МНЕ, Я СДЕЛАЮ ВАС КОМАНДУЮЩИМИ АРМИЯМИ, КОТОРЫЕ УМЕТЬ ЛУНУ. Я НЕ МОГУ ПОБЕДИТЬ, ВЫ ЗНАЕТЕ. ТЫ ПРИСОЕДИНИШЬСЯ КО МНЕ?"
 421| HOW DO YOU VOTE?| КАК ВЫ ГОЛОСОВАТЬ?
 422|ATTACK|АТАКА
 423|JOIN TYRANTHRAXUS|ПРИСОЕДИНЯЙТЕСЬ К TYRANTHRAXUS

@@ -1,18 +1,18 @@
 ﻿147|YOU SPOT A GROUP OF |ВЫ УВИДИТЕ ГРУППУ
 148|YOU ARE SURPRISED BY A GROUP OF |ВЫ УДИВИТЫ ГРУППА
-149|.|.
+//149|.|.
 150|YOU SURPRISE A GROUP OF |ВЫ УДИВИТЕ ГРУППУ
-151|.|.
+//151|.|.
 152|SUDDENLY YOU ARE FACE TO FACE WITH A GROUP OF |ВНЕЗАПНО ВЫ ОБРАЩАЕТЕСЬ К ГРУППЕ
-153|.|.
+//153|.|.
 154|OUT OF THE SHADOWS, TWO LARGE WILD BOARS CHARGE.|ВНЕ ТЕНЕЙ ЗАРЯДЫВАЮТСЯ ДВА БОЛЬШИХ ДИКИХ КАБАНА.
 155|YOU SPOT A GROUP OF |ВЫ УВИДИТЕ ГРУППУ
 156|YOU ARE SURPRISED BY A GROUP OF |ВЫ УДИВИТЫ ГРУППА
-157|.|.
+//157|.|.
 158|YOU SURPRISE A GROUP OF |ВЫ УДИВИТЕ ГРУППУ
-159|.|.
+//159|.|.
 160|SUDDENLY YOU ARE FACE TO FACE WITH A GROUP OF |ВНЕЗАПНО ВЫ ОБРАЩАЕТЕСЬ К ГРУППЕ
-161|.|.
+//161|.|.
 162|YOU HAVE FOUND A SMALL DARK CAVE.  WILL YOU ENTER?|ВЫ НАШЛИ НЕБОЛЬШУЮ ТЕМНУЮ ПЕЩЕРУ. ВЫ ВОЙДЕТЕ?
 163|ENTER|ВХОДИТЬ
 164|LEAVE|ПОКИНУТЬ
@@ -66,7 +66,7 @@
 212|NO|НЕТ
 213|AFTER SAYING NO, THE RIDERS RETURN TO THE OUTPOST.  BEFORE LEAVING, THEIR LEADER SAYS, 'YOU ARE TRESSPASSING ON PRIVATE LAND.  I ADVISE YOU TO LEAVE.'|СКАЗАТЬ НЕТ, ВСАДНИКИ ВОЗВРАЩАЮТСЯ К ВЫПУСКУ. ПЕРЕД ОТЪЕЗДОМ, ИХ ЛИДЕР ГОВОРИТ: "ВЫ ПЕРЕХОДИТЕ НА ЧАСТНУЮ ЗЕМЛЮ. СОВЕТУЮ ВЫЙТИ ".
 214|YOU HAVE INSULTED THE |ВЫ ПРИВЕДИЛИ
-215|.|.
+//215|.|.
 216|THE |THE
 217| ATTACK YOU IMMEDIATELY!| НЕМЕДЛЕННО НА ВАС!
 218|AS YOU HIKE THROUGH THE MOUNTAINS YOU SEE A LARGE CAVE.|ПУТЕШЕСТВУЯ ПО ГОРам, ВЫ ВИДИТЕ БОЛЬШУЮ ПЕЩЕРУ.
@@ -74,7 +74,7 @@
 220|ENTER CAVE|Войти в пещеру
 221|IGNORE CAVE|ИГНОРИРОВАТЬ ПЕЩЕРУ
 222|YOU ENTER THE CAVE.|ВЫ входите в пещеру.
-223|AS YOU APPROACH THE KEEP, A GROUP OF ARMED MEN ON HORESBACK RIDE OUT TO MEET YOU.  THEIR LEADER SAYS 'YOU ARE TRESSPASSING ON PRIVATE LAND; LEAVE NOW OR FACE THE CONSQUENCES!'|Когда вы подходите к стойке, группа вооруженных мужчин на коне выезжает, чтобы встретить вас. ИХ ЛИДЕР ГОВОРИТ: "ВЫ ПЕРЕХОДИТЕ НА ЧАСТНУЮ ЗЕМЛЮ; УЙДИТЕ СЕЙЧАС ИЛИ ПРИНИМАЙТЕСЬ К ПОСЛЕДСТВИЯМ! '
+223|AS YOU APPROACH THE KEEP, A GROUP OF ARMED MEN ON HORESBACK RIDE OUT TO MEET YOU.  THEIR LEADER SAYS 'YOU ARE TRESSPASSING ON PRIVATE LAND; LEAVE NOW OR FACE THE CONSQUENCES!'|Когда вы подходите к стойке, группа вооруженных мужчин на коне выезжает, чтобы встретить вас. ИХ ЛИДЕР ГОВОРИТ: "ВЫ ПЕРЕХОДИТЕ НА ЧАСТНУЮ ЗЕМЛЮ; УЙДИТЕ СЕЙЧАС ИЛИ ПРИНИМАЙТЕСЬ К ПОСЛЕДСТВИЯМ! "
 224|STAY|ОСТАТЬСЯ
 225|LEAVE|ПОКИНУТЬ
 226|THE RIDERS ESCORT YOU INTO THE OUTPOST.|ВСАДНИКИ СОСТАВЛЯЮТ ВАС НА ВЫХОД.

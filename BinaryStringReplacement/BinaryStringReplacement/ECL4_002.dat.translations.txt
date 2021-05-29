@@ -63,7 +63,7 @@
 63|LEAVE|ПОКИНУТЬ
 64|YOU HAVE NO KEY TO UNLOCK THE PADLOCKS.|У ВАС НЕТ КЛЮЧА ДЛЯ РАЗБЛОКИРОВКИ ЗАМКОВ.
 65|THE MAN DIES A CRUEL DEATH.|ЧЕЛОВЕК УМИРАЕТ ЖЕСТКОЙ СМЕРТЬЮ.
-66| 'WHATS YOUR PROBLEM?'| 'В ЧЕМ ТВОЯ ПРОБЛЕМА?'
+66| 'WHATS YOUR PROBLEM?'| "В ЧЕМ ТВОЯ ПРОБЛЕМА?"
 67|THE HOBGOBLINS GIVE CHASE, BUT YOU ESCAPE.|ХОБГОБЛИНЫ ДАЮТ УДАЧУ, НО ВЫ УБЕГАЕТЕ.
 68|YOU BEGIN A LONG FALL.|ВЫ НАЧИНАЕТЕ ДЛИТЕЛЬНУЮ ПАДЕНИЕ.
 69|HOBGOBLINS CHARGE SCREAMING.|ХОБГОБЛИНЫ ЗАРЯДНЫЙ КРИК.
@@ -100,7 +100,7 @@
 100|PARLAY|ПАРЛАЙ
 101|LEAVE|ПОКИНУТЬ
 102|'I DON'T LIKE YOUR TONE.'|"МНЕ НРАВИТСЯ ВАШ ТОН".
-103|'OH WELL.' HE LEAVES.|'НУ ЧТО Ж.' ОН УХОДИТ.
+103|'OH WELL.' HE LEAVES.|"НУ ЧТО Ж." ОН УХОДИТ.
 104|'GREAT! MY NAME IS SKULLCRUSHER. THERE'S A SECRET DOOR TO THE SOUTHEAST. THAT'S WHERE I MET THE HOBGOBLIN LEADER.'|БОЛЬШОЙ! МОЕ ИМЯ ЧЕРЕПОВОДИТЕЛЬ. ЕСТЬ СЕКРЕТНАЯ ДВЕРЬ НА ЮГО-ВОСТОК. ТАМ ГДЕ Я ВСТРЕТИЛСЯ С ЛИДЕРОМ ХОБГОБЛИНОВ ".
 105|'YOU ARE SEEKING THE TEXTILE HOUSE. WE CAN GET YOU IN UNSEEN AND POSSIBLY HELP YOU WITH THE TREASURE. INTERESTED?'|"ВЫ ИЩЕТЕ ТЕКСТИЛЬНЫЙ ДОМ. МЫ МОЖЕМ ПОЛУЧИТЬ ВАС НЕВИДИМЫМ И ВОЗМОЖНО ПОМОЧЬ С СОКРОВИЩЕМ. ЗАИНТЕРЕСОВАН?
 106|YES|ДА

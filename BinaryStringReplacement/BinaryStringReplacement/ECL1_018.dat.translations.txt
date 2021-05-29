@@ -41,10 +41,10 @@
 41|GREET|ПРИВЕТСТВОВАТЬ
 42|ATTACK|АТАКА
 43|THE ORC SMILES CROOKEDLY.'GREETINGS FROM BANE.|ОРК криво улыбается: "ПРИВЕТ ОТ БЕЙНА.
-44| WE ARE RECRUITING CREATURES FOR OUR TEMPLE TO THE NORTHEAST. ARE YOU INTERESTED?'| МЫ НАБИРАЕМ СУЩЕСТВ ДЛЯ НАШЕГО ХРАМА НА СЕВЕРО-ВОСТОКЕ. ВАС ЗАИНТЕРЕСОВАН? '
+44| WE ARE RECRUITING CREATURES FOR OUR TEMPLE TO THE NORTHEAST. ARE YOU INTERESTED?'| МЫ НАБИРАЕМ СУЩЕСТВ ДЛЯ НАШЕГО ХРАМА НА СЕВЕРО-ВОСТОКЕ. ВАС ЗАИНТЕРЕСОВАН? "
 45|YES|ДА
 46|NO|НЕТ
-47| WE ARE HIRING CREATURES TO RECOVER OUR TEMPLE. ARE YOU INTERESTED?'| МЫ НОРМАЕМ СУЩЕСТВ, ЧТОБЫ ВОССТАНОВИТЬ НАШ ХРАМ. ВАС ЗАИНТЕРЕСОВАН? '
+47| WE ARE HIRING CREATURES TO RECOVER OUR TEMPLE. ARE YOU INTERESTED?'| МЫ НОРМАЕМ СУЩЕСТВ, ЧТОБЫ ВОССТАНОВИТЬ НАШ ХРАМ. ВАС ЗАИНТЕРЕСОВАН? "
 48|AN ABANDONED SHOP. BROKEN SHELVES ARE ALL THAT REMAIN.|ЗАБРОШЕННЫЙ МАГАЗИН. ВСЕ, ЧТО ОСТАЛОСЬ - СЛОМАННЫЕ ПОЛКИ.
 49|A DECAYED BUILDING LEFT TO THE RATS.|РАЗРУШЕННОЕ ЗДАНИЕ ОСТАЛОСЬ КРЫСАМ.
 50|AS YOU MOVE YOU OVERHEAR SOME|КАК ВЫ ПЕРЕМЕЩАЕТЕ, ВЫ НЕ СЛУШАЕТЕ НЕКОТОРЫЕ
@@ -62,18 +62,18 @@
 62|YOUR COVER IS BLOWN.|ВАША КРЫШКА ВДУВАЕТСЯ.
 63|THE PARTY RUNS AND ESCAPES.|ВЕЧЕРИНКА УБЕГАЕТ И УБЕГАЕТ.
 64|YOUR COVER IS BLOWN.|ВАША КРЫШКА ВДУВАЕТСЯ.
-65|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+65|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
 66|THE MONSTERS SHOOT YOU ANGRY LOOKS, |МОНСТРЫ СТРЕЛЯЮТ ВАС ЗЛОЙ ВИДОМ,
 67|YOU NOW SEE THE WAND ISN'T A MAJOR ARTIFACT, IT'S ONLY A WAND OF FEAR!|ВЫ СЕЙЧАС ВИДЕТЕ ЖЕЛОК - НЕ ГЛАВНЫЙ АРТЕФАКТ, ЭТО ТОЛЬКО ЖЕЗЛО СТРАХА!
-68|'IT'S A WAND OF ILLUMINATION. WHO CARES, I SEE IN THE DARK ANYWAY!'|"ЭТО ЖЕЗЛО ОСВЕЩЕНИЯ. КТО ЗАБОТИТСЯ, Я ВСЕ ВИДЮ В ТЕМНОМ! '
+68|'IT'S A WAND OF ILLUMINATION. WHO CARES, I SEE IN THE DARK ANYWAY!'|"ЭТО ЖЕЗЛО ОСВЕЩЕНИЯ. КТО ЗАБОТИТСЯ, Я ВСЕ ВИДЮ В ТЕМНОМ! "
 69|AS YOU MOVE AWAY THE MONSTERS GLANCE YOUR WAY, |КОГДА ВЫ УХОДИТЕ, МОНСТРЫ ВЗЛЯЮТ НА ВАШУ ПУТЬ,
 70|THE AUCTION ENDS. YOU DON'T SEE WHO BOUGHT THE ITEM.|АУКЦИОН ЗАКОНЧИЛСЯ. ВЫ НЕ ВИДИТЕ, КТО КУПИЛ ПРЕДМЕТ.
 71|'GOING... GOING... GONE!' THE AUCTIONEER CRIES.|ИДЕТ ... ИДЕТ ... ПРОЙДЕТ! АУКЦИОНЕР плачет.
 72|A MAN AND OGRE EXCHANGE THE WAND AND A LARGE BAG, THEN DISAPPEAR INTO THE CROWD.|ЧЕЛОВЕК И ОГРЕ ОБМЕНЯЮТСЯ ПАЛОЧКОЙ И БОЛЬШОЙ СУМКОЙ, ПОТОМ ИСЧЕЗДАЮТСЯ В ТОЛПЕ.
-73| AND YELL 'SETTLERS! KILL THEM!'| И КРИЧАТЬ ПОСЕЛЕНИЯМ! УБЕЙ ИХ!'
+73| AND YELL 'SETTLERS! KILL THEM!'| И КРИЧАТЬ ПОСЕЛЕНИЯМ! УБЕЙ ИХ!"
 74|'THE AUCTION IS CANCELLED!' YELLS THE AUCTIONEER AS HE FLEES.|"АУКЦИОН ОТМЕНЕН!" КРИЧИТ АУКЦИОНЕР, УБЕГАЯ.
 75|GRUMBLE, AND TURN AWAY.|Ворчать и отвернуться.
-#NAME?
+76|'GARWIN, I'LL GET YOU!' CRIES THE AUCTIONEER. HOWEVER, THE MAN HAS ESCAPED IN THE CONFUSION.|ГАРВИН, Я ПОЛУЧУ ТЕБЯ!ПЛАЧЕТ АУКЦИОНЕР. ОДНАКО, МУЖЧИНА УБЕЖАЛА В ЗАБОЛЕВАНИИ.
 77|THE AUCTION OVER, THE MONSTERS GRUMBLE AND TURN AWAY.'|АУКЦИОН ЗАКОНЧИЛСЯ, МОНСТРЫ ВОРЧАЮТСЯ И УБЕГАЮТ.
 78|THE CREATURES IGNORE YOU FOR THE MOMENT.|СОЗДАНИЯ ИГНОРИРУЮТ ВАС НА МГНОВЕНИИ.
 79|WHAT DO YOU DO?|ЧТО ВЫ ДЕЛАЕТЕ?
@@ -103,11 +103,11 @@
 103|THE MONSTERS STAND READY|МОНСТРЫ ГОТОВЫ
 104|THE MONSTERS PREPARE|МОНСТРЫ ГОТОВЯТСЯ
 105|YOU SPOT A GROUP OF|ВЫ УВИДИТЕ ГРУППУ
-106|. |.
+//106|. |.
 107|YOUR PARTY SLIPS PAST THEM.|ВАША ПАРТИЯ ПРОИСХОДИТ МИНИМУМ.
 108|THEY CHECK OUT YOUR PARTY, |ОНИ ПРОВЕРЯЮТ ВАШУ СТОРОНУ,
 109|AND DEMAND, 'WHO ARE YOU?'|И ТРЕБУЙТЕ: "КТО ВЫ?"
-110|THEY YELL 'SETTLERS! KILL THEM!'|ОНИ ОЧИЩАЮТ ПОСЕЛЕНИЙ! УБЕЙ ИХ!'
+110|THEY YELL 'SETTLERS! KILL THEM!'|ОНИ ОЧИЩАЮТ ПОСЕЛЕНИЙ! УБЕЙ ИХ!"
 111|'IT'S A STAFF OF COMMAND. I COULD HAVE MY OWN ARMY!'|"ЭТО КОМАНДНЫЙ ПЕРСОНАЛ. МОЖЕТ БЫТЬ СОБСТВЕННАЯ АРМИЯ!
 112|THE BAR LOOKS LIKE IT WAS DESTROYED BY EXPERTS.|БАР ВЫГЛЯДИТ, КАК БЫЛ РАЗРУШЕН ЭКСПЕРТАМИ.
 113|YOUR ACTIONS TRIGGER A FREE FOR ALL.|ВАШИ ДЕЙСТВИЯ БЕСПЛАТНЫ ДЛЯ ВСЕХ.

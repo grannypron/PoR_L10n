@@ -1,16 +1,16 @@
 ﻿111|A PATROL OF GIANTS LED BY A HUMAN FIGHTER|ПАТРУЛЬ ГИГАНТОВ, СВЯЗАННЫЙ БОРЬБОМ-ЧЕЛОВЕКОМ
 112| SURPRISES YOU.| УДИВИТ ВАС.
-113| 'THAT'S THEM! GET THEM!'| ЭТО ОНИ! ВЗЯТЬ ИХ!'
+113| 'THAT'S THEM! GET THEM!'| ЭТО ОНИ! ВЗЯТЬ ИХ!"
 114|YOU SEE A|ВЫ ВИДИТЕ
 115|. THE LEADER YELLS 'SACRILEGIOUS SCUM!'|. ВЕДУЩИЙ КРИЧИТ: "СВЯЩЕННАЯ ОТБИВАЯ!"
-116|'BLASPHEMERS! GET THEM!'|"БЛАГОДАРЯ! ВЗЯТЬ ИХ!'
+116|'BLASPHEMERS! GET THEM!'|"БЛАГОДАРЯ! ВЗЯТЬ ИХ!"
 117|YOU SEE A|ВЫ ВИДИТЕ
-118|'WHAT ARE YOU DOING HERE?'|'ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?'
+118|'WHAT ARE YOU DOING HERE?'|"ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?"
 119|THE LEADER ADVANCES.|ЛИДЕР ПРОДВИГАЕТСЯ.
 120|WHAT ARE YOU DOING HERE?|ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?
 121|THEY ADVANCE, WEAPONS READY|ОНИ ВПЕРЕДИ, ОРУЖИЕ ГОТОВО
 122|YOU SEE A|ВЫ ВИДИТЕ
-123|'WHAT ARE YOU DOING HERE?'|'ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?'
+123|'WHAT ARE YOU DOING HERE?'|"ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?"
 124|THE LEADER ADVANCES.|ЛИДЕР ПРОДВИГАЕТСЯ.
 125|WHAT ARE YOU DOING HERE?|ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?
 126|THE DOOR OF THE BUILDING YOU ARE PASSING SLAMS. |ДВЕРЬ ЗДАНИЯ, КОТОРЫЙ ВЫ ПРОХОДИТЕ, ЗАХЛОПЫВАЕТСЯ.
@@ -19,7 +19,7 @@
 129|IN THE ROOM ARE FOUR GIANTS.|В НОМЕРЕ ЧЕТЫРЕ ГИГАНТА.
 130|THE GIANTS LOOK UP AT YOU.|ГИГАНТЫ СМОТРЕТЬ НА ВАС.
 131|'WHAT YA DOIN' HERE?'|ЧТО Я ЗДЕСЬ ДЕЛАЕТ?
-132|'SORRY, SIR. YEAH, WE CAN GET YA TO THE BOSS. THIS PAPER HAS THE PASSWORDS.'|'ПРОСТИТЕ, СЭР. ДА, МЫ МОЖЕМ ДОБРАТЬСЯ К БОССУ. ДАННЫЙ ДОКУМЕНТ ИМЕЕТ ПАРОЛИ.
+132|'SORRY, SIR. YEAH, WE CAN GET YA TO THE BOSS. THIS PAPER HAS THE PASSWORDS.'|"ПРОСТИТЕ, СЭР. ДА, МЫ МОЖЕМ ДОБРАТЬСЯ К БОССУ. ДАННЫЙ ДОКУМЕНТ ИМЕЕТ ПАРОЛИ.
 133|ON THE GROUND YOU FIND A PEACE OF PAPER THAT SAYS:|НА МЕСТЕ ВЫ НАЙДЕТЕ КРАСИВУЮ БУМАГУ, В КОТОРОЙ ГОВОРИТ:
 134|YOU HAVE ENTERED AN ARMORY. INSIDE IS A LARGE ASSORTMENT OF ARMOR AND WEAPONS.|ВЫ ВСТУПИЛИ В ОРУЖЕЙНУЮ. ВНУТРИ БОЛЬШОЙ АССОРТИМЕНТ БРОНИ И ОРУЖИЯ.
 135|DO YOU WANT TO TAKE ANYTHING?|ВЫ ХОТИТЕ ВЗЯТЬ ЧТО-ТО?
@@ -40,24 +40,24 @@
 150|AN OFFICER LOOKS AT YOU, 'WHAT ARE YOU DOING HERE?'|ОФИЦЕР СМОТРИТ НА ВАС: "ЧТО ТЫ ЗДЕСЬ ДЕЛАЕМ?"
 151|WHAT ARE YOU DOING HERE?|ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?
 152|THE SIX SCRIBES DIVE FOR COVER AS THE TWO OFFICERS ATTACK.|ШЕСТЬ СКРИБОВ НЫРЯЮТСЯ ДЛЯ УКРЫТИЯ, КОГДА ДВА ОФИЦЕРА АТАКУЮТ.
-153|. THE LEADER SEES YOU. 'THAT'S THEM!'|. ЛИДЕР ВАС ВИДЕТ. 'ЭТО ОНИ!'
+153|. THE LEADER SEES YOU. 'THAT'S THEM!'|. ЛИДЕР ВАС ВИДЕТ. "ЭТО ОНИ!"
 154|THEY ADVANCE, WEAPONS READY|ОНИ ВПЕРЕДИ, ОРУЖИЕ ГОТОВО
 155|YOU SEE A|ВЫ ВИДИТЕ
-156|'WHAT ARE YOU DOING HERE?'|'ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?'
+156|'WHAT ARE YOU DOING HERE?'|"ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?"
 157|THE LEADER ADVANCES.|ЛИДЕР ПРОДВИГАЕТСЯ.
 158|WHAT ARE YOU DOING HERE?|ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?
 159|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
-160| | 
+//160| | 
 161|'I'M SORRY, SIR, THERE'S AN ALERT. |"Я ИЗВИНЯЮСЬ, СЭР, ЕСТЬ ТРЕВОГА.
 162|ON WHOSE AUTHORITY ARE YOU HERE?'|В КАКОЙ ВЛАСТИ ВЫ ЗДЕСЬ?
-163|'WELL BOYS, I THINK WE HAVE THE INTRUDERS HERE. GET THEM!'|"НУ, МАЛЬЧИКИ, Я ДУМАЮ, У НАС ЗДЕСЬ ЕСТЬ ИНТРУДЕРЫ. ВЗЯТЬ ИХ!'
-164|'ALL RIGHT, THEN. WHAT IS TODAY'S PASSWORD?'|'ТОГДА ВСЕ В ПОРЯДКЕ. ЧТО ТАКОЕ СЕГОДНЯ ПАРОЛЬ?
+163|'WELL BOYS, I THINK WE HAVE THE INTRUDERS HERE. GET THEM!'|"НУ, МАЛЬЧИКИ, Я ДУМАЮ, У НАС ЗДЕСЬ ЕСТЬ ИНТРУДЕРЫ. ВЗЯТЬ ИХ!"
+164|'ALL RIGHT, THEN. WHAT IS TODAY'S PASSWORD?'|"ТОГДА ВСЕ В ПОРЯДКЕ. ЧТО ТАКОЕ СЕГОДНЯ ПАРОЛЬ?
 165|HARASH|ХАРАШ
 166|AN ALARM IS SOUNDING.|ЗВУКАЕТ СИГНАЛ ТРЕВОГИ.
 167|A FIGHTER EMERGES FROM THE BUILDING NEARBY AND CONFRONTS YOU.|БОРЬБА ВЫЯВЛЯЕТСЯ ИЗ ЗДАНИЯ ПОБЛИЗОСТИ И ПРОТИВОСТОЯТ ВАМ.
-168|'WHAT ARE YOU DOING HERE?'|'ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?'
+168|'WHAT ARE YOU DOING HERE?'|"ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?"
 169|'WHAT ARE YOU DOING HERE?', HE REPEATS.|"ЧТО ВЫ ЗДЕСЬ ДЕЛАЕТЕ?", - ПОВТОРЯЕТ ОН.
-170|HE LUNGES FOR THE DOOR AND HITS A BUTTON. THEN HE TURNS AND FACES THE PARTY WITH SWORD DRAWN. 'IN A MOMENT A PATROL WILL BE HERE. IF YOU STAY TO FIGHT ME YOU WILL DIE.'|ОН НАПЫВАЕТСЯ НА ДВЕРЬ И НАЖИМАЕТ КНОПКУ. ЗАТЕМ ОН ПОВОРАЧИВАЕТСЯ И С НАЧИНЕННЫМ МЕЧОМ ЛИЦОМ СТОРОНЫ. 'В МГНОВЕНИИ ЗДЕСЬ БУДЕТ ДАТЧИК. ЕСЛИ ВЫ ОСТАЕТЕ СРАЖАТЬСЯ СО МНОЙ, ВЫ УМЕРЕТЕ ".
+170|HE LUNGES FOR THE DOOR AND HITS A BUTTON. THEN HE TURNS AND FACES THE PARTY WITH SWORD DRAWN. 'IN A MOMENT A PATROL WILL BE HERE. IF YOU STAY TO FIGHT ME YOU WILL DIE.'|ОН НАПЫВАЕТСЯ НА ДВЕРЬ И НАЖИМАЕТ КНОПКУ. ЗАТЕМ ОН ПОВОРАЧИВАЕТСЯ И С НАЧИНЕННЫМ МЕЧОМ ЛИЦОМ СТОРОНЫ. "В МГНОВЕНИИ ЗДЕСЬ БУДЕТ ДАТЧИК. ЕСЛИ ВЫ ОСТАЕТЕ СРАЖАТЬСЯ СО МНОЙ, ВЫ УМЕРЕТЕ ".
 171|STAY AND FIGHT|ОСТАВАЙТЕСЬ И СРАЖАЙТЕСЬ
 172|RUN|ЗАПУСТИТЬ
 173|AS YOU START TO ATTACK HIM, FOUR GIANTS BURST OUT OF A NEARBY BUILDING.|КАК ВЫ НАЧИНАЕТЕ НАЧАТЬ НА НЕГО, ЧЕТЫРЕ ГИГАНТА ВЫРЫВАЮТСЯ ИЗ БЛИЖАЙШЕГО ЗДАНИЯ.
@@ -66,11 +66,11 @@
 176|A GROUP OF FOUR GIANTS CHARGE OUT OF A NEARBY BUILDING.|ГРУППА ИЗ ЧЕТЫРЕХ ГИГАНТОВ ВЫКЛЮЧАЕТСЯ ИЗ БЛИЖНЕГО ЗДАНИЯ.
 177|THEY COME RUNNING TOWARD YOU.|ОНИ БЕГАЮТ НА ВАС.
 178|'HEY LOOK! IT MUST BE THEM INTRUDERS.'|ЭЙ СМОТРИ! ЭТО ДОЛЖНЫ БЫТЬ ИНТРУДЕРЫ ".
-179|'GET EM!'|'ХВАТАЙ ИХ!'
+179|'GET EM!'|"ХВАТАЙ ИХ!"
 180|ON THE GROUND YOU FIND A PEACE OF PAPER THAT SAYS:|НА МЕСТЕ ВЫ НАЙДЕТЕ КРАСИВУЮ БУМАГУ, В КОТОРОЙ ГОВОРИТ:
 181|'WE DO SO KNOW THE PASSWORDS! YOU ALWAYS THINK YOU'RE SO SMART. LET'S SEE IF YOU CAN READ TODAY'S LIST.'|"МЫ ТАК ЗНАЕМ ПАРОЛИ! ВЫ ВСЕГДА ДУМАЕТЕ, ЧТО ВЫ ТАК УМНЫЙ. ПОСМОТРИМ, СМОЖЕТЕ ЛИ ВЫ ПРОЧИТАТЬ СЕГОДНЯ СПИСОК.
 182|TODAY'S PASSWORD IS  |СЕГОДНЯ ПАРОЛЬ
-183|'GET LOST, WIMP! IF YA DON'T BEAT IT WE'LL BEAT YOU! HA! HA!' THE GIANT LEADER POKES THE GIANT NEXT TO HIM, 'BEAT IT, BEAT THEM! GET IT?!'|"ПРОЙТИ, WIMP! ЕСЛИ Я НЕ БУДЕМ, МЫ БУДЕМ ВАС! Ха! ХА! ' ГИГАНТ-ЛИДЕР УКАЗЫВАЕТ СЛЕДУЮЩЕГО ГИГАНТА: "Бей, бей их! ВОЗЬМИ?!'
+183|'GET LOST, WIMP! IF YA DON'T BEAT IT WE'LL BEAT YOU! HA! HA!' THE GIANT LEADER POKES THE GIANT NEXT TO HIM, 'BEAT IT, BEAT THEM! GET IT?!'|"ПРОЙТИ, WIMP! ЕСЛИ Я НЕ БУДЕМ, МЫ БУДЕМ ВАС! Ха! ХА! " ГИГАНТ-ЛИДЕР УКАЗЫВАЕТ СЛЕДУЮЩЕГО ГИГАНТА: "Бей, бей их! ВОЗЬМИ?!"
 184|STAY|ОСТАТЬСЯ
 185|LEAVE|ПОКИНУТЬ
 186|'I SAID GET LOST!' |"Я СКАЗАЛ ПОТЕРЯНУСЬ!"
@@ -78,15 +78,15 @@
 188|'GO AHEAD THREATEN US! TEAR OUT OUR HEARTS! CUT OFF OUR HEADS! SLICE OPEN OUR BELLIES... IF YOU CAN. |"ИДИТЕ ВПЕРЕД, УГРОЖАЙТЕ НАМ! РАЗРЫВАЙТЕ НАШИ СЕРДЦА! ОТРЕЗАТЬ НАШИ ГОЛОВКИ! НАРЕЗАТЬ ОТКРОЙ НАШИ ЖИВОТНЫЕ ... ЕСЛИ ВЫ МОЖЕТЕ.
 189|YES|ДА
 190|NO|НЕТ
-191| | 
-192|THE OVERSEER TURNS TOWARD YOU BLUDGEON IN HAND. 'GO ON! GET OUT OF MY KITCHEN OR I'LL THROW BOILING OIL ON YOU!'|Смотритель поворачивается к вам, болван в руке. 'ПРОДОЛЖАЙ! ВЫБИРАЙСЯ ИЗ МОЕЙ КУХНИ, ИЛИ Я БРОНУ ВАС КИПИТЕЛЬНОЕ МАСЛО! '
+//191| | 
+192|THE OVERSEER TURNS TOWARD YOU BLUDGEON IN HAND. 'GO ON! GET OUT OF MY KITCHEN OR I'LL THROW BOILING OIL ON YOU!'|Смотритель поворачивается к вам, болван в руке. "ПРОДОЛЖАЙ! ВЫБИРАЙСЯ ИЗ МОЕЙ КУХНИ, ИЛИ Я БРОНУ ВАС КИПИТЕЛЬНОЕ МАСЛО! "
 193|A SCRIBE WALKS INTO THE ROOM. HE SEES YOU AND LETS OUT A GASP. HE DROPS HIS BOOKS AND RUNS OUT THE DOOR.|СКРИБ ПРОХОДИТ В КОМНАТУ. ОН ВИДИТ ВАС И ВЫПУСКАЕТ ГАЗ. ОН БРОСАЕТ КНИГИ И ВЫБЕГАЕТ ЗА ДВЕРЬ.
 194|YOU ARE FINDING A PATTERN TO TYRANTHRAXUS' ACTIVITIES. AT FIRST TYRANTHRAXUS' FOLLOWERS WERE AN UNSOPHISTICATED HORDE OF ILL ORGANIZED UNHUMANS.|ВЫ НАЙДЕТЕ ОБРАЗЕЦ ДЕЯТЕЛЬНОСТИ ТИРАНТРАКСА. Поначалу последователи ТИРАНТРАКСА БЫЛИ НЕСОФИСТИЧНОЙ ОРГАНИЗАЦИЕЙ НЕЧЕЛОВЕЧЕСКИХ ОРГАНИЗОВАННЫХ ЛЮДЕЙ.
 195|NOW THEY ARE MUCH MORE SINISTER. THE WEB OF CORRUPTION HE HAS SPREAD IS INCREDIBLE IN ITS SCOPE. HIS ULTIMATE GOAL IS TO CONQUER ALL LANDS SOUTH OF THE MOONSEA.|ТЕПЕРЬ ОНИ НАМНОГО БОЛЬШЕ СЕНИСТРОВ. Сеть коррупции, которую он распространил, невероятна в своих масштабах. ЕГО КОНЕЧНАЯ ЦЕЛЬ - ЗАВОЕВАТЬ ВСЕ ЗЕМЛИ К ЮЖУ ОТ ЛУНЫ.
 196|TO FIND ANYTHING MORE YOU WILL HAVE TO SPEND SO MUCH TIME THAT YOU WILL NEED TO CLEAR THE AREA FIRST.|ЧТОБЫ НАЙТИ ЧЕГО БОЛЬШЕ, ВАМ ПРИДЕТСЯ ТАК МНОГО ВРЕМЕНИ, ЧТО ВАМ НУЖНО СНАЧАЛА ОЧИСТИТЬ ПЛОЩАДЬ.
 197|YOU FIND ASSORTED REPORTS.|ВЫ НАЙДЕТЕ РАЗБОРНЫЕ ОТЧЕТЫ.
 198|YOU ENTER A BUILDING WHICH IS FILLED WITH TABLES AND WRITING SUPPLIES. THOUGH EMPTY, THERE ARE SIGNS THAT WORK HAS BEEN DONE HERE RECENTLY.|ВЫ ВХОДИТЕ В ЗДАНИЕ, ЗАПОЛНЕННОЕ ТАБЛИЦАМИ И ПИСЬМЕННЫМИ ТОВАРАМИ. ХОТЯ ПУСТО, ЕСТЬ ПРИЗНАКИ, ЧТО РАБОТА БЫЛА ЗДЕСЬ НЕДАВНО.
-199|'WHAT? I THINK YOU SCUM ARE IMPOSTERS!'|'КАКИЕ? Я ДУМАЮ, ТЫ, ПОДНИЗЬЯ, ИМПОСТЕРЫ!
+199|'WHAT? I THINK YOU SCUM ARE IMPOSTERS!'|"КАКИЕ? Я ДУМАЮ, ТЫ, ПОДНИЗЬЯ, ИМПОСТЕРЫ!
 200|WITH A NOD OF THE HEAD YOU ARE LEFT ALONE.|Кивнув головой, вы остаетесь одни.
 201|HE QUICKLY RETREATS THROUGH THE DOOR AND SLAMS IT, YELLING, 'INTRUDERS!'|ОН БЫСТРО ПРОБИРАЕТСЯ В ДВЕРЬ И ЗАХЛОПЫВАЕТСЯ, КРИЧАЯ: "ИНТРУДЕРЫ!"
 202|A GROUP OF FOUR GIANTS CHARGE OUT OF A NEARBY BUILDING.|ГРУППА ИЗ ЧЕТЫРЕХ ГИГАНТОВ ВЫКЛЮЧАЕТСЯ ИЗ БЛИЖНЕГО ЗДАНИЯ.
@@ -97,10 +97,10 @@
 207|AMBUSH AND KILL HIM|АМБУШ И УБИТЬ ЕГО
 208|AMBUSH AND TIE HIM UP|АМБУШ И СВЯЗАТЬ ЕГО
 209|AS HE COMES THROUGH THE DOOR YOU KNOCK HIM OUT AND DRAG HIS FORM INTO A CORNER.|КАК ОН ПРОХОДИТ ЧЕРЕЗ ДВЕРЬ, ВЫ ВЫБИВАЕТЕ ЕГО И УТОЧНЯЕТЕ ЕГО ФОРМУ В УГОЛ.
-210| | 
+//210| | 
 211|YOU FIND HARD EVIDENCE THAT CADORNA HAS BEEN USING YOU FOR HIS OWN ENDS AND HAS BEEN SEEKING THE POOL OF RADIANCE FOR HIMSELF.|ВЫ НАЙДЕТЕ НЕВЕРОЯТНОЕ ДОКАЗАТЕЛЬСТВО, ЧТО КАДОРНА ИСПОЛЬЗОВАЛ ВАС ДЛЯ СВОИХ ЦЕЛЕЙ И ИСКУСИЛ БАССЕЙН СИЯНИЯ ДЛЯ СЕБЯ.
 212|YOU FIND A REPORT INDICATING THAT THE NORTHERN BARBARIANS ARE READY FOR THE TAKE OVER OF A STRONG LEADER AND THAT THE CHIEF OF THE RAVEN CLAN IS ALLIED TO TYRANTHRAXUS.|ВЫ НАЙДЕТЕ ОТЧЕТ, КОТОРЫЕ УКАЗЫВАЮТ, ЧТО СЕВЕРНЫЕ ВАРВАРЫ ГОТОВЫ К СЛЕДОВАНИЮ СИЛЬНОГО ЛИДЕРА, И ЧТО НАЧАЛЬНИК КЛАНА ВОРОНОВ СОЕДИНЕН С ТИРАНТРАКСОМ.
 213|THE FOLLOWING CATCHES YOUR EYE, 'DO NOT BE FOOLED BY OUTWARD FORMS FOR YOU SHALL KNOW ME BY MY FLAMING AURA.|СЛЕДУЮЩЕЕ ЗАКРЫВАЕТ ВАШ ГЛАЗ: "НЕ ДУМАЙТЕСЬ НАРУЖНЫЕ ФОРМЫ, ПОТОМУ ЧТО ВЫ УЗНАЕТЕ МЕНЯ ПО МОЕЙ ПЛАМЕННОЙ АУРЕ.
 214|AS HE COMES THROUGH THE DOOR YOU SLIT HIS THROAT. THE BODY IS DRAGGED INTO A CORNER.|Когда он проходит через дверь, вы перерезаете ему горло. ТЕЛО ПРИТАЩИНО В УГОЛОК.
-215| | 
+//215| | 
 216|YOU SEE GIANT SNAKES.|ВЫ ВИДЕТЕ ГИГАНТСКИХ ЗМЕЕЙ.

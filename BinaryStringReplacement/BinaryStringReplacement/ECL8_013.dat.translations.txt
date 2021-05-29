@@ -124,7 +124,7 @@
 124|THE KOBOLDS HERD YOU TOWARD YOUR PRISON. SOME NAB BITS OF YOUR EQUIPMENT AND LEAVE.|КОБОЛЬДЫ СТАРАЮТ ВАС К ВАШЕЙ ТЮРЬМЕ. НЕКОТОРЫЕ НАБЛЮДАЙТЕ ВАШЕ ОБОРУДОВАНИЕ И УХОДИТЕ.
 125|YOU DISLODGE A NUMBER OF ROCKS.|ВЫ ВЫИГРЫВАЕТЕ КОЛИЧЕСТВО КАМНЕЙ.
 126|THE NOISE HAS DISTURBED SOMETHING. WITH A BEATING OF WINGS, A HUGE BEAST LANDS UPON YOU.|ШУМ ЧТО-ТО ПОБЕДИЛ. С БИКОМ КРЫЛЬЯМИ НА ВАС ПРИСАДЕТ ОГРОМНЫЙ ЗВЕРЬ.
-127|'JUST AROUND THE CORNER IS OUR TREASURE. TAKE WHAT YOU WISH AND LEAVE US. GOOD DAY.'|"ТОЛЬКО ЗА УГОЛОМ - НАШЕ СОКРОВИЩЕ. Бери то, что хочешь, и оставь нас. ДОБРЫЙ ДЕНЬ.'
+127|'JUST AROUND THE CORNER IS OUR TREASURE. TAKE WHAT YOU WISH AND LEAVE US. GOOD DAY.'|"ТОЛЬКО ЗА УГОЛОМ - НАШЕ СОКРОВИЩЕ. Бери то, что хочешь, и оставь нас. ДОБРЫЙ ДЕНЬ."
 128|LET IT GO|ОТПУСТИ СИТУАЦИЮ
 129|KILL IT|УБЕЙ ЭТО
 130|THE KOBOLD CALLS OUT,'THE ENVOYS ARE HERE, GREAT KING.' AN AGED VOICE REPLIES 'SEND THEM FORWARD.' YOUR GUIDE, HOWEVER, HAS FALLEN INTO A STUPOR.|КОБОЛЬД ПРИЗЫВАЕТ: "ЗДЕСЬ УЧАСТНИКИ, ВЕЛИКИЙ КОРОЛЬ". ВОЗРАСТ ГОЛОС ОТВЕТИТ: "ОТПРАВИТЬ ИХ ВПЕРЕД". ВАШ ГИД, ОДНАКО, ПОПАЛ В СТУПОР.

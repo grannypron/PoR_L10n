@@ -10,7 +10,7 @@
 213|YOU HAVE FOUND SOME RUINED HUTS.  WILL YOU INVESTIGATE?|ВЫ НАЙДИТЕ НЕКОТОРЫЕ РАЗРУШЕННЫЕ ЖИЛЫ. ВЫ БУДЕТЕ РАССЛЕДОВАТЬСЯ?
 214|INVESTIGATE|РАССЛЕДОВАТЬ
 215|LEAVE|ПОКИНУТЬ
-216| | 
+//216| | 
 217|THE |THE
 218| FALL FOR YOUR SPARKLING PERSONALITY AND WANDER AWAY WITHOUT A FIGHT.| ПАДИТЕСЬ ЗА СВОЮ ИСКЛЮЧИТЕЛЬНУЮ ЛИЧНОСТЬ И УХОДИТЕ БЕЗ БОЯ.
 219|NEAR YOU IS A POOL OF WATER.  SOMEONE OR THING IS SPLASHING IN THE POOL.  WILL YOU APPROACH THE POOL?|РЯДОМ С ВАМИ БАССЕЙН ВОДЫ. КТО-ТО ИЛИ В БАССЕЙНЕ БЛИЖАЕТ. ВЫ ПОДХОДИТЕ К БАССЕЙНУ?
@@ -56,7 +56,7 @@
 259|AN AWFUL STENCH IS COMING FROM THE WEST.|УЖАСНЫЙ ЗЕМЛЯ НАХОДИТСЯ С ЗАПАДА.
 260|YOU FIND A RECENTLY ABBANDONED CAMP.|ВЫ НАХОДИЛИ НЕДАВНО ЗАКРЫТЫЙ ЛАГЕРЬ.
 261|YOU HAVE INSULTED THE |ВЫ ПРИВЕДИЛИ
-262|.|.
+//262|.|.
 263|THE |THE
 264| ATTACK YOU IMMEDIATELY!| НЕМЕДЛЕННО НА ВАС!
 265|YOU HAVE STUMBLED UPON A LARGE NOMAD CAMP.  WILL YOU ENTER IT?|ВЫ НАКАЧИЛИСЬ НА БОЛЬШОЙ ЛАГЕРЬ Кочевников. ВЫ ВОЙДЕТЕ В ЭТО?

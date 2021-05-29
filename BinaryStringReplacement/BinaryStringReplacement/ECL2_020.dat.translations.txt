@@ -20,13 +20,13 @@
 178|YOU INTERRUPT SOME FEEDING KOBOLDS.|ВЫ ПРЕРЫВАЕТЕ НЕКОТОРЫЕ КОРМОВЫЕ КОБОЛДЫ.
 179|YOU WANDER IN THE OLD HEMP MARKET.  MONSTERS SCURRY AT YOUR APPROACH.  YOU OCCASSIONALLY CATCH SNATCHES OF CONVERSATIONS.|ВЫ БУДЕТЕ ПОСЕТИТЬ СТАРЫЙ РЫНОК КОНСОЛИ. МОНСТРЫ СНАЧАЮТСЯ НА ВАШЕМ ПОДХОДЕ. ВЫ СЛУЧАЙНО ловите обрывки разговоров.
 180|... THE GANG IS OPERATING FROM THE CATACOMBS BY THE WELL...|... БАНДА ДЕЙСТВУЕТ ИЗ КАТАКОМБ ПО ХОДУ ...
-181|SEATED AT A TABLE IS A RAGGED OLD WOMAN. SHE GREETS YOU. 'WELCOME. FOR THE PRICE OF A FEW COPPERS, I WILL TELL YOUR FORTUNE.' (WHAT DO YOU DO?)|ЗА СТОЛОМ СИДЕТ ОБРЯСНАЯ СТАРУШКА. ОНА ПРИВЕТСТВУЕТ ВАС. 'ДОБРО ПОЖАЛОВАТЬ. ЗА ЦЕНУ НЕСКОЛЬКО МЕДЕЙ Я РАССКАЖУ ВАШУ УДАЧУ ". (ЧТО ВЫ ДЕЛАЕТЕ?)
+181|SEATED AT A TABLE IS A RAGGED OLD WOMAN. SHE GREETS YOU. 'WELCOME. FOR THE PRICE OF A FEW COPPERS, I WILL TELL YOUR FORTUNE.' (WHAT DO YOU DO?)|ЗА СТОЛОМ СИДЕТ ОБРЯСНАЯ СТАРУШКА. ОНА ПРИВЕТСТВУЕТ ВАС. "ДОБРО ПОЖАЛОВАТЬ. ЗА ЦЕНУ НЕСКОЛЬКО МЕДЕЙ Я РАССКАЖУ ВАШУ УДАЧУ ". (ЧТО ВЫ ДЕЛАЕТЕ?)
 182|ATTACK|АТАКА
 183|LEAVE|ПОКИНУТЬ
 184|PAY|ПЛАТИТЬ
 185|YOU EASILY MURDER THE OLD WOMAN.  EXCEPT FOR A FEW COPPER PIECES YOU FIND NOTHING OF VALUE.  THE GODS HAVE NOTED YOUR ACTIONS.|ВЫ ЛЕГКО УБИВАЕТЕ СТАРУШКУ. ЗА ИСКЛЮЧЕНИЕМ НЕСКОЛЬКИХ ЧАСТЕЙ МЕДИ ВЫ НИЧЕГО НЕ НАЙДЕТЕ. БОГИ ЗАМЕТИЛИ ВАШИ ДЕЙСТВИЯ.
 186|A LARGE ORC RAISES HIS HEAD AND SNARLS, 'HOW DARE YOU BREAK INTO OUR HOME?'|БОЛЬШОЙ ОРК ПОДНИМАЕТ СВОЮ ГОЛОВУ И СНАРЛ: "КАК ТЫ СМЕЛ ВРАЩАТЬСЯ В НАШ ДОМ?"
-187|SOME HOBGOBLINS ARE ARGUING OVER A PILE OF GOLD.  'THIEVES!' THEY SCREAM WHEN THEY SEE YOU.|НЕКОТОРЫЕ ХОБГОБЛИНЫ СПОРЯТ ЗА КУСОК ЗОЛОТА. 'ВОРЫ!' ОНИ КРИЧАТ, КОГДА ВИДЯТ ВАС.
+187|SOME HOBGOBLINS ARE ARGUING OVER A PILE OF GOLD.  "THIEVES!" THEY SCREAM WHEN THEY SEE YOU.|НЕКОТОРЫЕ ХОБГОБЛИНЫ СПОРЯТ ЗА КУСОК ЗОЛОТА. "ВОРЫ!" ОНИ КРИЧАТ, КОГДА ВИДЯТ ВАС.
 188|YOU HAVE ENTERED A SMALL STORAGE ROOM.|ВЫ ВХОДИЛИ В МАЛЕНЬКУЮ КЛАДОВУЮ.
 189|YOU HAVE STUMBLED INTO A TREASURE ROOM.|ВЫ ПРОПАЛИ В КОМНАТУ СОКРОВИЩ.
 190|GUARDS RUN TO INTERCEPT YOU.|ОХРАННИКИ Бегут, чтобы вас перехватить.
@@ -50,7 +50,7 @@
 208|YOU SPY A GROUP OF SEEDY-LOOKING |ВЫ ШПИНИТЕ ГРУППУ СИДЕНЬКИХ
 209|YOU HAVE SURPRISED A PARTY OF |ВЫ УДИВИЛИ ВЕЧЕРИНКУ
 210|SEVERAL ORCS ARE ARGUING OVER SOME PAPERS.|НЕСКОЛЬКО ОРКОВ СПОРЯТ НАД НЕКОТОРЫМИ ДОКУМЕНТАМИ.
-211|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+211|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
 212|'YOU HAVE DONE WELL. GIVE ME THE POTION AND YOU WILL BE REWARDED.' (WHAT DO YOU DO?)|ВЫ ХОРОШО СДЕЛАЛИ. ДАЙТЕ МНЕ ЗЕЛЬЕ, И ВЫ БУДЕТЕ НАГРАЖДЕНЫ ". (ЧТО ВЫ ДЕЛАЕТЕ?)
 213|GIVE|ДАЙТЕ
 214|ASK FOR MORE MONEY|ЗАПРОСИТЕ БОЛЬШЕ ДЕНЕГ

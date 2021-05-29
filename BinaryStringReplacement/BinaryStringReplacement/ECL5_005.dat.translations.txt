@@ -1,9 +1,9 @@
 ﻿216|YOU SEE GIANT SNAKES.|ВЫ ВИДЕТЕ ГИГАНТСКИХ ЗМЕЕЙ.
 217|YOU SEE A HARMLESS, MIDDLE AGED MAN.|ВЫ ВИДИТЕ БЕЗОПАСНОГО МУЖЧИНЫ СРЕДНЕГО ЛЕТА.
-218|'WAIT! I WAS JUST A MAGE SEARCHING FOR KNOWLEDGE WHEN TYRANTHRAXUS CAPTURED ME. I'VE BEEN FORCED TO WORK FOR HIM. SPARE ME AND I WILL LEAVE, NEVER TO RETURN!'|'ЖДАТЬ! Я БЫЛ ПРОСТО МАГОМ, ИСКУШИМ ЗНАНИЯ, КОГДА ТИРАНТРАКС ЗАХВАТИЛ МЕНЯ. МЕНЯ ПРИНУЖДАЛИ РАБОТАТЬ НА НЕГО. ПОБЕЖДАЙТЕ МЕНЯ, И Я УЕЗЖАЮ, НИКОГДА НЕ ВОЗВРАЩАЮСЬ! '
+218|'WAIT! I WAS JUST A MAGE SEARCHING FOR KNOWLEDGE WHEN TYRANTHRAXUS CAPTURED ME. I'VE BEEN FORCED TO WORK FOR HIM. SPARE ME AND I WILL LEAVE, NEVER TO RETURN!'|"ЖДАТЬ! Я БЫЛ ПРОСТО МАГОМ, ИСКУШИМ ЗНАНИЯ, КОГДА ТИРАНТРАКС ЗАХВАТИЛ МЕНЯ. МЕНЯ ПРИНУЖДАЛИ РАБОТАТЬ НА НЕГО. ПОБЕЖДАЙТЕ МЕНЯ, И Я УЕЗЖАЮ, НИКОГДА НЕ ВОЗВРАЩАЮСЬ! "
 219|LET HIM GO|ОТПУСТИ ЕГО
 220|ATTACK HIM|АТАКА НА НЕГО
-221|'WAIT! PLEASE! I'LL GIVE YOU ALL MY NOTES! HERE THEY ARE!'|'ЖДАТЬ! ПОЖАЛУЙСТА! Я ОТДАЮ ВАМ ВСЕ СВОИ ЗАМЕТКИ! ВОТ ОНИ!'
+221|'WAIT! PLEASE! I'LL GIVE YOU ALL MY NOTES! HERE THEY ARE!'|"ЖДАТЬ! ПОЖАЛУЙСТА! Я ОТДАЮ ВАМ ВСЕ СВОИ ЗАМЕТКИ! ВОТ ОНИ!"
 222|LET HIM GO|ОТПУСТИ ЕГО
 223|ATTACK HIM|АТАКА НА НЕГО
 224|THIS TOWER IS OCCUPIED BY FOUR GIANTS. AS YOU COME IN THEY ARE IN THE MIDST OF AN ARGUMENT. THE BIGGEST ONE TURNS TO YOU AND SAYS, 'THEM LOOK SMART. THEM TELL US.'|В ЭТОЙ БАШНЕ ЧЕТЫРЕ ГИГАНТА. КАК ВЫ ПРИХОДИТЕ, ОНИ НАХОДИТСЯ В РАЗГОВОРНОМ АРГУМЕНТЕ. САМЫЙ БОЛЬШОЙ ОБРАЩАЕТСЯ К ВАМ И ГОВОРИТ: "ОНИ ВЫГЛЯДИТ УМНЫМ. ОНИ РАССКАЗЫВАЮТ НАМ ".
@@ -15,8 +15,8 @@
 230|AS YOU QUICKLY LEAVE THE ROOM, YOU HEAR ONE OF THE GIANTS SAY, 'AH, US RIGHT. THEM JUST AFRAID TO SAY 'CAUSE KNOW YOU SMASH 'EM.' THE ARGUMENT RESUMES.|КАК ВЫ БЫСТРО ВЫХОДИТЕ ИЗ КОМНАТЫ, ВЫ СЛЫШАЕТЕ, КАК ОДИН ИЗ ГИГАНТОВ ГОВОРИТ: "Ага, мы ПРАВА". ОНИ ПРОСТО БОЯТСЯ СКАЗАТЬ: "ЗНАЮ, ЧТО ВЫ РАЗБИЛИТЕ ЭМ". АРГУМЕНТ РЕЗЮМЕ.
 231|THREE GIANTS STEP UP TO YOU.|ТРИ ГИГАНТА ПОДХОДЯТ К ВАМ.
 232|YOU ENTER A CHAMBER WHICH IS LAVISHLY APPOINTED WITH HANGINGS, CARPETS AND FURNITURE. SITTING ON A THRONE IS A POWERFUL LOOKING MAN CLAD IN BARBARIC SPLENDOR.|ВЫ ВОЙДИТЕ В КАМЕРУ, КОТОРАЯ НАЗНАЧЕНА ВЕСЬМАМИ, КОВРАМИ И МЕБЕЛЬЮ. СИДЕНИЕ НА ТРОНЕ - МОЩНЫЙ ВИД МУЖЧИНЫ, ЗАКРЫТЫЙ В ВАРВАРСКОМ БЛЕСКАНИИ.
-#NAME?
-234|HE SEEMS TO COLLAPSE. 'ALL RIGHT. I'M NOT TYRANTHRAXUS. HE JUST HIRED ME TO IMPERSONATE HIM. IT'S NOT A BAD LIFE, BUT, HEY! I CAN TELL WHICH WAY THE WIND'S BLOWING.'|ОН ВИДЕТСЯ РАЗРУШЕНИЕМ. 'ВСЕ В ПОРЯДКЕ. Я НЕ ТИРАНТРАКС. Он просто нанял меня, чтобы я изобразил его. ЭТО НЕ ПЛОХАЯ ЖИЗНЬ, НО, ЭЙ! Я МОГУ СКАЗАТЬ, КАК ДУЕТ ВЕТЕР.
+233|'WHAT IS YOUR BUSINESS WITH TYRANTHRAXUS, LORD OF PHLAN?'|ЧТО ВАШ ДЕЛ С ТИРАНТРАКСОМ, ЛОРД ФЛАНА?
+234|HE SEEMS TO COLLAPSE. 'ALL RIGHT. I'M NOT TYRANTHRAXUS. HE JUST HIRED ME TO IMPERSONATE HIM. IT'S NOT A BAD LIFE, BUT, HEY! I CAN TELL WHICH WAY THE WIND'S BLOWING.'|ОН ВИДЕТСЯ РАЗРУШЕНИЕМ. "ВСЕ В ПОРЯДКЕ. Я НЕ ТИРАНТРАКС. Он просто нанял меня, чтобы я изобразил его. ЭТО НЕ ПЛОХАЯ ЖИЗНЬ, НО, ЭЙ! Я МОГУ СКАЗАТЬ, КАК ДУЕТ ВЕТЕР.
 235|'JUST LET ME GO, OKAY?|"ПРОСТО ОТПУСТИТЕ МЕНЯ, ОК?
 236|HE RUNS OUT OF THE HALL. THERE IS TREASURE ALL ABOUT. |ОН ВЫБЕГАЕТ ИЗ ЗАЛА. ВСЕ СОКРОВИЩА.
 237|YOU HAVE ENTERED THE REMAINS OF A TOWER. |ВЫ ВОЙТИ В ОСТАТКИ БАШНЯ.
@@ -29,48 +29,48 @@
 244|AN ALARM IS SOUNDING.|ЗВУКАЕТ СИГНАЛ ТРЕВОГИ.
 245|HE SCRAMBLES OUT THE DOOR.|ОН ВЫБИРАЕТСЯ В ДВЕРЬ.
 246|HE QUICKLY LEAVES. YOU ARE LEFT WITH THE NOTES OF AL-HYAM DHAZID, WHICH TELL QUITE A LOT ABOUT THE POOL OF RADIANCE. YOU COPY THEM INTO YOUR JOURNAL AS ENTRY 30.|ОН БЫСТРО УХОДИТ. ВЫ ОСТАЛИСЬ С ЗАПИСКАМИ АЛЬ-ХЯМА ДАЗИДА, КОТОРЫЕ НЕМНОГО РАССКАЗЫВАЮТ О БАССЕЙНЕ СИЯНИЯ. ВЫ КОПИРУЕТЕ ИХ В СВОЙ ЖУРНАЛ ПРИ ЗАПИСИ 30.
-247|YOU SEE FOUR GIANTS. 'HEY, THEM THE GUYS WHAT STEAL FROM LORD BANE. GET 'EM!'|ВЫ ВИДЕТЕ ЧЕТЫРЕ ГИГАНТА. "Эй, они, ребята, что воруют у лорда Бэйна. ХВАТАЙ ИХ!'
+247|YOU SEE FOUR GIANTS. 'HEY, THEM THE GUYS WHAT STEAL FROM LORD BANE. GET 'EM!'|ВЫ ВИДЕТЕ ЧЕТЫРЕ ГИГАНТА. "Эй, они, ребята, что воруют у лорда Бэйна. ХВАТАЙ ИХ!"
 248|YOU SEE FOUR GIANTS. 'THEM THE NOT BELONG HERE! GET THEM!|ВЫ ВИДЕТЕ ЧЕТЫРЕ ГИГАНТА. "ИХ НЕ ЗДЕСЬ! ВЗЯТЬ ИХ!
 249|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
-250| | 
+//250| | 
 251|AS THE GIANT TURNS IN TRIUMPH TO HIS COMPANIONS, THE OTHERS PICK UP THEIR CLUBS. 'WHAT THEY KNOW? WE KNOCK DUMB LITTLE MEN'S BRAINS OUT!'|КАК ГИГАНТ ОБРАЩАЕТСЯ К СВОИМ СОТРУДНИКАМ, ДРУГИЕ СВОИ КЛУБЫ. "ЧТО ОНИ ЗНАЮТ? МЫ ВЫБИРАЕМ МОЗГИ МАЛЕНЬКИМ МУЖЧИНАМ!
-252|'YOU NO HURT THEM. THEM MY BUDDIES!' THEY ARGUE FOR A LITTLE BIT AND THEN ONE SAYS, 'HEY, WHAT WE FIGHTING FOR? IT'S ALL FAULT OF THEM!' 'YEH!' THEY TURN AND ATTACK YOU.|"ТЫ НЕ ОБЕДИ ИМ. ИХ МОИ ПРИЯТНИКИ! ' ОНИ СПОРЯТ О НЕМНОГО, И ТОГДА ГОВОРИТ: "ЭЙ, ЗА ЧЕМ МЫ БОРОЕМСЯ? ВСЕ ИХ ВИНА! "Ага!" ОНИ ПОВОРАЧИВАЮТСЯ И НАПАДАЮТ НА ВАС.
-253|AS THE OTHER GIANTS BURST INTO HOWLS OF LAUGHTER THE ONE WHO TALKED TO YOU TURNS RED AND SAYS, 'YOU LIE! YOU LIE TO MAKE ME FOOL! I SMASH YOU!'|ПОКА ДРУГИЕ ГИГАНТЫ ВРЫВАЛИСЬ СМЕХОМ, ТО, КТО ГОВОРИЛ С ВАМИ, ПОЛУЧАЕТСЯ КРАСНЫМ И ГОВОРИТ: "ТЫ ЛЖЕШЬ! ВЫ ЛЖИТЕ, ЧТОБЫ ДУРАТЬ МЕНЯ! Я РАЗБИВАЮ ТЕБЯ! '
+252|'YOU NO HURT THEM. THEM MY BUDDIES!' THEY ARGUE FOR A LITTLE BIT AND THEN ONE SAYS, 'HEY, WHAT WE FIGHTING FOR? IT'S ALL FAULT OF THEM!' 'YEH!' THEY TURN AND ATTACK YOU.|"ТЫ НЕ ОБЕДИ ИМ. ИХ МОИ ПРИЯТНИКИ! " ОНИ СПОРЯТ О НЕМНОГО, И ТОГДА ГОВОРИТ: "ЭЙ, ЗА ЧЕМ МЫ БОРОЕМСЯ? ВСЕ ИХ ВИНА! "Ага!" ОНИ ПОВОРАЧИВАЮТСЯ И НАПАДАЮТ НА ВАС.
+253|AS THE OTHER GIANTS BURST INTO HOWLS OF LAUGHTER THE ONE WHO TALKED TO YOU TURNS RED AND SAYS, 'YOU LIE! YOU LIE TO MAKE ME FOOL! I SMASH YOU!'|ПОКА ДРУГИЕ ГИГАНТЫ ВРЫВАЛИСЬ СМЕХОМ, ТО, КТО ГОВОРИЛ С ВАМИ, ПОЛУЧАЕТСЯ КРАСНЫМ И ГОВОРИТ: "ТЫ ЛЖЕШЬ! ВЫ ЛЖИТЕ, ЧТОБЫ ДУРАТЬ МЕНЯ! Я РАЗБИВАЮ ТЕБЯ! "
 254|BEFORE HE CAN ATTACK THE OTHERS GRAB HIM AND SAY, 'YOU BETTER GO LITTLE MEN.|ПРЕЖДЕ ЧЕМ ОН МОЖЕТ НАПАДАТЬ НА ДРУГИХ, ЗАХВАТАЙТЕ ЕГО И СКАЗЫВАЙТЕ: "ВАМ ЛУЧШЕ ИДТИ МАЛЕНЬКИЕ МУЖЧИНЫ.
 255|STAY|ОСТАТЬСЯ
 256|LEAVE|ПОКИНУТЬ
 257|AS THE GIANT TURNS IN TRIUMPH TO HIS COMPANIONS, THE OTHERS PICK UP THEIR CLUBS. 'WHAT THEY KNOW? WE KNOCK DUMB LITTLE MEN'S BRAINS OUT!'|КАК ГИГАНТ ОБРАЩАЕТСЯ К СВОИМ СОТРУДНИКАМ, ДРУГИЕ СВОИ КЛУБЫ. "ЧТО ОНИ ЗНАЮТ? МЫ ВЫБИРАЕМ МОЗГИ МАЛЕНЬКИМ МУЖЧИНАМ!
-258|'YOU NO HURT THEM. THEM MY BUDDIES!' THEY ARGUE FOR A LITTLE BIT AND THEN ONE SAYS, 'HEY, WHAT WE FIGHTING FOR? IT'S ALL FAULT OF THEM!' 'YEH!' THEY TURN AND ATTACK YOU.|"ТЫ НЕ ОБЕДИ ИМ. ИХ МОИ ПРИЯТНИКИ! ' ОНИ СПОРЯТ О НЕМНОГО, И ТОГДА ГОВОРИТ: "ЭЙ, ЗА ЧЕМ МЫ БОРОЕМСЯ? ВСЕ ИХ ВИНА! "Ага!" ОНИ ПОВОРАЧИВАЮТСЯ И НАПАДАЮТ НА ВАС.
+258|'YOU NO HURT THEM. THEM MY BUDDIES!' THEY ARGUE FOR A LITTLE BIT AND THEN ONE SAYS, 'HEY, WHAT WE FIGHTING FOR? IT'S ALL FAULT OF THEM!' 'YEH!' THEY TURN AND ATTACK YOU.|"ТЫ НЕ ОБЕДИ ИМ. ИХ МОИ ПРИЯТНИКИ! " ОНИ СПОРЯТ О НЕМНОГО, И ТОГДА ГОВОРИТ: "ЭЙ, ЗА ЧЕМ МЫ БОРОЕМСЯ? ВСЕ ИХ ВИНА! "Ага!" ОНИ ПОВОРАЧИВАЮТСЯ И НАПАДАЮТ НА ВАС.
 259|YOU SURPRISE THREE GIANTS!|ВЫ УДИВИТЕ ТРИ ГИГАНТА!
 260|THEY HOLD THEIR WEAPONS READY.|ОНИ ДЕРЖАТ СВОЕ ОРУЖИЕ НА ГОТОВО.
-261|'ALL RIGHT, THEN. WHAT TODAY'S PASSWORD?'|'ТОГДА ВСЕ В ПОРЯДКЕ. КАКОЙ СЕГОДНЯ ПАРОЛЬ?
-262|'WRONG! GUESS AGAIN!|'НЕПРАВИЛЬНЫЙ! УГАДАЙТЕ СНОВА!
+261|'ALL RIGHT, THEN. WHAT TODAY'S PASSWORD?'|"ТОГДА ВСЕ В ПОРЯДКЕ. КАКОЙ СЕГОДНЯ ПАРОЛЬ?
+262|'WRONG! GUESS AGAIN!|"НЕПРАВИЛЬНЫЙ! УГАДАЙТЕ СНОВА!
 263|'ARROGANT KNAVE FEEL THE POWER OF TYRANTHRAXUS!'|"ГОРДЫЙ КНЕЙ ПОЧУВСТВУЙ СИЛУ ТИРАНТРАКСА!"
 264|'BOY, THIS CROWN IS HEAVY. OH, WELL IT'S A LIVING. WHAT DOES TYRANTHRAXUS WAN... OOPS! GET THEM!|"МАЛЬЧИК, ЭТА КОРОНА ТЯЖЕЛАЯ. ОН, НУ ЭТО ЖИЗНЬ. ЧТО ТИРАНТРАКСУС ХОЧЕТ ... УПА! ВЗЯТЬ ИХ!
 265|'BEGONE OR FEEL THE WRATH AND POWER OF TYRANTHRAXUS!' DO YOU LEAVE?|"ПРИСОЕДИНЯЙТЕСЬ ИЛИ ПОЧУВСТВУЙТЕ ГНЕВ И СИЛУ ТИРАНТРАКСА!" ТЫ УХОДИШЬ?
 266|THEN FEEL MY WRATH!|ТОГДА ПОЧУВСТВУЙТЕ МОЙ ГНЕВ!
 267|YES|ДА
 268|NO|НЕТ
-269| | 
+//269| | 
 270|DO YOU TAKE IT?|ВЫ ПРИНИМАЕТЕ?
 271|YES|ДА
 272|NO|НЕТ
-273| | 
+//273| | 
 274|A DEEP VOICE CALLS DOWN, 'WHAT IS THE PASSWORD?'|ГЛУБОКИЙ ГОЛОС ПРИЗЫВАЕТ: "ЧТО ТАКОЕ ПАРОЛЬ?"
 275|GIVE THE PASSWORD|ДАЙТЕ ПАРОЛЬ
 276|FORCE THE GATE OPEN|ПРИНУДИТЕЛЬНО ОТКРЫТЬ ВОРОТА
 277|YOU HEAR A DEEP VOICE, 'HEY, THAT'S THEM GUYS WHO TRIED TO BUST IN!'|ВЫ СЛЫШАЕТЕ ГЛУБОКИЙ ГОЛОС: "ЭЙ, ЭТО ИХ ПАРНИ, КОТОРЫЕ ПЫТАЛИСЬ ВРАЗИТЬСЯ!"
 278|YOU GO UPSTAIRS.|ВЫ ИДЕТЕ НА ПОДНИМКУ.
 279|AN ALARM STARTS RINGING!|ТРЕВОГА НАЧИНАЕТ ЗВОНИТЬ!
-280|'OH WELL. CAN'T LET HERDREK HAVE ALL FUN.' THEY PICK UP THEIR CLUBS AND ATTACK.|'НУ ЧТО Ж. НЕЛЬЗЯ ПОЗВОЛЯТЬ ХЕРДРЕКУ ВСЁ ВЕСЕЛО. ОНИ ПОДБИРАЮТ СВОИ КЛУБЫ И АТАКУЮТ.
-281|'OH, YEAH? WHO SEND YOU?'|'АХ, ДА? КТО ВАС ПОСЛАТЬ?
+280|'OH WELL. CAN'T LET HERDREK HAVE ALL FUN.' THEY PICK UP THEIR CLUBS AND ATTACK.|"НУ ЧТО Ж. НЕЛЬЗЯ ПОЗВОЛЯТЬ ХЕРДРЕКУ ВСЁ ВЕСЕЛО. ОНИ ПОДБИРАЮТ СВОИ КЛУБЫ И АТАКУЮТ.
+281|'OH, YEAH? WHO SEND YOU?'|"АХ, ДА? КТО ВАС ПОСЛАТЬ?
 282|TYRANTHRAXUS|ТИРАНТРАКС
-283|'OH, WE SORRY! JUST DOING JOB! PLEASE NO TELL? WE LET YOU... WE STAY AT POST. MAKE SURE NO ONE GO BY!'|'О, МЫ ИЗВИНИТЕ! ПРОСТО ДЕЛАТЬ РАБОТУ! ПОЖАЛУЙСТА, НЕ СКАЗАТЬ? МЫ ПОЗВОЛЯЕМ ВАМ ... МЫ ОСТАВЛЯЕМСЯ НА СТОЛЕ УБЕДИТЕСЬ, ЧТО НИКТО НЕ ПРОЙДЕТ! '
-284|'WRONG! THERE IS NO PASSWORD! HA! HA! HA!' THE GIANTS ATTACK.|'НЕПРАВИЛЬНЫЙ! НЕТ ПАРОЛЯ! Ха! Ха! ХА! ' АТАКА ГИГАНТОВ.
+283|'OH, WE SORRY! JUST DOING JOB! PLEASE NO TELL? WE LET YOU... WE STAY AT POST. MAKE SURE NO ONE GO BY!'|"О, МЫ ИЗВИНИТЕ! ПРОСТО ДЕЛАТЬ РАБОТУ! ПОЖАЛУЙСТА, НЕ СКАЗАТЬ? МЫ ПОЗВОЛЯЕМ ВАМ ... МЫ ОСТАВЛЯЕМСЯ НА СТОЛЕ УБЕДИТЕСЬ, ЧТО НИКТО НЕ ПРОЙДЕТ! "
+284|'WRONG! THERE IS NO PASSWORD! HA! HA! HA!' THE GIANTS ATTACK.|"НЕПРАВИЛЬНЫЙ! НЕТ ПАРОЛЯ! Ха! Ха! ХА! " АТАКА ГИГАНТОВ.
 285|YOU HEAR A DEEP VOICE, 'THIEF! YOU STOLE FROM LORD BANE!'|ВЫ СЛЫШАЕТЕ ГЛУБОКИЙ ГОЛОС: "ВОР! ТЫ УКОРАЛ У ЛОРДА БЕЙНА!
 286|A VOLLEY OF BOULDERS ARE THROWN AT YOU...|В ВАС БРОСЯТСЯ БОУЛДЕРЫ ...
 287|WHAT PASSWORD DO YOU GIVE? |КАКОЙ ПАРОЛЬ ВЫ ДАЕТЕ?
 288|RHODIA|РОДИЯ
-289|'ALL RIGHT, THEN. PASS!' AND WITH THAT THE GATES SWING OPEN AND YOU PASS THROUGH THE GATE.|'ТОГДА ВСЕ В ПОРЯДКЕ. ПРОХОДИТЬ!' И С ЭТИМ ВОРОТА ОТКРЫВАЮТСЯ, И ВЫ ПРОХОДИТЕ ЧЕРЕЗ ВОРОТА.
+289|'ALL RIGHT, THEN. PASS!' AND WITH THAT THE GATES SWING OPEN AND YOU PASS THROUGH THE GATE.|"ТОГДА ВСЕ В ПОРЯДКЕ. ПРОХОДИТЬ!" И С ЭТИМ ВОРОТА ОТКРЫВАЮТСЯ, И ВЫ ПРОХОДИТЕ ЧЕРЕЗ ВОРОТА.
 290|'WHO HIM? OH WELL HE NO CAN HELP YOU NOW!'|"КТО ОН? ОН НУ ОН НЕ МОЖЕТ ВАМ ПОМОЧЬ СЕЙЧАС!
 291|'HAH! HAH! YOU'RE DUMB! THAT'S NOT THE PASSWORD!'|АА! Ха! ТЫ ТУПОЙ! ЭТО НЕ ПАРОЛЬ!

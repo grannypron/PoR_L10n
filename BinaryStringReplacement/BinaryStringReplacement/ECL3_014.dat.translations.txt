@@ -40,7 +40,7 @@
 263|SOUTH|ЮГ
 264|EAST|ВОСТОК
 265|DON'T FOLLOW|НЕ СЛЕДУЙТЕ
-266|YOU HAVE CAUGHT ONE OF THE THIEVES.  THE THIEF BEGS FOR MERCY AND SAYS, 'I AM THE GUILD MASTER.  IF YOU RELEASE ME, MY THIEVES WILL NO LONGER ATTACK YOU!'  WHAT WILL YOU DO?|ВЫ ПОЙТИЛИ ОДНОГО ИЗ ВОРОВ. ВОР МОЛЕТСЯ О МИЛОСЕРДИИ И ГОВОРИТ: "Я - МАСТЕР ГИЛЬДИИ. ЕСЛИ ВЫ ОСВОБОДИТЕ МЕНЯ, МОИ ВОРЫ БОЛЬШЕ НЕ НАПАДАЮТ НА ВАС! ' ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
+266|YOU HAVE CAUGHT ONE OF THE THIEVES.  THE THIEF BEGS FOR MERCY AND SAYS, 'I AM THE GUILD MASTER.  IF YOU RELEASE ME, MY THIEVES WILL NO LONGER ATTACK YOU!'  WHAT WILL YOU DO?|ВЫ ПОЙТИЛИ ОДНОГО ИЗ ВОРОВ. ВОР МОЛЕТСЯ О МИЛОСЕРДИИ И ГОВОРИТ: "Я - МАСТЕР ГИЛЬДИИ. ЕСЛИ ВЫ ОСВОБОДИТЕ МЕНЯ, МОИ ВОРЫ БОЛЬШЕ НЕ НАПАДАЮТ НА ВАС! " ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
 267|ATTACK|АТАКА
 268|RELEASE|РЕЛИЗ
 269|AFTER YOU RELEASE HIM THE THIEF SLOWLY WALKS TOWARD THE FAR DOOR THANKING YOU ALL THE WAY.  PARTWAY THROUGH THE DOOR HE SAYS, 'SUCKERS', THEN SPRINTS AWAY.|ПОСЛЕ ТОГО, КАК ВЫ ОСВОБОДИТЕ ЕГО, ВОР МЕДЛЕННО ПРОХОДИТ К ДАЛЬНЕЙ ДВЕРИ, ВСЕМ СПАСИБО ВАМ. ЧЕРЕЗ ДВЕРЬ ОН СКАЗЫВАЕТ: "ОТСАДЫВАЕТСЯ", А ПОТОМ УБИВАЕТСЯ.
@@ -78,7 +78,7 @@
 301|YOU AVOID THE TRAP BY NOT OPENING THE CASKET.|ВЫ ИЗБЕГАЕТЕ ЛОВУШКИ, НЕ ОТКРЫВАЯ КОРЗИНУ.
 302|YOU LEAVE THE WEAPONS ALONE.|ВЫ ОСТАВЛЯЕТЕ ОРУЖИЕ В СЛУЧАЕ.
 303|AS YOU NEAR THE PILE OF WEAPONS AN AWFUL SMELLING CLOUD OF GAS FORMS.  THIS FOUL SMELLING GAS STUNS THE PARTY ALLOWING A GROUP OF THIEVES TO JUMP OUT OF THE SHADOWS AND ATTACK AT WILL!|КАК ВЫ ВБЛИЗИ ОРУЖИЯ, УЖАСНО пахнущее облако газовых форм. ЭТО ОШИБНЫЙ ГАЗ ОШЕЛЫВАЕТ СТОРОНУ, ПОЗВОЛЯЯ ГРУППЕ ВОРОВ ВЫКЛЮЧАТЬСЯ ИЗ ТЕНИ И НАПАДАТЬ ПО ЖЕЛАНИЮ!
-304|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+304|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
 305|THIS CABINET IS EMPTY.|ЭТОТ ШКАФ ПУСТО.
 306|AS YOU TRY TO DEACTIVATE THE TRAP YOU MANAGE TO SET IT OFF.  A LARGE NEEDLE SHOOTS OUT OF A HIDDEN COMPARTMENT HITTING A PARTY MEMBER.|КАК ВЫ ПЫТАЕТЕСЬ ОТКЛЮЧИТЬ ЛОВУШКУ, ВЫ УДАВАЕТЕ ЕЕ ОТКЛЮЧИТЬ. БОЛЬШАЯ ИГЛА ВЫБИВАЕТСЯ ИЗ СКРЫТОГО ОТДЕЛЕНИЯ, УДАРАЯ ЧЛЕНА ПАРТИИ.
 307|YOU AVOID THE TRAP BY NOT OPENNING THE CABINET.|ВЫ ИЗБЕГАЕТЕ ЛОВУШКИ, НЕ ОТКРЫВАЯ ШКАФ.
