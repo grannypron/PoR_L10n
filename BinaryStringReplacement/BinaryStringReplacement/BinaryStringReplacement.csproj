@@ -117,13 +117,18 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ECL2_000.dat.translations.txt" />
-    <Content Include="ECL1_000.dat.translations.txt" />
+    <Content Include="ECL1_024.dat.translations.txt" />
+    <Content Include="ECL2_020.dat.translations.txt" />
+    <Content Include="ECL2_015.dat.translations.txt" />
+    <Content Include="ECL2_009.dat.translations.txt" />
+    <Content Include="ECL1_018.dat.translations.txt" />
     <Content Include="ECL3_000.dat.translations - Orig.txt" />
     <Content Include="ECL3_000.dat.translations.txt" />
     <Content Include="ECL3_014.dat.translations.txt" />
     <Content Include="ECL3_011.dat.translations.txt" />
     <Content Include="ECL3_008.dat.translations.txt" />
+    <Content Include="ECL4_000.dat.translations - Copy %282%29.txt" />
+    <Content Include="ECL4_000.dat.translations - Copy.txt" />
     <Content Include="ECL8_000.dat.translations.txt" />
     <Content Include="ECL7_000.dat.translations.txt" />
     <Content Include="ECL6_000.dat.translations.txt" />
