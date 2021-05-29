@@ -72,7 +72,7 @@
 72|AMONGST A NEST OF LOGS YOU FIND SOME TREASURE.|СРЕДИ Бревен ВЫ НАХОДИТЕ НЕКОТОРЫЕ СОКРОВИЩА.
 73|STREWN ACROSS THE FLOOR IS THE ACCUMULATED WEALTH OF THE KOBOLD COMMUNITY.|ПОСЕЩЕНИЕ ЭТАЖА - НАКОПЛЕННОЕ БОГАТСТВО СООБЩЕСТВА Кобольдов.
 74|THE PRINCESS SAYS,'I SHALL GO MY OWN WAY NOW, BUT YOU WILL ALWAYS BE REMEMBERED. GOOD HUNTING.'|ПРИНЦЕССА ГОВОРЯТ: "Я ПОЙДУ СВОЕЙ ПУТЬЮ СЕЙЧАС, НО ВАС ВСЕГДА БУДУТ ПОМНИТЬ. ХОРОШЕЙ ОХОТЫ.
-75|PRESS <RETURN> OR BUTTON TO CONTINUE.|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ.
+75|PRESS <RETURN> OR BUTTON TO CONTINUE.|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ.
 76|THE KOBOLDS CHASE FOR A WHILE, BUT YOU ESCAPE.|КОБОЛЬДЫ НА КОРОТКОЕ, НО ВЫ УБЕЖАЕТЕ.
 77|YOU CROSS OVER A PIT.|ВЫ ПЕРЕСЕЧАЕТЕ ЯМУ.
 78| YOU RECORD IT IN YOUR JOURNAL UNDER ENTRY | ВЫ ЗАПИСЫВАЕТЕ ЭТО В ЖУРНАЛЕ ПОД ЗАПИСЬЮ

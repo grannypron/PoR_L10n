@@ -39,7 +39,7 @@
 167|A WARNING TO AN AGENT ABOUT THE DANGERS IN THE MOUNTAINS TO THE NORTHWEST. (ENTRY 56)|ПРЕДУПРЕЖДЕНИЕ АГЕНТУ ОБ ОПАСНОСТИ В ГОРАХ НА СЕВЕРО-ЗАПАДЕ. (ЗАПИСЬ 56)
 168|A NOTE TO A TRAPPER ABOUT KOBOLDS AND HOBGOBLINS. (ENTRY 40)|ЗАПИСКА К ЛОВУШКЕ О КОБОЛЬДАХ И ХОБГОБЛИНАХ. (ЗАПИСЬ 40)
 169|A SECRET DOOR IS FOUND |НАЙДЕНА ТАЙНАЯ ДВЕРЬ
-170|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+170|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ ВОЗВРАТ, ЧТОБЫ ПРОДОЛЖИТЬ
 //171| | 
 172|GO BACK|ВЕРНИТЕСЬ НАЗАД
 173|MOVE ON|ДВИГАТЬСЯ ДАЛЬШЕ
@@ -51,7 +51,7 @@
 179|THROW A ROCK|БРОСИТЬ КАМЕНЬ
 //180| | 
 181|AS YOU MOVE THROUGH THE ROOM THERE IS A FLASH AND YOU SUDDENLY FIND YOURSELF ELSEWHERE.|КОГДА ВЫ ПРОХОДИТЕ ПО КОМНАТЕ, ЕСТЬ ВСПЫШКА, И ВЫ ВНЕЗАПНО НАЙДЕТЕ СЕБЯ В другом месте.
-182|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+182|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ ВОЗВРАТ, ЧТОБЫ ПРОДОЛЖИТЬ
 //183| | 
 184|'MUTILATING SCUM! WE WILL DIE BEFORE WE LET YOU TWIST US AS YOU HAVE OUR OTHER PEOPLE! BUT YOU WILL DIE FIRST!'|"МУТИЛИРУЮЩАЯ ПАПА! МЫ УМЕРЕМ, ПРЕЖДЕ ЧЕМ МЫ ПОЗВОЛЯЕМ ВАМ КРУТИТЬ НАС, ТАК КАК ВАС ДРУГИЕ НАШИ! НО ВЫ УМЕРЕТЕ ПЕРВЫМ! "
 185|YOU RUN FOR THE EXIT. AS YOU SLAM THE DOOR BEHIND YOU, YOU HEAR AN ENORMOUS EXPLOSION. THE EQUIPMENT IS NOW CERTAINLY DESTROYED.|ВЫ БЕГАЕТЕ НА ВЫХОД. ЗАХЛОПЫВАЯ ДВЕРЬ СЗАДИ, ВЫ СЛЫШАЕТЕ ОГРОМНЫЙ ВЗРЫВ. ОБОРУДОВАНИЕ ТЕПЕРЬ ОБЯЗАТЕЛЬНО УНИЧТОЖЕНО.

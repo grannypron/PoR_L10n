@@ -31,7 +31,7 @@
 246|HE QUICKLY LEAVES. YOU ARE LEFT WITH THE NOTES OF AL-HYAM DHAZID, WHICH TELL QUITE A LOT ABOUT THE POOL OF RADIANCE. YOU COPY THEM INTO YOUR JOURNAL AS ENTRY 30.|ОН БЫСТРО УХОДИТ. ВЫ ОСТАЛИСЬ С ЗАПИСКАМИ АЛЬ-ХЯМА ДАЗИДА, КОТОРЫЕ НЕМНОГО РАССКАЗЫВАЮТ О БАССЕЙНЕ СИЯНИЯ. ВЫ КОПИРУЕТЕ ИХ В СВОЙ ЖУРНАЛ ПРИ ЗАПИСИ 30.
 247|YOU SEE FOUR GIANTS. 'HEY, THEM THE GUYS WHAT STEAL FROM LORD BANE. GET 'EM!'|ВЫ ВИДЕТЕ ЧЕТЫРЕ ГИГАНТА. "Эй, они, ребята, что воруют у лорда Бэйна. ХВАТАЙ ИХ!"
 248|YOU SEE FOUR GIANTS. 'THEM THE NOT BELONG HERE! GET THEM!|ВЫ ВИДЕТЕ ЧЕТЫРЕ ГИГАНТА. "ИХ НЕ ЗДЕСЬ! ВЗЯТЬ ИХ!
-249|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+249|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ ВОЗВРАТ, ЧТОБЫ ПРОДОЛЖИТЬ
 //250| | 
 251|AS THE GIANT TURNS IN TRIUMPH TO HIS COMPANIONS, THE OTHERS PICK UP THEIR CLUBS. 'WHAT THEY KNOW? WE KNOCK DUMB LITTLE MEN'S BRAINS OUT!'|КАК ГИГАНТ ОБРАЩАЕТСЯ К СВОИМ СОТРУДНИКАМ, ДРУГИЕ СВОИ КЛУБЫ. "ЧТО ОНИ ЗНАЮТ? МЫ ВЫБИРАЕМ МОЗГИ МАЛЕНЬКИМ МУЖЧИНАМ!
 252|'YOU NO HURT THEM. THEM MY BUDDIES!' THEY ARGUE FOR A LITTLE BIT AND THEN ONE SAYS, 'HEY, WHAT WE FIGHTING FOR? IT'S ALL FAULT OF THEM!' 'YEH!' THEY TURN AND ATTACK YOU.|"ТЫ НЕ ОБЕДИ ИМ. ИХ МОИ ПРИЯТНИКИ! " ОНИ СПОРЯТ О НЕМНОГО, И ТОГДА ГОВОРИТ: "ЭЙ, ЗА ЧЕМ МЫ БОРОЕМСЯ? ВСЕ ИХ ВИНА! "Ага!" ОНИ ПОВОРАЧИВАЮТСЯ И НАПАДАЮТ НА ВАС.

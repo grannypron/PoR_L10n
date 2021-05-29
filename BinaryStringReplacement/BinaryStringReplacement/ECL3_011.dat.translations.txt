@@ -15,7 +15,7 @@
 198|A SIGN ON THE NORTH DOOR READS 'ROGUES'.|ЗНАК НА СЕВЕРНОЙ ДВЕРИ СЧИТЫВАЕТ "РОГОВ".
 199|'WE TRAIN ONLY |"ТРЕНИРУЕМ ТОЛЬКО
 200|HERE. DO YOU WANT TO TRAIN?'|ЗДЕСЬ. ХОТИТЕ ТРЕНИРОВАТЬСЯ?
-201|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+201|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
 202|'DO YOU SEEK A PARTNER FOR YOUR ADVENTURING?'|"ВЫ ИЩЕТЕ ПАРТНЕРА ДЛЯ ВАШЕГО ПРИКЛЮЧЕНИЯ?"
 203|'THERE IS NO ONE WHO WILL GO WITH YOU.'|"С ВАМИ НИКТО НЕ ПОЙДЕТ".
 204|YES|ДА

@@ -46,7 +46,7 @@
 156|'WHAT ARE YOU DOING HERE?'|"ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?"
 157|THE LEADER ADVANCES.|ЛИДЕР ПРОДВИГАЕТСЯ.
 158|WHAT ARE YOU DOING HERE?|ЧТО ТЫ ЗДЕСЬ ДЕЛАЕШЬ?
-159|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+159|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ ВОЗВРАТ, ЧТОБЫ ПРОДОЛЖИТЬ
 //160| | 
 161|'I'M SORRY, SIR, THERE'S AN ALERT. |"Я ИЗВИНЯЮСЬ, СЭР, ЕСТЬ ТРЕВОГА.
 162|ON WHOSE AUTHORITY ARE YOU HERE?'|В КАКОЙ ВЛАСТИ ВЫ ЗДЕСЬ?

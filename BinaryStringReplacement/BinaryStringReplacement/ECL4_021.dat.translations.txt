@@ -1,7 +1,7 @@
 ﻿199|THE BOAT DISEMBARKS YOU AT SOKAL KEEP.|ЛОДКА РАЗБИРАЕТ ВАС НА SOKAL KEEP.
 200|DO YOU WANT TO TAKE A BOAT BACK TO PHLAN?|ХОТИТЕ ВЕРНУТЬСЯ НА ЛОДКУ НА ФЛАН?
 201|YOU BOARD A BOAT.|ВЫ садитесь на лодку.
-202|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+202|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
 203|AN UNDEAD PATROL CONFRONTS YOU.  DO YOU GIVE THE PASSWORD?|НЕМЕРТЫЙ ПАТРУЛЬ ПРЕПЯТСТВУЕТ ВАМ. ВЫ ДАЕТЕ ПАРОЛЬ?
 204|A PACK OF UNDEAD SUDDENLY APPEARS.|ВНЕЗАПНО ПОЯВЛЯЕТСЯ ПАКЕТ НЕМЕРТЫХ.
 205|WHAT DO YOU SAY? (TYPE A SINGLE WORD)|ЧТО ТЫ ГОВОРИШЬ? (НАПИСАТЬ ЕДИНОЕ СЛОВО)

@@ -1,6 +1,6 @@
 ﻿136|YOU SENSE AN ANTI-MAGIC SHELL AROUND YOU.|ВЫ ЧУВСТВУЕТЕ АНТИМАГИЧЕСКУЮ ОБОЛОЧКУ ВОКРУГ.
 //137| | 
-138|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+138|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
 //139| | 
 140|YOU ENTER A BUILDING WHOSE WALLS ARE MORE OR LESS INTACT, THOUGH THE ROOF HAS FALLEN IN. RUBBLE MAKES PASSAGE DIFFICULT.|ВЫ заходите в здание, стены которого более или менее повреждены, хотя крыша обрушилась. РЕЗЬБА ДЕЛАЕТ ПРОХОДИМ СЛОЖНЫМ.
 141|SEARCHING THROUGH THE |ПОИСК ПО

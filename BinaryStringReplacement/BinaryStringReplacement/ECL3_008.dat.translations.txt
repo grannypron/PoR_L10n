@@ -18,9 +18,9 @@
 118|THE WAY IS BLOCKED.|ПУТЬ ЗАБЛОКИРОВАН.                    
 119|COUNCILMAN CADORNA CONFRONTS YOU. 'YOU HAVE TAKEN MY FAMILY TREASURE. I DON'T FORGET SUCH THINGS.' HE STRIDES OFF.|СОВЕТНИК КАДОРНА ПРЕПЯТСТВУЕТ ВАМ. "ВЫ ПРИНЯЛИ МОЕ СЕМЕЙНОЕ СОКРОВИЩЕ. Я ТАКОГО НЕ ЗАБЫВАЮ ". ОН УБИВАЕТСЯ.                    
 120|'BACK SO SOON? I CAN ONLY REPEAT THE EARLIER OFFERS: '|"СКОРО ВЕРНУТЬСЯ? Я МОГУ ТОЛЬКО ПОВТОРИТЬ РАННЕЕ ПРЕДЛОЖЕНИЕ: "
-121|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+121|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
 122| HERE IS YOUR REWARD.'| ВОТ ВАША НАГРАДА.
-123|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+123|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
 124|'THESE ARE ALL OF THE COMMISSIONS CURRENTLY AVAILABLE.'|"ЭТИ КОМИССИИ В НАСТОЯЩЕЕ ВРЕМЯ ДОСТУПНЫ".                    
 125|'THESE ARE ALL OF THE COMMISSIONS CURRENTLY AVAILABLE.'|"ЭТИ КОМИССИИ В НАСТОЯЩЕЕ ВРЕМЯ ДОСТУПНЫ".                    
 126|THE SLUMS IMMEDIATELY TO OUR WEST NEED TO BE CLEARED OF MONSTERS.'|СРАЗУ НА НАШ ЗАПАД НЕОБХОДИМО ОЧИСТИТЬ ОТ МОНСТРОВ ".                    
@@ -49,7 +49,7 @@
 149|CADORNA TEXTILE HOUSE.'|КАДОРНА ТЕКСТИЛЬНЫЙ ДОМ ".
 150|'THERE IS A REWARD FOR CLEARING THE |"ЕСТЬ НАГРАДА ЗА ПОЛУЧЕНИЕ
 151| HERE IS YOUR REWARD.'| ВОТ ВАША НАГРАДА.
-152|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+152|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
 153|THE CLERK SHUFFLES THROUGH HER PAPERS. 'ON THE MATTER OF COMMISSION,' SHE SAYS, 'I CAN OFFER THE FOLLOWING: '|КЛЕРК ПРОСЫПАЕТ СВОИ БУМАГИ. "ПО ВОПРОСАМ КОМИССИИ, - ГОВОРЯЕТ ОНА, - Я МОГУ ПРЕДЛОЖИТЬ СЛЕДУЮЩЕЕ:"
 154|UNDEAD FROM THE GRAVEYARD HAVE GROWN MORE DANGEROUS THAN ALL OF THE OTHER FORCES WHICH CONFRONT US.|НЕМЕРТВЫЕ С КЛАДБИЩА СТАНОВИЛИ БОЛЕЕ ОПАСНЕЕ, ЧЕМ ВСЕ ДРУГИЕ СИЛЫ, КОТОРЫЕ НАС НАМ.
 155|'I HAVE BEEN AUTHORIZED TO GIVE YOU AN ENCHANTED WEAPON IF YOU ACCEPT THE COMMISSION TO END THE GRAVEYARD MENACE.  DO YOU ACCEPT?'|"Я РАЗРЕШЕНО ПОДАВАТЬ ВАМ ЗАЧАРОВАННОЕ ОРУЖИЕ, ЕСЛИ ВЫ ПРИНИМАЕТЕ КОМИССИЮ ПО ПРЕКРАЩЕНИЮ НАГРУЗЧИКА. ВЫ ПРИНИМАЕТЕ?"

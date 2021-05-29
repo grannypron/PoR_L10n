@@ -31,7 +31,7 @@
 31|STAY AND FIGHT|ОСТАВАЙТЕСЬ И СРАЖАЙТЕСЬ
 32|LEAVE|ПОКИНУТЬ
 33|LOOKING DISAPPOINTED THE HEADMAN SAYS, 'GOOD LUCK IN YOUR TRAVELS.'|РАЗОЧАРОВАНИЕ ВИДА ГОЛОВА говорит: "УДАЧИ В ВАШИХ ПУТЕШЕСТВИЯХ".
-34|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+34|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ ВОЗВРАТ, ЧТОБЫ ПРОДОЛЖИТЬ
 //35| | 
 36|A HORDE OF KOBOLDS IS ATTACKING THE CAMP. A LONE SENTRY CHARGES BUT IS QUICKLY CUT DOWN. A FAMILY EMERGES FROM A HUT AND CHARGES THE KOBOLDS.|ОРДА КОБОЛЬДОВ НАПАДАЕТ НА ЛАГЕРЬ. LONE SENTRY заряжается, но быстро отключается. СЕМЬЯ ВЫХОДИТ ИЗ ХИЖИ И НАПРАВЛЯЕТ КОБОЛДОВ.
 37| YOU SPIN TO FACE THE SOUND.| ВЫ ВРАЩАЕТЕСЬ, ЧТОБЫ СМОТРЕТЬ ЗВУК.

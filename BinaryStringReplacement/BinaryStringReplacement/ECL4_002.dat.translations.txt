@@ -44,7 +44,7 @@
 44|WHO WILL CLIMB DOWN?|КТО СПАСИТСЯ?
 45|THAT ONE IS NOT WELL ENOUGH TO CLIMB.|ЭТОГО НЕДОСТАТОЧНО, чтобы подняться.
 46|EVIL LOOKING FROGS BOIL UP FROM BELOW.|ЗЛО СМОТРЕТЬ ЛЯГУШКИ КИПАТЬСЯ НИЖЕ.
-47|PRESS <RETURN> OR BUTTON TO CONTINUE.|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ.
+47|PRESS <RETURN> OR BUTTON TO CONTINUE.|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ.
 48|YOU ARE CHASED OUT INTO THE STREETS.|ВАС ВЫГОНЯЮТ НА УЛИЦЫ.
 49|YOU ENCOUNTER HOBGOBLINS!|ВЫ ВСТРЕЧАЕТЕ ХОБГОБЛИНЫ!
 50|THE HOBGOBLINS RESPOND WITH A PIERCING BATTLE CRY!|ХОБГОБЛИНЫ ОТВЕЧАЮТ БИТВЫМ КРИКОМ!

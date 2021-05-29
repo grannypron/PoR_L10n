@@ -218,7 +218,7 @@
 5|'GREETINGS, COURAGEOUS ONES, I AM ROLF, APPOINTED BY THE COUNCIL TO INTRODUCE NEWCOMERS TO THE FAIR CITY OF PHLAN. IF YOU WILL ACCOMPANY ME, I WILL START THE TOUR.'|"ПРИВЕТСТВУЮЩИЕ, МУЖЕЦЫ, Я РОЛЬФ, НАЗНАЧЕН СОВЕТОМ ПРЕДСТАВИТЬ НОВОГОДНЯМ В СВОБОДНЫЙ ГОРОД ФЛАН. ЕСЛИ ВЫ СОПРОВОЖДАЕТЕ МЕНЯ, Я НАЧНУЮ ТУР ".
 6|THE MAD MAN SUDDENLY:TO SCREAM AND ATTACK EVERYONE WITHIN ARM'S REACH.|БЕЗУМНЫЙ ЧЕЛОВЕК ВНЕЗАПНО НАЧИНАЕТ КРИЧАТЬ И НАПАДАТЬ НА ВСЕХ, ЧТО ВСЕГО В ДЕЙСТВИИ РУКИ.
 7|YOU BOARD A BOAT.|ВЫ САДИТЕСЬ НА ЛОДКУ.
-8|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+8|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
 9|'YOU NOW FACE AN ENTRANCE TO THE TEMPLE OF TYR.  THERE ARE THREE TEMPLES IN PHLAN: TYR'S, SUNE'S, AND TEMPUS. TYR'S IS THE LARGEST AND HOUSES BISHOP BRACCIO. IF YOU WILL TURN AROUND NOW, '|"ТЕПЕРЬ ВЫ ВХОДИТЕ В ХРАМ ТИРА. В ФЛАНЕ ЕСТЬ ТРИ ХРАМА: ТИРА, СУНА И ТЕМПУСА. ТИРА - САМЫЙ БОЛЬШОЙ ДОМ ЕПИСКОПА БРАЧЧО. ЕСЛИ ВЫ ОБРАТИТЕСЬ СЕЙЧАС,
 10|'YOU WILL SEE THE ENTRANCE TO THE PASSENGER DOCK AREA WE JUST DEPARTED.  FEW SHIPS DARE THE PERILOUS PASSAGE HERE, BUT THE COUNCIL IS DEVELOPING A PLAN TO OPEN UP THE SEA LANES.  PLEASE FOLLOW ME.'|"ВЫ УВИДИТЕ ВХОД В ЗОНУ ПАССАЖИРСКОГО ДОКУМЕНТА, КОТОРОЕ МЫ ТОЛЬКО ЧТО ВЫЛЕТЕЛИ. НЕКОТОРЫЕ СУДА ОТМЕЮТСЯ НА ПЕРИОДИЧНЫЙ ПРОХОД ЗДЕСЬ, НО СОВЕТ РАЗРАБОТАЕТ ПЛАН ОТКРЫТИЯ МОРСКИХ ПРОХОДОВ. ПОЖАЛУЙСТА СЛЕДУЙТЕ ЗА МНОЙ."
 11|'BEHIND THESE DOORS ARE THE SPECIAL TRAINING SCHOOLS  WHERE ADVENTURERS INCREASE THEIR SKILLS. LET US NOW GO TO THE CITY'S MOST IMPORTANT BUILDING.'|"ЗА ЭТИМИ ДВЕРЬМИ - СПЕЦИАЛЬНЫЕ ШКОЛЫ, ГДЕ ПРИКЛЮЧАТЕЛИ ПОВЫШАЮТ СВОИ НАВЫКИ. ПУТЕШЕСТВУЙТЕ НАМ СЕЙЧАС В САМОЕ ВАЖНОЕ ЗДАНИЕ ГОРОДА ".

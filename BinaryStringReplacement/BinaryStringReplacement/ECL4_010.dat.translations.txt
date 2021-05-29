@@ -1,5 +1,5 @@
 ﻿115|THE SPECTRE HAS NOTICED YOU.|СПЕКТР ВАС ЗАМЕТИЛ.
-116|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+116|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
 117|THE SKY DARKENS. |НЕБО ТЕМНЕТ.
 118|FIERCE GUSTS OF WIND HOWL PAST AND THE GROUND SHAKES AS PEALS OF THUNDER ROCK THE LAND.  THE SWIRLING MURK HIDES WHAT LIES AHEAD.|Яростные порывы ветра пронеслись мимо, и земля сотряслась, как раскаты грома сотрясли землю. КРУТЯЩИЙСЯ МУРК скрывает то, что впереди.
 119|UNTIL AN EXPLOSION OF LIGHTNING REVEALS THE NIGHTMARE SCENE OF A GRAVEYARD TURNED UPSIDE DOWN.|ПОКА ВЗРЫВ МОЛНИИ не откроет кошмарную сцену, когда кладбище перевернуто вверх дном.

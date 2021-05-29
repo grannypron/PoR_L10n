@@ -35,7 +35,7 @@
 238|YOU ARE SURPRISED BY A GROUP OF |ВЫ УДИВИТЫ ГРУППА
 239|YOU SURPRISE A GROUP OF |ВЫ УДИВИТЕ ГРУППУ
 240|SUDDENLY YOU ARE FACE TO FACE WITH A GROUP OF |ВНЕЗАПНО ВЫ ОБРАЩАЕТЕСЬ К ГРУППЕ
-241|HIT <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+241|HIT <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
 242|YOU ARE IN FRONT OF A MAGNIFICENT PYRAMID.  YOU HAVE FOUND A SECRET DOOR THAT LEADS INTO THE PYRAMID.  WHAT WILL YOU DO?|ВЫ ВЕЛИКОЛЕПНОЙ ПИРАМИДЫ. ВЫ НАШЛИ СЕКРЕТНУЮ ДВЕРЬ, ВХОДЯЩУЮ В ПИРАМИДУ. ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
 243|ENTER|ВХОДИТЬ
 244|GO BACK|ВЕРНИТЕСЬ НАЗАД

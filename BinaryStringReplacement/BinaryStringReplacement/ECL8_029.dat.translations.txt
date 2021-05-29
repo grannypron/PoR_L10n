@@ -27,7 +27,7 @@
 281|YOU ARE JUST |ВЫ ПРОСТО
 282| OF KUTO'S WELL.| КУТО ХОРОШО.
 283|A RAIN OF ARROWS POURS OVER YOU.|ДОЖДЬ СТРЕЛ НАХОДИТ НА ВАС.
-284|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ <ВОЗВРАТ> ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
+284|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
 285|YOU ARE STRIPPED OF ALL VALUABLES AND BLINDFOLDED.  THE BANDITS RELEASE YOU SOMEWHERE ABOVE GROUND.|У ВАС ОГРАНИЧЕНЫ ВСЕ ЦЕННОСТИ И ОСВОБОЖДЕНЫ. БАНДИТЫ ВЫПУСКАЮТ ВАС ГДЕ-ТО НАД ЗЕМЛЕЙ.
 286|GNOLLS |GNOLLS
 287|KOBOLDS. |КОБОЛЬДЫ.

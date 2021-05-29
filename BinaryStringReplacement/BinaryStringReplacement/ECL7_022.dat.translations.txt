@@ -10,7 +10,7 @@
 87| A BAND OF HUMAN FIGHTERS.| ГРУППА БОЙЦОВ.
 88|YOU ARE SURPRISED BY|ТЫ УДИВЛЕН
 89|YOU SURPRISE|ВЫ УДИВИТЕ
-90|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+90|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ ВОЗВРАТ, ЧТОБЫ ПРОДОЛЖИТЬ
 //91| | 
 92|THEY SMILE AT YOU.|ОНИ УЛЫБЛЯЮТСЯ ВАМ.
 93|THEY WAVE AND SAY 'SAVED!'|ОНИ ВОЛНУЛИСЬ И ГОВОРЯТ: "СПАСИЛИ!"
@@ -32,7 +32,7 @@
 109|THROW A ROCK|БРОСИТЬ КАМЕНЬ
 //110| | 
 111|AS YOU MOVE THROUGH THE ROOM THERE IS A FLASH, AND YOU SUDDENLY FIND YOURSELVES ELSEWHERE.|КОГДА ВЫ ПРОХОДИТЕ ПО КОМНАТЕ, ЕСТЬ ВСПЫШКА, И ВЫ ВНЕЗАПНО НАХОДИТЕ СЕБЯ В другом месте.
-112|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+112|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ ВОЗВРАТ, ЧТОБЫ ПРОДОЛЖИТЬ
 //113| | 
 114| DISPLACER BEASTS.| ДВИГАТЕЛЬ ЗВЕРЬ.
 115| DWARVEN FIGHTERS.| ДВАРВЕНСКИЕ БОЙЦЫ.

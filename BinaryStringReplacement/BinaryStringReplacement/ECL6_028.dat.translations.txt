@@ -32,7 +32,7 @@
 258|A LARGE GROUP OF MEN LED BY A DWARF RUNS FOWARD TO ATTACK|БОЛЬШАЯ ГРУППА МУЖЧИН ПОД ДВАРФОМ УБЕГАЕТ В АТАКУ.
 259|A LARGE GROUP OF MEN LED BY THE COMMANDANT RUSH FOWARD AND ATTACK.|БОЛЬШАЯ ГРУППА МУЖЧИН, ПОД ВОДОМ КОМАНДАНТА, БРОСАЕТ ВПЕРЕД И АТАКУЕТ.
 260|AFTER KILLING THE COMMANDANT THE REST OF THE OUTPOST EITHER SURRENDERS OR RUNS AWAY.|ПОСЛЕ УБИЙСТВА КОМАНДАНТА ОСТАЛЬНЫЙ ВЫХОД ЛИБО СДАЕТСЯ ИЛИ УБЕГАЕТ.
-261|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+261|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ ВОЗВРАТ, ЧТОБЫ ПРОДОЛЖИТЬ
 262|ONE OF THE COMMANDANT'S ADVISORS ASKS YOU IF YOU'VE HEARD OF ANY UNIQUE MAGICAL ITEMS OR PLACES?|ОДИН ИЗ СОВЕТНИКОВ КОМАНДАНТА СПРОСИТ ВАС, СЛЫШАЛ ли ВЫ О КАКИХ-ЛИБО УНИКАЛЬНЫХ МАГИЧЕСКИХ ПРЕДМЕТАХ ИЛИ МЕСТАХ?
 263|DON'T TALK|НЕ ГОВОРИТЬ
 264|LIE|ЛОЖЬ

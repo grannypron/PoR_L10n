@@ -51,7 +51,7 @@
 51|'WELL BOYS, I THINK WE HAVE THE INTRUDERS HERE. GET THEM!'|"НУ, МАЛЬЧИКИ, Я ДУМАЮ, У НАС ЗДЕСЬ ЕСТЬ ИНТРУДЕРЫ. ВЗЯТЬ ИХ!"
 52|'ALL RIGHT THEN. WHAT IS TODAY'S PASSWORD?'|"ТОГДА ВСЕ В ПОРЯДКЕ. ЧТО ТАКОЕ СЕГОДНЯ ПАРОЛЬ?
 53|HARASH|ХАРАШ
-54|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+54|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ ВОЗВРАТ, ЧТОБЫ ПРОДОЛЖИТЬ
 //55| | 
 56|AN ALARM IS SOUNDING.|ЗВУКАЕТ СИГНАЛ ТРЕВОГИ.
 57|A FIGHTER EMERGES FROM THE BUILDING NEARBY AND CONFRONTS YOU.|БОРЬБА ВЫЯВЛЯЕТСЯ ИЗ ЗДАНИЯ ПОБЛИЗОСТИ И ПРОТИВОСТОЯТ ВАМ.

@@ -39,7 +39,7 @@
 330|'ALL RIGHT, THEN. WHAT IS TODAY'S PASSWORD?'|"ТОГДА ВСЕ В ПОРЯДКЕ. ЧТО ТАКОЕ СЕГОДНЯ ПАРОЛЬ?
 331|HARASH|ХАРАШ
 332|AN ALARM IS SOUNDING.|ЗВУКАЕТ СИГНАЛ ТРЕВОГИ.
-333|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ <ВОЗВРАТ>, ЧТОБЫ ПРОДОЛЖИТЬ
+333|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ ВОЗВРАТ, ЧТОБЫ ПРОДОЛЖИТЬ
 //334| | 
 335|WILL YOU USE THE CLOTHING AS A DISGUISE?|БУДЕШЬ ЛИ ВЫ ИСПОЛЬЗОВАТЬ ОДЕЖДУ В КАЧЕСТВЕ ЗАКАЗА?
 336|THEY HELP YOU PUT ON THE CLOTHES. 'HAVE NO FEAR.|ОНИ ПОМОГАЮТ НАДЕТЬ ОДЕЖДУ. "НЕ СТРАХАЙ.
