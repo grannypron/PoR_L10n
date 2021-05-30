@@ -11,4 +11,4 @@ Note: The BinaryStringReplacement routine attempts to use extra 00 null bytes th
 
 None of these tools are meant to be distributed to an end-user, they are only put here in case I die or get distracted before the project is complete.
 
-
+I hacked up the Gold-Box-Explorer source from https://github.com/bsimser/Gold-Box-Explorer in order to extract information for the translation process.  The modified code can be found in my fork at https://github.com/grannypron/Gold-Box-Explorer
