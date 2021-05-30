@@ -1,4 +1,12 @@
-﻿@@5214|26|6173|6211|45377|01 01 E6 49 09 00 FF 01 FB 49 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@5214|26|6173|6211|45377|01 01 E6 49 09 00 FF 01 FB 49 
 @@5215|26|6204|5206|44372|00 01 79 6E 09 00 00 01 7A 6E 
 @@5216|26|6208|5716|44882|B3 4A 00 FE 18 01 01 E1 AF 09 
 @@5217|26|6161|2048|41214|15 AB 14 01 79 6E 00 14 01 15 
@@ -265,8 +273,10 @@
 225|RELEASE|РЕЛИЗ
 226|ATTACK|АТАКА
 227|LEAVE|ПОКИНУТЬ
-228|YOU RELEASE THE KOBOLDS AND THEY THANK YOU.  ONE OF THEM SAYS, 'WATCH OUT FOR THE MUTANT LIZARD MEN, THEY'RE KILLERS!'  THEY THEN RUN OUT THE DOOR.|ВЫ ВЫПУСКАЕТЕ КОБОЛДОВ, И ОНИ СПАСИБО. ОДИН ИЗ НИХ ГОВОРИТ: "БЕРЕГИТЕ МУТАНТОВ-ЯЩЕРДОВ, ОНИ УБИЙЦЫ!" ОНИ ВЫБЕГАЮТ ДВЕРЬ.
-229|AN AWFUL STENCH IS COMING FROM THE WEST.|УЖАСНЫЙ ЗЕМЛЯ НАХОДИТСЯ С ЗАПАДА.
+// Extra space here
+228|YOU RELEASE THE KOBOLDS AND THEY THANK YOU.  ONE OF THEM SAYS, 'WATCH OUT FOR THE MUTANT LIZARD MEN, THEY'RE KILLERS!'  THEY THEN RUN OUT THE DOOR.|ВЫ ВЫПУСКАЕТЕ КОБОЛДОВ, И ОНИ СПАСИБО. ОДИН ИЗ НИХ ГОВОРИТ: "БЕРЕГИТЕ МУТАНТОВ-ЯЩЕРДОВ, ОНИ УБИЙЦЫ!" ОНИ ВЫБЕГАЮТ ДВЕРЬ.                                                        
+// Extra space here
+229|AN AWFUL STENCH IS COMING FROM THE WEST.|УЖАСНЫЙ ЗЕМЛЯ НАХОДИТСЯ С ЗАПАДА.                                                          
 230|YOU ENTER A HUT THAT IS COVERED IN FILTH.  STANDING IN A POOL OF BLACK MUCK ARE TWO HORRIBLY MUTATED LIZARD MEN.  THEY LUNGE OUT AND ATTACK THE PARTY.|ВЫ входите в хижину, покрытую пленкой. В бассейне с черной слизью стоят два ужасно мутировавших человека-ящерицы. ОНИ ВЫСТУПАЛИ И НАПАДАЛИ СТОРОНУ.
 231|INSIDE THIS HUT ARE FOUR LIZARD MEN.  THEY ATTACK YOU IMMEDIATELY.|ВНУТРИ ХИЖИНЫ ЧЕТЫРЕ ЯЩИЦА. ОНИ НАПАДАЮТ НА ВАС НЕМЕДЛЕННО.
 232|IN THIS ROOM THERE ARE FOUR LARGE LIZARD MEN.  AS YOU ENTER ONE OF THEM YELLS 'KILL' AND THEY ATTACK.|В ЭТОЙ КОМНАТЕ ЧЕТЫРЕ БОЛЬШИХ ЯЩЕРИЦА. КАК ВЫ входите, ОДИН ИЗ НИХ КРИЧИТ "УБИТЬ", И ОНИ АТАКУЮТ.
@@ -295,9 +305,11 @@
 255| THEN LEAVE AND BID YOU GOOD DAY.| ТОГДА УЙДИТЕ И ЖЕЛАЕМ ДОБРЫХ ДНЕЙ.
 256|YOU CONVINCE THE |ВЫ УБЕДИТЕ
 257| THAT COMBAT IS NOT NECESSARY AND YOU GO ON YOUR WAY.| ЭТОГО БОЯ НЕ НУЖНО, И ВЫ ИДЕТЕ СВОЙ ПУТЬ.
-258|YOU COLDLY KILL THE DEFENSELESS KOBOLDS.|ВЫ ХОЛОДНО УБИВАЕТЕ БЕЗОПАСНЫХ КОБОЛДОВ.
+// Extra space here
+258|YOU COLDLY KILL THE DEFENSELESS KOBOLDS.|ВЫ ХОЛОДНО УБИВАЕТЕ БЕЗОПАСНЫХ КОБОЛДОВ.                                                      
 259|AN AWFUL STENCH IS COMING FROM THE WEST.|УЖАСНЫЙ ЗЕМЛЯ НАХОДИТСЯ С ЗАПАДА.
-260|YOU FIND A RECENTLY ABBANDONED CAMP.|ВЫ НАХОДИЛИ НЕДАВНО ЗАКРЫТЫЙ ЛАГЕРЬ.
+// Extra space here
+260|YOU FIND A RECENTLY ABBANDONED CAMP.|ВЫ НАХОДИЛИ НЕДАВНО ЗАКРЫТЫЙ ЛАГЕРЬ.                                                      
 261|YOU HAVE INSULTED THE |ВЫ ПРИВЕДИЛИ
 //262|.|.
 263|THE |THE

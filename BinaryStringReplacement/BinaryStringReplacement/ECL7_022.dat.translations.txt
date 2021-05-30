@@ -1,4 +1,12 @@
-﻿@@4987|22|775|2727|41893|4C 4A 01 7B 6E 03 01 4C C0 00 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@4987|22|775|2727|41893|4C 4A 01 7B 6E 03 01 4C C0 00 
 @@4988|22|639|2155|41321|4B C0 00 0F 16 00 09 01 4C 4A 
 @@4989|22|642|838|40004|95 9C 01 79 6E 01 7A 6E 2A 01 
 @@4990|22|645|941|40107|4B 4A 00 80 01 82 6E 17 01 01 
@@ -107,8 +115,10 @@
 81|I HAVE A SECRET. I HAVE CHISELED ALMOST ALL THE WAY THROUGH TO THE OUTSIDE. BUT I NO LONGER HAVE THE STRENGTH TO BREAK THROUGH. WILL YOU TRY?|У МЕНЯ ЕСТЬ СЕКРЕТ. Я ПРОЧИЛ ПОЧТИ ВСЕЙ ПУТЬ ДО СНАРУЖИ. НО У МЕНЯ БОЛЬШЕ НЕТ СИЛЫ, ЧТОБЫ ПРОРЫВАТЬСЯ. ВЫ ПОПРОБУЕТЕ?
 82|YOU BREAK THROUGH. THE PRIEST TEARFULLY THANKS YOU AND GOES THROUGH THE HOLE.|ВЫ ПРОРЫВАЕТЕ. СВЯЩЕННИК СЛОВО СПАСИБО И ПРОХОДИТ ЧЕРЕЗ ДЫРУ.
 83|THERE IS A HOLE IN THE WALL THAT LEADS TO THE OUTSIDE. DO YOU GO THROUGH IT?|В стене есть отверстие, которое ведет наружу. ВЫ ПРОХОДИТЕ ЧЕРЕЗ ЭТО?
-84|YOU FIND THE CORPSE OF A MAN. THE BODY HAS BEEN STRIPPED OF WEAPONS AND ARMOR, AS WELL AS ANY USEFUL GEAR.|ВЫ НАЙДЕТЕ ТРУП ЧЕЛОВЕКА. КОРПУС БЕЗ ОРУЖИЯ И БРОНИ, А ТАКЖЕ ЛЮБОГО ПОЛЕЗНОГО ОБОРУДОВАНИЯ.
-85|HOWEVER, YOU FIND A BOOK UNDER THE BODY. IT IS THE JOURNAL OF TYRMOR.  IT IS FACINATING AND YOU INCLUDE MUCH OF ITS INFORMATION IN YOUR JOURNAL AS ENTRY 26.|ОДНАКО, ВЫ НАХОДИТЕ КНИГУ ПОД ТЕЛОМ. ЭТО ЖУРНАЛ ТИРМОРА. ЭТО УДИВИТЕЛЬНО, И ВЫ ВКЛЮЧАЕТЕ МНОГО ЕГО ИНФОРМАЦИИ В СВОЙ ЖУРНАЛ ПРИ ЗАПИСИ 26.
+// Extra space here 
+84|YOU FIND THE CORPSE OF A MAN. THE BODY HAS BEEN STRIPPED OF WEAPONS AND ARMOR, AS WELL AS ANY USEFUL GEAR.|ВЫ НАЙДЕТЕ ТРУП ЧЕЛОВЕКА. КОРПУС БЕЗ ОРУЖИЯ И БРОНИ, А ТАКЖЕ ЛЮБОГО ПОЛЕЗНОГО ОБОРУДОВАНИЯ.                                                
+// Extra space here 
+85|HOWEVER, YOU FIND A BOOK UNDER THE BODY. IT IS THE JOURNAL OF TYRMOR.  IT IS FACINATING AND YOU INCLUDE MUCH OF ITS INFORMATION IN YOUR JOURNAL AS ENTRY 26.|ОДНАКО, ВЫ НАХОДИТЕ КНИГУ ПОД ТЕЛОМ. ЭТО ЖУРНАЛ ТИРМОРА. ЭТО УДИВИТЕЛЬНО, И ВЫ ВКЛЮЧАЕТЕ МНОГО ЕГО ИНФОРМАЦИИ В СВОЙ ЖУРНАЛ ПРИ ЗАПИСИ 26.                                               
 86|YOU SEE ROCKS SCATTERED ABOUT THE SMOOTH FLAGSTONES. |ВЫ ВИДЕТЕ КАМНИ, РАССЕПАННЫЕ НА ГЛАДКИЕ ФЛАГКАММЫ.
 87| A BAND OF HUMAN FIGHTERS.| ГРУППА БОЙЦОВ.
 88|YOU ARE SURPRISED BY|ТЫ УДИВЛЕН

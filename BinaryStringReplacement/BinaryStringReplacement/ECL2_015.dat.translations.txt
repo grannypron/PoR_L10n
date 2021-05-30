@@ -1,4 +1,12 @@
-﻿@@673|15|658|202|39368|0B 01 82 6E 03 01 C9 49 00 0E 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@673|15|658|202|39368|0B 01 82 6E 03 01 C9 49 00 0E 
 @@674|15|567|1124|40290|00 4A 01 79 6E 01 7A 6E 03 01 
 @@675|15|570|3258|42424|04 4A 00 01 16 01 01 11 A6 19 
 @@676|15|573|3429|42595|05 4A 01 79 6E 01 82 6E 17 00 
@@ -154,7 +162,8 @@
 96|WATCHING YOU WARILY, HE INCHES AWAY. WHEN HE IS OUT OF SWORD'S REACH HE SCRAMBLES TO HIS FEET AND FLEES THE ROOM.|С осторожностью наблюдая за вами, он уходит. КОГДА ОН ВНЕ ДЕЙСТВИЯ МЕЧА, ОН КАРКАЕТ НОГАМИ И УБЕГАЕТ ИЗ КОМНАТЫ.
 97|THIS ROOM WAS ONCE A STUDY. IT IS NOW A SHATTERED RUIN.|ЭТА КОМНАТА БЫЛА ОДИН ИССЛЕДОВАНИЕМ. ТЕПЕРЬ РАЗРЕШЕННАЯ РАЗРУША.
 98|BURIED AMID ALL THE TRASH YOU SEE A BOOK.|ПОХОРОНЕННОЕ В МУСОРУ ВЫ ВИДИТЕ КНИГУ.
-99|YOU ARE IN THE ILLUMINATORS CARRELS. ALL THEIR EQUIPMENT HAS DECAYED AND LIES ROTTING ON THE FLOOR.|ВЫ НАХОДИТЕСЬ В КОМПАНИИ ILLUMINATORS CARRELS. ВСЕ ИХ ОБОРУДОВАНИЕ РАЗРУШЕНО И ГНИМАЕТ НА ПОЛ.
+//Extra space here
+99|YOU ARE IN THE ILLUMINATORS CARRELS. ALL THEIR EQUIPMENT HAS DECAYED AND LIES ROTTING ON THE FLOOR.|ВЫ НАХОДИТЕСЬ В КОМПАНИИ ILLUMINATORS CARRELS. ВСЕ ИХ ОБОРУДОВАНИЕ РАЗРУШЕНО И ГНИМАЕТ НА ПОЛ.                           
 100|AMID THE TRASH YOU FIND A BOX WHICH CONTAINS GOLD FOIL.|СРЕДИ МУСОРА ВЫ НАХОДИТЕ КОРОБКУ С ЗОЛОТОЙ ФОЛЬГОЙ.
 101|YOU ARE IN A SMALL ROOM HAVING LITTLE MORE THAN A BENCH AND A SMALL DESK.|ВЫ НАХОДИТЕСЬ В МАЛЕНЬКОЙ КОМНАТЕ, ИМЕЮЩЕЙ НЕМНОГО БОЛЬШЕ, ЧЕМ СКАМЬЯ И МАЛЕНЬКИЙ СТОЛ.
 102|YOU HAVE ENTERED A STOREROOM FULL OF SUPPLIES TOO OLD TO BE USEFUL.  |ВЫ ЗАЙТИЛИ В МАГАЗИН, ЗАПОЛНЕННЫЙ ТОВАРАМИ, Слишком старыми, чтобы быть полезными.

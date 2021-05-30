@@ -1,4 +1,12 @@
-﻿@@2657|11|306|159|39325|00 01 D2 6D 09 00 00 01 D3 6D 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@2657|11|306|159|39325|00 01 D2 6D 09 00 00 01 D3 6D 
 @@2658|11|277|1955|41121|00 01 07 4A 09 00 00 01 0F 4A 
 @@2659|11|280|1874|41040|00 01 03 4A 09 00 32 01 C6 6D 
 @@2660|11|306|159|39325|00 01 D2 6D 09 00 00 01 D3 6D 
@@ -75,7 +83,7 @@
 196|FIGHTERS |БОЙЦЫ
 197|THIEVES |ВОРЫ
 198|A SIGN ON THE NORTH DOOR READS 'ROGUES'.|ЗНАК НА СЕВЕРНОЙ ДВЕРИ СЧИТЫВАЕТ "РОГОВ".
-199|'WE TRAIN ONLY |"ТРЕНИРУЕМ ТОЛЬКО
+199|'WE TRAIN ONLY |ТРЕНИРУЕМ ТОЛЬКО
 200|HERE. DO YOU WANT TO TRAIN?'|ЗДЕСЬ. ХОТИТЕ ТРЕНИРОВАТЬСЯ?
 201|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
 202|'DO YOU SEEK A PARTNER FOR YOUR ADVENTURING?'|"ВЫ ИЩЕТЕ ПАРТНЕРА ДЛЯ ВАШЕГО ПРИКЛЮЧЕНИЯ?"
@@ -95,7 +103,7 @@
 216|3 SHARES |3 АКЦИИ
 217| PLUS A PICK OF SPECIAL ITEMS| ПЛЮС НАБОР СПЕЦИАЛЬНЫХ ПРЕДМЕТОВ
 218|4 SHARES |4 АКЦИИ
-219|'THERE IS A FINE |"ЕСТЬ ШТРАФ
+219|'THERE IS A FINE |ЕСТЬ ШТРАФ
 220| WHO WILL JOIN YOU FOR | КТО ПРИСОЕДИНЯЕТСЯ К ВАМ
 221|. IS THIS ACCEPTABLE?'|. ЭТО ДОПУСТИМО?
 222|'WOULD YOU LIKE TO CONSIDER SOMEONE ELSE?'|"ХОТИТЕ ЛИ ВЫ ПОСМОТРЕТЬ КТО-ТО ЕЩЕ?"

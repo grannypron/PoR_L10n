@@ -1,4 +1,12 @@
-﻿@@5456|13|6976|6991|46157|60 01 D2 6D 09 00 05 01 D3 6D 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@5456|13|6976|6991|46157|60 01 D2 6D 09 00 05 01 D3 6D 
 @@5457|13|109|6794|45960|FF 01 C7 4A 00 00 01 8E 4A 16 
 @@5458|13|112|418|39584|01 4A 00 01 16 00 02 01 B4 AD 
 @@5459|13|115|544|39710|02 4A 00 01 16 00 12 80 19 64 
@@ -218,7 +226,7 @@
 29|YOU HEAR THE VOICES OF HUMANS AND KOBOLDS.|ВЫ СЛЫШАЕТЕ ГОЛОСА ЧЕЛОВЕК И КОБОЛЬДОВ.
 30|BEFORE YOU IS A HORDE OF KOBOLDS. BEHIND THEM ARE TWO MEN AND AN ANCIENT KOBOLD ON A WOODEN THRONE.|ПРЕЖДЕ ЧЕМ ВАМ ЕСТЬ ОРДА КОБОЛДОВ. ЗА НИМИ ДВА ЧЕЛОВЕКА И ДРЕВНИЙ КОБОЛЬД НА ДЕРЕВЯННОМ ТРОНЕ.
 31|ONE SAYS,'THESE MEN ARE ENEMIES. DEFEAT THEM AND MY LORD SHALL BE MOST GENEROUS.' THE KING LOOKS AT HIM, AND THEN AT YOU. HE SMILES AND SCREAMS, 'KILL THEM!'|ГОВОРИТ: "ЭТИ МУЖЧИНЫ - ВРАГИ. ПОБЕДИТЕ ИХ, И ГОСПОДЬ МОЙ БУДЕТ НАИЛУЧШИМ ЩЕДРЫМ ". Царь Смотрит на него, а потом на тебя. ОН УЛЫБАЕТСЯ И КРИЧИТ: "УБЕЙ ИХ!"
-32|THE KING, FROTHING AT THE MOUTH, CRIES, 'USE THE SECRET WEAPONS.' BALLISTA APPEAR AND FIRE.|Король, вздыхая в рот, плачет: "ИСПОЛЬЗУЙТЕ СЕКРЕТНОЕ ОРУЖИЕ". БАЛЛИСТА ПОЯВЛЯЕТСЯ И ПОЖАР.
+32|THE KING, FROTHING AT THE MOUTH, CRIES, 'USE THE SECRET WEAPONS.' BALLISTA APPEAR AND FIRE.|Король плачет: "ИСПОЛЬЗУЙТЕ СЕКРЕТНОЕ ОРУЖИЕ". БАЛЛИСТА ПОЯВЛЯЕТСЯ И ПОЖАР.
 33|THE MEN SNEER AT THE KING AND ONE SAYS,'LET US SHOW YOU HOW WARRIORS FIGHT.'|МУЖЧИНЫ СНИР У КОРОЛЯ, И ОДИН ГОВОРЯТ: "ДАВАЙТЕ ПОКАЗАТЬ ВАМ, КАК ВОИНА БОРЬБА".
 34|THE KING, PANICKED, HAS FALLEN INTO HIS OWN SPIKED PIT AND DIED.|Король в панике упал в свою колючую яму и умер.
 35|YOU SEE A BRASS BOTTLE JAMMED INTO A CRACK HERE.|ВЫ ВИДИТЕ ЛАТУННУЮ БУТЫЛКУ, ЗАБИВАЮЩУЮ ЗДЕСЬ В ТРЕЩИНУ.
@@ -309,16 +317,16 @@
 120|THE KOBOLD DISAPPEARS BEYOND THE BOULDER.|Кобольд исчезает за гранью боулдера.
 121|YOU CLAMBER NOISILY DOWN A SLOPE OF RUBBLE.|ВЫ ШУМНО КАСАЕТЕСЬ ПО СКЛОНУ РУБИНА.
 122|AT THE BOTTOM THE KOBOLD DIVES BENEATH SOME RUBBLE.|В НИЖНЕЙ ЧАСТИ КОБОЛЬД НЫРЯЕТСЯ НА НЕКОТОРЫЕ РУБЛИ.
-123|THE KOBOLD PROMPTLY RETURNS TO SLEEP.|КОБОЛЬД МОМЕНТАЛЬНО ВОЗВРАЩАЕТСЯ В СОН.
-124|THE KOBOLDS HERD YOU TOWARD YOUR PRISON. SOME NAB BITS OF YOUR EQUIPMENT AND LEAVE.|КОБОЛЬДЫ СТАРАЮТ ВАС К ВАШЕЙ ТЮРЬМЕ. НЕКОТОРЫЕ НАБЛЮДАЙТЕ ВАШЕ ОБОРУДОВАНИЕ И УХОДИТЕ.
-125|YOU DISLODGE A NUMBER OF ROCKS.|ВЫ ВЫИГРЫВАЕТЕ КОЛИЧЕСТВО КАМНЕЙ.
-126|THE NOISE HAS DISTURBED SOMETHING. WITH A BEATING OF WINGS, A HUGE BEAST LANDS UPON YOU.|ШУМ ЧТО-ТО ПОБЕДИЛ. С БИКОМ КРЫЛЬЯМИ НА ВАС ПРИСАДЕТ ОГРОМНЫЙ ЗВЕРЬ.
-127|'JUST AROUND THE CORNER IS OUR TREASURE. TAKE WHAT YOU WISH AND LEAVE US. GOOD DAY.'|"ТОЛЬКО ЗА УГОЛОМ - НАШЕ СОКРОВИЩЕ. Бери то, что хочешь, и оставь нас. ДОБРЫЙ ДЕНЬ."
+123|THE KOBOLD PROMPTLY RETURNS TO SLEEP.|КОБОЛЬД МОМЕНТАЛЬНО ВОЗВРАЩАЕТСЯ В СОН
+124|THE KOBOLDS HERD YOU TOWARD YOUR PRISON. SOME NAB BITS OF YOUR EQUIPMENT AND LEAVE.|КОБОЛЬДЫ СТАРАЮТ ВАС К ВАШЕЙ ТЮРЬМЕ. НЕКОТОРЫЕ НАБЛЮДАЙТЕ ВАШЕ ОБОРУДОВАНИЕ И УХОДИТЕ
+125|YOU DISLODGE A NUMBER OF ROCKS.|ВЫ ВЫИГРЫВАЕТЕ КОЛИЧЕСТВО КАМНЕЙ
+126|THE NOISE HAS DISTURBED SOMETHING. WITH A BEATING OF WINGS, A HUGE BEAST LANDS UPON YOU.|ШУМ ЧТО-ТО ПОБЕДИЛ. С БИКОМ КРЫЛЬЯМИ НА ВАС ПРИСАДЕТ ОГРОМНЫЙ ЗВЕРЬ
+127|'JUST AROUND THE CORNER IS OUR TREASURE. TAKE WHAT YOU WISH AND LEAVE US. GOOD DAY.'|"ТОЛЬКО ЗА УГОЛОМ - НАШЕ СОКРОВИЩЕ. Бери то, что хочешь, и оставь нас. ДОБРЫЙ ДЕНЬ"
 128|LET IT GO|ОТПУСТИ СИТУАЦИЮ
 129|KILL IT|УБЕЙ ЭТО
 130|THE KOBOLD CALLS OUT,'THE ENVOYS ARE HERE, GREAT KING.' AN AGED VOICE REPLIES 'SEND THEM FORWARD.' YOUR GUIDE, HOWEVER, HAS FALLEN INTO A STUPOR.|КОБОЛЬД ПРИЗЫВАЕТ: "ЗДЕСЬ УЧАСТНИКИ, ВЕЛИКИЙ КОРОЛЬ". ВОЗРАСТ ГОЛОС ОТВЕТИТ: "ОТПРАВИТЬ ИХ ВПЕРЕД". ВАШ ГИД, ОДНАКО, ПОПАЛ В СТУПОР.
 131|A WOMAN APPEARS BEFORE YOU.'I AM THE PRINCESS FATIMA, AID ME IN THIS BATTLE.'|ПЕРЕД ВАМИ ПРОЯВЛЯЕТСЯ ЖЕНЩИНА. "Я ПРИНЦЕССА ФАТИМА, ПОМОГАЛА МНЕ В ЭТОЙ БИТВЫ".
 132|WHEN YOU REST, FATIMA TELLS YOU OF HER TRIBE.|КОГДА ВЫ ОТДЫХАЕТЕ, ФАТИМА СКАЗЫВАЕТ ВАМ О ЕГО ПРАЗДНИКЕ.
-133|16|16
+//133|16|16
 134|THE KOBOLDS CHASE FOR A WHILE, BUT YOU ESCAPE.|КОБОЛЬДЫ НА КОРОТКОЕ, НО ВЫ УБЕЖАЕТЕ.
 135|YOU ARE THROWN INTO A CELL BEREFT OF EQUIPMENT.|ВЫ БРОСАЕТСЯ В ЯЧЕЙКЕ ПЕРЕД ОБОРУДОВАНИЕМ.

@@ -1,4 +1,12 @@
-﻿@@3955|6|844|539|39705|0B 01 79 6E 09 00 09 01 FE 49 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@3955|6|844|539|39705|0B 01 79 6E 09 00 09 01 FE 49 
 @@3956|6|840|4051|43217|1F 06 04 01 51 23 CC 80 F1 A0 
 @@3957|6|669|282|39448|64 4A 00 01 18 13 09 01 C9 49 
 @@3958|6|674|747|39913|4F C0 00 1F 01 79 6E 25 01 79 
@@ -136,7 +144,8 @@
 301|THE SMITH LOOKS UP FROM HIS WORK. 'WHAT DO YOU NEED?'|СМИТ ВИДЕТСЯ НА СВОЮ РАБОТУ. "ЧТО ВАМ НУЖНО?"
 302|THE SMITH IGNORES YOU AS HE HAMMERS ON A GREAVE.|СМИТ НЕ ЗАНИМАЕТСЯ ВАС, КАК ОН МОЛОТ НА ГРЕВИНУ.
 303|THE SMITHY WIPES HIS BROW AND SAYS, 'NO, YOU NEVER GET TOTALLY USED TO THE HEAT, BUT IT'S NOT THAT BAD. NOW, IF YOU'LL EXCUSE ME I NEED TO GET BACK TO WORK.'|Смитти вытирает бровь и говорит: "НЕТ, ВАС НИКОГДА НЕ ИСПОЛЬЗУЕТСЯ ПОЛНОСТЬЮ НА ТЕПЛО, НО ЭТО НЕ ТАК ПЛОХО. СЕЙЧАС, ЕСЛИ ВЫ ИЗВИНИТЕ МЕНЯ, МНЕ НУЖНО ВЕРНУТЬСЯ К РАБОТЕ ".
-304|YOU ARE IN A STANDARD MEAT SMOKEHOUSE... WELL MAYBE NOT QUITE STANDARD. YOU FEEL A LITTLE SICK AS YOU LOOK AT THE MEAT. THE SMELL AND THE SMOKE DON'T HELP EITHER.|ВЫ НАХОДИТЕСЬ В СТАНДАРТНОЙ МЯСНОЙ КОПИЧНОЙ ... МОЖЕТ БЫТЬ НЕ СОВЕРШЕННО СТАНДАРТНОЙ. ВЫ ЧУВСТВУЕТЕ НЕМНОГО БОЛЕЕ, Глядя на мясо. ЗАПАХ И ДЫМ НЕ ПОМОГАЮТ.
+// Extra space here
+304|YOU ARE IN A STANDARD MEAT SMOKEHOUSE... WELL MAYBE NOT QUITE STANDARD. YOU FEEL A LITTLE SICK AS YOU LOOK AT THE MEAT. THE SMELL AND THE SMOKE DON'T HELP EITHER.|ВЫ НАХОДИТЕСЬ В СТАНДАРТНОЙ МЯСНОЙ КОПИЧНОЙ ... МОЖЕТ БЫТЬ НЕ СОВЕРШЕННО СТАНДАРТНОЙ. ВЫ ЧУВСТВУЕТЕ НЕМНОГО БОЛЕЕ, Глядя на мясо. ЗАПАХ И ДЫМ НЕ ПОМОГАЮТ.                                      
 305|YOU ARE IN A BUILDING THAT WAS ONCE A BARRACKS BUT HAS NOW BEEN CONVERTED TO A TEMPLE OF BANE. AT THE FAR END OF THE ROOM IS A CRUDE ALTER.|ВЫ НАХОДИТЕСЬ В ЗДАНИИ, КОТОРЫЕ БЫЛИ БЫЛИ БАРРАК, НО СЕЙЧАС ПРЕОБРАЗОВАННЫ В ХРАМ БЕЙНА. В дальнем конце комнаты грубая переделка.
 306|A PRIEST AND TWO ACOLYTES TURN FROM THE ALTER, 'WELCOME MY CHILDREN. COME FORWARD AND ACCEPT THE BLESSING OF LORD BANE.'|СВЯЩЕННИК И ДВА АКОЛИТА ОТВЕРГАЮТСЯ ОТ АЛЬТЕРА: "ДОБРО ПОЖАЛОВАТЬ МОИ ДЕТЕЙ. ИДИТЕ ВПЕРЕД И ПРИНИМАЙТЕ БЛАГОСЛОВЕНИЕ ГОСПОДА БЭНА ".
 307|ACCEPT BLESSING|ПРИНИМАЙТЕ БЛАГОСЛОВЕНИЕ

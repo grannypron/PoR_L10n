@@ -1,4 +1,12 @@
-﻿@@2450|8|288|241|39407|00 01 D2 6D 09 00 00 01 D3 6D 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@2450|8|288|241|39407|00 01 D2 6D 09 00 00 01 D3 6D 
 @@2451|8|262|6861|46027|07 4A 00 00 17 00 09 00 39 01 
 @@2452|8|215|7307|46473|BA 4A 00 FF 17 13 03 00 1A 01 
 @@2453|8|226|241|39407|00 01 D2 6D 09 00 00 01 D3 6D 
@@ -284,7 +292,8 @@
 176|WE WERE MUCH RELIEVED BY THE NEWS YOU BRING FROM THE NOMAD CAMP.|НАС НАМ ОЧЕНЬ ПОРАЖИЛИ НОВОСТИ, ПРИВЕДЕННЫЕ ВЫ ИЗ ЛАГЕРЯ NOMAD.
 177|COUNCILMAN CADORNA LEFT THIS PAYMENT FOR SOME SERVICE YOU HAD RENDERED.|СОВЕТНИК КАДОРНА ОСТАВИЛ ЭТУ ПЛАТУ ЗА НЕКОТОРЫЕ УСЛУГИ, КОТОРЫЕ ВЫ ПРЕДОСТАВИЛИ.
 178|YOUR TAKING THE GATE WILL ENABLE OUR FORCES TO ASSAULT THE ENEMY STRONGHOLD. RETURN THERE TO LEAD THE ATTACK.|ВАШЕ ВРАЩЕНИЕ ДАЕТ НАШИ СИЛЫ НАПАДАТЬ НА СИЛЬНУЮ СИЛЬНУЮ ВРАГ. ВЕРНУТЬСЯ В АТАКУ.
-179|CONGRATULATIONS! YOUR QUEST IS OVER! TYRANTHRAXUS IS DEFEATED! PHLAN IS FREE! IF YOU WISH, YOU MAY CONTINUE TO HELP US CLEAR ANY REMAINING MONSTERS. ALL PHLAN SALUTES YOU!|ПОЗДРАВЛЯЕМ! ВАШ ПОИСК ЗАВЕРШЕН! ТИРАНТРАКС ПОБЕДЕН! PHLAN БЕСПЛАТНО! ЕСЛИ ВЫ ХОТИТЕ, ВЫ МОЖЕТЕ ПРОДОЛЖИТЬ ПОМОЩЬ НАМ УБИРАТЬ ЛЮБЫХ ОСТАВШИХСЯ МОНСТРОВ. ВСЕ ФЛАНЫ ПРЕДЛАГАЮТ ВАС!
+// Extra space here
+179|CONGRATULATIONS! YOUR QUEST IS OVER! TYRANTHRAXUS IS DEFEATED! PHLAN IS FREE! IF YOU WISH, YOU MAY CONTINUE TO HELP US CLEAR ANY REMAINING MONSTERS. ALL PHLAN SALUTES YOU!|ПОЗДРАВЛЯЕМ! ВАШ ПОИСК ЗАВЕРШЕН! ТИРАНТРАКС ПОБЕДЕН! PHLAN БЕСПЛАТНО! ЕСЛИ ВЫ ХОТИТЕ, ВЫ МОЖЕТЕ ПРОДОЛЖИТЬ ПОМОЩЬ НАМ УБИРАТЬ ЛЮБЫХ ОСТАВШИХСЯ МОНСТРОВ. ВСЕ ФЛАНЫ ПРЕДЛАГАЮТ ВАС!                          
 180|YOUR CLEARING OF THE SLUM AREAS PERMITS US TO EXPAND.|ВАША ОЧИСТКА ТРУБОПРОВОДОВ РАЗРЕШАЕТ НАМ РАСШИРЯТЬСЯ.
 181|CONGRATULATIONS, YOU MAY KEEP ALL YOU FOUND IN THE TEMPLE OF BANE AS A REWARD.'|ПОЗДРАВЛЯЕМ, ВЫ МОЖЕТЕ СОХРАНИТЬ В НАГРАДУ ВСЕ, ЧТО ВЫ НАЙДЕТЕ В ХРАМЕ БЕЙНА ".
 182|PORPHYRYS CADORNA IS A TRAITOR TO THE CITY. IF YOU FIND HIM, KILL HIM.'|PORPHYRYS CADORNA - ПРЕДАТЕЛЬ ГОРОДА. ЕСЛИ ВЫ НАЙДЕТЕ ЕГО, УБИТЬ ЕГО ".

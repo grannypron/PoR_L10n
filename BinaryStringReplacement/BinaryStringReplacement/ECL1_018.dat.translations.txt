@@ -1,4 +1,12 @@
-﻿@@0|18|152|167|39333|E7 4A 00 FE 18 09 00 00 01 34 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@0|18|152|167|39333|E7 4A 00 FE 18 09 00 00 01 34 
 @@1|18|100|1672|40838|08 01 79 6E 09 00 00 01 03 4A 
 @@2|18|113|1252|40418|A0 A0 09 01 0A 4A 01 C6 6D 24 
 @@3|18|31|85|39251|01 01 D2 6D 09 00 63 01 D3 6D 
@@ -279,7 +287,8 @@
 64|YOUR COVER IS BLOWN.|ВАША КРЫШКА ВДУВАЕТСЯ.
 65|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
 66|THE MONSTERS SHOOT YOU ANGRY LOOKS, |МОНСТРЫ СТРЕЛЯЮТ ВАС ЗЛОЙ ВИДОМ,
-67|YOU NOW SEE THE WAND ISN'T A MAJOR ARTIFACT, IT'S ONLY A WAND OF FEAR!|ВЫ СЕЙЧАС ВИДЕТЕ ЖЕЛОК - НЕ ГЛАВНЫЙ АРТЕФАКТ, ЭТО ТОЛЬКО ЖЕЗЛО СТРАХА!
+//Extra space here
+67|YOU NOW SEE THE WAND ISN'T A MAJOR ARTIFACT, IT'S ONLY A WAND OF FEAR!|ВЫ СЕЙЧАС ВИДЕТЕ ЖЕЛОК - НЕ ГЛАВНЫЙ АРТЕФАКТ, ЭТО ТОЛЬКО ЖЕЗЛО СТРАХА!                                                                                                                                                                    
 68|'IT'S A WAND OF ILLUMINATION. WHO CARES, I SEE IN THE DARK ANYWAY!'|"ЭТО ЖЕЗЛО ОСВЕЩЕНИЯ. КТО ЗАБОТИТСЯ, Я ВСЕ ВИДЮ В ТЕМНОМ! "
 69|AS YOU MOVE AWAY THE MONSTERS GLANCE YOUR WAY, |КОГДА ВЫ УХОДИТЕ, МОНСТРЫ ВЗЛЯЮТ НА ВАШУ ПУТЬ,
 70|THE AUCTION ENDS. YOU DON'T SEE WHO BOUGHT THE ITEM.|АУКЦИОН ЗАКОНЧИЛСЯ. ВЫ НЕ ВИДИТЕ, КТО КУПИЛ ПРЕДМЕТ.

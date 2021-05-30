@@ -1,4 +1,12 @@
-﻿@@4194|1|7595|7625|46791|02 00 06 00 06 21 00 01 00 02 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@4194|1|7595|7625|46791|02 00 06 00 06 21 00 01 00 02 
 @@4195|1|7518|473|39639|1F 4C F3 45 80 F1 A0 50 81 60 
 @@4196|1|7459|7483|46649|01 01 D3 6D 09 00 00 01 D2 6D 
 @@4197|1|7470|7496|46662|64 01 D3 6D 09 00 05 01 D2 6D 
@@ -180,7 +188,8 @@
 //
 1|A GUARD COMES BY AND SAYS 'IF YOU WISH TO CAMP, GO TO THE MERCHANTS AREA!'|ОХРАННИК подходит и говорит: "ЕСЛИ ВЫ ХОТИТЕ ЛАГЕРЬ, ПОЙДИТЕ В ТОВАРЫ!"
 2|ANIMALS ARE RUNNING ALL OVER THE COMPOUND.|ЖИВОТНЫЕ БЕГАЮТ ПО ВСЕМ СОСТАВУ.
-3|THE ANIMALS HAVE BEEN CAPTURED.|ЖИВОТНЫХ БЫЛИ ПОЙМАНЫ.
+// Extra space here
+3|THE ANIMALS HAVE BEEN CAPTURED.|ЖИВОТНЫХ БЫЛИ ПОЙМАНЫ.                                                     
 4|SOME OF THE GUARDS SPOT YOU WITH THE BOY.|НЕКОТОРЫЕ ОХРАННИКИ ЗНАЮТ ВАС С МАЛЬЧИКОМ.
 5|SOME OF THE GUARDS SPOT YOU WITH THE BOY.|НЕКОТОРЫЕ ОХРАННИКИ ЗНАЮТ ВАС С МАЛЬЧИКОМ.
 6|YOU ARE JUST INSIDE THE MAIN GATE OF THE BUCCANEER'S BASE.  YOU ARE BEING TAKEN TO THE CENTER OF THE BASE WHERE THE MERCHANTS MAKE CAMP.|ВЫ ПРОСТО В ГЛАВНЫХ ВОРОТАХ БАКАНЕРСКОЙ БАЗЫ. ВАС ПРИНИМАЮТ В ЦЕНТР БАЗЫ, ГДЕ ТОВАРЫ СОБИРАЮТ ЛАГЕРЬ.
@@ -201,7 +210,8 @@
 21|LEAVE|ПОКИНУТЬ
 22|BRIBE|ВЗЯТЬ
 23|ATTACK|АТАКА
-24|YOU OFFER THE GUARDS SOME MONEY BUT THEY REFUSE.  ONE OF THE GUARDS SAYS 'GET OTTA' HERE YA SCUM'|ВЫ ПРЕДЛАГАЕТЕ ОХРАНЕ НЕКОТОРЫЕ ДЕНЬГИ, НО ОНИ ОТКАЗЫВАЕТСЯ. ОДИН ИЗ СТРАЖНИКОВ СКАЗЫВАЙТЕ ОТТА "ЗДЕСЬ, Я, НАПАДНИК"
+// Extra space here
+24|YOU OFFER THE GUARDS SOME MONEY BUT THEY REFUSE.  ONE OF THE GUARDS SAYS 'GET OTTA' HERE YA SCUM'|ВЫ ПРЕДЛАГАЕТЕ ОХРАНЕ НЕКОТОРЫЕ ДЕНЬГИ, НО ОНИ ОТКАЗЫВАЕТСЯ. ОДИН ИЗ СТРАЖНИКОВ СКАЗЫВАЙТЕ ОТТА "ЗДЕСЬ, Я, НАПАДНИК"                                                              
 25|ATTACK|АТАКА
 26|LEAVE|ПОКИНУТЬ
 27|YOU KILL THE GUARDS BUT ARE CAUGHT DOING IT.  A LARGE GROUP OF GUARDS RUN TOWARD YOU AND ATTACK.|ВЫ УБИВАЕТЕ ОХРАННИК, НО ЗНАМЯТ ЭТО. БОЛЬШАЯ ГРУППА ОХРАННИКОВ БЕГАЕТ НА ВАС И НАПАДАЕТ.
@@ -286,4 +296,5 @@
 106|ATTACK GUARDS|АТАКУЮЩИЕ СТРАЖИ
 107|LEAVE|ПОКИНУТЬ
 108|YOU ARE JUST OUTSIDE THE SLAVE PEN.|ВЫ ТОЛЬКО ВНЕ РАБОЧЕЙ ПЕРЫ.
-109|YOU DO NOT HAVE A PASS TO SHOW THE GUARDS!|У ВАС НЕТ ПРОПУСКА, ЧТОБЫ ПОКАЗАТЬ ОХРАНУ
+// Extra space here
+109|YOU DO NOT HAVE A PASS TO SHOW THE GUARDS!|У ВАС НЕТ ПРОПУСКА, ЧТОБЫ ПОКАЗАТЬ ОХРАНУ                                                              

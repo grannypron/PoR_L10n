@@ -1,10 +1,10 @@
 ﻿// GOTO Event address table
 // These 5 are in every ECL
-@@0|0|4|22|39188|9914
-@@1|0|8|237|39403|99EB
-@@2|0|12|352|39518|9A5E
-@@3|0|16|405|39571|9A93
-@@4|0|20|500|39666|9AF2
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
 //
 @@214|24|7637|7647|46813|1F 00 02 00 FF 00 00 FF FF FF 
 @@215|24|7494|7520|46686|04 01 D2 6D 09 00 32 01 D3 6D 
@@ -264,7 +264,8 @@
 132|IN THIS ROOM ARE SOME GOBLIN SLAVES THAT ARE COWERING IN THE CORNER.  THEY ALL SCREAM 'PLEASE DON'T KILL US.'  WHAT WILL YOU DO?|В этой комнате несколько рабов-гоблинов, которые прячутся в углу. ОНИ ВСЕ КРИЧИТ: "ПОЖАЛУЙСТА, НЕ УБИВАЙТЕ НАС". ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
 133|KILL THEM|УБЕЙ ИХ
 134|LET THEM GO|ОТПУСТИ ИХ
-135|YOU COLDLY KILL THE DEFENCELESS GOBLINS.|ВЫ ХОЛОДНО УБИВАЕТЕ БЕЗОПАСНЫХ ГОБЛИНОВ.
+//Extra space here
+135|YOU COLDLY KILL THE DEFENCELESS GOBLINS.|ВЫ ХОЛОДНО УБИВАЕТЕ БЕЗОПАСНЫХ ГОБЛИНОВ.                                                                                                                                                                                                                                      
 136|YOU STAND OUTSIDE A LARGE MANSION.  ON THE WALLS OF THE MANSION ARE CRUDE BLACK HAND PRINTS.|ВЫ СТОИТ ВНЕ БОЛЬШОГО ОСОБНЯКА. НА СТЕНАХ ОСОБНЯКА ГЫРЫЕ ЧЕРНЫЕ ПРИНТЫ РУК.
 137|YOU ENTER INTO A FILTHY ROOM.  EIGHT ORC GUARDS ATTACK YOU IMMEDIATELY.|ВЫ входите в грязную комнату. ВОСЕМЬ ОРКОВ СТРАЖЕЙ НЕМЕДЛЕННО НАПАДАЮТ НА ВАС.
 138|YOU ENTER A ROOM THAT HAS SOME CRUDE HAY BEDS. WHAT WILL YOU DO?|ВЫ заходите в комнату, в которой есть кровати из сырого сена. ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?

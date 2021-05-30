@@ -1,4 +1,12 @@
-﻿@@5957|29|842|5682|44848|C9 49 00 0E 1B 09 00 08 01 FD 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@5957|29|842|5682|44848|C9 49 00 0E 1B 09 00 08 01 FD 
 @@5958|29|859|876|40042|20 00 02 00 FF 37 00 12 00 11 
 @@5959|29|822|1053|40219|24 4A 00 FF 16 00 09 00 0A 01 
 @@5960|29|838|2799|41965|02 01 7F 6E 26 01 7F 6E 00 03 
@@ -182,7 +190,8 @@
 269|THE KOBOLDS ARE TRYING TO SNEAK OFF.|КОБОЛДЫ ПЫТАЮТСЯ ОТКРЫТЬСЯ.
 270|A LIZARDMAN LEADS A PACK OF GIANT LIZARDS ON PATROL BEFORE A DOOR THAT HAS BEEN NAILED CLOSED.  SEEING YOU, THE MONSTERS ATTACK!|Ящерица ведет стаю гигантских ящериц на патруль перед дверью, которая была заколочена гвоздями. ВИДЯ ВАС, МОНСТРЫ НАПАДАЮТ!
 271|A WIDE-EYED WOMAN IS SEATED ON A RUG.  AT YOUR ENTRY, SHE STANDS. 'GREETINGS BOLD ONES, I HAVE LONG AWAITED YOUR COMING.  MY TIME HERE IS SHORT FOR THE WORLD ENTERS A NEW AGE.|ШИРОКОГЛАЗНАЯ ЖЕНЩИНА СИДЕНА НА КОВРИК. ПРИ ВАШЕМ ВХОДЕ ОНА СТОИТ. "ПРИВЕТСТВУЮЩИЕ, Я ДОЛГО ЖДАЛ ВАШЕГО ПРИБЫТИЯ. МОЕ ВРЕМЯ ЗДЕСЬ КОРОТКО - МИР вступает в новую эру.
-272|AN EVIL SPIRIT FROM AN UNHOLY POOL GUIDES YOUR ENEMIES. IT HIDES BEHIND A FAIR COUNTENANCE. BE NOT DECEIVED.' WITH THAT, THE WOMAN IS GONE.|ЗЛОЙ ДУХ ИЗ НЕЧЕСТНОГО БАССЕЙНА НАПРАВЛЯЕТ ВАШИХ ВРАГОВ. ЭТО СКРЫВАЕТСЯ ЗА СПРАВЕДЛИВОЙ СЧЁТНОСТЬЮ. НЕ ОБМАНЫВАЙТЕСЬ ". С ЭТИМ ЖЕНЩИНА УШЛА.
+// Extra space here
+272|AN EVIL SPIRIT FROM AN UNHOLY POOL GUIDES YOUR ENEMIES. IT HIDES BEHIND A FAIR COUNTENANCE. BE NOT DECEIVED.' WITH THAT, THE WOMAN IS GONE.|ЗЛОЙ ДУХ ИЗ НЕЧЕСТНОГО БАССЕЙНА НАПРАВЛЯЕТ ВАШИХ ВРАГОВ. ЭТО СКРЫВАЕТСЯ ЗА СПРАВЕДЛИВОЙ СЧЁТНОСТЬЮ. НЕ ОБМАНЫВАЙТЕСЬ ". С ЭТИМ ЖЕНЩИНА УШЛА.                                        
 273|NORTH WALL.|СЕВЕРНАЯ СТЕНА.
 274|SOUTH WALL.|ЮЖНАЯ СТЕНА.
 275|YOU PASS INTO HIDDEN CATACOMBS. THIS LARGE ROOM IS DIMLY LIT BY SPUTTERING TORCHES. THROUGH THE SMOKE YOU SEE CURTAINS HUNG TO COVER DOORWAYS.|ВЫ ПРОХОДИТЕ В СКРЫТЫЕ КАТАКОМБЫ. ЭТА БОЛЬШАЯ КОМНАТА ТЯГКО ОСВЕЩЕНА ФАКЕЛЯМИ. В ДУМЕ ВЫ ВИДЕТЕ ЗАВЕСЫ, ЗАКРЫВАЕМЫЕ, ЗАКРЫВАЕМЫЕ ДВЕРНЫМИ ПРОЕЗДАМИ.
@@ -195,7 +204,8 @@
 282| OF KUTO'S WELL.| КУТО ХОРОШО.
 283|A RAIN OF ARROWS POURS OVER YOU.|ДОЖДЬ СТРЕЛ НАХОДИТ НА ВАС.
 284|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
-285|YOU ARE STRIPPED OF ALL VALUABLES AND BLINDFOLDED.  THE BANDITS RELEASE YOU SOMEWHERE ABOVE GROUND.|У ВАС ОГРАНИЧЕНЫ ВСЕ ЦЕННОСТИ И ОСВОБОЖДЕНЫ. БАНДИТЫ ВЫПУСКАЮТ ВАС ГДЕ-ТО НАД ЗЕМЛЕЙ.
+// Extra space here
+285|YOU ARE STRIPPED OF ALL VALUABLES AND BLINDFOLDED.  THE BANDITS RELEASE YOU SOMEWHERE ABOVE GROUND.|У ВАС ОГРАНИЧЕНЫ ВСЕ ЦЕННОСТИ И ОСВОБОЖДЕНЫ. БАНДИТЫ ВЫПУСКАЮТ ВАС ГДЕ-ТО НАД ЗЕМЛЕЙ.                                                    
 286|GNOLLS |GNOLLS
 287|KOBOLDS. |КОБОЛЬДЫ.
 288|LIZARDMEN. |Ящерицы.
@@ -232,7 +242,8 @@
 319|NORTH|К СЕВЕРУ
 320|EAST|ВОСТОК
 321|THE DOOR HAS BEEN NAILED SHUT.  WILL YOU FORCE IT OPEN?|ДВЕРЬ ЗАКРЫТА. ВЫ ПРИНУДИТЕ ЕЕ ОТКРЫТЬ?
-322|THE DOOR IS FREED.|ДВЕРЬ СВОБОДНА.
+// Extra space here
+322|THE DOOR IS FREED.|ДВЕРЬ СВОБОДНА.                    
 323|YOU STUMBLE ON SOME WAITING KOBOLDS!|ВЫ НАКАЧИВАЕТЕСЬ НА НЕКОТОРЫХ ЖДУЩИХ КОБОЛДОВ!
 324|'WE HAVE TO KEEP THIS AREA FREE OF INTRUDERS -- BOSS'S ORDERS.  WE'LL LET YOU GO THIS TIME.  BUT IF YOU COME BACK, YOU'LL FACE BIG TROUBLE.' THE MONSTERS LEAVE.|"МЫ ДОЛЖНЫ БЕЗОПАСНЫМ В ЭТОМ ЗОНЕ ОТ ВНУТРЕННИХ ЗАКАЗОВ - ЗАКАЗОВ БОССА. НАСТОЯЩИЙ РАЗ. НО ЕСЛИ ВЫ ВОЗВРАЩАЕТЕСЬ ВЕРНУТЬСЯ, У ВАС БУДЕТ БОЛЬШАЯ ПРОБЛЕМА ". МОНСТРЫ УХОДЯТ.
 325|YOU HAVE OFFENDED THE |ВЫ ОШИБИЛИ

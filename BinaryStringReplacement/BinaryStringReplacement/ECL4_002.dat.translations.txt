@@ -1,4 +1,12 @@
-﻿@@2939|2|91|300|39466|12 01 79 6E 14 01 82 6E 00 16 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@2939|2|91|300|39466|12 01 79 6E 14 01 82 6E 00 16 
 @@2940|2|191|266|39432|05 01 79 6E 03 01 CA 6D 00 01 
 @@2941|2|194|809|39975|74 4A 00 00 17 00 0C 00 06 00 
 @@2942|2|197|1065|40231|E1 4A 00 00 17 00 12 80 22 50 
@@ -192,7 +200,8 @@
 17|DESTROY|РАЗРУШАТЬ
 18|LEAVE|ПОКИНУТЬ
 19|YOU FIND NOTHING OF ANY VALUE.|ВЫ НИЧЕГО НЕ НАЙДЕТЕ КАКОЙ-ЛИБО ЦЕННОСТИ.
-20|A SIMPLE KITCHEN, A FEW CLAY BOWLS ADORN THE FLOOR.|ПРОСТАЯ КУХНЯ, ПОЛ УКРАШЕНЫ НЕСКОЛЬКО ГЛИНЯНЫХ ЧАШЕЙ.
+// Extra space here
+20|A SIMPLE KITCHEN, A FEW CLAY BOWLS ADORN THE FLOOR.|ПРОСТАЯ КУХНЯ.                    
 21|THE REMAINS OF A SMOKING FIRE.|ОСТАЕТСЯ ДЫМЯЩИЙСЯ ОГОНЬ.
 22|BREAD AND MEAT LIE ABOUT, AS WELL AS PIECES OF HUMAN ANATOMY.|О ХЛЕБЕ И МЯСЕ ЛОЖЬ, А ТАКЖЕ, КАК ОБЪЕКТЫ АНАТОМИИ ЧЕЛОВЕКА.
 23|YOU ARE IN A VERY SMALL, DARK ROOM.|ВЫ В ОЧЕНЬ МАЛЕНЬКОЙ, ТЕМНОЙ КОМНАТЕ.
@@ -205,10 +214,10 @@
 30|YOU ARE IN A LARGE ROOM WHICH SERVES AS A CRUDE TEMPLE, AND CAUSES A VAGUE FEELING OF DISQUIET.|ВЫ НАХОДИТЕСЬ В БОЛЬШОЙ КОМНАТЕ, КОТОРЫЕ СЛУЖАЕТ ГРОМКОГО ХРАМА И ВЫЗЫВАЕТ ЧУВСТВИТЕЛЬНОСТЬ ЧУВСТВА НЕПРЕРЫВНОСТИ.
 31|ATOP A SMALL BONE ALTAR, STANDS AN ANCIENT, HOBGOBLIN. SHE SCREAMS 'I AM THE MIGHTY GRISHNAK! YOU HAVE INTERRUPTED MY UNHOLY RITES! FEEL MY INFERNAL WRATH!'|АТОП МАЛЕНЬКИЙ КОСТНЫЙ АЛТАР, СТОИТ ДРЕВНИЙ, ХОБГОБЛИН. ОНА КРИЧИТ: "Я МОГУЩЕСТВЕННЫЙ ГРИШНАК! ВЫ ПРЕРЫВАЛИ МОИ НЕЧЕСТНЫЕ ОБРЯДЫ! ПОЧУВСТВУЙ МОЙ адский гнев!
 32|THIS ROOM HAS HAD BLOOD SMEARED ON THE FLOOR AND WALLS IN A RITUAL, UNHOLY MANNER.|В ЭТОЙ НОМЕРЕ ИМЕЕТСЯ КРОВЬ НА ПОЛУ И СТЕНАХ ПО РИТУАЛЬНОМУ НЕЧАСТНЫМ ОБЫЧАМ.
-33|'IN THE EAST WALL IS THE SECRET DOOR.' SAYS SKULLCRUSHER.'IF WE GO THROUGH WE CAN SURPRISE THEM.'|"В ВОСТОЧНОЙ СТЕНЕ СЕКРЕТНАЯ ДВЕРЬ". ГОВОРИТ SKULLCRUSHER. "ЕСЛИ МЫ ПРОХОДИМ, МЫ МОЖЕМ ИХ УДИВИТЬ".
+33|'IN THE EAST WALL IS THE SECRET DOOR.' SAYS SKULLCRUSHER.'IF WE GO THROUGH WE CAN SURPRISE THEM.'|"В ВОСТОЧНОЙ СТЕНЕ СЕКРЕТНАЯ ДВЕРЬ". "ЕСЛИ МЫ ПРОХОДИМ, МЫ МОЖЕМ ИХ УДИВИТЬ".
 34|THIS ROOM IS DIMLY LIT WITH GUTTERING TORCHES.|ДАННАЯ КОМНАТА ТУМНО ОСВЕЩЕНА ФАКЕРАМИ.
 35|YOU SEE THE CHIEF OF THE HOBGOBLINS, A HUGE OGRE. AS YOU ENTER, HE RISES TO HIS FULL, TEN FEET OF HEIGHT; HIS HEAD WREATHED IN THE FLICKERING SHADOWS.|ВЫ ВИДЕТЕ НАЧАЛЬНИКА ХОБГОБЛИНОВ, ОГРОМНОГО ОГРА. Когда вы входите, он поднимается в ДЕСЯТЬ ФУТОВ ВЫСОТЫ; Его голова плыла в мерцающих тенях.
-36|'PUNY CREATURES,' HE BELLOWS.'I ALLOWED YOU TO TOY WITH MY MINIONS, BUT NOW I'LL CRUSH THE LIFE FROM YOUR LIMBS.'|"PUNY CREATURES", - СООБЩАЕТ ОН, - "Я РАЗРЕШАЮ ВАМ ИГРАТЬ С МОИМИ МИНЬОНАМИ, НО СЕЙЧАС Я РАЗРУШЬ ЖИЗНЬ ВАШИМИ КОНЕЧНОСТЯМИ".
+36|'PUNY CREATURES,' HE BELLOWS.'I ALLOWED YOU TO TOY WITH MY MINIONS, BUT NOW I'LL CRUSH THE LIFE FROM YOUR LIMBS.'|"Я РАЗРЕШАЮ ВАМ ИГРАТЬ С МОИМИ МИНЬОНАМИ, НО СЕЙЧАС Я РАЗРУШЬ ЖИЗНЬ ВАШИМИ КОНЕЧНОСТЯМИ".
 37|YOU FIND AN IRON BOX, ACROSS THE LOCK IS THE SEAL OF THE FAMILY OF CADORNA. OPENING THE BOX WILL DAMAGE THE SEAL BEYOND REPAIR. WHAT DO YOU DO?|ВЫ НАХОДИТЕ ЖЕЛЕЗНЫЙ ЯЩИК, ЧЕРЕЗ ЗАМОК НАХОДИТСЯ ПЕЧАТЬ СЕМЬИ КАДОРНА. ОТКРЫТИЕ КОРОБКИ ПРИВЕСТИ К ПОВРЕЖДЕНИЮ УПЛОТНЕНИЯ. ЧТО ВЫ ДЕЛАЕТЕ?
 38|OPEN IT|ОТКРОЙ ЭТО
 39|TAKE IT UNOPENED|ПРИНИМАЙТЕ ЭТО НЕОТКРЫТО

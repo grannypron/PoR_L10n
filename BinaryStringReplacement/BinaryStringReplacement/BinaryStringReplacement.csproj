@@ -98,6 +98,17 @@
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Batch|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Batch\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -127,13 +138,26 @@
     <Content Include="ECL3_014.dat.translations.txt" />
     <Content Include="ECL3_011.dat.translations.txt" />
     <Content Include="ECL3_008.dat.translations.txt" />
-    <Content Include="ECL4_000.dat.translations - Copy %282%29.txt" />
-    <Content Include="ECL4_000.dat.translations - Copy.txt" />
-    <Content Include="ECL8_000.dat.translations.txt" />
-    <Content Include="ECL7_000.dat.translations.txt" />
-    <Content Include="ECL6_000.dat.translations.txt" />
-    <Content Include="ECL5_000.dat.translations.txt" />
-    <Content Include="ECL4_000.dat.translations.txt" />
+    <Content Include="ECL4_021.dat.translations.txt" />
+    <Content Include="ECL4_010.dat.translations.txt" />
+    <Content Include="ECL5_005.dat.translations.txt" />
+    <Content Include="ECL5_007.dat.translations.txt" />
+    <Content Include="ECL5_006.dat.translations.txt" />
+    <Content Include="ECL5_004.dat.translations.txt" />
+    <Content Include="ECL6_028.dat.translations.txt" />
+    <Content Include="ECL6_025.dat.translations.txt" />
+    <Content Include="ECL6_019.dat.translations.txt" />
+    <Content Include="ECL7_026.dat.translations.txt" />
+    <Content Include="ECL7_023.dat.translations.txt" />
+    <Content Include="ECL7_022.dat.translations.txt" />
+    <Content Include="ECL8_029.dat.translations.txt" />
+    <Content Include="ECL8_027.dat.translations.txt" />
+    <Content Include="ECL8_016.dat.translations.txt" />
+    <Content Include="ECL8_013.dat.translations.txt" />
+    <Content Include="ECL7_017.dat.translations.txt" />
+    <Content Include="ECL6_001.dat.translations.txt" />
+    <Content Include="ECL5_003.dat.translations.txt" />
+    <Content Include="ECL4_002.dat.translations.txt" />
     <Content Include="game.ovr.translations.txt" />
     <Content Include="start.exe.translations.txt" />
   </ItemGroup>

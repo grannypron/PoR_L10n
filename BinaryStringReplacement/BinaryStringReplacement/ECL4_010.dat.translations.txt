@@ -1,4 +1,12 @@
-﻿@@3113|10|658|349|39515|00 01 D2 6D 09 00 00 01 D3 6D 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@3113|10|658|349|39515|00 01 D2 6D 09 00 00 01 D3 6D 
 @@3114|10|370|6780|45946|48 00 02 00 48 0D 3A 0D 12 80 
 @@3115|10|334|349|39515|00 01 D2 6D 09 00 00 01 D3 6D 
 @@3116|10|205|228|39394|00 98 00 1E 01 92 9B 01 93 9B 
@@ -271,14 +279,16 @@
 148| WIGHTS APPEAR FROM BEHIND THE TOWER.| ИЗ-ЗА БАШНИ ПОЯВЛЯЮТСЯ ПЛАТЫ.
 149|THE LOWER CHAMBER IS FILLED WITH GLASS AND FUR OBJECTS OF ALL TYPES. |НИЖНЯЯ КАМЕРА ЗАПОЛНЕНА СТЕКЛЯННЫМИ И МЕХОВЫМИ ПРЕДМЕТАМИ ВСЕХ ТИПОВ.
 150|A SHARP CRACK SPLITS THE AIR AND YOU ARE STUNG.|ОСТРАЯ ТРЕЩИНА РАЗДЕЛЯЕТ ВОЗДУХ, И ВЫ УЖАЛИТЕСЬ.
-151|YOU SURPRISE A FIGURE AS IT SUMMONS A WIGHT.|ВЫ УДИВИТЕ ФИГУРУ, КАК ОНА ВЫЗЫВАЕТ УМЕР.
+// Extra space here
+151|YOU SURPRISE A FIGURE AS IT SUMMONS A WIGHT.|ВЫ УДИВИТЕ ФИГУРУ, КАК ОНА ВЫЗЫВАЕТ УМЕР.                                                                         
 152|IN THE ENTRY IS SET A HUGE PAIR OF BRASS DOORS.|В ПОДЪЕМЕ УСТАНАВЛИВАЕТСЯ ОГРОМНАЯ ПАРА ЛАТУННЫХ ДВЕРЕЙ.
 153|SHADOWY FORMS FLOW FROM BETWEEN THE DOORS AND ATTACK.|ТЕНЕВЫЕ ФОРМЫ ПОТОКАЮТ МЕЖДУ ДВЕРЬЮ И АТАКУЮТ.
 154|A VOICE SPEAKS, 'COME, MY BRAVE ADVENTURERS.  YOU MUST TAKE MY GIFTS TO BETTER FIGHT THE EVIL THAT HAS COME TO THE CITY.'|ГОЛОС ГОВОРИТ: "Приходите, МОИ ХРАБШИЕ ПРИКЛЮЧАТЕЛИ. ВЫ ДОЛЖНЫ ПРИНИМАТЬ МОИ ПОДАРКИ, ЧТОБЫ БОРОТЬСЯ со злом, которое пришло в город ".
 155|FROM THE MAGICALLY-LIT TOMB OF A BRAVE KNIGHT, A BODY RISES FROM ITS RESTING PLACE TO LAY WEAPONS BEFORE THE PARTY.|ИЗ ВОЛШЕБНО ОСВЕЩЕННОЙ Гробницы Храброго Рыцаря поднимается тело, чтобы заложить оружие перед партией.
 156|INSIDE THE RUINS OF A BLACK MARBLE CRYPT IS A COFFIN FILLED WITH DUST.  AMONG THE PILES OF DUST ARE SEVERAL BROKEN CROSSES, VIALS OF SPILLED HOLY WATER, AND A SCROLL.|ВНУТРИ РУИН ЧЕРНОГО МРАМОРНОГО КРИПТА НАХОДИТСЯ ГРОБ, ЗАПОЛНЕННЫЙ ПЫЛЬЮ. СРЕДИ КУПОК ПЫЛИ НЕСКОЛЬКО СЛОМАННЫХ КРЕСТОВ, ФУНКЦИЙ С ПРОЛИВОМ СВЯТОЙ ВОДЫ И СВИТОК.
 157|DO YOU READ THE SCROLL?|ВЫ ЧИТАЕТЕ СВИТОК?
-158|THE SCROLL IS PLACED IN YOUR JOURNAL AS ENTRY 43.|СВИТОК РАЗМЕЩЕНА В ВАШЕМ ЖУРНАЛЕ КАК ЗАПИСЬ 43.
+// Extra space here
+158|THE SCROLL IS PLACED IN YOUR JOURNAL AS ENTRY 43.|СВИТОК РАЗМЕЩЕНА В ВАШЕМ ЖУРНАЛЕ КАК ЗАПИСЬ 43.                                                                  
 159|DO YOU WANT TO DO ANYTHING WITH THE COFFIN?|ВЫ ХОТИТЕ ЧТО ДЕЛАТЬ С ГРОБОМ?
 160|WHAT DO YOU WANT TO DO TO IT?|ЧТО ВЫ ХОТИТЕ С ЭТОМ ДЕЛАТЬ?
 161|EXAMINE|ИССЛЕДОВАТЬ

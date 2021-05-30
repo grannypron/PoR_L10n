@@ -1,4 +1,12 @@
-﻿@@5089|23|620|741|39907|01 90 2C 09 00 FF 01 E1 6D 00 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@5089|23|620|741|39907|01 90 2C 09 00 FF 01 E1 6D 00 
 @@5090|23|623|781|39947|40 9C 01 79 6E 01 7A 6E 2A 01 
 @@5091|23|626|854|40020|28 64 F5 60 4C 51 60 48 F0 CB 
 @@5092|23|629|1239|40405|9C 99 01 01 14 99 02 01 9C 99 
@@ -124,8 +132,10 @@
 @@5212|23|4064|227|39393|81 6E 00 01 80 1B 41 21 53 4E 
 @@5213|23|4079|741|39907|01 90 2C 09 00 FF 01 E1 6D 00 
 //
-129|YOU SEE ROCKS SCATTERED ABOUT THE SMOOTH FLAGSTONES. |ВЫ ВИДЕТЕ КАМНИ, РАССЕПАННЫЕ НА ГЛАДКИЕ ФЛАГКАММЫ.
-130|YOU SEE A GROUP OF FIVE LIZARD MEN. THEY HISS AT YOU.|ВЫ ВИДИТЕ ГРУППУ ИЗ ПЯТИ ЯЩЕРИЦ. ОНИ У ВАС.
+// Extra space here
+129|YOU SEE ROCKS SCATTERED ABOUT THE SMOOTH FLAGSTONES. |ВЫ ВИДЕТЕ КАМНИ, РАССЕПАННЫЕ НА ГЛАДКИЕ ФЛАГКАММЫ.                   
+// Extra space here
+130|YOU SEE A GROUP OF FIVE LIZARD MEN. THEY HISS AT YOU.|ВЫ ВИДИТЕ ГРУППУ ИЗ ПЯТИ ЯЩЕРИЦ. ОНИ У ВАС.                   
 131|THEY ARE WARY, BUT NOT HOSTILE.|ОНИ осторожны, но не враждебны.
 132|STANDING READY THEIR LEADER SAYS 'YOU MUST BE THE SERVANTS OF YARASH!'|СТОЯ ГОТОВЫ. ИХ ЛИДЕР ГОВОРЯТ: "ВЫ ДОЛЖНЫ БЫТЬ СЛУГАМИ ЯРАША!"
 133|THEIR LEADER SAYS 'FOUL SERVANTS OF YARASH!'|ИХ ВЕДУЩИЙ СКАЗЫВАЕТ "ГЛУБОКИЕ СЛУГИ ЯРАША!"
@@ -158,12 +168,18 @@
 160|SILVER|СЕРЕБРО
 161|GOLD|ЗОЛОТО
 162|THIS IS THE DESK OF YARASH. ON IT IS A LITTER OF PAPERS.|ЭТО СТОЛ ЯРАША. НА ЭТОМ ПОМЯ ДОКУМЕНТОВ.
-163|AMONG THE PAPERS ON THE DESK YOU FIND THE FOLLOWING AND SLIP THEM INTO YOUR JOURNAL:|СРЕДИ ДОКУМЕНТОВ НА СТОЛЕ ВЫ НАЙДЕТЕ СЛЕДУЮЩИЕ И СЛОВИТЕ ИХ В СВОЙ ЖУРНАЛ:
-164|A LETTER FROM THE BOSS, TELLING YARASH TO JOIN OR DIE. (ENTRY 33)|ПИСЬМО ОТ БОССА, СОВЕРШЕННО ЯРАШУ ПРИСОЕДИНИТЬСЯ ИЛИ УМЕРТЬ. (ЗАПИСЬ 33)
-165|AN UNSENT REPLY TO THIS LETTER. (ENTRY 49)|НЕ ОТПРАВЛЕННЫЙ ОТВЕТ НА ДАННОЕ ПИСЬМО. (ЗАПИСЬ 49)
-166|A MESSAGE TO THE BUCCANEERS OFFERING A BOUNTY FOR A REAL SAHUAGIN. (ENTRY 27)|ПОСЛАНИЕ БУКАНЕРАМ, ПРЕДЛАГАЮЩИМ НАГРАДЫ ЗА НАСТОЯЩИЙ САХУАГИН. (ЗАПИСЬ 27)
-167|A WARNING TO AN AGENT ABOUT THE DANGERS IN THE MOUNTAINS TO THE NORTHWEST. (ENTRY 56)|ПРЕДУПРЕЖДЕНИЕ АГЕНТУ ОБ ОПАСНОСТИ В ГОРАХ НА СЕВЕРО-ЗАПАДЕ. (ЗАПИСЬ 56)
-168|A NOTE TO A TRAPPER ABOUT KOBOLDS AND HOBGOBLINS. (ENTRY 40)|ЗАПИСКА К ЛОВУШКЕ О КОБОЛЬДАХ И ХОБГОБЛИНАХ. (ЗАПИСЬ 40)
+// Extra space here
+163|AMONG THE PAPERS ON THE DESK YOU FIND THE FOLLOWING AND SLIP THEM INTO YOUR JOURNAL:|СРЕДИ ДОКУМЕНТОВ НА СТОЛЕ ВЫ НАЙДЕТЕ СЛЕДУЮЩИЕ И СЛОВИТЕ ИХ В СВОЙ ЖУРНАЛ:                   
+// Extra space here
+164|A LETTER FROM THE BOSS, TELLING YARASH TO JOIN OR DIE. (ENTRY 33)|ПИСЬМО ОТ БОССА, СОВЕРШЕННО ЯРАШУ ПРИСОЕДИНИТЬСЯ ИЛИ УМЕРТЬ. (ЗАПИСЬ 33)                   
+// Extra space here
+165|AN UNSENT REPLY TO THIS LETTER. (ENTRY 49)|НЕ ОТПРАВЛЕННЫЙ ОТВЕТ НА ДАННОЕ ПИСЬМО. (ЗАПИСЬ 49)                   
+// Extra space here
+166|A MESSAGE TO THE BUCCANEERS OFFERING A BOUNTY FOR A REAL SAHUAGIN. (ENTRY 27)|ПОСЛАНИЕ БУКАНЕРАМ, ПРЕДЛАГАЮЩИМ НАГРАДЫ ЗА НАСТОЯЩИЙ САХУАГИН. (ЗАПИСЬ 27)                   
+// Extra space here
+167|A WARNING TO AN AGENT ABOUT THE DANGERS IN THE MOUNTAINS TO THE NORTHWEST. (ENTRY 56)|ПРЕДУПРЕЖДЕНИЕ АГЕНТУ ОБ ОПАСНОСТИ В ГОРАХ НА СЕВЕРО-ЗАПАДЕ. (ЗАПИСЬ 56)                   
+// Extra space here
+168|A NOTE TO A TRAPPER ABOUT KOBOLDS AND HOBGOBLINS. (ENTRY 40)|ЗАПИСКА К ЛОВУШКЕ О КОБОЛЬДАХ И ХОБГОБЛИНАХ. (ЗАПИСЬ 40)                   
 169|A SECRET DOOR IS FOUND |НАЙДЕНА ТАЙНАЯ ДВЕРЬ
 170|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ ВОЗВРАТ, ЧТОБЫ ПРОДОЛЖИТЬ
 //171| | 
@@ -180,9 +196,12 @@
 182|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ ВОЗВРАТ, ЧТОБЫ ПРОДОЛЖИТЬ
 //183| | 
 184|'MUTILATING SCUM! WE WILL DIE BEFORE WE LET YOU TWIST US AS YOU HAVE OUR OTHER PEOPLE! BUT YOU WILL DIE FIRST!'|"МУТИЛИРУЮЩАЯ ПАПА! МЫ УМЕРЕМ, ПРЕЖДЕ ЧЕМ МЫ ПОЗВОЛЯЕМ ВАМ КРУТИТЬ НАС, ТАК КАК ВАС ДРУГИЕ НАШИ! НО ВЫ УМЕРЕТЕ ПЕРВЫМ! "
-185|YOU RUN FOR THE EXIT. AS YOU SLAM THE DOOR BEHIND YOU, YOU HEAR AN ENORMOUS EXPLOSION. THE EQUIPMENT IS NOW CERTAINLY DESTROYED.|ВЫ БЕГАЕТЕ НА ВЫХОД. ЗАХЛОПЫВАЯ ДВЕРЬ СЗАДИ, ВЫ СЛЫШАЕТЕ ОГРОМНЫЙ ВЗРЫВ. ОБОРУДОВАНИЕ ТЕПЕРЬ ОБЯЗАТЕЛЬНО УНИЧТОЖЕНО.
-186|THERE IS AN ENORMOUS EXPLOSION! BITS OF PIPE AND OTHER PLUMBING FIXTURES FLY IN ALL DIRECTIONS.|ЕСТЬ ОГРОМНЫЙ ВЗРЫВ! ОТРЕЗКИ ТРУБ И ДРУГИЕ САНТЕХНИКИ ЛЕТУЮТ ВО ВСЕХ НАПРАВЛЕНИЯХ.
-187|YOU HAVE DESTROYED THE LAST PIECE OF EQUIPMENT. |ВЫ УНИЧТОЖИЛИ ПОСЛЕДНЮЮ ЧАСТЬ ОБОРУДОВАНИЯ.
+// Extra space here
+185|YOU RUN FOR THE EXIT. AS YOU SLAM THE DOOR BEHIND YOU, YOU HEAR AN ENORMOUS EXPLOSION. THE EQUIPMENT IS NOW CERTAINLY DESTROYED.|ВЫ БЕГАЕТЕ НА ВЫХОД. ЗАХЛОПЫВАЯ ДВЕРЬ СЗАДИ, ВЫ СЛЫШАЕТЕ ОГРОМНЫЙ ВЗРЫВ. ОБОРУДОВАНИЕ ТЕПЕРЬ ОБЯЗАТЕЛЬНО УНИЧТОЖЕНО.                         
+// Extra space here
+186|THERE IS AN ENORMOUS EXPLOSION! BITS OF PIPE AND OTHER PLUMBING FIXTURES FLY IN ALL DIRECTIONS.|ЕСТЬ ОГРОМНЫЙ ВЗРЫВ! ОТРЕЗКИ ТРУБ И ДРУГИЕ САНТЕХНИКИ ЛЕТУЮТ ВО ВСЕХ НАПРАВЛЕНИЯХ.                        
+// Extra space here
+187|YOU HAVE DESTROYED THE LAST PIECE OF EQUIPMENT. |ВЫ УНИЧТОЖИЛИ ПОСЛЕДНЮЮ ЧАСТЬ ОБОРУДОВАНИЯ.                   
 188|THE WHINE SUBSIDES AS THE PRESSURE IS RELEASED.|ПОНИЖЕНИЕ ДАВЛЕНИЯ ПОНИЖАЕТСЯ ВИЛЬ.
 189|THE LIZARD MEN'S FEAR CHANGES TO RAGE AND THEY THROW THEIR BARRELS OF CONTAMINANT ON THE PARTY.|Страх мужчин-ящериц переходит в ярость, и они бросают свои бочки с загрязнением на партию.
 190|BLUE.|СИНИЙ.
@@ -197,5 +216,7 @@
 199|BEHIND YOU.|ЗА ТОБОЙ.
 200|TO YOUR LEFT.|СЛЕВА.
 201|YOU THROW A ROCK. SUDDENLY IT DISAPPEARS WITH A FLASH!|ВЫ БРОСАЕТЕ КАМЕНЬ. ВНЕЗАПНО ПРОИСХОДИТ ВСПЫШКОЙ!
-202|YOU START TO RUN FOR THE EXIT... YOU DON'T MAKE IT.|ВЫ НАЧИНАЕТЕ БЕЖАТЬ НА ВЫХОД ... ВЫ НЕ ДЕЛАЕТЕ ЭТО.
-203|THERE IS AN ENORMOUS EXPLOSION! BITS OF PIPE AND OTHER PLUMBING FIXTURES FLY IN ALL DIRECTIONS.|ЕСТЬ ОГРОМНЫЙ ВЗРЫВ! ОТРЕЗКИ ТРУБ И ДРУГИЕ САНТЕХНИКИ ЛЕТУЮТ ВО ВСЕХ НАПРАВЛЕНИЯХ.
+// Extra space here
+202|YOU START TO RUN FOR THE EXIT... YOU DON'T MAKE IT.|ВЫ НАЧИНАЕТЕ БЕЖАТЬ НА ВЫХОД ... ВЫ НЕ ДЕЛАЕТЕ ЭТО.                                                              
+// Extra space here
+203|THERE IS AN ENORMOUS EXPLOSION! BITS OF PIPE AND OTHER PLUMBING FIXTURES FLY IN ALL DIRECTIONS.|ЕСТЬ ОГРОМНЫЙ ВЗРЫВ! ОТРЕЗКИ ТРУБ И ДРУГИЕ САНТЕХНИКИ ЛЕТУЮТ ВО ВСЕХ НАПРАВЛЕНИЯХ.                                                              

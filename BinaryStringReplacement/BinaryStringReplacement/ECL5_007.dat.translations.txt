@@ -1,4 +1,12 @@
-﻿@@4080|7|305|102|39268|09 01 FE 49 09 00 08 01 FD 49 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@4080|7|305|102|39268|09 01 FE 49 09 00 08 01 FD 49 
 @@4081|7|322|3887|43053|7E 2C E3 D7 24 E1 E0 50 80 54 
 @@4082|7|258|446|39612|01 90 2C 00 21 00 03 00 02 00 
 @@4083|7|261|493|39659|6C 4A 00 08 01 82 6E 17 01 01 
@@ -113,8 +121,10 @@
 @@4192|7|3854|3308|42474|03 01 4B C0 09 00 06 01 4C C0 
 @@4193|7|4018|63|39229|81 6E 00 01 80 1A 41 21 53 4E 
 //
-372|KNOWING THAT TYRANTHRAXUS HAS FINALLY BEEN DEFEATED, YOU LEAVE THE CASTLE. MOVING THROUGH THE STREETS YOU CATCH OCCASIONAL GLIMPSES OF MONSTERS IN HIDING. NONE ATTACK.|ЗНАЯ, ЧТО ТИРАНТРАКСУС НАКОНЕЦ ПОБЕДИЛ, ВЫ покидаете ЗАМОК. ДВИГАЯСЬ ПО УЛИЦАМ, ВЫ ИЗБЫВАЕТЕ ОТНОСИТЕЛЬНО МОНСТРОВ, КОТОРЫЕ СКРЫВАЕТСЯ. НЕТ АТАКИ.
-373|FINALLY YOU ENTER THE CIVILIZED AREA OF PHLAN.|НАКОНЕЦ ВЫ ВХОДИТЕ В ЦИВИЛИЗОВАННУЮ ЗОНУ ФЛАНА.
+// Extra space here
+372|KNOWING THAT TYRANTHRAXUS HAS FINALLY BEEN DEFEATED, YOU LEAVE THE CASTLE. MOVING THROUGH THE STREETS YOU CATCH OCCASIONAL GLIMPSES OF MONSTERS IN HIDING. NONE ATTACK.|ЗНАЯ, ЧТО ТИРАНТРАКСУС НАКОНЕЦ ПОБЕДИЛ, ВЫ покидаете ЗАМОК. ДВИГАЯСЬ ПО УЛИЦАМ, ВЫ ИЗБЫВАЕТЕ ОТНОСИТЕЛЬНО МОНСТРОВ, КОТОРЫЕ СКРЫВАЕТСЯ. НЕТ АТАКИ.                                                    
+// Extra space here
+373|FINALLY YOU ENTER THE CIVILIZED AREA OF PHLAN.|НАКОНЕЦ ВЫ ВХОДИТЕ В ЦИВИЛИЗОВАННУЮ ЗОНУ ФЛАНА.                                                     
 374|YOU ARE IN AN EMPTY ROOM. THE ONLY FEATURE IS A TRAP DOOR IN THE CENTER. DO YOU OPEN IT?|ВЫ В ПУСТОЙ КОМНАТЕ. ЕДИНСТВЕННАЯ ОСОБЕННОСТЬ - ДВЕРЬ-ЛЮК В ЦЕНТРЕ. ВЫ ОТКРЫВАЕТЕ?
 375|WHO WILL OPEN IT?|КТО ОТКРЫВАЕТ?
 376|QUICKLY LOOKING AWAY, |БЫСТРО СМОТРЕТЬ,
@@ -172,6 +182,7 @@
 428|BEHIND YOU.|ЗА ТОБОЙ.
 429|TO YOUR RIGHT.|НА ВАШЕ ПРАВО.
 430|KNOWING THAT TYRANTHRAXUS HAS FINALLY BEEN DEFEATED, YOU LEAVE THE CASTLE. MOVING THROUGH THE STREETS YOU CATCH OCCASIONAL GLIMPSES OF MONSTERS IN HIDING. NONE ATTACK.|ЗНАЯ, ЧТО ТИРАНТРАКСУС НАКОНЕЦ ПОБЕДИЛ, ВЫ покидаете ЗАМОК. ДВИГАЯСЬ ПО УЛИЦАМ, ВЫ ИЗБЫВАЕТЕ ОТНОСИТЕЛЬНО МОНСТРОВ, КОТОРЫЕ СКРЫВАЕТСЯ. НЕТ АТАКИ.
+// Extra space here
 431|FINALLY YOU ENTER THE CIVILIZED AREA OF PHLAN.|НАКОНЕЦ ВЫ ВХОДИТЕ В ЦИВИЛИЗОВАННУЮ ЗОНУ ФЛАНА.
 432|GENHEERIS|GENHEERIS
 433|KNOWING THAT TYRANTHRAXUS HAS FINALLY BEEN DEFEATED, YOU LEAVE THE CASTLE. MOVING THROUGH THE STREETS YOU CATCH OCCASIONAL GLIMPSES OF MONSTERS IN HIDING. NONE ATTACK.|ЗНАЯ, ЧТО ТИРАНТРАКСУС НАКОНЕЦ ПОБЕДИЛ, ВЫ покидаете ЗАМОК. ДВИГАЯСЬ ПО УЛИЦАМ, ВЫ ИЗБЫВАЕТЕ ОТНОСИТЕЛЬНО МОНСТРОВ, КОТОРЫЕ СКРЫВАЕТСЯ. НЕТ АТАКИ.

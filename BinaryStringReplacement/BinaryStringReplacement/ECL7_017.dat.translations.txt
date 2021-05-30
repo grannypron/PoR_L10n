@@ -1,4 +1,12 @@
-﻿@@4788|17|1505|1193|40359|0B 01 90 98 03 01 C9 49 00 0E 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@4788|17|1505|1193|40359|0B 01 90 98 03 01 C9 49 00 0E 
 @@4789|17|1477|1193|40359|0B 01 90 98 03 01 C9 49 00 0E 
 @@4790|17|1481|276|39442|60 99 09 00 00 01 D2 6D 09 00 
 @@4791|17|1485|1445|40611|79 6E 00 08 01 D1 9E 01 20 A0 
@@ -230,7 +238,8 @@
 30|THE HEADMAN COMES TO YOU AND SAYS, 'ABOUT MY REQUEST OF LAST NIGHT, WHAT IS YOUR DECISION?'|РУКОВОДИТЕЛЬ подходит к вам и говорит: "КАКОЕ ВАШЕ РЕШЕНИЕ ПО ПРОСЬБЕ ПОСЛЕДНЕЙ НОЧИ?"
 31|STAY AND FIGHT|ОСТАВАЙТЕСЬ И СРАЖАЙТЕСЬ
 32|LEAVE|ПОКИНУТЬ
-33|LOOKING DISAPPOINTED THE HEADMAN SAYS, 'GOOD LUCK IN YOUR TRAVELS.'|РАЗОЧАРОВАНИЕ ВИДА ГОЛОВА говорит: "УДАЧИ В ВАШИХ ПУТЕШЕСТВИЯХ".
+// Extra space here
+33|LOOKING DISAPPOINTED THE HEADMAN SAYS, 'GOOD LUCK IN YOUR TRAVELS.'|РАЗОЧАРОВАНИЕ ВИДА ГОЛОВА говорит: "УДАЧИ В ВАШИХ ПУТЕШЕСТВИЯХ".                                                      
 34|PRESS BUTTON OR <RETURN> TO CONTINUE|НАЖМИТЕ КНОПКУ ИЛИ ВОЗВРАТ, ЧТОБЫ ПРОДОЛЖИТЬ
 //35| | 
 36|A HORDE OF KOBOLDS IS ATTACKING THE CAMP. A LONE SENTRY CHARGES BUT IS QUICKLY CUT DOWN. A FAMILY EMERGES FROM A HUT AND CHARGES THE KOBOLDS.|ОРДА КОБОЛЬДОВ НАПАДАЕТ НА ЛАГЕРЬ. LONE SENTRY заряжается, но быстро отключается. СЕМЬЯ ВЫХОДИТ ИЗ ХИЖИ И НАПРАВЛЯЕТ КОБОЛДОВ.
@@ -239,13 +248,15 @@
 39|ALL THE NOMADS HOLD THEIR SWORDS AT THE READY, WATCHING YOU WARILY. MORE NOMADS APPEAR FROM OUT OF TENTS IN THE CAMP.|ВСЕ кочевники держат мечи наготове, осторожно наблюдая за вами. БОЛЬШЕ КОЧЕЧНИКОВ ПОЯВЛЯЮТСЯ ИЗ ПАЛАТК В ЛАГЕРЬЕ.
 40|YOU CAN SEE CHILDREN PEERING OUT OF THE TENT OPENINGS, ONLY TO BE PUSHED BACK INSIDE BY THEIR MOTHERS.|ВЫ МОЖЕТЕ ВИДЕТЬ ДЕТЕЙ, ВЫСАДЫВАЮЩИХСЯ ИЗ ОТВЕРСТИЙ ТЕНТА, ТОЛЬКО ДЛЯ ОТТЫКАНИЯ ВНУТРИ ИХ МАТЕРИ.
 41|THE NOMADS WAIT FOR YOU TO MAKE THE FIRST MOVE.|Кочевники ждут, что вы сделаете первый ход.
-42|THE BIGGEST, MEANEST, DIRTIEST NOMAD PUSHES HIS WAY TO THE FRONT OF THE CROWD. FIVE OTHER NOMADS STAND AROUND HIM AS IF TO PROTECT HIM.|САМЫЙ БОЛЬШОЙ, САМЫЙ, САМЫЙ, Грязный кочевник продвигается вперед к толпе. ПЯТЬ ДРУГИХ кочевников стоят вокруг него, чтобы защитить его.
+// Extra space here
+42|THE BIGGEST, MEANEST, DIRTIEST NOMAD PUSHES HIS WAY TO THE FRONT OF THE CROWD. FIVE OTHER NOMADS STAND AROUND HIM AS IF TO PROTECT HIM.|САМЫЙ БОЛЬШОЙ, САМЫЙ, САМЫЙ, Грязный кочевник продвигается вперед к толпе. ПЯТЬ ДРУГИХ кочевников стоят вокруг него, чтобы защитить его.                                                                     
 43|TOMORROW|ЗАВТРА
 44|TONIGHT|СЕГОДНЯ НОЧЬЮ
 45|THE BIGGEST NOMAD, APPARENTLY THE CHIEF OR HEADMAN, ACKNOWLEDGES YOU WITH A NOD, 'WE WILL GIVE A FEAST IN YOUR HONOR |САМЫЙ БОЛЬШОЙ КОЧЕЧНИК, ЯВНО, ГЛАВНЫЙ ИЛИ РУКОВОДИТЕЛЬ, ПОДТВЕРЖДАЕТ ВАС кивком: "Мы устроим праздник в вашу честь".
 46|. WILL YOU JOIN US?'|. ТЫ К НАМ ПРИСОЕДИНИШЬСЯ?"
 47|'THEN YOU MUST LEAVE US,' HE RESPONDS WITH AS MUCH DIGNITY AS HE CAN MUSTER. DO YOU LEAVE?|"ТОГДА ВЫ ДОЛЖНЫ УЙТИ НАС", - ОН ОТВЕЧАЕТ С ТАКЖЕ ДОСТОИНСТВОМ, КАК ОН МОЖЕТ. ТЫ УХОДИШЬ?
-48|'YOUR INSULTS ARE TOO MANY! KILL THEM!'|"ВАШИ ИЗОЛЯЦИИ СЛИШКОМ МНОГО! УБЕЙ ИХ!"
+// Extra space here
+48|'YOUR INSULTS ARE TOO MANY! KILL THEM!'|"ВАШИ ИЗОЛЯЦИИ СЛИШКОМ МНОГО! УБЕЙ ИХ!"                                    
 49|'HERE YOU MAY REST.'|"ЗДЕСЬ МОЖНО ОТДЫХАТЬ".
 50|'I AND MY PEOPLE THANK YOU. AND KNOW THAT WE HAVE HONOR. YOU SHALL BE RICHLY REWARDED FOR YOUR GENEROUS AID.'|"Я И МОИ ЛЮДИ СПАСИБО. И ЗНАЕМ, ЧТО У НАС ЧЕСТЬ. ВЫ ДОЛЖНЫ БЫТЬ БОГАТЫМ НАГРАДНЫ ЗА ЩЕДРУЮЩУЮ ПОМОЩЬ ".
 51|'YOU MAY WANDER AS YOU WILL OR YOU MAY STAY HERE AND REST AND STUDY. FORGIVE ME, I MUST SEE TO MY PEOPLE.' HE LEAVES.|"ВЫ МОЖЕТЕ Бродить, как хотите, или оставаться здесь, отдыхать и учиться. ПРОЩИТЕ МЕНЯ, Я ДОЛЖЕН ВИДЕТЬ НА СВОИХ ЛЮДЕЙ ". ОН УХОДИТ.
@@ -271,7 +282,8 @@
 71|IN FRONT OF YOU.|ПЕРЕД ТОБОЙ.
 72|ADVANCING ON YOU IS A LARGE BAND OF KOBOLDS WITH BLOOD LUST IN THEIR EYES.|НАПРЯЖЕНИЕ НА ВАС - БОЛЬШАЯ ГРУППА КОБОЛДОВ С КРОВЬЮ ЖАЖДУ В ГЛАЗАХ.
 73|YOU SEE A HUGE GROUP OF KOBOLDS MOVING RELUNCTANTLY FORWARD UNDER THE CURSES OF THEIR LEADER.|ВЫ ВИДИТЕ ОГРОМНУЮ ГРУППУ КОБОЛДОВ, НЕОБХОДИМЫХ, ПОДДЕРЖИВАЮЩИХСЯ ПРОКЛЯТИЕМ СВОЕГО ЛИДЕРА.
-74|JUST AS YOU THINK YOURSELVES FREE OF DANGER, THE HEADMAN, HIS SHAMAN AND GUARDS ATTACK WITH CRIES OF 'FOUL TRAITORS!' AT THE SAME TIME KOBOLDS ATTACK.|КАК ВЫ ДУМАЕТЕ ДЛЯ СЕБЯ БЕЗОПАСНОСТИ, РУКОВОДИТЕЛЬ, ЕГО ШАМАН И ОХРАННИКИ НАПАДАЮТ С КРИКОМ "ГЛУБОКИХ ПРЕДАТЕЛЕЙ!" В ЖЕ ВРЕМЯ КОБОЛЬД АТАКА.
+// Extra space here
+74|JUST AS YOU THINK YOURSELVES FREE OF DANGER, THE HEADMAN, HIS SHAMAN AND GUARDS ATTACK WITH CRIES OF 'FOUL TRAITORS!' AT THE SAME TIME KOBOLDS ATTACK.|КАК ВЫ ДУМАЕТЕ ДЛЯ СЕБЯ БЕЗОПАСНОСТИ, РУКОВОДИТЕЛЬ, ЕГО ШАМАН И ОХРАННИКИ НАПАДАЮТ С КРИКОМ "ГЛУБОКИХ ПРЕДАТЕЛЕЙ!" В ЖЕ ВРЕМЯ КОБОЛЬД АТАКА.                                                           
 75|'THEN LET US DO IT!'|ТОГДА ДАВАЙТЕ НАМ СДЕЛАТЬ ЭТО!
 76|THE SHAMAN WALKS UP TO YOU. 'YOU FOUGHT AS THE HEROES OF LEGEND. A REWARD WAS PROMISED AND SO SHALL IT BE.'|ШАМАН ПОДХОДИТ К ВАМ. "ВЫ СРАЖАЛИСЬ КАК ГЕРОИ ЛЕГЕНДЫ. НАГРАДА ОБЕЩАНА, И ТАК БУДЕТ ".
 77|'NOW PLEASE LEAVE US TO OUR MOURNING. IT IS A PERSONAL THING FOR OUR PEOPLE.'|А теперь, пожалуйста, оставьте нас на траур. ЭТО ЛИЧНАЯ ВЕЩЬ ДЛЯ НАШИХ ЛЮДЕЙ ".

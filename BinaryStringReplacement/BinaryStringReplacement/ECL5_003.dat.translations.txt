@@ -1,4 +1,12 @@
-﻿@@3465|3|764|353|39519|0B 01 79 6E 09 00 09 01 FE 49 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@3465|3|764|353|39519|0B 01 79 6E 09 00 09 01 FE 49 
 @@3466|3|946|22|39188|80 6E 01 81 6E 2F 01 65 4A 00 
 @@3467|3|951|1057|40223|07 64 F5 60 4C 51 60 04 11 81 
 @@3468|3|984|1026|40192|12 9C 23 01 4D 02 05 34 54 93 
@@ -199,11 +207,14 @@
 22|'HEY, WHAT DO YOU THINK YOU'RE DOING?'|"ЭЙ, ЧТО ВЫ ДУМАЕТЕ, ВЫ ДЕЛАЕТЕ?"
 23|'OH... OKAY.' AND WITH THAT THEY LEAVE.|"ОХ, ЛАДНО." И С ЭТИМ ОНИ УЕЗЖАЮТ.
 24|UNDER A LOOSE STONE YOU FIND SOME TREASURE. |ПОД КАМНЕМ ВЫ НАХОДИТЕ НЕКОТОРЫЕ СОКРОВИЩА.
-25|YOU ENTER A LATRINE. THE LACK OF BAD SMELL GIVES YOU A GENERAL IDEA OF THE LEVEL OF SANITATION PRACTICED BY THE INHABITANTS OF THE AREA.|ВЫ ВОЙДЕТЕ В ЛАТРИНУ. ОТСУТСТВИЕ ПЛОХОГО ЗАПАХА ДАЕТ ВАМ ОБЩЕЕ ПРЕДСТАВЛЕНИЕ ОБ УРОВНЕ САНИТАРИИ, ПРАКТИЧЕСКОГО ЖИТЕЛЯМИ РАЙОНА.
-26|AS YOU OPEN THE DOOR A BUCKET OF SAND THAT WAS PROPPED ABOVE THE DOOR FALLS.|КАК ВЫ ОТКРЫВАЕТЕ ДВЕРЬ, ВЕДРО С ПЕСКОМ, ПОДПИСАННОЕ НАД ДВЕРЬЮ, ВЫПАДАЕТ.
+// Extra space here
+25|YOU ENTER A LATRINE. THE LACK OF BAD SMELL GIVES YOU A GENERAL IDEA OF THE LEVEL OF SANITATION PRACTICED BY THE INHABITANTS OF THE AREA.|ВЫ ВОЙДЕТЕ В ЛАТРИНУ. ОТСУТСТВИЕ ПЛОХОГО ЗАПАХА ДАЕТ ВАМ ОБЩЕЕ ПРЕДСТАВЛЕНИЕ ОБ УРОВНЕ САНИТАРИИ, ПРАКТИЧЕСКОГО ЖИТЕЛЯМИ РАЙОНА.                                                               
+// Extra space here
+26|AS YOU OPEN THE DOOR A BUCKET OF SAND THAT WAS PROPPED ABOVE THE DOOR FALLS.|КАК ВЫ ОТКРЫВАЕТЕ ДВЕРЬ, ВЕДРО С ПЕСКОМ, ПОДПИСАННОЕ НАД ДВЕРЬЮ, ВЫПАДАЕТ.                                                               
 27|YOU SEE SOME GIANTS PUTTING ON THEIR ARMOR.|ВЫ ВИДИТЕ НЕКОТОРЫЕ ГИГАНТЫ, НАДЕВАЮЩИЕ СВОЮ БРОНЮ.
 28|YOU FIND SOME TREASURE. |ВЫ НАЙДЕТЕ НЕКОТОРЫЕ СОКРОВИЩА.
-29|YOU ARE IN A DESERTED BUILDING. THERE ARE NOTHING BUT VERY LARGE COBWEBS HERE.|ВЫ НАХОДИТЕСЬ В ПУСТЫННОМ ЗДАНИИ. ЗДЕСЬ НИЧЕГО НЕТ НИЧЕГО, НО ОЧЕНЬ БОЛЬШИЕ ШОТЫ.
+// Extra space here
+29|YOU ARE IN A DESERTED BUILDING. THERE ARE NOTHING BUT VERY LARGE COBWEBS HERE.|ВЫ НАХОДИТЕСЬ В ПУСТЫННОМ ЗДАНИИ. ЗДЕСЬ НИЧЕГО НЕТ НИЧЕГО, НО ОЧЕНЬ БОЛЬШИЕ ШОТЫ.                       
 30|AS YOU PUSH THE DOOR OPEN THE CEILING CAVES IN.|КАК ВЫ НАДВИВАЕТЕ ДВЕРЬ, ОТКРЫВАЙТЕ ПОТОЛОЧНЫЕ ПЕЩЕРЫ.
 31|TWO GIANTS COME BOUNDING OUT OF A DOORWAY. ONE STAYS BY THE DOOR.|Два гиганта выходят из дверного проема. ОДИН ОСТАЕТСЯ У ДВЕРИ.
 32|'WHAT PASSWORD?'|КАКОЙ ПАРОЛЬ?

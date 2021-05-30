@@ -1,4 +1,12 @@
-﻿@@2718|14|154|6725|45891|45 4A 00 15 1B 02 01 59 B3 31 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@2718|14|154|6725|45891|45 4A 00 15 1B 02 01 59 B3 31 
 @@2719|14|157|568|39734|B2 4A 00 00 17 01 01 43 B3 03 
 @@2720|14|160|568|39734|B2 4A 00 00 17 01 01 43 B3 03 
 @@2721|14|163|216|39382|03 01 7F 6E 01 81 6E 2A 01 00 
@@ -312,6 +320,7 @@
 313|AS YOU SEARCH THE CASKET, YOU ACCIDENTLY SET OFF A TRAP.  A NOXIOUS POWDER SPRAYS INTO THE AIR DAMAGING THE PARTY.|В ПОИСКАХ КОРПУСА ВЫ СЛУЧАЙНО ЗАКРЫВАЕТЕ ЛОВУШКУ. ВРЕДНЫЙ ПОРОШОК РАСПЫЛИВАЕТСЯ В ВОЗДУХ, ПОВРЕДАЯ СТОРОНУ.                    
 314|AS YOU SEARCH THE CASKET YOU TRIGGER A TRAP.  FROM A SECRET COMPARTMENT IN THE WALL, A SHOWER OF DARTS RAINS DOWN UPON THE PARTY.|ПОИСК В КОРПУСЕ ВЫ ЗАПУСКАЕТЕ ЛОВУШКУ. ИЗ СЕКРЕТНОГО ОТДЕЛЕНИЯ В СТЕНЕ НА ПРАЗДНИК ЛЕТ ДУШ ДАРТОВЫЙ ДОЖДЬ.                    
 315|YOU BYPASS THE TRAP BY NOT FOOLING WITH ANY OF THE WEAPONS.|ВЫ ОБХОДИТЕ ЛОВУШКУ, НЕ ДУРАЧИВАЯ НИКАКОЕ ОРУЖИЕ.                    
-316|AS YOU NEAR THE PILE OF WEAPONS AN EXTREMELY BAD SMELLING GAS FILLS THE ROOM.  THE SMELL IS DISGUSTING BUT HARMLESS ENOUGH.|КОГДА ВЫ ПРИБЛИЖАЕТЕ С ОРУЖИЕМ, КОМНАТУ НАПОЛНЯЕТСЯ ЧРЕЗВЫЧАЙНО ПЛОХОЙ ГАЗ. ЗАПАХ ОТЛИЧНЫЙ, НО ДОСТАТОЧНО ВРЕДНЫЙ.                    
+// Extra space here
+316|AS YOU NEAR THE PILE OF WEAPONS AN EXTREMELY BAD SMELLING GAS FILLS THE ROOM.  THE SMELL IS DISGUSTING BUT HARMLESS ENOUGH.|КОГДА ВЫ ПРИБЛИЖАЕТЕ С ОРУЖИЕМ, КОМНАТУ НАПОЛНЯЕТСЯ ЧРЕЗВЫЧАЙНО ПЛОХОЙ ГАЗ. ЗАПАХ ОТЛИЧНЫЙ, НО ДОСТАТОЧНО ВРЕДНЫЙ.                            
 317|YOU HAVE ALREADY TRIED TO PICK THIS LOCK AND HAVE FOUND THAT IT IS TOO COMPLEX FOR YOU TO HANDLE.|ВЫ УЖЕ ПЫТАЛИСЬ ВЫБРАТЬ ДАННЫЙ ЗАМОК, И ОБНАРУЖИЛИ, ЧТО ЭТО СЛИШКОМ СЛОЖНО ДЛЯ ВАС.                    
 318|YOU TRY TO PICK THE LOCK BUT IT IS TOO COMPLEX FOR YOU TO PICK.  YOU FAIL MISERABLY.|ВЫ ПЫТАЕТЕСЬ ВЫБРАТЬ ЗАМОК, НО ЭТО СЛИШКОМ СЛОЖНО ДЛЯ ВАС. ВЫ НЕВЕРОЯТНО НЕУДАЕТЕ.                    

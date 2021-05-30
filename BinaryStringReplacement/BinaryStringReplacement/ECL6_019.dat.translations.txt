@@ -1,4 +1,12 @@
-﻿@@4373|19|44|116|39282|87 4A 00 02 01 7A 6E 17 01 01 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@4373|19|44|116|39282|87 4A 00 02 01 7A 6E 17 01 01 
 @@4374|19|128|46|39212|3F 64 F5 60 14 E5 05 4A 05 08 
 @@4375|19|148|158|39324|81 05 38 19 3D 58 01 48 58 05 
 @@4376|19|156|2761|41927|7E 05 38 19 3D 58 05 39 41 52 
@@ -67,5 +75,7 @@
 142|YOU CLIMB TO THE SECOND LEVEL OF THE DRAGON'S DEN.  THERE IS THE DRAGON WAITING FOR YOU.  HE LOOKS EXTREMELY MAD!  WHAT WILL YOU DO?|ВЫ ПОДНИМАЕТЕСЬ НА ВТОРОЙ УРОВЕНЬ ДРАКОНСКОЙ ЛОНИИ. ВАС ЖДЕТ ДРАКОН. ОН ВЫГЛЯДИТ ЧРЕЗВЫЧАЙНО С ума сошел! ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
 143|ATTACK|АТАКА
 144|LEAVE|ПОКИНУТЬ
-145|YOU TRY TO ATTACK THE DRAGON BUT SEEM TO BE FROZEN IN TIME.  THE DRAGON THROWS A FIREBALL IN THE MIDDLE OF THE PARTY AND THEN DISAPPEARS.  YOU HAVE A STRANGE FEELING THAT YOU JUST MADE A BIG MISTAKE.|ВЫ ПЫТАЕТЕСЬ НАПАДАТЬ НА ДРАКОНА, НО ВРЕМЯ ЗАМЕРЗИЛАСЬ. ДРАКОН БРОСАЕТ БОЛЬШОЙ ШАР В СРЕДНЕМ СТОРОНЕ И ПОСЛЕ УЧАСТИЯ. У ВАС СТРАННОЕ ЧУВСТВО, ЧТО ВЫ ПРОСТО СДЕЛАЛИ БОЛЬШУЮ ОШИБКУ.
-146|AFTER RECOVERING FROM THE FIREBALL YOU SEARCH THE REST OF THE LAIR AND FIND NOTHING OF INTREST.|ПОСЛЕ ВОССТАНОВЛЕНИЯ ФАЙРБОЛА ВЫ ИЩЕТЕ ОСТАЛЬНУЮ ЛОГА И НИЧЕГО НЕ НАЙДЕТЕ.
+// Extra space here
+145|YOU TRY TO ATTACK THE DRAGON BUT SEEM TO BE FROZEN IN TIME.  THE DRAGON THROWS A FIREBALL IN THE MIDDLE OF THE PARTY AND THEN DISAPPEARS.  YOU HAVE A STRANGE FEELING THAT YOU JUST MADE A BIG MISTAKE.|ВЫ ПЫТАЕТЕСЬ НАПАДАТЬ НА ДРАКОНА, НО ВРЕМЯ ЗАМЕРЗИЛАСЬ. ДРАКОН БРОСАЕТ БОЛЬШОЙ ШАР В СРЕДНЕМ СТОРОНЕ И ПОСЛЕ УЧАСТИЯ. У ВАС СТРАННОЕ ЧУВСТВО, ЧТО ВЫ ПРОСТО СДЕЛАЛИ БОЛЬШУЮ ОШИБКУ.                                          
+// Extra space here
+146|AFTER RECOVERING FROM THE FIREBALL YOU SEARCH THE REST OF THE LAIR AND FIND NOTHING OF INTREST.|ПОСЛЕ ВОССТАНОВЛЕНИЯ ФАЙРБОЛА ВЫ ИЩЕТЕ ОСТАЛЬНУЮ ЛОГА И НИЧЕГО НЕ НАЙДЕТЕ.                                      

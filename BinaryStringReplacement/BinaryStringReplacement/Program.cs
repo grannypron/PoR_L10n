@@ -36,8 +36,11 @@ namespace BinaryStringReplacement
                     eclMode = true;
                     transFile = args[1];
                     binFile = args[2];
-                } else
-                {
+                } else if (args[0].Trim().ToUpper() == "-B" && args.Length == 2) {
+                    runECLBatch(args[1]);
+                    return;
+                }
+                else {
                     printUsage();
                     return;
                 }
@@ -79,8 +82,18 @@ namespace BinaryStringReplacement
                     // e.g. @@0|0|3371|3100|42266|07 64 F5 60 20 15 85 80 11 03
                     string[] tokens = replacement.Split('|');
                     int pointerOffset = Convert.ToInt32(tokens[2], 10);
-                    int pointerDestinationOffset = Convert.ToInt32(tokens[3], 10);
-                    int pointerDestinationOffsetWord = Convert.ToInt32(tokens[4], 10);
+                    int pointerDestinationOffset = -1;
+                    int pointerDestinationOffsetWord = -1;
+                    if (tokens.Length < 4) {
+                        int MemBase = 0x10000 - 0x9900;  // This is specific to PoR - 0x6700 - 26368 in decimal
+                        // Convert from little endian bytes to int
+                        pointerDestinationOffsetWord = data[pointerOffset] + (data[pointerOffset + 1] << 8);
+                        // Convert to the game address - got this from GBE
+                        pointerDestinationOffset = ((pointerDestinationOffsetWord + MemBase) & 0xFFFF) + 2;
+                    } else {
+                        pointerDestinationOffset = Convert.ToInt32(tokens[3], 10);
+                        pointerDestinationOffsetWord = Convert.ToInt32(tokens[4], 10);
+                    }
                     gotoDestinations.Add(new Pointer(pointerOffset, pointerDestinationOffset, pointerDestinationOffsetWord));
                 }
                 else if (!replacement.StartsWith("//")) {
@@ -89,6 +102,10 @@ namespace BinaryStringReplacement
                     string id = tokens[0];
                     string from = tokens[1];
                     string to = tokens[2];
+                    if (eclMode)
+                    {
+                        to = to.ToUpper();
+                    }
                     to = mapCharacters(to, characterMap, id);
                     if (to != null)
                     {
@@ -147,6 +164,46 @@ namespace BinaryStringReplacement
             fs.Close();
             
             log("Completed");
+        }
+        
+        private static void runECLBatch(string eclDir)
+        {
+            log("Starting ECL Batch Mode");
+            if (!eclDir.EndsWith("\\"))
+            {
+                eclDir += "\\";
+            }
+
+            // For each ECL file,
+            string[] fileEntries = Directory.GetFiles(eclDir);
+            foreach (string filePath in fileEntries)
+            {
+                string fileName = Path.GetFileName(filePath);
+                //if (!(fileName == "ECL8_029.dat")) { continue; }
+                //if ((fileName == "ECL8_016.dat")) { continue; }
+                //if ((fileName == "ECL2_009.dat")) { continue; }
+                //if ((fileName == "ECL4_021.dat")) { continue; }
+                //if ((fileName == "ECL6_028.dat")) { continue; }
+                if (fileName.EndsWith(".dat"))
+                {
+                    // Get the accompanying translation file
+                    string translationFileName = fileName + ".translations.txt";
+
+                    // Run the translation
+                    log("Executing batch for file " + fileName);
+
+                    string thisDir = Directory.GetParent(Environment.CurrentDirectory).Parent.FullName;
+                    try
+                    {
+                        Main(new string[] { "-E", thisDir + "\\" + translationFileName, eclDir + fileName });
+                    } catch (Exception ex)
+                    {
+                        log(ex.Message);
+                    }
+                }
+
+            }
+
         }
 
         private static bool replaceString(byte[] replaceThisStrBytes, byte[] replacementStrBytes, bool checkBoundary, string id)

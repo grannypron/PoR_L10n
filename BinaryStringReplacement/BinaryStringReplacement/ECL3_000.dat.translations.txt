@@ -1,10 +1,10 @@
 ﻿// GOTO Event address table
 // These 5 are in every ECL
-@@0|0|4|22|39188|9914
-@@1|0|8|237|39403|99EB
-@@2|0|12|352|39518|9A5E
-@@3|0|16|405|39571|9A93
-@@4|0|20|500|39666|9AF2
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
 //
 @@0|0|547|392|39558|00 01 D2 6D 09 00 00 01 D3 6D 
 @@1|0|558|392|39558|00 01 D2 6D 09 00 00 01 D3 6D 
@@ -279,7 +279,7 @@
 65|AN AGED PRIEST APPROACHES, POINTING AT THE MAD MAN, HE SPEAKS, 'THAT MAN URGENTLY NEEDS OUR CARE.  DROP HIM FROM YOUR PARTY OR HE WILL BRING YOU TO GRIEF.  WE WILL CARE FOR HIM.'|ПРЕСТАРЕЛЫЙ СВЯЩЕННИК ПОДХОДИТ, УКАЗЫВАЯ НА СУМАСШЕДШЕГО, ОН ГОВОРИТ: "ЭТОМУ ЧЕЛОВЕКУ СРОЧНО НУЖНА НАША ЗАБОТА. УБРАСИТЕ ЕГО ИЗ СВОЕЙ ВЕЧЕРИНКИ, ИЛИ ОН ПРИВЕДЕТ ВАС СКОРБАТЬ. МЫ ЗАБОТИМСЯ О НЕМ ".
 66|' DO YOU SEEK HEALING?'|"ВЫ ИЩЕТЕ ИСЦЕЛЕНИЯ?"
 67|THEN YOU MUST LEAVE.|ТОГДА ВЫ ДОЛЖНЫ УЙТИ.
-68|BEAUTIFUL STOJANOW RIVER.|КРАСИВАЯ РЕКА СТОЯНОВ.                 
+68|BEAUTIFUL STOJANOW RIVER.|КРАСИВАЯ РЕКА СТОЯНОВ.                   
 69|YES|LF
 70|NO|YTN
 71|A DRUNKEN BRAWL BREAKS OUT. YOU ARE CAUGHT IN THE MIDDLE.|ПЬЯНЫЙ БОЙ РАЗРЫВАЕТСЯ. ВЫ ЗАХВАТИЛИ В СРЕДНЕЕ.

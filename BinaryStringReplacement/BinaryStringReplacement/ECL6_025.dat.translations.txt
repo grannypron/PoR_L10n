@@ -1,4 +1,12 @@
-﻿@@4406|25|5592|5618|44784|01 01 E6 49 09 00 FF 01 FB 49 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@4406|25|5592|5618|44784|01 01 E6 49 09 00 FF 01 FB 49 
 @@4407|25|5615|5283|44449|8C 4A 00 FF 16 13 09 00 0C 01 
 @@4408|25|5580|1996|41162|57 AB 14 01 79 6E 00 14 01 15 
 @@4409|25|5550|5565|44731|00 01 D2 6D 00 09 00 01 01 15 
@@ -218,7 +226,8 @@
 //151|.|.
 152|SUDDENLY YOU ARE FACE TO FACE WITH A GROUP OF |ВНЕЗАПНО ВЫ ОБРАЩАЕТЕСЬ К ГРУППЕ
 //153|.|.
-154|OUT OF THE SHADOWS, TWO LARGE WILD BOARS CHARGE.|ВНЕ ТЕНЕЙ ЗАРЯДЫВАЮТСЯ ДВА БОЛЬШИХ ДИКИХ КАБАНА.
+// Extra space here
+154|OUT OF THE SHADOWS, TWO LARGE WILD BOARS CHARGE.|ВНЕ ТЕНЕЙ ЗАРЯДЫВАЮТСЯ ДВА БОЛЬШИХ ДИКИХ КАБАНА.                                         
 155|YOU SPOT A GROUP OF |ВЫ УВИДИТЕ ГРУППУ
 156|YOU ARE SURPRISED BY A GROUP OF |ВЫ УДИВИТЫ ГРУППА
 //157|.|.
@@ -236,11 +245,13 @@
 169|LEAVE|ПОКИНУТЬ
 170|AS YOU APPROACH HER HAIR BRISTLES AND SHE ATTACKS!|КАК ВЫ ПРИБЛИЖАЕТЕСЬ К ЕЁ ВОЛОСАМ, ОНА НАПАДАЕТСЯ!
 171|AT THE END OF THE PASSAGEWAY ARE THREE LARGE WILD BOARS.  THEY CHARGE AT YOU AND ATTACK!|В КОНЦЕ ПРОХОДА ТРИ БОЛЬШИХ ДИКИЕ КАБАНЫ. ОНИ НАПОРЯЮТСЯ НА ВАС И НАПАДАЮТ!
-172|LYING ON THE GROUND HERE ARE THE DISSOLVING REMAINS OF A DWARF.  HE IS COVERED IN ACID.|На земле лежат растворяющиеся остатки DWARF. ОН ПОКРЫТ КИСЛОТОЙ.
+// Extra space here
+172|LYING ON THE GROUND HERE ARE THE DISSOLVING REMAINS OF A DWARF.  HE IS COVERED IN ACID.|На земле лежат растворяющиеся остатки DWARF. ОН ПОКРЫТ КИСЛОТОЙ.                                                        
 173|THE GROUND HERE IS SOFT AND FRESHLY CHURNED.|ЗДЕСЬ МЯГКАЯ И СВЕЖЕГО ЦВЕТА.
 174|THE REMAINS OF SEVERAL OF THE ANHKHEG'S VICTIM.  ADMIST THE DEBRIS IS SOME TREASURE.|ОСТАЛОСЬ НЕСКОЛЬКО ЖЕРТВ АНХЕГА. ДОБАВИТЬ МУСОР - НЕКОТОРЫЕ СОКРОВИЩА.
 175|FROM THE SOUTH, A LARGE ANHKHEG LUNGES OUT AND ATTACKS THE PARTY.|С ЮГА ВЫДЫВАЕТСЯ БОЛЬШОЙ АНХЕГ И НАПАДАЕТ СТОРОНУ.
-176|LYING ON THE FLOOR IS A LARGE, SHEDDED SNAKE SKIN.|НА ПОЛУ ЛЕЖЕТ БОЛЬШАЯ ОБРАЩЕННАЯ ЗМЕИНАЯ КОЖА.
+// Extra space here
+176|LYING ON THE FLOOR IS A LARGE, SHEDDED SNAKE SKIN.|НА ПОЛУ ЛЕЖЕТ БОЛЬШАЯ ОБРАЩЕННАЯ ЗМЕИНАЯ КОЖА.                                                           
 177|A GIGANTIC SNAKE LIES IN FRONT OF YOU.  IT REARS AND ATTACKS.|ГИГАНТИЧЕСКАЯ ЗМЕЯ ЛЕЖЕТ ПЕРЕД ВАМИ. ОНО ЗАДНИЧИВАЕТСЯ И АТАКИ.
 178|AS YOU WALK INTO THIS ROOM A GIANT SNAKE FALLS ON TOP OF THE PARTY.|КАК ВЫ ПРОХОДИТЕ В ЭТУ КОМНАТУ, НА ВЕРХУ ВЕЧЕРИ ПАДАЕТ ГИГАНСКАЯ ЗМЕЯ.
 179|THERE ARE TWO THRI-KREEN HERE.  THEY BLOCK THE PASSAGE WITH THEIR BODIES.  WHAT WILL YOU DO?|ЗДЕСЬ ДВА ТРИ-КРИНА. ОНИ БЛОКИРУЮТ ПРОХОД СВОИМИ ТЕЛАМИ. ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?

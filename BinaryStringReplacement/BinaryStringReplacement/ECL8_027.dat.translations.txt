@@ -1,4 +1,12 @@
-﻿@@5750|27|4963|5000|44166|01 01 E6 49 09 00 FF 01 FB 49 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@5750|27|4963|5000|44166|01 01 E6 49 09 00 FF 01 FB 49 
 @@5751|27|4993|4635|43801|00 01 79 6E 09 00 00 01 7A 6E 
 @@5752|27|4997|4529|43695|A0 4A 00 01 01 79 6E 17 01 01 
 @@5753|27|4951|1472|40638|67 A8 14 01 79 6E 00 14 01 15 
@@ -221,11 +229,15 @@
 //207| | 
 208|THE |THE
 209| FALL FOR YOUR SPARKLING PERSONALITY AND WANDER AWAY WITHOUT A FIGHT.| ПАДИТЕСЬ ЗА СВОЮ ИСКЛЮЧИТЕЛЬНУЮ ЛИЧНОСТЬ И УХОДИТЕ БЕЗ БОЯ.
-210|YOU HAVE FOUND THE WYVERN'S TREASURE!|ВЫ НАШЛИ СОКРОВИЩЕ ВИВЕРНА!
-211|YOU HAVE STUMBLED ACROSS A FEROCIOUS WYVERN.  IT CHARGES AND ATTACKS!|ВЫ ПРОПИВАЛИСЬ ЧЕРЕЗ ЧУВСТВУЮЩУЮ ВИВЕРНУ. ЭТО НАПРЯЖЕНИЕ И АТАКИ!
-212|A TERRIBLE WYVERN CHARGES TO ATTACK THE PARTY!|УЖАСНЫЙ ВИВЕРН ОБЯЗАНЫ НАПАДАТЬ НА СТОРОНУ!
-213|FOUR GIANT LIZARDS RUN UP AND ATTACK THE PARTY!|ЧЕТЫРЕ ГИГАНТСКИХ ЯЩЕРИЦА ПРИБЕГАЮТ И НАПАДАЮТ НА СТОРОНУ!
-214|THIS ROOM IS FILLED WITH HUMAN BONES.|ЭТА КОМНАТА ЗАПОЛНЕНА ЧЕЛОВЕЧЕСКИМИ КОСТЯМИ.
+210|YOU HAVE FOUND THE WYVERN'S TREASURE!|ВЫ НАШЛИ СОКРОВИЩЕ ВИВЕРНА!    
+// Extra space here
+211|YOU HAVE STUMBLED ACROSS A FEROCIOUS WYVERN.  IT CHARGES AND ATTACKS!|ВЫ ПРОПИВАЛИСЬ ЧЕРЕЗ ЧУВСТВУЮЩУЮ ВИВЕРНУ. ЭТО НАПРЯЖЕНИЕ И АТАКИ!    
+// Extra space here
+212|A TERRIBLE WYVERN CHARGES TO ATTACK THE PARTY!|УЖАСНЫЙ ВИВЕРН ОБЯЗАНЫ НАПАДАТЬ НА СТОРОНУ!    
+// Extra space here
+213|FOUR GIANT LIZARDS RUN UP AND ATTACK THE PARTY!|ЧЕТЫРЕ ГИГАНТСКИХ ЯЩЕРИЦА ПРИБЕГАЮТ И НАПАДАЮТ НА СТОРОНУ!    
+// Extra space here
+214|THIS ROOM IS FILLED WITH HUMAN BONES.|ЭТА КОМНАТА ЗАПОЛНЕНА ЧЕЛОВЕЧЕСКИМИ КОСТЯМИ.       
 215|YOU ENTER A CHAMBER WITH FOUR GIANT LIZARDS AND TWO MINOTAURS.  THE MINOTAURS ORDER THE LIZARDS TO ATTACK.|ВЫ входите в камеру с четырьмя гигантскими ящерицами и двумя минотаврами. МИНОТАВРЫ ПРИКАЗЫВАЮТ ЯЩЕРИЦ НА АТАКУ.
 216|YOU HAVE FOUND SOME TREASURE.|ВЫ НАШЛИ НЕКОТОРЫЕ СОКРОВИЩА.
 217|GUARDING THIS CHAMBER ARE TWO GIANT LIZARDS.  AS YOU APPROACH, THEY ATTACK.|ЭТУ КАМЕРУ охраняют две гигантские ящерицы. КАК ВЫ ПОДХОДИТЕ, ОНИ АТАКУЮТ.
@@ -259,7 +271,7 @@
 245|TAKE BOAT|Взять лодку
 246|STAY|ОСТАТЬСЯ
 247|YOU HAVE INSULTED THE |ВЫ ПРИВЕДИЛИ
-248|.|.
+//248|.|.
 249|THE |THE
 250| ATTACK YOU IMMEDIATELY!| НЕМЕДЛЕННО НА ВАС!
 251|YOU SEE A SMALL GROUP OF KOBOLDS ENTERING A SMALL,   CONCEALED CAVE.  A LARGER, MORE NOTICEABLE CAVE LIES JUST EAST OF THE SMALL HIDDEN, CAVE.  WHAT CAVE WILL YOU ENTER?|ВЫ ВИДИТЕ МАЛЕНЬКУЮ ГРУППУ КОБОЛДОВ, ЗАХОДЯЩИХ В МАЛЕНЬКУЮ ЗАКРЫТУЮ ПЕЩЕРУ. БОЛЬШАЯ, БОЛЕЕ ЗНАЧИТЕЛЬНАЯ ПЕЩЕРА ЛОЖИТСЯ ТОЛЬКО ВОСТОЧНОМ ОТ МАЛЕНЬКИХ СКРЫТЫХ ПЕЩЕР. В КАКУЮ ПЕЩЕРУ ВЫ ВОЙДЕТЕ?

@@ -1,4 +1,12 @@
-﻿@@3832|5|899|353|39519|0B 01 79 6E 09 00 09 01 FE 49 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@3832|5|899|353|39519|0B 01 79 6E 09 00 09 01 FE 49 
 @@3833|5|4852|22|39188|80 6E 01 81 6E 2F 01 65 4A 00 
 @@3834|5|4907|891|40057|01 90 2C 00 02 01 5F 9A 09 00 
 @@3835|5|4910|4915|44081|64 01 C6 6D 1C 0B 00 3C 00 04 
@@ -143,7 +151,8 @@
 234|HE SEEMS TO COLLAPSE. 'ALL RIGHT. I'M NOT TYRANTHRAXUS. HE JUST HIRED ME TO IMPERSONATE HIM. IT'S NOT A BAD LIFE, BUT, HEY! I CAN TELL WHICH WAY THE WIND'S BLOWING.'|ОН ВИДЕТСЯ РАЗРУШЕНИЕМ. "ВСЕ В ПОРЯДКЕ. Я НЕ ТИРАНТРАКС. Он просто нанял меня, чтобы я изобразил его. ЭТО НЕ ПЛОХАЯ ЖИЗНЬ, НО, ЭЙ! Я МОГУ СКАЗАТЬ, КАК ДУЕТ ВЕТЕР.
 235|'JUST LET ME GO, OKAY?|"ПРОСТО ОТПУСТИТЕ МЕНЯ, ОК?
 236|HE RUNS OUT OF THE HALL. THERE IS TREASURE ALL ABOUT. |ОН ВЫБЕГАЕТ ИЗ ЗАЛА. ВСЕ СОКРОВИЩА.
-237|YOU HAVE ENTERED THE REMAINS OF A TOWER. |ВЫ ВОЙТИ В ОСТАТКИ БАШНЯ.
+// Extra space here
+237|YOU HAVE ENTERED THE REMAINS OF A TOWER. |ВЫ ВОЙТИ В ОСТАТКИ БАШНЯ.    
 238|YOU SEE A PACK OF TROLLS.|ВЫ ВИДЕТЕ ПАКЕТ ТРОЛЛЕЙ.
 239|YOU SEE A PACK OF TROLLS. THEY SEEM UNAWARE OF YOU.|ВЫ ВИДЕТЕ ПАКЕТ ТРОЛЛЕЙ. ОНИ НЕ ЗНАЮТ ВАС.
 240|A PACK OF TROLLS CHARGE FROM WHERE THEY WERE HIDING.|ПАКЕТ ТРОЛЛЕЙ ЗАРЯДЫВАЕТСЯ ОТ ГДЕ ОНИ СКРЫВАЛИСЬ.

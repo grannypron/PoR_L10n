@@ -1,4 +1,12 @@
-﻿@@809|20|420|305|39471|00 01 D2 6D 09 00 00 01 D3 6D 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@809|20|420|305|39471|00 01 D2 6D 09 00 00 01 D3 6D 
 @@810|20|349|618|39784|08 98 00 03 01 08 98 07 01 08 
 @@811|20|281|318|39484|18 01 D2 6D 09 00 18 01 D3 6D 
 @@812|20|292|305|39471|00 01 D2 6D 09 00 00 01 D3 6D 
@@ -310,5 +318,6 @@
 267|LET THEM GO|ОТПУСТИ ИХ
 268|STOP THEM|ОСТАНОВИ ИХ
 269|'HOW DARE YOU INTERFERE WITH THE BOSS'S BUSINESS?' THE LEADER ROARS.  'KILL THEM,' HE ORDERS.|"КАК ВЫ СМОТРЕЛИ ВМЕШАТЬСЯ В ДЕЛАТЬ БОССА?" ВЕДУЩИЙ РЕВ. "УБИТЬ ИХ", - ПРИКАЗЫВАЕТ ОН.
-270|THE MONSTERS ROB AND BLINDFOLD YOU. YOU ARE KICKED SOUNDLY AND SENT ON YOUR WAY.|МОНСТРЫ ОГРАНИЧИВАЮТ И ОСЛЕДУЮТ ВАМ. ВАС ГРОМКО ПИНАЮТ И ОТПРАВЛЯЮТ В ВАШЕМУ ПУТИ.
+// Extra space here
+270|THE MONSTERS ROB AND BLINDFOLD YOU. YOU ARE KICKED SOUNDLY AND SENT ON YOUR WAY.|МОНСТРЫ ОГРАНИЧИВАЮТ И ОСЛЕДУЮТ ВАМ. ВАС ГРОМКО ПИНАЮТ И ОТПРАВЛЯЮТ В ВАШЕМУ ПУТИ.                                                                                       
 271|THEY PAW THROUGH YOUR COINS AND LEAVE.|ОНИ ПРОСЫВАЮТ ВАШИ МОНЕТЫ И УХОДИТ.

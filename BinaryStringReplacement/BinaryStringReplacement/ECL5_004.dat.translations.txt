@@ -1,4 +1,12 @@
-﻿@@3641|4|615|353|39519|0B 01 79 6E 09 00 09 01 FE 49 
+﻿// GOTO Event address table
+// These 5 are in every ECL
+@@0|0|4
+@@1|0|8
+@@2|0|12
+@@3|0|16
+@@4|0|20
+//
+@@3641|4|615|353|39519|0B 01 79 6E 09 00 09 01 FE 49 
 @@3642|4|775|22|39188|80 6E 01 81 6E 2F 01 65 4A 00 
 @@3643|4|780|886|40052|07 64 F5 60 4C 51 60 04 11 81 
 @@3644|4|813|855|40021|12 9C 23 01 4D 02 05 34 54 93 
@@ -275,7 +283,8 @@
 193|A SCRIBE WALKS INTO THE ROOM. HE SEES YOU AND LETS OUT A GASP. HE DROPS HIS BOOKS AND RUNS OUT THE DOOR.|СКРИБ ПРОХОДИТ В КОМНАТУ. ОН ВИДИТ ВАС И ВЫПУСКАЕТ ГАЗ. ОН БРОСАЕТ КНИГИ И ВЫБЕГАЕТ ЗА ДВЕРЬ.
 194|YOU ARE FINDING A PATTERN TO TYRANTHRAXUS' ACTIVITIES. AT FIRST TYRANTHRAXUS' FOLLOWERS WERE AN UNSOPHISTICATED HORDE OF ILL ORGANIZED UNHUMANS.|ВЫ НАЙДЕТЕ ОБРАЗЕЦ ДЕЯТЕЛЬНОСТИ ТИРАНТРАКСА. Поначалу последователи ТИРАНТРАКСА БЫЛИ НЕСОФИСТИЧНОЙ ОРГАНИЗАЦИЕЙ НЕЧЕЛОВЕЧЕСКИХ ОРГАНИЗОВАННЫХ ЛЮДЕЙ.
 195|NOW THEY ARE MUCH MORE SINISTER. THE WEB OF CORRUPTION HE HAS SPREAD IS INCREDIBLE IN ITS SCOPE. HIS ULTIMATE GOAL IS TO CONQUER ALL LANDS SOUTH OF THE MOONSEA.|ТЕПЕРЬ ОНИ НАМНОГО БОЛЬШЕ СЕНИСТРОВ. Сеть коррупции, которую он распространил, невероятна в своих масштабах. ЕГО КОНЕЧНАЯ ЦЕЛЬ - ЗАВОЕВАТЬ ВСЕ ЗЕМЛИ К ЮЖУ ОТ ЛУНЫ.
-196|TO FIND ANYTHING MORE YOU WILL HAVE TO SPEND SO MUCH TIME THAT YOU WILL NEED TO CLEAR THE AREA FIRST.|ЧТОБЫ НАЙТИ ЧЕГО БОЛЬШЕ, ВАМ ПРИДЕТСЯ ТАК МНОГО ВРЕМЕНИ, ЧТО ВАМ НУЖНО СНАЧАЛА ОЧИСТИТЬ ПЛОЩАДЬ.
+// Extra space here
+196|TO FIND ANYTHING MORE YOU WILL HAVE TO SPEND SO MUCH TIME THAT YOU WILL NEED TO CLEAR THE AREA FIRST.|ЧТОБЫ НАЙТИ ЧЕГО БОЛЬШЕ, ВАМ ПРИДЕТСЯ ТАК МНОГО ВРЕМЕНИ, ЧТО ВАМ НУЖНО СНАЧАЛА ОЧИСТИТЬ ПЛОЩАДЬ.                                      
 197|YOU FIND ASSORTED REPORTS.|ВЫ НАЙДЕТЕ РАЗБОРНЫЕ ОТЧЕТЫ.
 198|YOU ENTER A BUILDING WHICH IS FILLED WITH TABLES AND WRITING SUPPLIES. THOUGH EMPTY, THERE ARE SIGNS THAT WORK HAS BEEN DONE HERE RECENTLY.|ВЫ ВХОДИТЕ В ЗДАНИЕ, ЗАПОЛНЕННОЕ ТАБЛИЦАМИ И ПИСЬМЕННЫМИ ТОВАРАМИ. ХОТЯ ПУСТО, ЕСТЬ ПРИЗНАКИ, ЧТО РАБОТА БЫЛА ЗДЕСЬ НЕДАВНО.
 199|'WHAT? I THINK YOU SCUM ARE IMPOSTERS!'|"КАКИЕ? Я ДУМАЮ, ТЫ, ПОДНИЗЬЯ, ИМПОСТЕРЫ!
