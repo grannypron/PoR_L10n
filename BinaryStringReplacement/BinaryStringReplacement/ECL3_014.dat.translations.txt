@@ -228,99 +228,98 @@
 @@2937|14|1814|1392|40558|00 01 1C 4A 12 80 20 25 48 09 
 @@2938|14|1894|1392|40558|00 01 1C 4A 12 80 20 25 48 09 
 //
-224|WHILE IN CAMP YOU ARE SUDDENLY ATTACKED BY THREE THIEVES WITH SLINGS.  THEY LAUNCH THEIR BULLETS AT THE PARTY AND THEN RUN, DISAPPERING FROM SIGHT.|ВО ВРЕМЯ ЛАГЕРЯ НА ВАС ВНЕЗАПНО НАПАДАЮТСЯ ТРИ ВОРЫ С СЛИНГАМИ. ОНИ запускают свои пули на вечеринке, а затем бегут, исчезая из поля зрения.
-225|AS YOU ENTER THE ROOM A THIEF WITH A SWORD COMES OUT OF NOWHERE|КАК ВЫ ВОЙДИТЕ В КОМНАТУ, ВОР С МЕЧОМ ВЫБЫВАЕТ ИЗ НИКОГДА
-226|.  HE TRIES TO ATTACK THE PARTY BUT YOU STOP HIM.  WHAT WILL YOU DO?|. ОН ПЫТАЕТСЯ НАПАДАТЬ НА СТОРОНУ, НО ВЫ ОСТАНОВИТЕ ЕГО. ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
-227|ATTACK HIM|АТАКА НА НЕГО
-228|LET HIM GO|ОТПУСТИ ЕГО
-229|, BACKSTABS A PARTY MEMBER THEN DISAPPEARS THROUGH THE WALL.|, УСТАНАВЛИВАЕТ УЧАСТНИКА ПАРТИИ, ПОТОМ УДАЛЯЕТСЯ ЧЕРЕЗ СТЕНУ.
-230|PILED HERE IS VARIOUS LOOT.  THERE IS A WIDE VARIETY OF NICK NACKS FROM TARNISHED BRONZE CANDLESTICKS TO ONE OR TWO USEFUL ITEMS.|ЗДЕСЬ НАЛОЖЕН РАЗЛИЧНАЯ ЛУЧЬ. ПРЕДНАЗНАЧЕНО ШИРОКОЕ РАЗНООБРАЗИЕ НИКОВ, ОТ ЛАКИРОВАННЫХ БРОНЗОВЫХ ПОДСВЕЧНИКОВ ДО ОДНОГО ИЛИ ДВУХ ПОЛЕЗНЫХ ПРЕДМЕТОВ.
-231|AS YOU ENTER THE ROOM TWO THIEVES COME OUT OF NOWHERE AND ATTACK THE PARTY.  THEY FAIL MISERABLY AND RUN OUT THE EAST DOOR.  WILL YOU CHASE THEM?|КАК ВЫ ВОЙДИТЕ В КОМНАТУ, ДВА ВРАРА ВЫХОДЯТ ИЗ НИКОГДА И НАПАДАЮТ СТОРОНУ. ОНИ НЕУДАЧИВАЮТСЯ И ВЫБЕГАЮТ ВОСТОЧНУЮ ДВЕРЬ. БУДЕТЕ ЛИ ВЫ ЗАНИМАТЬСЯ?
+224|WHILE IN CAMP YOU ARE SUDDENLY ATTACKED BY THREE THIEVES WITH SLINGS.  THEY LAUNCH THEIR BULLETS AT THE PARTY AND THEN RUN, DISAPPERING FROM SIGHT.|ВО ВРЕМЯ ПРИВАЛА НА ВАС ВНЕЗАПНО НАПАЛО ТРОЕ ВОРОВ С ПРАЩАМИ. ОНИ МЕТНУЛИ СВОИ СНАРЯДЫ В ОТРЯД, А ЗАТЕМ ИСЧЕЗЛИ ИЗ ВИДУ.
+225|AS YOU ENTER THE ROOM A THIEF WITH A SWORD COMES OUT OF NOWHERE|КАК ТОЛЬКО ВЫ ВХОДИТЕ В КОМНАТУ, ИЗ НИОТКУДА ВОЗНИКАЕТ ВОР С МЕЧОМ
+226|.  HE TRIES TO ATTACK THE PARTY BUT YOU STOP HIM.  WHAT WILL YOU DO?|. ОН ПЫТАЕТСЯ АТАКОВАТЬ ОТРЯД, НО ВЫ ОСТАНАВЛИВАЕТЕ ЕГО. ЧТО ВЫ СДЕЛАЕТЕ?
+227|ATTACK HIM|АТАКОВАТЬ ЕГО
+228|LET HIM GO|ОТПУСТИТЬ ЕГО
+229|, BACKSTABS A PARTY MEMBER THEN DISAPPEARS THROUGH THE WALL.|, ЗАРЕЗАЕТ СО СПИНЫ УЧАСТНИКА ОТРЯДА, А ПОТОМ ИСЧЕЗАЕТ В СТЕНЕ.
+230|PILED HERE IS VARIOUS LOOT.  THERE IS A WIDE VARIETY OF NICK NACKS FROM TARNISHED BRONZE CANDLESTICKS TO ONE OR TWO USEFUL ITEMS.|ТУТ СВАЛЕНО МНОГО РАЗНОЙ ДОБЫЧИ. ВСЯКАЯ ВСЯЧИНА - ОТ ПОТУСКНЕВШИХ БРОНЗОВЫХ ПОДСВЕЧНИКОВ ДО БОЛЕЕ ПОЛЕЗНЫХ ВЕЩЕЙ.
+231|AS YOU ENTER THE ROOM TWO THIEVES COME OUT OF NOWHERE AND ATTACK THE PARTY.  THEY FAIL MISERABLY AND RUN OUT THE EAST DOOR.  WILL YOU CHASE THEM?|КАК ТОЛЬКО ВЫ ВОШЛИ В КОМНАТУ, ДВА ВОРА ПОЯВИЛИСЬ ИЗ НИОТКУДА И АТАКОВАЛИ ОТРЯД. ОНИ ПОТЕРПЕЛИ НЕУДАЧУ И СБЕЖАЛИ ЧЕРЕЗ ВОСТОЧНУЮ ДВЕРЬ. ПРЕСЛЕДОВАТЬ ИХ?
 232|YES|ДА
 233|NO|НЕТ
-234|AS YOU ENTER THE ROOM YOU ARE AMBUSHED BY SOME THIEVES.|КАК ВЫ ВОЙДИТЕ В КОМНАТУ, ВАС ВСТРЕТ НЕКОТОРЫЕ ВОРЫ.
-235|ON THE FLOOR HERE YOU FIND SOME IMPORTANT LOOKING FILES.  YOU STUFF THE FILES INTO YOUR JOURNAL UNDER ENTRIES 38 AND 51.|НА ЭТАЖЕ ВЫ НАХОДИЛИ НЕКОТОРЫЕ ВАЖНЫЕ ФАЙЛЫ ДЛЯ ПРОСМОТРА. ВЫ ЗАПУСКАЕТЕ ФАЙЛЫ В ВАШЕМ ЖУРНАЛЕ ПОД ЗАПИСИ 38 И 51.
-236|YOU ARE IN A ROOM THAT HAS BEEN CONVERTED TO A JAIL CELL.  IT IS EMPTY.|ВЫ НАХОДИТЕСЬ В КОМНАТЕ, ПРЕОБРАЗОВАННОМ В СИЗО. ОНО ПУСТО.
-237|ON A NEARBY WALL IS A SLATE.  DRAWN ON THE SLATE IS A COMPLEX MAZE WITH THE WORDS 'NW CASTLE' UNDER IT.  YOU COPY THE CASTLE INTO YOUR JOURNAL UNDER JOURNAL ENTRY 41.|НА РЯДОМ СТЕНЕ ГЛАВНАЯ. НА СЛОВЕ НАЧИСЛЕН СЛОЖНЫЙ ЛАБИРИНТ, ПОД НЕЙ СЛОВА "СЗ ЗАМОК". ВЫ КОПИРУЕТЕ ЗАМОК В СВОЙ ЖУРНАЛ ПОД ЗАПИСЕЙ 41.
-238|ON THE FLOOR IS A CRUDE MAP.  IT IS A MAP OF A COMPLEX MAZE WITH THE WORDS 'NE CASTLE' UNDER IT.  YOU TAKE THE MAP AND PUT IT IN YOUR JOURNAL UNDER JOURNAL ENTRY 29.|НА ЭТАЖЕ ГОРЯЧАЯ КАРТА. ЭТО КАРТА СЛОЖНОГО ЛАБИРИНТА С СЛОВАМИ "НЕ ЗАМОК" ПОД НЕЙ. ВЫ СОЗДАВАЕТЕ КАРТУ И РАЗМЕЩАЕТЕ ЕЕ В СВОЕМ ЖУРНАЛЕ ПОД ЗАПИСЕЙ В ЖУРНАЛЕ 29.
-239|IN FRONT OF YOU ARE THREE CABINETS.  WHICH ONE WILL YOU EXAMINE?|ПЕРЕД ВАМИ ТРИ ШКАФА. ЧТО ВЫ ИЗУЧИТЕ?
+234|AS YOU ENTER THE ROOM YOU ARE AMBUSHED BY SOME THIEVES.|ПОСЛЕ ВХОДА В КОМНАТУ НА ВАС ИЗ ЗАСАДЫ ВЫСКАКИВАЕТ НЕСКОЛЬКО ВОРОВ.
+235|ON THE FLOOR HERE YOU FIND SOME IMPORTANT LOOKING FILES.  YOU STUFF THE FILES INTO YOUR JOURNAL UNDER ENTRIES 38 AND 51.|НА ПОЛУ КОМНАТЫ ВЫ НАХОДИТЕ КАКИЕ-ТО ПАПКИ, КОТОРЫЕ ВЫГЛЯДЯТ ВАЖНЫМИ, И ЗАСОВЫВАЕТЕ ИХ В СВОЙ ЖУРНАЛ КАК ЗАМЕТКИ 38 И 51.
+236|YOU ARE IN A ROOM THAT HAS BEEN CONVERTED TO A JAIL CELL.  IT IS EMPTY.|ВЫ В КОМНАТЕ, КОТОРУЮ ПЕРЕОБОРУДОВАЛИ В ТЮРЕМНУЮ КАМЕРУ. ОНА ПУСТА.
+237|ON A NEARBY WALL IS A SLATE.  DRAWN ON THE SLATE IS A COMPLEX MAZE WITH THE WORDS 'NW CASTLE' UNDER IT.  YOU COPY THE CASTLE INTO YOUR JOURNAL UNDER JOURNAL ENTRY 41.|НА СОСЕДНЕЙ СТЕНЕ ПРИКРЕПЛЕНА ГРИФЕЛЬНАЯ ДОСКА. НА НЕЙ ПОД СЛОВАМИ 'СЗ ЗАМОК' ИЗОБРАЖЁН СЛОЖНЫЙ ЛАБИРИНТ. ВЫ СРИСОВЫВАЕТЕ КАРТУ В СВОЙ ЖУРНАЛ КАК ЗАМЕТКУ 41.
+238|ON THE FLOOR IS A CRUDE MAP.  IT IS A MAP OF A COMPLEX MAZE WITH THE WORDS 'NE CASTLE' UNDER IT.  YOU TAKE THE MAP AND PUT IT IN YOUR JOURNAL UNDER JOURNAL ENTRY 29.|НА ПОЛУ ЛЕЖИТ НАБРОСОК КАРТЫ СЛОЖНОГО ЛАБИРИНТА, ПОД КОТОРОЙ НАПИСАНЫ СЛОВА 'СВ ЗАМОК'. ВЫ ЗАБИРАЕТЕ ЕЁ, ПОЛОЖИВ В СВОЙ ЖУРНАЛ КАК ЗАМЕТКУ 29.
+239|IN FRONT OF YOU ARE THREE CABINETS.  WHICH ONE WILL YOU EXAMINE?|ПЕРЕД ВАМИ ТРИ ШКАФЧИКА. КАКОЙ ИЗ НИХ БУДЕТЕ ОСМАТРИВАТЬ?
 240|A|А
-241|B|B
-242|C|C
-243|LEAVE|ПОКИНУТЬ
-244|YOU SEE A WIDE COLLECTION OF RUGS AND TAPESTRIES.  TWO OF THEM LOOK EXTRAORDINARY WHILE THE OTHERS LOOK AVERAGE.|ВЫ ВИДИТЕ ШИРОКУЮ КОЛЛЕКЦИЮ КОВРИКОВ И ГОБЕЛОВ. Двое из них выглядят необычно, в то время как другие - в среднем.
-245|IN FRONT OF YOU IS A WOODEN CABINET.  WHAT WILL YOU DO?|ПЕРЕД ВАМИ ДЕРЕВЯННЫЙ ШКАФ. ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
-246|EXAMINE THE CABINET|ИЗУЧИТЕ ШКАФ
-247|LEAVE IT|ОСТАВЬ ЭТО
-248|YOU FIND A WIDE VARIETY OF SCROLLS IN SCROLL CASES.|ВЫ НАХОДИТЕ ШИРОКОЕ РАЗНООБРАЗИЕ СВИТОК В СЛУЧАЯХ ПРОКРУТКИ.
-249|BEFORE YOU IS A TABLE WITH FOUR SMALL CASKETS ON TOP OF IT.  WHAT WILL YOU DO?|ПЕРЕД ВАМИ ТАБЛИЦА С ЧЕТЫРЬМЯ МАЛЕНЬКИМИ КОРПУСАМИ Сверху. ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
-250|SEARCH A CASKET|ПОИСК В КОРЗИНЕ
-251|LEAVE|ПОКИНУТЬ
-252|WHICH CASKET WILL YOU SEARCH?|КАКУЮ КОРЗИНУ ВЫ БУДЕТЕ ИСКАТЬ?
+241|B|Б
+242|C|В
+243|LEAVE|УЙТИ
+244|YOU SEE A WIDE COLLECTION OF RUGS AND TAPESTRIES.  TWO OF THEM LOOK EXTRAORDINARY WHILE THE OTHERS LOOK AVERAGE.|ВЫ ВИДИТЕ БОЛЬШУЮ КОЛЛЕКЦИЮ КОВРОВ И ГОБЕЛЕНОВ. ДВА ИЗ НИХ ВЫГЛЯДЯТ ЗАМЕЧАТЕЛЬНО, В ТО ВРЕМЯ КАК ОСТАЛЬНЫЕ ВПОЛНЕ ОБЫКНОВЕННЫЕ.
+245|IN FRONT OF YOU IS A WOODEN CABINET.  WHAT WILL YOU DO?|ПЕРЕД ВАМИ ДЕРЕВЯННЫЙ ШКАФ. ВАШИ ДЕЙСТВИЯ?
+246|EXAMINE THE CABINET|ОСМОТРЕТЬ ШКАФ
+247|LEAVE IT|ОСТАВИТЬ ЕГО
+248|YOU FIND A WIDE VARIETY OF SCROLLS IN SCROLL CASES.|ВЫ НАХОДИТЕ МНОГО РАЗНООБРАЗНЫХ СВИТКОВ В СПЕЦИАЛЬНЫХ КОРОБАХ.
+249|BEFORE YOU IS A TABLE WITH FOUR SMALL CASKETS ON TOP OF IT.  WHAT WILL YOU DO?|ПЕРЕД ВАМИ СТОЛ С ЧЕТЫРЬМЯ МАЛЕНЬКИМИ ШКАТУЛКАМИ. ВАШИ ДЕЙСТВИЯ?
+250|SEARCH A CASKET|ОБЫСКАТЬ ШКАТУЛКУ
+251|LEAVE|УЙТИ
+252|WHICH CASKET WILL YOU SEARCH?|КАКУЮ ШКАТУЛКУ ВЫ БУДЕТЕ ОБЫСКИВАТЬ?
 253|A|А
-254|B|B
-255|C|C
-256|D|D
-257|YOU FIND A POUCH OF SMALL GEMS.|ВЫ НАХОДИЛИ ЧАШКУ МАЛЕНЬКИХ КАМНЕЙ.
-258|INSIDE THIS ROOM YOU FIND A LARGE PILE OF WEAPONS AND SHIELDS.  THEY APPEAR TO BE IN GOOD CONDITION AND OF FINE QUALITY.  WHAT WILL YOU DO?|ВНУТРИ ЭТОЙ КОМНАТЫ ВЫ НАХОДИТЕ БОЛЬШУЮ ГОРУ ОРУЖИЯ И ЩИТОВ. ОНИ В ХОРОШЕМ СОСТОЯНИИ И ОТЛИЧНОГО КАЧЕСТВА. ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
-259|TAKE SOME|ВОЗЬМИ НЕМНОГО
-260|SEARCH THEM|ПОИСК ИХ
-261|LEAVE THEM|ОСТАВЬ ИХ
-262|AS YOU ENTER THIS ROOM THE TWO THIEVES SPLIT; ONE GOING THROUGH THE EAST DOOR, THE OTHER GOING THROUGH THE SOUTH.  WHICH PATH WILL YOU TAKE?|КАК ВЫ ВОЙДЕТЕ В ЭТУ КОМНАТУ, ДВУХ ВОРОВ РАЗДЕЛАТЬ; ОДИН ПРОХОДИТ ЧЕРЕЗ ВОСТОЧНУЮ ДВЕРЬ, ДРУГОЙ ПРОХОДИТ НА ЮГ. КАКОЙ ПУТЬ ВЫ ПЕРЕДАЕТЕ?
-263|SOUTH|ЮГ
-264|EAST|ВОСТОК
-265|DON'T FOLLOW|НЕ СЛЕДУЙТЕ
-266|YOU HAVE CAUGHT ONE OF THE THIEVES.  THE THIEF BEGS FOR MERCY AND SAYS, 'I AM THE GUILD MASTER.  IF YOU RELEASE ME, MY THIEVES WILL NO LONGER ATTACK YOU!'  WHAT WILL YOU DO?|ВЫ ПОЙТИЛИ ОДНОГО ИЗ ВОРОВ. ВОР МОЛЕТСЯ О МИЛОСЕРДИИ И ГОВОРИТ: "Я - МАСТЕР ГИЛЬДИИ. ЕСЛИ ВЫ ОСВОБОДИТЕ МЕНЯ, МОИ ВОРЫ БОЛЬШЕ НЕ НАПАДАЮТ НА ВАС! " ЧТО ВЫ БУДЕТЕ ДЕЛАТЬ?
-267|ATTACK|АТАКА
-268|RELEASE|РЕЛИЗ
-269|AFTER YOU RELEASE HIM THE THIEF SLOWLY WALKS TOWARD THE FAR DOOR THANKING YOU ALL THE WAY.  PARTWAY THROUGH THE DOOR HE SAYS, 'SUCKERS', THEN SPRINTS AWAY.|ПОСЛЕ ТОГО, КАК ВЫ ОСВОБОДИТЕ ЕГО, ВОР МЕДЛЕННО ПРОХОДИТ К ДАЛЬНЕЙ ДВЕРИ, ВСЕМ СПАСИБО ВАМ. ЧЕРЕЗ ДВЕРЬ ОН СКАЗЫВАЕТ: "ОТСАДЫВАЕТСЯ", А ПОТОМ УБИВАЕТСЯ.
-270|AS YOU ENTER THE ROOM YOU ARE AMBUSHED BY SOME THIEVES.|КАК ВЫ ВОЙДИТЕ В КОМНАТУ, ВАС ВСТРЕТ НЕКОТОРЫЕ ВОРЫ.
-271|YOU ENTER A ROOM THAT HAS BEEN CONVERTED TO A JAIL.  THERE ARE TEN YOUNG THUGS BEATING AN OLDER THIEF TO DEATH.  ONCE YOU ENTER THEY STOP AND ATTACK YOU.|ВЫ входите в комнату, переоборудованную в тюрьму. ДЕСЯТЬ МОЛОДЫХ головорезов бьют старшего вора до смерти. Как только вы войдете, они остановятся и атакуют вас.
-272|YOU RUSH TO HELP THE OLD THIEF BUT IT'S TOO LATE.  BEFORE HE DIES HE SAYS, 'THE BOSS HAS ALLIES EVERYWHERE.  TAKE THESE PAPERS.  THEY MAY HELP.'  HE THEN DIES.|ТЫ СКОРПИШЬСЯ НА ПОМОЩЬ СТАРОМУ ВОРУ, НО ЭТО СЛИШКОМ ПОЗДНО. ПЕРЕД СМЕРТЬЮ ОН СКАЗЫВАЕТ: "У БОССА ВЕЗДЕ ЕСТЬ СОЮЗНИКИ. ПРИНИМАЙТЕ ЭТИ ДОКУМЕНТЫ. ОНИ МОГУТ ПОМОЧЬ ". ОН ТОГДА УМИРАЕТ.
-273|YOU COPY THE PAPERS INTO YOUR JOURNAL UNDER JOURNAL ENTRY 48.|ВЫ КОПИРУЕТЕ СТАТЬИ В СВОЙ ЖУРНАЛ ПОД ЗАПИСЕЙ 48.
+254|B|Б
+255|C|В
+256|D|Г
+257|YOU FIND A POUCH OF SMALL GEMS.|ВЫ НАШЛИ МЕШОЧЕК С МЕЛКИМИ ДРАГОЦЕННЫМИ КАМНЯМИ
+258|INSIDE THIS ROOM YOU FIND A LARGE PILE OF WEAPONS AND SHIELDS.  THEY APPEAR TO BE IN GOOD CONDITION AND OF FINE QUALITY.  WHAT WILL YOU DO?|ВНУТРИ КОМНАТЫ ВЫ ОБНАРУЖИВАЕТЕ БОЛЬШУЮ КУЧУ ОРУЖИЯ И ЩИТОВ - КАЧЕСТВЕННЫХ И В ХОРОШЕМ СОСТОЯНИИ. ВАШИ ДЕЙСТВИЯ?
+259|TAKE SOME|ВЗЯТЬ НЕСКОЛЬКО
+260|SEARCH THEM|ОСМОТРЕТЬ ИХ
+261|LEAVE THEM|ПОКИНУТЬ ИХ
+262|AS YOU ENTER THIS ROOM THE TWO THIEVES SPLIT; ONE GOING THROUGH THE EAST DOOR, THE OTHER GOING THROUGH THE SOUTH.  WHICH PATH WILL YOU TAKE?|ПОСЛЕ ТОГО, КАК ВЫ ВХОДИТЕ В ЭТУ КОМНАТУ, ВОРЫ РАЗДЕЛЯЮТСЯ: ОДИН ПОШЁЛ ЧЕРЕЗ ВОСТОЧНУЮ ДВЕРЬ, А ДРУГОЙ - ЧЕРЕЗ ЮЖНУЮ. КАКОЙ ПУТЬ ВЫ ВЫБЕРЕТЕ?
+263|SOUTH|ЮЖНЫЙ
+264|EAST|ВОСТОЧНЫЙ
+265|DON'T FOLLOW|НЕ ИДТИ ЗА НИМИ
+266|YOU HAVE CAUGHT ONE OF THE THIEVES.  THE THIEF BEGS FOR MERCY AND SAYS, 'I AM THE GUILD MASTER.  IF YOU RELEASE ME, MY THIEVES WILL NO LONGER ATTACK YOU!'  WHAT WILL YOU DO?|ВЫ ПОЙМАЛИ ОДНОГО ИЗ ВОРОВ. ОН УМОЛЯЕТ О ПОЩАДЕ И ГОВОРИТ: 'Я ГЛАВА ГИЛЬДИИ. ЕСЛИ ВЫ ОСВОБОДИТЕ МЕНЯ, МОИ ВОРЫ БОЛЬШЕ НЕ БУДУТ НАПАДАТЬ НА ВАС!' ЧТО ВЫ СДЕЛАЕТЕ?
+267|ATTACK|НАПАСТЬ
+268|RELEASE|ОСВОБОДИТЬ
+269|AFTER YOU RELEASE HIM THE THIEF SLOWLY WALKS TOWARD THE FAR DOOR THANKING YOU ALL THE WAY.  PARTWAY THROUGH THE DOOR HE SAYS, 'SUCKERS', THEN SPRINTS AWAY.|ПОСЛЕ ТОГО, КАК ВЫ ОСВОБОДИЛИ ВОРА, ОН МЕДЛЕННО ИДЁТ К ДАЛЬНЕЙ ДВЕРИ, ВСЁ ВРЕМЯ БЛАГОДАРЯ ВАС. НА ПОЛПУТИ К ДВЕРИ ОН ГОВОРИТ: "МОЛОКОСОСЫ", А ПОТОМ БРОСАЕТСЯ ПРОЧЬ.
+270|AS YOU ENTER THE ROOM YOU ARE AMBUSHED BY SOME THIEVES.|ПРИ ВХОДЕ В КОМНАТУ НА ВАС ИЗ ЗАСАДЫ НАПАДАЕТ НЕСКОЛЬКО ВОРОВ.
+271|YOU ENTER A ROOM THAT HAS BEEN CONVERTED TO A JAIL.  THERE ARE TEN YOUNG THUGS BEATING AN OLDER THIEF TO DEATH.  ONCE YOU ENTER THEY STOP AND ATTACK YOU.|ВЫ ВХОДИТЕ В КОМНАТУ, ПРЕВРАЩЁННУЮ В ТЮРЬМУ. ДЕСЯТОК МОЛОДЫХ ГОЛОВОРЕЗОВ ДО СМЕРТИ ИЗБИВАЕТ СТАРОГО ВОРА. КОГДА ВЫ ВХОДИТЕ, ОНИ ОСТАНАВЛИВАЮТСЯ И НАПАДАЮТ НА ВАС.
+272|YOU RUSH TO HELP THE OLD THIEF BUT IT'S TOO LATE.  BEFORE HE DIES HE SAYS, 'THE BOSS HAS ALLIES EVERYWHERE.  TAKE THESE PAPERS.  THEY MAY HELP.'  HE THEN DIES.|ВЫ СПЕШИТЕ НА ПОМОЩЬ СТАРОМУ ВОРУ, НО СЛИШКОМ ПОЗДНО. ПРЕЖДЕ ЧЕМ УМЕРЕТЬ, ОН ПРОИЗНОСИТ: 'У БОССА ВЕЗДЕ ЕСТЬ СОЮЗНИКИ. ВОЗЬМИТЕ ЭТИ БУМАГИ - ОНИ МОГУТ ПОМОЧЬ'. ЗАТЕМ ОН УМИРАЕТ.
+273|YOU COPY THE PAPERS INTO YOUR JOURNAL UNDER JOURNAL ENTRY 48.|ВЫ ПЕРЕПИСЫВАЕТЕ ЭТИ БУМАГИ В СВОЙ ЖУРНАЛ КАК ЗАМЕТКУ 48.
 274|YOUR MAGIC DETECTS A TRAP!|ВАША МАГИЯ ОБНАРУЖИВАЕТ ЛОВУШКУ!
-275|YOUR PARTY DETECTS A TRAP!|ВАША СТОРОНА ОБНАРУЖИВАЕТ ЛОВУШКУ!
-276|WHAT DO YOU WANT TO DO?|ЧТО ТЫ ХОЧЕШЬ ДЕЛАТЬ?
-277|AVOID TRAP|ИЗБЕГАЙТЕ ЛОВУШКИ
-278|DISARM TRAP|СБРОСИТЬ ЛОВУШКУ
-279|WHO WILL DISARM THE TRAP?|КТО ОБЕЗВРАЩАЕТ ЛОВУШКУ?
-280|YOU DEACTIVATE THE TRAP|ВЫ ОТКЛЮЧАЕТЕ ЛОВУШКУ
-281|A SCYTHING BLADE DROPS ACROSS THE DOORWAY, DAMAGING ONE OF THE CHARACTERS.|ЛЕЗВИЕ ДЛЯ КОСЫ БРОСАЕТ ЧЕРЕЗ ДВЕРНОЙ ПРОХОД, ПОВРЕЖДАЯ ОДНОГО ИЗ ПЕРСОНАЖЕЙ.
-282|THE PARTY HEARS THE CRACKING OF GLASS.  A POISONOUS GAS FILLS THE AIR!|ПАРТИЯ СЛЫШАЕТ ТРЕЩЕНИЕ СТЕКЛА. ЯДНЫЙ ГАЗ НАПОЛНЯЕТ ВОЗДУХ!
-283|AFTER THE PARTY ENTERS THE ROOM A NET LACED WITH SHARP BLADES FALLS ON THE PARTY.|ПОСЛЕ того, как ВЕЧЕРИНКА входит в комнату, СЕТЬ С ОСТРЫМИ ЛЕЗВИЯМИ падает НА ВЕЧЕРИНКУ.
-284|INSIDE THE CABINET YOU FIND SOME FILES.  YOU STUFF THE PAPERS INTO YOUR JOURNAL UNDER ENTRIES 23 AND 14.|ВНУТРИ ШКАФА ВЫ НАХОДИТЕ НЕКОТОРЫЕ ФАЙЛЫ. ВЫ ЗАПУСКАЕТЕ ДОКУМЕНТЫ В ВАШЕМ ЖУРНАЛЕ ПОД ЗАПИСКАМИ 23 И 14.
-285|INSIDE THE CABINET YOU FIND FIFTEEN SACKS FILLED WITH SILVER PIECES.|ВНУТРИ ШКАФА ВЫ НАЙДЕТЕ ПЯТНАДЦАТЬ Мешков, наполненных СЕРЕБРЯНЫМИ ЧАСТЯМИ.
-286|INSIDE THE CABINET YOU FIND EIGHTEEN SACKS FILLED WITH GOLD PIECES.|ВНУТРИ ШКАФА ВЫ НАЙДЕТЕ ВОСЕМНАДЦАТЬ Мешков, наполненных ЗОЛОТАМИ.
-287|THIS CABINET IS EMPTY.|ЭТОТ ШКАФ ПУСТО.
-288|AS YOU ATTEMPT TO DISARM THE TRAP, IT GOES OFF IN YOUR FACE!  A CLOUD OF POISONOUS YELLOW GAS FILLS THE ROOM.|КАК ВЫ ПЫТАЕТЕСЬ ОБЕЗВРАТИТЬ ЛОВУШКУ, ОНА СРАЖАЕТСЯ ВАМ В ЛИЦУ! КОМНАТУ НАПОЛНЯЕТСЯ ОБЛАКО ЯДОВИТЕЛЬНОГО ЖЕЛТОГО ГАЗА.
+275|YOUR PARTY DETECTS A TRAP!|ВАШ ОТРЯД ЗАМЕЧАЕТ ЛОВУШКУ!
+276|WHAT DO YOU WANT TO DO?|ЧТО ВЫ ХОТИТЕ СДЕЛАТЬ?
+277|AVOID TRAP|ИЗБЕЖАТЬ ЛОВУШКИ
+278|DISARM TRAP|ОБЕЗВРЕДИТЬ ЛОВУШКУ
+279|WHO WILL DISARM THE TRAP?|КТО БУДЕТ ОБЕЗВРЕЖИВАТЬ ЛОВУШКУ?
+280|YOU DEACTIVATE THE TRAP|ВЫ ОБЕЗВРЕЖИВАЕТЕ ЛОВУШКУ
+281|A SCYTHING BLADE DROPS ACROSS THE DOORWAY, DAMAGING ONE OF THE CHARACTERS.|ЧЕРЕЗ ДВЕРНОЙ ПРОЁМ ПАДАЕТ ЛЕЗВИЕ КОСЫ, ПОРАНИВ ОДНОГО ИЗ ВАШИХ ГЕРОЕВ.
+282|THE PARTY HEARS THE CRACKING OF GLASS.  A POISONOUS GAS FILLS THE AIR!|ОТРЯД СЛЫШИТ ЗВОН РАЗБИТОГО СТЕКЛА. ВОЗДУХ НАПОЛНЯЕТСЯ ОТРАВЛЯЮЩИМ ГАЗОМ!
+283|AFTER THE PARTY ENTERS THE ROOM A NET LACED WITH SHARP BLADES FALLS ON THE PARTY.|ПОСЛЕ ТОГО КАК ОТРЯД ВХОДИТ В КОМНАТУ, СЕТКА, УКРАШЕННАЯ ОСТРЫМИ КЛИНКАМИ, ПАДАЕТ НА ОТРЯД.
+284|INSIDE THE CABINET YOU FIND SOME FILES.  YOU STUFF THE PAPERS INTO YOUR JOURNAL UNDER ENTRIES 23 AND 14.|ВНУТРИ ШКАФЧИКА ВЫ НАХОДИТЕ НЕСКОЛЬКО ПАПОК И ЗАПИХИВАЕТЕ ЭТИ БУМАГИ В СВОЙ ЖУРНАЛ КАК ЗАМЕТКИ 23 И 14.
+285|INSIDE THE CABINET YOU FIND FIFTEEN SACKS FILLED WITH SILVER PIECES.|ВНУТРИ ШКАФЧИКА ВЫ НАХОДИТЕ ПЯТНАДЦАТЬ МЕШОЧКОВ С СЕРЕБРЯНЫМИ МОНЕТАМИ.
+286|INSIDE THE CABINET YOU FIND EIGHTEEN SACKS FILLED WITH GOLD PIECES.|ВНУТРИ ШКАФЧИКА ВЫ НАХОДИТЕ ВОСЕМНАДЦАТЬ МЕШОЧКОВ С ЗОЛОТЫМИ МОНЕТАМИ.
+287|THIS CABINET IS EMPTY.|ШКАФЧИК ПУСТ.
+288|AS YOU ATTEMPT TO DISARM THE TRAP, IT GOES OFF IN YOUR FACE!  A CLOUD OF POISONOUS YELLOW GAS FILLS THE ROOM.|КОГДА ВЫ ПЫТАЕТЕСЬ РАЗРЯДИТЬ ЛОВУШКУ, ОНА СРАБАТЫВАЕТ ПРЯМО ВАМ В ЛИЦО! КОМНАТА НАПОЛНЯЕТСЯ ОБЛАКОМ ЯДОВИТОГО ЖЁЛТОГО ГАЗА.
 289|YOU AVOID THE TRAP BY NOT OPENING THE CABINET!|ВЫ ИЗБЕГАЕТЕ ЛОВУШКИ, НЕ ОТКРЫВАЯ ШКАФ!
-290|IT IS LOCKED.  HOW WILL YOU OPEN THE LOCK?|ЗАКРЫТО. КАК ОТКРЫТЬ ЗАМОК?
-291|PICK|ВЫБИРАТЬ
-292|BREAK|ПЕРЕРЫВ
-293|CAST KNOCK|CAST KNOCK
-294|LEAVE|ПОКИНУТЬ
-295|NO ONE IN THE PARTY HAS THE KNOCK SPELL!  HOW WILL YOU OPEN THE LOCK?|НИКОГО В ПАРТИИ НЕ БУДЕТ ТУЧАТЬ ЗАКЛИНАНИЕМ! КАК ОТКРЫТЬ ЗАМОК?
-296|INSIDE THE CASKET IS A VARIETY OF GOLD CHAINS, PENDANTS AND JEWELRY.|ВНУТРИ ШКАТУРА РАЗНООБРАЗИЕ ЗОЛОТЫХ ЦЕПЕЙ, КУЛОНОВ И ЮВЕЛИРНЫХ ИЗДЕЛИЙ.
-297|INSIDE THE CASKET ARE SOME BEAUTIFUL GEMS.|ВНУТРИ ШКАТУРА КРАСИВЫЕ ДРАГОЦЕННОСТИ.
-298|THE CASKET IS FILLED WITH TINY PEARLS!|КОРЗИНА НАПОЛНЕНА ЖЕМЧУЖИНАМИ!
-299|THIS CASKET IS EMPTY.|ЭТА КОРЗИНА ПУСТО.
-300|AS YOU ATTEMPT TO DEACTIVATE THE TRAP YOU SET IT OFF.  A POSIONED NEEDLE SHOOTS OUT AND PLUNGES INTO A PARTY MEMBER.|КАК ВЫ ПЫТАЕТЕСЬ ОТКЛЮЧИТЬ ЛОВУШКУ, ВЫ ЕЕ ОТКЛЮЧАЕТЕ. ПОЛОЖЕННАЯ ИГЛА ВЫСТРЕЛЯЕТСЯ И ВНИЗЫВАЕТСЯ В ЧЛЕНА ПАРТИИ.
-301|YOU AVOID THE TRAP BY NOT OPENING THE CASKET.|ВЫ ИЗБЕГАЕТЕ ЛОВУШКИ, НЕ ОТКРЫВАЯ КОРЗИНУ.
-302|YOU LEAVE THE WEAPONS ALONE.|ВЫ ОСТАВЛЯЕТЕ ОРУЖИЕ В СЛУЧАЕ.
-303|AS YOU NEAR THE PILE OF WEAPONS AN AWFUL SMELLING CLOUD OF GAS FORMS.  THIS FOUL SMELLING GAS STUNS THE PARTY ALLOWING A GROUP OF THIEVES TO JUMP OUT OF THE SHADOWS AND ATTACK AT WILL!|КАК ВЫ ВБЛИЗИ ОРУЖИЯ, УЖАСНО пахнущее облако газовых форм. ЭТО ОШИБНЫЙ ГАЗ ОШЕЛЫВАЕТ СТОРОНУ, ПОЗВОЛЯЯ ГРУППЕ ВОРОВ ВЫКЛЮЧАТЬСЯ ИЗ ТЕНИ И НАПАДАТЬ ПО ЖЕЛАНИЮ!
-304|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
-305|THIS CABINET IS EMPTY.|ЭТОТ ШКАФ ПУСТО.
-306|AS YOU TRY TO DEACTIVATE THE TRAP YOU MANAGE TO SET IT OFF.  A LARGE NEEDLE SHOOTS OUT OF A HIDDEN COMPARTMENT HITTING A PARTY MEMBER.|КАК ВЫ ПЫТАЕТЕСЬ ОТКЛЮЧИТЬ ЛОВУШКУ, ВЫ УДАВАЕТЕ ЕЕ ОТКЛЮЧИТЬ. БОЛЬШАЯ ИГЛА ВЫБИВАЕТСЯ ИЗ СКРЫТОГО ОТДЕЛЕНИЯ, УДАРАЯ ЧЛЕНА ПАРТИИ.
-307|YOU AVOID THE TRAP BY NOT OPENNING THE CABINET.|ВЫ ИЗБЕГАЕТЕ ЛОВУШКИ, НЕ ОТКРЫВАЯ ШКАФ.
-308|WHO WILL TRY TO PICK THE LOCK?|КТО ПОПРОБУЕТ ОТКРЫТЬ ЗАМОК?
-309|YOU PICK THE LOCK!|ВЫ ВЫБИРАЕТЕ ЗАМОК!
-310|WITH ONE MIGHTY SWING YOU SMASH OPEN THE LOCK MAKING ENOUGH NOISE TO WAKE THE DEAD.|ОДНИМ МОЩНЫМ ЗАХВАТОМ ВЫ РАЗБИВАЕТЕ ОТКРЫТИЕ ЗАМКА, ИЗДАВЛЯЮЩЕЕ ДОСТАТОЧНЫЙ ШУМ, ЧТОБЫ ПРОБУДИТЬ МЕРТВЫХ.
-311| CASTS A KNOCK SPELL AND OPENS THE LOCK.| ПРОИЗВОДИТ ЗАКЛИНАНИЕ ТУЧКА И ОТКРЫВАЕТ ЗАМОК.     
-312|AS YOU EXAMINE THE CASKET A TRAP GOES OFF.  A DART SHOOTS OUT AND HITS ONE OF THE PARTY MEMBERS.|ПРИ ИЗУЧЕНИИ КОРПУСА ЛОВУШКА СРАБАТЫВАЕТСЯ. ДАРТ ВЫСТРЕЛЯЕТ И БИТ ОДНОГО ИЗ ЧЛЕНОВ ПАРТИИ.                    
-313|AS YOU SEARCH THE CASKET, YOU ACCIDENTLY SET OFF A TRAP.  A NOXIOUS POWDER SPRAYS INTO THE AIR DAMAGING THE PARTY.|В ПОИСКАХ КОРПУСА ВЫ СЛУЧАЙНО ЗАКРЫВАЕТЕ ЛОВУШКУ. ВРЕДНЫЙ ПОРОШОК РАСПЫЛИВАЕТСЯ В ВОЗДУХ, ПОВРЕДАЯ СТОРОНУ.                    
-314|AS YOU SEARCH THE CASKET YOU TRIGGER A TRAP.  FROM A SECRET COMPARTMENT IN THE WALL, A SHOWER OF DARTS RAINS DOWN UPON THE PARTY.|ПОИСК В КОРПУСЕ ВЫ ЗАПУСКАЕТЕ ЛОВУШКУ. ИЗ СЕКРЕТНОГО ОТДЕЛЕНИЯ В СТЕНЕ НА ПРАЗДНИК ЛЕТ ДУШ ДАРТОВЫЙ ДОЖДЬ.                    
-315|YOU BYPASS THE TRAP BY NOT FOOLING WITH ANY OF THE WEAPONS.|ВЫ ОБХОДИТЕ ЛОВУШКУ, НЕ ДУРАЧИВАЯ НИКАКОЕ ОРУЖИЕ.                    
-// Extra space here
-316|AS YOU NEAR THE PILE OF WEAPONS AN EXTREMELY BAD SMELLING GAS FILLS THE ROOM.  THE SMELL IS DISGUSTING BUT HARMLESS ENOUGH.|КОГДА ВЫ ПРИБЛИЖАЕТЕ С ОРУЖИЕМ, КОМНАТУ НАПОЛНЯЕТСЯ ЧРЕЗВЫЧАЙНО ПЛОХОЙ ГАЗ. ЗАПАХ ОТЛИЧНЫЙ, НО ДОСТАТОЧНО ВРЕДНЫЙ.                            
-317|YOU HAVE ALREADY TRIED TO PICK THIS LOCK AND HAVE FOUND THAT IT IS TOO COMPLEX FOR YOU TO HANDLE.|ВЫ УЖЕ ПЫТАЛИСЬ ВЫБРАТЬ ДАННЫЙ ЗАМОК, И ОБНАРУЖИЛИ, ЧТО ЭТО СЛИШКОМ СЛОЖНО ДЛЯ ВАС.                    
-318|YOU TRY TO PICK THE LOCK BUT IT IS TOO COMPLEX FOR YOU TO PICK.  YOU FAIL MISERABLY.|ВЫ ПЫТАЕТЕСЬ ВЫБРАТЬ ЗАМОК, НО ЭТО СЛИШКОМ СЛОЖНО ДЛЯ ВАС. ВЫ НЕВЕРОЯТНО НЕУДАЕТЕ.                    
+290|IT IS LOCKED.  HOW WILL YOU OPEN THE LOCK?|ЗАПЕРТО. КАК ВЫ ОТКРОЕТЕ ЗАМОК?
+291|PICK|ВЗЛОМАТЬ
+292|BREAK|РАЗБИТЬ
+293|CAST KNOCK|НАКОЛДОВАТЬ СТУК
+294|LEAVE|УЙТИ
+295|NO ONE IN THE PARTY HAS THE KNOCK SPELL!  HOW WILL YOU OPEN THE LOCK?|НИКТО В ОТРЯДЕ НЕ ИМЕЕТ ЗАКЛИНАНИЕ СТУКА! КАК ВЫ ОТКРОЕТЕ ЗАМОК?
+296|INSIDE THE CASKET IS A VARIETY OF GOLD CHAINS, PENDANTS AND JEWELRY.|ВНУТРИ ШКАТУЛКИ - ЗОЛОТЫЕ ЦЕПОЧКИ, КУЛОНЫ И ДРУГИЕ УКРАШЕНИЯ.
+297|INSIDE THE CASKET ARE SOME BEAUTIFUL GEMS.|ВНУТРИ ШКАТУЛКИ - НЕСКОЛЬКО КРАСИВЫХ ДРАГОЦЕННЫХ КАМНЕЙ.
+298|THE CASKET IS FILLED WITH TINY PEARLS!|ШКАТУЛКА НАПОЛНЕНА КРОШЕЧНЫМ ЖЕМЧУГОМ!
+299|THIS CASKET IS EMPTY.|ШКАТУЛКА ПУСТА.
+300|AS YOU ATTEMPT TO DEACTIVATE THE TRAP YOU SET IT OFF.  A POSIONED NEEDLE SHOOTS OUT AND PLUNGES INTO A PARTY MEMBER.|КОГДА ВЫ ПЫТАЕТЕСЬ ДЕЗАКТИВИРОВАТЬ ЛОВУШКУ, ВЫ ТЕРПИТЕ НЕУДАЧУ. ОТРАВЛЕННАЯ ИГЛА ВЫЛЕТАЕТ И ВОНЗАЕТСЯ В ЧЛЕНА ГРУППЫ.
+301|YOU AVOID THE TRAP BY NOT OPENING THE CASKET.|НЕ ОТКРЫВАЯ ШКАТУЛКУ, ВЫ ИЗБЕГАЕТЕ ЛОВУШКИ.
+302|YOU LEAVE THE WEAPONS ALONE.|ВЫ ОСТАВЛЯЕТЕ ОРУЖИЕ В ПОКОЕ.
+303|AS YOU NEAR THE PILE OF WEAPONS AN AWFUL SMELLING CLOUD OF GAS FORMS.  THIS FOUL SMELLING GAS STUNS THE PARTY ALLOWING A GROUP OF THIEVES TO JUMP OUT OF THE SHADOWS AND ATTACK AT WILL!|ПРИ ВАШЕМ ПРИБЛИЖЕНИИ К ГОРЕ ОРУЖИЯ ПОЯВЛЯЕТСЯ ВОНЮЧЕЕ ОБЛАКО ГАЗА. ЕГО ОТВРАТИТЕЛЬНЫЙ ЗАПАХ ОШЕЛОМЛЯЕТ ОТРЯД, ПОЗВОЛИВ ШАЙКЕ ВОРОВ ВЫСКОЧИТЬ ИЗ ТЕНИ И АТАКОВАТЬ СО ВСЕХ СТОРОН!
+304|PRESS  OR BUTTON TO CONTINUE|НАЖМИТЕ ВВОД, ЧТОБЫ ПРОДОЛЖИТЬ
+305|THIS CABINET IS EMPTY.|ШКАФ ПУСТ.                             
+306|AS YOU TRY TO DEACTIVATE THE TRAP YOU MANAGE TO SET IT OFF.  A LARGE NEEDLE SHOOTS OUT OF A HIDDEN COMPARTMENT HITTING A PARTY MEMBER.|ПЫТАЯСЬ ОБЕЗВРЕДИТЬ ЛОВУШКУ, ВЫ УМУДРЯЕТЕСЬ ЕЁ РАЗРЯДИТЬ. ИЗ СКРЫТОГО ОТДЕЛЕНИЯ ВЫСТРЕЛИВАЕТ БОЛЬШАЯ ИГЛА, УДАРИВ ПО УЧАСТНИКУ ОТРЯДА.
+307|YOU AVOID THE TRAP BY NOT OPENNING THE CABINET.|ВЫ ИЗБЕГАЕТЕ ЛОВУШКУ, НЕ ОТКРЫВ ШКАФ.
+308|WHO WILL TRY TO PICK THE LOCK?|КТО ПОПЫТАЕТСЯ ВЗЛОМАТЬ ЗАМОК?
+309|YOU PICK THE LOCK!|ВЫ ВЗЛОМАЛИ ЗАМОК!
+310|WITH ONE MIGHTY SWING YOU SMASH OPEN THE LOCK MAKING ENOUGH NOISE TO WAKE THE DEAD.|ОДНИМ МОГУЧИМ УДАРОМ ВЫ РАЗБИВАЕТЕ ЗАМОК, И ШУМА ПРИ ЭТОМ ИЗДАЁТЕ СТОЛЬКО, ЧТО И МЁРТВЫХ РАЗБУДИТЬ МОЖНО.
+311|CASTS A KNOCK SPELL AND OPENS THE LOCK.|НАКОЛДОВЫВАЕТ ЗАКЛИНАНИЕ СТУКА, ОТКРЫВ ЗАМОК.
+312|AS YOU EXAMINE THE CASKET A TRAP GOES OFF.  A DART SHOOTS OUT AND HITS ONE OF THE PARTY MEMBERS.|КОГДА ВЫ ОСМАТРИВАЕТЕ ШКАТУЛКУ, СРАБАТЫВАЕТ ЛОВУШКА. ДРОТИК ПОПАДАЕТ В ОДНОГО ИЗ ГЕРОЕВ.
+313|AS YOU SEARCH THE CASKET, YOU ACCIDENTLY SET OFF A TRAP.  A NOXIOUS POWDER SPRAYS INTO THE AIR DAMAGING THE PARTY.|ОБЫСКИВАЯ ШКАТУЛКУ, ВЫ СЛУЧАЙНО АКТИВИРОВАЛИ ЛОВУШКУ. ЯДОВИТЫЙ ПОРОШОК РАССЕИВАЕТСЯ ПО ВОЗДУХУ, НАНОСЯ УРОН ГРУППЕ.
+314|AS YOU SEARCH THE CASKET YOU TRIGGER A TRAP.  FROM A SECRET COMPARTMENT IN THE WALL, A SHOWER OF DARTS RAINS DOWN UPON THE PARTY.|КОГДА ВЫ ОБЫСКИВАЕТЕ ШКАТУЛКУ, СРАБАТЫВАЕТ ЛОВУШКА. ИЗ ПОТАЙНОГО ОТСЕКА В СТЕНЕ НА ГРУППУ ОБРУШИВАЕТСЯ ДОЖДЬ ИЗ ДРОТИКОВ.
+315|YOU BYPASS THE TRAP BY NOT FOOLING WITH ANY OF THE WEAPONS.|ВЫ ОБХОДИТЕ ЛОВУШКУ, НЕ ЖЕЛАЯ ШУТИТЬ НИ С ОДНИМ  ВИДОМ ОРУЖИЯ.
+316|AS YOU NEAR THE PILE OF WEAPONS AN EXTREMELY BAD SMELLING GAS FILLS THE ROOM.  THE SMELL IS DISGUSTING BUT HARMLESS ENOUGH.|КОГДА ВЫ ПРИБЛИЖАЕТЕСЬ К ГРУДЕ ОРУЖИЯ, КОМНАТУ НАПОЛНЯЕТ ЗЛОВОННЫЙ ГАЗ. ЗАПАХ ОТВРАТИТЕЛЬНЫЙ, НО НЕ ПРИЧИНЯЕТ ВРЕДА.
+317|YOU HAVE ALREADY TRIED TO PICK THIS LOCK AND HAVE FOUND THAT IT IS TOO COMPLEX FOR YOU TO HANDLE.|ВЫ УЖЕ ПЫТАЛИСЬ ВЗЛОМАТЬ ЭТОТ ЗАМОК И ОБНАРУЖИЛИ, ЧТО ОН СЛИШКОМ СЛОЖЕН ДЛЯ ВАС.
+318|YOU TRY TO PICK THE LOCK BUT IT IS TOO COMPLEX FOR YOU TO PICK.  YOU FAIL MISERABLY.|ВЫ ПЫТАЕТЕСЬ ВЗЛОМАТЬ ЗАМОК, НО ЭТО СЛИШКОМ СЛОЖНО ДЛЯ ВАС. ВЫ ТЕРПИТЕ НЕУДАЧУ.

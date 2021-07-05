@@ -211,104 +211,103 @@
 //
 //
 //
-1|YOU ARE ROUSTED BY THE CITY WATCH AND TOLD TO MOVE ALONG. WHAT DO YOU DO?|ГОРОДСКИЕ ЧАСЫ ЗАПРЕЩАЮТ ВАС И СКАЗАТЬ ПЕРЕМЕЩАТЬСЯ. ЧТО ВЫ ДЕЛАЕТЕ?
-2|GO|ИДТИ
+1|YOU ARE ROUSTED BY THE CITY WATCH AND TOLD TO MOVE ALONG. WHAT DO YOU DO?|СТРАЖА БУДИТ ВАС И ВЕЛИТ УХОДИТЬ. ВАШИ ДЕЙСТВИЯ?
+2|GO|УЙТИ
 3|STAY|ОСТАТЬСЯ
-4|MAD MAN|СУМАСШЕДШИЙ
-5|'GREETINGS, COURAGEOUS ONES, I AM ROLF, APPOINTED BY THE COUNCIL TO INTRODUCE NEWCOMERS TO THE FAIR CITY OF PHLAN. IF YOU WILL ACCOMPANY ME, I WILL START THE TOUR.'|"ПРИВЕТСТВУЮЩИЕ, МУЖЕЦЫ, Я РОЛЬФ, НАЗНАЧЕН СОВЕТОМ ПРЕДСТАВИТЬ НОВОГОДНЯМ В СВОБОДНЫЙ ГОРОД ФЛАН. ЕСЛИ ВЫ СОПРОВОЖДАЕТЕ МЕНЯ, Я НАЧНУЮ ТУР ".
-6|THE MAD MAN SUDDENLY:TO SCREAM AND ATTACK EVERYONE WITHIN ARM'S REACH.|БЕЗУМНЫЙ ЧЕЛОВЕК ВНЕЗАПНО НАЧИНАЕТ КРИЧАТЬ И НАПАДАТЬ НА ВСЕХ, ЧТО ВСЕГО В ДЕЙСТВИИ РУКИ.
-7|YOU BOARD A BOAT.|ВЫ САДИТЕСЬ НА ЛОДКУ.
-8|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВОЗВРАТ ИЛИ КНОПКУ, ЧТОБЫ ПРОДОЛЖИТЬ
-9|'YOU NOW FACE AN ENTRANCE TO THE TEMPLE OF TYR.  THERE ARE THREE TEMPLES IN PHLAN: TYR'S, SUNE'S, AND TEMPUS. TYR'S IS THE LARGEST AND HOUSES BISHOP BRACCIO. IF YOU WILL TURN AROUND NOW, '|"ТЕПЕРЬ ВЫ ВХОДИТЕ В ХРАМ ТИРА. В ФЛАНЕ ЕСТЬ ТРИ ХРАМА: ТИРА, СУНА И ТЕМПУСА. ТИРА - САМЫЙ БОЛЬШОЙ ДОМ ЕПИСКОПА БРАЧЧО. ЕСЛИ ВЫ ОБРАТИТЕСЬ СЕЙЧАС,
-10|'YOU WILL SEE THE ENTRANCE TO THE PASSENGER DOCK AREA WE JUST DEPARTED.  FEW SHIPS DARE THE PERILOUS PASSAGE HERE, BUT THE COUNCIL IS DEVELOPING A PLAN TO OPEN UP THE SEA LANES.  PLEASE FOLLOW ME.'|"ВЫ УВИДИТЕ ВХОД В ЗОНУ ПАССАЖИРСКОГО ДОКУМЕНТА, КОТОРОЕ МЫ ТОЛЬКО ЧТО ВЫЛЕТЕЛИ. НЕКОТОРЫЕ СУДА ОТМЕЮТСЯ НА ПЕРИОДИЧНЫЙ ПРОХОД ЗДЕСЬ, НО СОВЕТ РАЗРАБОТАЕТ ПЛАН ОТКРЫТИЯ МОРСКИХ ПРОХОДОВ. ПОЖАЛУЙСТА СЛЕДУЙТЕ ЗА МНОЙ."
-11|'BEHIND THESE DOORS ARE THE SPECIAL TRAINING SCHOOLS  WHERE ADVENTURERS INCREASE THEIR SKILLS. LET US NOW GO TO THE CITY'S MOST IMPORTANT BUILDING.'|"ЗА ЭТИМИ ДВЕРЬМИ - СПЕЦИАЛЬНЫЕ ШКОЛЫ, ГДЕ ПРИКЛЮЧАТЕЛИ ПОВЫШАЮТ СВОИ НАВЫКИ. ПУТЕШЕСТВУЙТЕ НАМ СЕЙЧАС В САМОЕ ВАЖНОЕ ЗДАНИЕ ГОРОДА ".
-12|'WE ARE JUST OUTSIDE THE CITY HALL. PROCLAMATIONS ARE POSTED ON THESE WALLS. INSIDE, THE CITY CLERK AWARDS THE COUNCIL'S COMMISSIONS.  COMMISSIONS ARE THE QUICKEST WAY TO FAME AND FORTUNE.'|"МЫ НАХОДИМСЯ ТОЛЬКО ВНЕ ГОРОДА. НА ЭТИХ СТЕНАХ РАЗМЕЩАЮТСЯ ЗАЯВЛЕНИЯ. ВНУТРИ ГОРОДСКОЙ КЛЕРК НАГРАДАЕТ КОМИССИИ СОВЕТА. КОМИССИИ - САМЫЙ БЫСТРЫЙ СПОСОБ НАСЛАВАТЬСЯ И УДАЧИ ".
-13|'ON YOUR RIGHT IS ONE OF THE ENTRANCE'S TO SUNE'S TEMPLE. AS WITH ALL PHLAN'S TEMPLES, VARIOUS CLERICAL SERVICES ARE OFFERED INSIDE.  ON YOUR LEFT IS AN ENTRANCE TO THE CITY PARK.'|"ПО ВАШЕМУ ПРАВО - ОДИН ИЗ ВХОДА В ХРАМ СОЛНЦА. КАК ВСЕХ ХРАМОВ PHLAN, ВНУТРИ ПРЕДЛАГАЮТСЯ РАЗЛИЧНЫЕ УСЛУГИ КЛИРИЧЕСКИХ УСЛУГ. СЛЕВА ОТ ВАС ВХОД В ГОРОДСКОЙ ПАРК.
-14|'BEYOND THIS GATE ARE THE MONSTER-RIDDEN AREAS OF THE OLD CITY WE ARE SLOWLY PREPARING FOR SETTLEMENT.  THE COUNCIL OFFERS A GENEROUS REWARD TO THOSE WHO CLEAR AREAS OF MONSTERS.|"ЗА ЭТИМИ ВОРОТАМИ НАХОДЯТСЯ РАЙОНЫ СТАРОГО ГОРОДА, ОХВАЧЕННЫЕ ЧУДОВИЩАМИ. МЫ МЕДЛЕННО ПОДГОТОВЛЯЕМСЯ К ЗАСЕЛЕНИЮ. СОВЕТ ПРЕДЛАГАЕТ ЩЕДРЯЮЩУЮ НАГРАДУ ТЕМ, КТО ОЧИЩАЕТ МОНСТРЫ.
-15|'OUR TOUR IS ENDED. AGAIN, LET ME URGE YOU TO APPLY TO THE CITY CLERK FOR A COMMISSION.  GOOD-BYE AND GOOD FORTUNE.' (YOU ARE ON YOUR OWN NOW)|"НАША ЭКСКУРСИЯ ЗАВЕРШЕНА. ЕЩЕ РАЗ, ПОЗВОЛЬТЕ МНЕ ПРИЗНАТЬ ВАС ОБРАТИТЬСЯ К ГОРОДСКОМУ ДИРЕКТОРУ ЗА КОМИССИЕЙ. ДО СВИДАНИЯ И УДАЧИ. (ТЫ СЕЙЧАС)
-16|'YOUR PARTY IS TOO LARGE TO JOIN AT THIS TIME.  RETURN WHEN IT IS SMALLER.'|"ВАША СТОРОНА СЛИШКОМ БОЛЬШАЯ, ЧТОБЫ ПРИСОЕДИНИТЬСЯ К НЕЙ СЕЙЧАС. ВОЗВРАЩЕНИЕ, КОГДА ОНА МЕНЬШЕ ".
-17|THE CITY WATCH RESPONDS TO THE NOISE.  DO YOU STAY TO FIGHT THEM OR RUN AWAY?|ГОРОДСКИЕ ЧАСЫ РЕАГИРУЮТ НА ШУМ. ВЫ ОСТАВАЕТЕСЬ СРАЖАТЬСЯ С НИМИ ИЛИ УБЕГАТЬ?
+4|MAD MAN|БЕЗУМЕЦ
+5|'GREETINGS, COURAGEOUS ONES, I AM ROLF, APPOINTED BY THE COUNCIL TO INTRODUCE NEWCOMERS TO THE FAIR CITY OF PHLAN. IF YOU WILL ACCOMPANY ME, I WILL START THE TOUR.'|'ЗДРАВСТВУЙТЕ, ХРАБРЕЦЫ. Я РОЛЬФ, И СОВЕТ ПОРУЧИЛ МНЕ ПОКАЗЫВАТЬ ПРЕКРАСНЫЙ ГОРОД ФЛАН ВСЕМ НОВОПРИБЫВШИМ. ЕСЛИ ВЫ ПОСЛЕДУЕТЕ ЗА МНОЙ, Я НАЧНУ ЭКСКУРСИЮ'.
+6|THE MAD MAN SUDDENLY BEGINS TO SCREAM AND ATTACK EVERYONE WITHIN ARM'S REACH.|БЕЗУМЕЦ ВНЕЗАПНО НАЧИНАЕТ КРИЧАТЬ И АТАКОВАТЬ ВСЕХ В ПРЕДЕЛАХ ДОСЯГАЕМОСТИ.
+7|YOU BOARD A BOAT.|ВЫ САДИТЕСЬ В ЛОДКУ.
+8|PRESS  OR BUTTON TO CONTINUE|НАЖМИТЕ ВВОД, ЧТОБЫ ПРОДОЛЖИТЬ
+9|'YOU NOW FACE AN ENTRANCE TO THE TEMPLE OF TYR.  THERE ARE THREE TEMPLES IN PHLAN: TYR'S, SUNE'S, AND TEMPUS. TYR'S IS THE LARGEST AND HOUSES BISHOP BRACCIO. IF YOU WILL TURN AROUND NOW, '|'СЕЙЧАС ВЫ НАПРОТИВ ВХОДА В ХРАМ ТИРА. ВО ФЛАНЕ ЕСТЬ ТРИ ХРАМА: ТИРА, СУНИ И ТЕМПУСА. САМЫЙ БОЛЬШОЙ У ТИРА, И ТАМ ЖИВЁТ ЕПИСКОП БРАЧЧО. ЕСЛИ ВЫ ОБЕРНЁТЕСЬ, ТО УВИДИТЕ
+10|'YOU WILL SEE THE ENTRANCE TO THE PASSENGER DOCK AREA WE JUST DEPARTED.  FEW SHIPS DARE THE PERILOUS PASSAGE HERE, BUT THE COUNCIL IS DEVELOPING A PLAN TO OPEN UP THE SEA LANES.  PLEASE FOLLOW ME.'|'ПРОХОД К ПРИСТАНИ, ОТКУДА МЫ ТОЛЬКО ЧТО ВЫШЛИ. ЛИШЬ НЕМНОГИЕ КОРАБЛИ ОСМЕЛИВАЮТСЯ ОТПРАВИТЬСЯ В РИСКОВАННЫЙ ПОХОД СЮДА, НО СОВЕТ РАЗВИВАЕТ ФЛАН, ЧТОБЫ МОРСКИЕ ПУТИ СТАЛИ ДОСТУПНЕЕ. ПОЖАЛУЙСТА, ИДИТЕ ЗА МНОЙ'.
+11|'BEHIND THESE DOORS ARE THE SPECIAL TRAINING SCHOOLS  WHERE ADVENTURERS INCREASE THEIR SKILLS. LET US NOW GO TO THE CITY'S MOST IMPORTANT BUILDING.'|'ЗА ЭТИМИ ДВЕРЬМИ - СПЕЦИАЛЬНЫЕ ШКОЛЫ, ГДЕ АВАНТЮРИСТЫ УЛУЧШАЮТ СВОИ УМЕНИЯ. ТЕПЕРЬ ПОЙДЁМ К САМОМУ ВАЖНОМУ ЗДАНИЮ В ГОРОДЕ'.
+12|'WE ARE JUST OUTSIDE THE CITY HALL. PROCLAMATIONS ARE POSTED ON THESE WALLS. INSIDE, THE CITY CLERK AWARDS THE COUNCIL'S COMMISSIONS.  COMMISSIONS ARE THE QUICKEST WAY TO FAME AND FORTUNE.'|'СЕЙЧАС МЫ ОКОЛО РАТУШИ. НА СТЕНЫ НАКЛЕЕНЫ ВОЗЗВАНИЯ. ГОРОДСКОЙ ПИСАРЬ ВНУТРИ ЗДАНИЯ ВЫДАЁТ НАГРАДЫ ЗА ВЫПОЛНЕНИЕ ПОРУЧЕНИЙ СОВЕТА. ЭТИ ПОРУЧЕНИЯ - БЫСТРЫЙ СПОСОБ ЗАРАБОТАТЬ СОСТОЯНИЕ И ПРОСЛАВИТЬСЯ'.
+13|'ON YOUR RIGHT IS ONE OF THE ENTRANCE'S TO SUNE'S TEMPLE. AS WITH ALL PHLAN'S TEMPLES, VARIOUS CLERICAL SERVICES ARE OFFERED INSIDE.  ON YOUR LEFT IS AN ENTRANCE TO THE CITY PARK.'|'ПО ПРАВУЮ РУКУ НАХОДИТСЯ ВХОД В ХРАМ СУНИ. КАК И ВО ВСЕХ ОСТАЛЬНЫХ ХРАМАХ, ВНУТРИ ПРЕДЛАГАЮТСЯ САМЫЕ РАЗНЫЕ ЖРЕЧЕСКИЕ УСЛУГИ. ПО ЛЕВУЮ РУКУ - ВХОД В ГОРОДСКОЙ ПАРК'.
+14|'BEYOND THIS GATE ARE THE MONSTER-RIDDEN AREAS OF THE OLD CITY WE ARE SLOWLY PREPARING FOR SETTLEMENT.  THE COUNCIL OFFERS A GENEROUS REWARD TO THOSE WHO CLEAR AREAS OF MONSTERS.|'ЗА ЭТИМИ ВРАТАМИ НАХОДИТСЯ ДРЕВНЯЯ ЧАСТЬ ГОРОДА, КОТОРУЮ ЗАПОЛОНИЛИ МОНСТРЫ. МЫ ПОНЕМНОГУ ГОТОВИМ ЕЁ К ЗАСЕЛЕНИЮ. СОВЕТ ПРЕДЛАГАЕТ ЩЕДРЫЕ НАГРАДЫ ТЕМ, КТО ОСВОБОДИТ ЭТИ РАЙОНЫ ОТ ЧУДОВИЩ'.
+15|'OUR TOUR IS ENDED. AGAIN, LET ME URGE YOU TO APPLY TO THE CITY CLERK FOR A COMMISSION.  GOOD-BYE AND GOOD FORTUNE.' (YOU ARE ON YOUR OWN NOW)|'НА ЭТОМ Я ЗАКОНЧУ ЭКСКУРСИЮ. ПОЗВОЛЬТЕ ДАТЬ ВАМ СОВЕТ: ОБРАЩАЙТЕСЬ ЗА ПОРУЧЕНИЯМИ К ГОРОДСКОМУ ПИСАРЮ'. (ТЕПЕРЬ ВЫ САМИ ПО СЕБЕ)
+16|'YOUR PARTY IS TOO LARGE TO JOIN AT THIS TIME.  RETURN WHEN IT IS SMALLER.'|'СЕЙЧАС ВАШ ОТРЯД СЛИШКОМ БОЛЬШОЙ. ВОЗВРАЩАЙТЕСЬ, КОГДА ОН БУДЕТ МЕНЬШЕ'.
+17|THE CITY WATCH RESPONDS TO THE NOISE.  DO YOU STAY TO FIGHT THEM OR RUN AWAY?|ГОРОДСКАЯ СТРАЖА РЕАГИРУЕТ НА ШУМ. ВЫ ОСТАНЕТЕСЬ ЧТОБЫ СРАЖАТЬСЯ ИЛИ СБЕЖИТЕ?
 18|STAY|ОСТАТЬСЯ
-19|RUN|ЗАПУСТИТЬ
-20|THE HARBOR MASTER TELLS YOU BOATS LEAVE FOR THE WEST, THE EAST, SOKAL KEEP, AND THE NORTH SIDE OF THE BAY.  'ROUND TRIP PASSAGE IS 1 PLATINUM PIECE. WHAT PASSAGE CAN I SELL YOU?'|HARBOR MASTER СКАЖЕТ ВАМ ОТПРАВИТЬ ЛОДКИ НА ЗАПАД, ВОСТОК, СОКАЛЬСКОЕ ХРАНИЛИЩЕ И СЕВЕРНУЮ СТОРОНУ ЗАЛИВА. "КРУГЛЫЙ ТУРИСТИЧЕСКИЙ ПАССАЖ - 1 ПЛАТИНОВАЯ ЧАСТЬ. КАКОЙ ОТПУСК Я МОГУ ВАМ ПРОДАТЬ?
-21|SOKAL|СОКАЛ
+19|RUN|СБЕЖАТЬ
+20|THE HARBOR MASTER TELLS YOU BOATS LEAVE FOR THE WEST, THE EAST, SOKAL KEEP, AND THE NORTH SIDE OF THE BAY.  'ROUND TRIP PASSAGE IS 1 PLATINUM PIECE. WHAT PASSAGE CAN I SELL YOU?'|СМОТРИТЕЛЬ ПОРТА СООБЩАЕТ ВАМ, ЧТО ЕГО ЛОДКИ ХОДЯТ НА ЗАПАД, ВОСТОК, В КРЕПОСТЬ СОКОЛ И В СЕВЕРНУЮ ЧАСТЬ БУХТЫ. СТОИМОСТЬ ПРОЕЗДА ТУДА И ОБРАТНО СОСТАВИТ 1 ПЛАТИНОВУЮ МОНЕТУ. КАКОЙ БИЛЕТ ВАМ ПРЕДЛОЖИТЬ?
+21|SOKAL|СОКОЛ
 22|EAST|ВОСТОК
 23|WEST|ЗАПАД
-24|BAY|ЗАЛИВ
-25|NONE|НИКТО
-26|'CATCH THE BOAT AT THE END OF THE PIER.'|"ЛОВАЙТЕ ЛОДКУ В КОНЦЕ ПИРА".
-27|TO THE NORTH IS THE PASSENGER DOCK.|НА СЕВЕР ПАССАЖИРСКИЙ ДОК.
-28|THE TEMPLE GUARDS INFORM YOU THAT THE BISHOP IS NOT RECEIVING VISITORS AT THIS TIME.  WHAT DO YOU DO?|ХРАМ СТРАЖИ ИНФОРМИРУЕТ ВАМ, ЧТО ЕПИСКОП НЕ ПРИНИМАЕТ ПОСЕТИТЕЛЕЙ В ЭТО ВРЕМЯ. ЧТО ВЫ ДЕЛАЕТЕ?
-29|LEAVE|ПОКИНУТЬ
-30|FORCE YOUR WAY PAST|ПРОЙДИТЕ СВОЙ ПУТЬ
-31|YOU ARE USHERED INTO THE BISHOP'S STUDY. BISHOP BRACCIO SPEAKS, 'ALLOW ME TO INTRODUCE DIRTEN, PRIEST OF ILMAR.|ВАС ПРИСОЕДИНЯЕТСЯ К ИССЛЕДОВАНИЮ ЕПИСКОПА. ЕПИСКОП БРАЧЧО ГОВОРИТ: "РАЗРЕШИТЕ ​​МНЕ ПОЗНАКОМИТЬ МЕНЯ С ГРЯЗНЫМ, СВЯЩЕННИКОМ ИЛМАРА.
-32|'HE IS BOUND TO RECOVER THE TEMPLE WHICH HAS BEEN DESECRATED TO BANE.  GO WITH HIM ACROSS THE RIVER AND HELP HIM TO CLEANSE THE TEMPLE.  IN PAYMENT, YOU MAY KEEP THE HIDDEN TREASURES.'|"ОН ПРИНУЖДЕН ВОССТАНОВИТЬ ХРАМ, КОТОРЫЙ БЫЛ ПОСВЯЩЕН БЕЙНУ. ПЕРЕЙДИТЕ С НЕМ ЧЕРЕЗ РЕКУ И ПОМОГИТЕ ЕГО ОЧИСТИТЬ ХРАМ. В ОПЛАТЕ ВЫ МОЖЕТЕ СОХРАНИТЬ СКРЫТЫЕ СОКРОВИЩА ".
-//32|'HE IS BOUND TO RECOVER THE TEMPLE WHICH HAS BEEN DESECRATED TO BANE.  GO WITH HIM ACROSS THE RIVER AND HELP HIM TO CLEANSE THE TEMPLE.  IN PAYMENT, YOU MAY KEEP THE HIDDEN TREASURES.'|"ОН ПРИНУЖДЕН ВОССТАНОВИТЬ ХРАМ, КОТОРЫЙ БЫЛ ПОСВЯЩЕН БЕЙНУ. ПЕРЕЙДИТЕ С НЕМ ЧЕРЕЗ РЕКУ И ПОМОГИТЕ ЕГО ОЧИСТИТЬ ХРАМ. В ОПЛАТЕ ВЫ МОЖЕТЕ СОХРАНИТЬ СКРЫТЫЕ СОКРОВИЩА ".                                                             
-33|THE PRIESTS OF TYR WELCOME YOU TO THE TEMPLE.|ЖРЕЦЫ ТИРА ДОБРО ПОЖАЛОВАТЬ В ХРАМ.
-34|MAD MAN|БЕЗУМНЫЙ ЧЕЛОВЕК
-35|YOU ARE WELCOMED BY PRIESTESS JOY OF SUNE.|ВАС ПРИВЕТСТВУЕТ ЖРИЦА РАДОСТЬ СОЛНЦА.
-36|YOU WALK NEAR THE |ВЫ ПРОХОДИТЕ РЯДОМ
-37|POISONOUS BARREN RIVER.|ЯДОВАЯ БАРРЕН РЕКА.
-38|'IT WILL COST YOU 1 PLATINUM PIECE TO REST HERE.  DO YOU WANT TO STAY?'|ОТДЫХАТЬ ЗДЕСЬ СТОИТ ВАМ 1 ЧАСТЬ ПЛАТИНА. ВЫ ХОТИТЕ ОСТАВИТЬСЯ?
-39|THE SHOPKEEPER GREETS YOU AND OFFERS YOU ITEMS FOR SALE. 'CAN I SHOW YOU SOMETHING?'|МАГАЗИН ПРИВЕТСТВУЕТ И ПРЕДЛАГАЕТ ВАМ ТОВАРЫ НА ПРОДАЖУ. "МОГУ ЛИ Я ПОКАЗАТЬ ВАМ ЧТО-ТО?"
-40|YOU ARE IN A TAVERN.  THE AIR IS FILLED WITH SMOKE AND GOSSIP.  PEOPLE ARE GAMBLING AT THE TABLES.|ВЫ В ТАВЕРНЕ. ВОЗДУХ ЗАПОЛНЕН ДЫМОМ И СПЛЕТНИМИ. ЛЮДИ ИГРАЮТ ЗА СТОЛАМИ.
-41|YOU FEEL A LIGHT TOUCH ON YOUR PURSE.  DO YOU IGNORE IT OR GRAB THE OFFENDING HAND?|ВЫ ЧУВСТВУЕТЕ ЛЕГКОЕ ПРИКОСНОВЕНИЕ К КОШЕЛЬКУ. ВЫ ИГНОРИРУЕТЕ ИЛИ ЗАХВАТЫВАЕТЕ ЗА РУКУ?
+24|BAY|БУХТА
+25|NONE|ОТМЕНА
+26|'CATCH THE BOAT AT THE END OF THE PIER.'|'НАНЯТЬ ЛОДКУ В КОНЦЕ ПРИЧАЛА.'
+27|TO THE NORTH IS THE PASSENGER DOCK.|К СЕВЕРУ ОТСЮДА - ПАССАЖИРСКАЯ ПРИСТАНЬ.
+28|THE TEMPLE GUARDS INFORM YOU THAT THE BISHOP IS NOT RECEIVING VISITORS AT THIS TIME.  WHAT DO YOU DO?|СТРАЖА ИНФОРМИРУЕТ ВАС, ЧТО ЕПИСКОП В ЭТО ВРЕМЯ НЕ ПРИНИМАЕТ ПОСЕТИТЕЛЕЙ. ВАШИ ДЕЙСТВИЯ?
+29|LEAVE|УЙТИ
+30|FORCE YOUR WAY PAST|ПРОКРАСТЬСЯ МИМО
+31|YOU ARE USHERED INTO THE BISHOP'S STUDY. BISHOP BRACCIO SPEAKS, 'ALLOW ME TO INTRODUCE DIRTEN, PRIEST OF ILMAR.|ВАС ПРОВОДЯТ В КАБИНЕТ ЕПИСКОПА. ЕПИСКОП БРАЧЧО ГОВОРИТ: 'ПОЗВОЛЬТЕ МНЕ ПРЕДСТАВИТЬ ВАМ ДИРТЕНА, ЖРЕЦА ИЛЬМАРА.
+32|'HE IS BOUND TO RECOVER THE TEMPLE WHICH HAS BEEN DESECRATED TO BANE.  GO WITH HIM ACROSS THE RIVER AND HELP HIM TO CLEANSE THE TEMPLE.  IN PAYMENT, YOU MAY KEEP THE HIDDEN TREASURES.'|'ОН ОБЯЗАН ВОССТАНОВИТЬ ХРАМ, КОТОРЫЙ БЫЛ ОСКВЕРНЁН БЕЙНОМ. ИДИТЕ С НИМ ЧЕРЕЗ РЕКУ И ПОМОГИТЕ ЕМУ ОЧИСТИТЬ ХРАМ. В КАЧЕСТВЕ ОПЛАТЫ МОЖЕТЕ ОСТАВИТЬ СЕБЕ СПРЯТАННЫЕ ТАМ СОКРОВИЩА.'
+33|THE PRIESTS OF TYR WELCOME YOU TO THE TEMPLE.|ЖРЕЦЫ ТИРА ПРИВЕТСТВУЮТ ВАС В ХРАМЕ.
+34|MAD MAN|БЕЗУМЦЕМ
+35|YOU ARE WELCOMED BY PRIESTESS JOY OF SUNE.|ВАС ПРИВЕТСТВУЕТ ЖРИЦА БОГИНИ СУНИ.
+36|YOU WALK NEAR THE|ВЫ ПРОХОДИТЕ РЯДОМ С
+37|POISONOUS BARREN RIVER.|ЯДОВИТОЙ БЕСПЛОДНОЙ РЕКОЙ.
+38|'IT WILL COST YOU 1 PLATINUM PIECE TO REST HERE.  DO YOU WANT TO STAY?'|'ОТДЫХ ЗДЕСЬ БУДЕТ СТОИТЬ 1 ПЛАТИНОВУЮ МОНЕТУ. ВЫ ХОТИТЕ ОСТАТЬСЯ?'
+39|THE SHOPKEEPER GREETS YOU AND OFFERS YOU ITEMS FOR SALE. 'CAN I SHOW YOU SOMETHING?'|ВЛАДЕЛЕЦ ЛАВКИ ПРИВЕТСТВУЕТ ВАС И ПРЕДЛАГАЕТ ТОВАРЫ НА ПРОДАЖУ. МОГУ Я ВАМ КОЕ-ЧТО ПОКАЗАТЬ?
+40|YOU ARE IN A TAVERN.  THE AIR IS FILLED WITH SMOKE AND GOSSIP.  PEOPLE ARE GAMBLING AT THE TABLES.|ВЫ В ТАВЕРНЕ. ВОЗДУХ ПОЛОН ДЫМОМ И СПЛЕТНЯМИ. ЗА СТОЛАМИ СИДЯТ ИГРОКИ.
+41|YOU FEEL A LIGHT TOUCH ON YOUR PURSE.  DO YOU IGNORE IT OR GRAB THE OFFENDING HAND?|ВЫ ЧУВСТВУЕТЕ ЛЁГКОЕ ПРИКОСНОВЕНИЕ К СВОЕЙ СУМКЕ. ПРОИГНОРИРУЕТЕ ЭТО ИЛИ СХВАТИТЕ НАРУШИТЕЛЯ ЗА РУКУ?
 42|IGNORE|ИГНОРИРОВАТЬ
 43|GRAB|СХВАТИТЬ
-44|YOU REALIZE YOU HAVE BEEN VICTIMIZED BY A PICKPOCKET.|ВЫ ОСОЗНАЕТЕСЬ, ЧТО ВЫ ПОЛУЧИЛИ ПЕРСОНАЛ.
-45| DOES ANYONE WANT TO GAMBLE?| КТО ХОЧЕТ ИГРАТЬ?
-46|YOU OVERHEAR TAVERN TALE |ВЫ СЛУШАТЕ ТАВЕРНУЮ СКАЗКУ
-47|THE SHOPKEEPER OFFERS JEWELRY FOR SALE. 'CAN I SHOW YOU SOMETHING?'|МАГАЗИН ПРЕДЛАГАЕТ НА ПРОДАЖУ ЮВЕЛИРНЫЕ ИЗДЕЛИЯ. "МОГУ ЛИ Я ПОКАЗАТЬ ВАМ ЧТО-ТО?"
-48|THE SHOP SPECIALIZES IN ARMS AND ARMOR. 'CAN I SHOW YOU OUR WARES?'|МАГАЗИН СПЕЦИАЛИЗИРУЕТСЯ НА ОРУЖИИ И ДОСПЕХАХ. "МОГУ Я ПОКАЗАТЬ ВАМ НАШИ ПРЕДМЕТЫ?"
-49|THE SHOP SELLS SILVER ITEMS. 'WOULD YOU LIKE TO SEE OUR SELECTION?'|МАГАЗИН ПРОДАЕТ СЕРЕБРЯНЫЕ ИЗДЕЛИЯ. "ХОТИТЕ УВИДИТЬ НАШ ВЫБОР?"
-50|THE PRIESTS OF TEMPUS BID YOU WELCOME.|ЖРЕЦЫ ТЕМПУСА ПРИГЛАШАЮТ ВАС ДОБРО ПОЖАЛОВАТЬ.
-51|YOU ARE BY THE GATEWAY TO THE UNSETTLED AREAS. THE CITY WATCH EYES YOU SUSPICIOUSLY.|ВЫ НА ПУТЕШЕСТВИЕ В НЕРАЗДАННЫЕ ТЕРРИТОРИИ. ГОРОДСКИЕ СМОТРЫ ГЛАЗАМИ НА ВАС ПОДОЗРИТЕЛЬНО.
-52|LIX.|LIX.
-53|SKULLCRUSHER|ДРОБИЛКА ЧЕРЕПОВ
-54|YOU ARE OUTSIDE THE CITY HALL. THE CITY CLERK WAITS INSIDE TO AWARD COMMISSIONS.|ВЫ НАХОДИТЕСЬ ВНЕ ГОРОДА. ГОРОДСКОЙ КЛЕРК ЖДЕТ ВНУТРИ НАГРАЖДЕНИЯ КОМИССИИ.
-55|PROCLAMATIONS ARE POSTED ON THE WALLS, IN YOUR JOURNAL YOU NOTE |ЗАЯВЛЕНИЯ РАЗМЕЩАЮТСЯ НА СТЕНАХ, В ВАШЕМ ЖУРНАЛЕ ВЫ ЗАМЕТИЛИ
-56|PROCLAMATION|ЗАЯВЛЕНИЕ
-57|THE DOOR IS LOCKED.  DO YOU WANT TO BREAK IN?|ДВЕРЬ ЗАПЕРТА. ВЫ ХОТИТЕ ВБИТЬСЯ?
-58|'BY ORDER OF THE CITY COUNCIL,' THE HARBOR MASTER SAYS, 'THE ONLY BOAT OUT IS GOING TO SOKAL KEEP.  YOU CAN CATCH IT AT THE END OF THE PIER.'|"ПО ПРИКАЗУ ГОРОДСКОГО СОВЕТА, - ГОВОРЯЕТ МАСТЕР ГАВАНИ, - ЕДИНСТВЕННАЯ ЛОДКА ОТПРАВЛЯЕТСЯ НА СОКАЛЬ. ВЫ МОЖЕТЕ ПОЛУЧИТЬ ЕГО В КОНЦЕ ПИРА ".
-59|WHO WILL PAY?|КТО ПЛАТИТ?
-60|THAT PERSON WON'T PAY.|ЧТО ПЛАТИТ НЕ ПЛАТИТ.
-61|THE CITY WATCH STOPS YOU AND REMOVES CADORNA'S TREASURE FROM YOUR KEEPING.  THEY TELL YOU YOUR REWARD WAITS WITH THE CITY CLERK.|ГОРОДСКИЕ ЧАСЫ ОСТАНАВЛИВАЮТ ВАС И УДАЛЯЮТ СОКРОВИЩЕ КАДОРНЫ ИЗ ВАШЕГО ХРАНИЛИЩА. ОНИ СКАЗЫВАЮТ ВАШУ НАГРАДУ ЖДЕТ У ГОРОДСКОГО КЛЕРКА.
-62|YOU ARE USHERED INTO THE STUDY WHERE DIRTEN WAITS.  'I AM ABOUT TO JOURNEY TO THE TEMPLE, WILL YOU COME WITH ME?'|ВАС ИСПОЛЬЗУЮТСЯ В ИССЛЕДОВАНИИ, ГДЕ ЖДЕТ ГРЯЗНЫЙ. "Я СОБИРАЮСЬ В ПУТЕШЕСТВИЕ К ХРАМУ, ВЫ ПОЙДЕТЕ СО МНОЙ?"
-63|'WILL YOU ACCOMPANY DIRTEN?'|"БУДЕТЕ ЛИ ВЫ СОПРОВОДИТЬ ГРЯЗНЫМ?"
-64|'DUE TO YOUR VICIOUS ATTACK ON THOSE WHO PROTECT US, WE REFUSE YOU ALL SERVICE.'|"ИЗ-ЗА ВАШЕГО ЗЛОУПОТРЕБИТЕЛЬСКОГО НАПАДЕНИЯ НА ТЕМ, КТО ЗАЩИЩАЕТ НАС, МЫ ОТКАЗЫВАЕМ ВАМ В ВСЕХ УСЛУГАХ".
-65|AN AGED PRIEST APPROACHES, POINTING AT THE MAD MAN, HE SPEAKS, 'THAT MAN URGENTLY NEEDS OUR CARE.  DROP HIM FROM YOUR PARTY OR HE WILL BRING YOU TO GRIEF.  WE WILL CARE FOR HIM.'|ПРЕСТАРЕЛЫЙ СВЯЩЕННИК ПОДХОДИТ, УКАЗЫВАЯ НА СУМАСШЕДШЕГО, ОН ГОВОРИТ: "ЭТОМУ ЧЕЛОВЕКУ СРОЧНО НУЖНА НАША ЗАБОТА. УБРАСИТЕ ЕГО ИЗ СВОЕЙ ВЕЧЕРИНКИ, ИЛИ ОН ПРИВЕДЕТ ВАС СКОРБАТЬ. МЫ ЗАБОТИМСЯ О НЕМ ".
-66|' DO YOU SEEK HEALING?'|"ВЫ ИЩЕТЕ ИСЦЕЛЕНИЯ?"
+44|YOU REALIZE YOU HAVE BEEN VICTIMIZED BY A PICKPOCKET.|ВЫ ПОНИМАЕТЕ, ЧТО СТАЛИ ЖЕРТВОЙ КАРМАННИКА.
+45|DOES ANYONE WANT TO GAMBLE?|КТО-НИБУДЬ ХОЧЕТ СЫГРАТЬ?
+46|YOU OVERHEAR TAVERN TALE|ВЫ ПОДСЛУШАЛИ БАЙКУ В ТАВЕРНЕ 
+47|THE SHOPKEEPER OFFERS JEWELRY FOR SALE. 'CAN I SHOW YOU SOMETHING?'|ВЛАДЕЛИЦА ЛАВКИ ПРОДАЁТ ДРАГОЦЕННОСТИ. 'ПОКАЗАТЬ ВАМ ЧТО-НИБУДЬ?'
+48|THE SHOP SPECIALIZES IN ARMS AND ARMOR. 'CAN I SHOW YOU OUR WARES?'|ЛАВКА СПЕЦИАЛИЗИРУЕТСЯ НА ОРУЖИИ И ДОСПЕХАХ. 'ПОЗВОЛИТЕ ПОКАЗАТЬ ВАМ НАШИ ТОВАРЫ?'
+49|THE SHOP SELLS SILVER ITEMS. 'WOULD YOU LIKE TO SEE OUR SELECTION?'|В МАГАЗИНЕ ПРОДАЮТСЯ ИЗДЕЛИЯ ИЗ СЕРЕБРА. 'ХОТИТЕ УВИДЕТЬ НАШУ ПОДБОРКУ?'
+50|THE PRIESTS OF TEMPUS BID YOU WELCOME.|ЖРЕЦЫ ТЕМПУСА ПРИВЕТСТВУЮТ ВАС.
+51|YOU ARE BY THE GATEWAY TO THE UNSETTLED AREAS. THE CITY WATCH EYES YOU SUSPICIOUSLY.|ВЫ У ВОРОТ, ВЕДУЩИХ В НЕСПОКОЙНЫЕ РАЙОНЫ. ГОРОДСКАЯ СТРАЖА С ПОДОЗРЕНИЕМ СМОТРИТ НА ВАС.
+52|LIX.|59.
+53|SKULLCRUSHER|ЧЕРЕПОЛОМ
+54|YOU ARE OUTSIDE THE CITY HALL. THE CITY CLERK WAITS INSIDE TO AWARD COMMISSIONS.|ВЫ РЯДОМ С РАТУШЕЙ. ГОРОДСКОЙ ПИСАРЬ ЖДЁТ ВНУТРИ, ЧТОБЫ ПРЕДЛОЖИТЬ ВОЗНАГРАЖДЕНИЕ.
+55|PROCLAMATIONS ARE POSTED ON THE WALLS, IN YOUR JOURNAL YOU NOTE|НА СТЕНАХ РАСКЛЕЕНЫ ВОЗЗВАНИЯ, ВЫ ПОМЕЧАЕТЕ В СВОЁМ ЖУРНАЛЕ 
+56|PROCLAMATION|ВОЗЗВАНИЕ
+57|THE DOOR IS LOCKED.  DO YOU WANT TO BREAK IN?|ДВЕРЬ ЗАПЕРТА. ХОТИТЕ ВЛОМИТЬСЯ ТУДА?
+58|'BY ORDER OF THE CITY COUNCIL,' THE HARBOR MASTER SAYS, 'THE ONLY BOAT OUT IS GOING TO SOKAL KEEP.  YOU CAN CATCH IT AT THE END OF THE PIER.'|'ПО ПРИКАЗУ ГОРОДСКОГО СОВЕТА,' - ГОВОРИТ НАЧАЛЬНИК ПОРТА, - 'В КРЕПОСТЬ СОКОЛ ХОДИТ ТОЛЬКО ОДНА ЛОДКА. ВЫ МОЖЕТЕ НАНЯТЬ ЕЁ В КОНЦЕ ПРИЧАЛА.'
+59|WHO WILL PAY?|КТО ЗАПЛАТИТ?
+60|THAT PERSON WON'T PAY.|ЭТОТ ГЕРОЙ НЕ БУДЕТ ПЛАТИТЬ.
+61|THE CITY WATCH STOPS YOU AND REMOVES CADORNA'S TREASURE FROM YOUR KEEPING.  THEY TELL YOU YOUR REWARD WAITS WITH THE CITY CLERK.|ГОРОДСКАЯ СТРАЖА ОСТАНАВЛИВАЕТ ВАС И ЗАБИРАЕТ СОКРОВИЩА КАДОРНЫ. СТРАЖНИКИ ГОВОРЯТ, ЧТО ВЫ МОЖЕТЕ ПОЛУЧИТЬ НАГРАДУ У ГОРОДСКОГО ПИСАРЯ.
+62|YOU ARE USHERED INTO THE STUDY WHERE DIRTEN WAITS.  'I AM ABOUT TO JOURNEY TO THE TEMPLE, WILL YOU COME WITH ME?'|ВАС ПРОВОДЯТ В КАБИНЕТ, ГДЕ ОЖИДАЕТ ДИРТЕН. 'Я СОБИРАЮСЬ ОТПРАВИТЬСЯ В ХРАМ, ПОЙДЁТЕ ЛИ ВЫ СО МНОЙ?'
+63|'WILL YOU ACCOMPANY DIRTEN?'|'ВЫ ПОЙДЁТЕ ВМЕСТЕ С ДИРТЕНОМ?'
+64|'DUE TO YOUR VICIOUS ATTACK ON THOSE WHO PROTECT US, WE REFUSE YOU ALL SERVICE.'|'ПО ПРИЧИНЕ ВАШЕГО КОВАРНОГО НАПАДЕНИЯ НА ТЕХ, КТО НАС ЗАЩИЩАЕТ, МЫ ОТКАЗЫВАЕМ ВАМ ВО ВСЕХ УСЛУГАХ.'
+65|AN AGED PRIEST APPROACHES, POINTING AT THE MAD MAN, HE SPEAKS, 'THAT MAN URGENTLY NEEDS OUR CARE.  DROP HIM FROM YOUR PARTY OR HE WILL BRING YOU TO GRIEF.  WE WILL CARE FOR HIM.'|К ВАМ ПОДХОДИТ ПРЕСТАРЕЛЫЙ ЖРЕЦ, УКАЗЫВАЯ НА БЕЗУМЦА, И ГОВОРИТ: 'ЭТОТ ЧЕЛОВЕК СРОЧНО НУЖДАЕТСЯ В НАШЕЙ ЗАБОТЕ. ИСКЛЮЧИТЕ ЕГО ИЗ СВОЕЙ ГРУППЫ, ИНАЧЕ ОН ДОВЕДЁТ ВАС ДО БЕДЫ. МЫ ПОЗАБОТИМСЯ О НЁМ.'
+66|' DO YOU SEEK HEALING?'|'ВЫ ИЩЕТЕ ИСЦЕЛЕНИЯ?'
 67|THEN YOU MUST LEAVE.|ТОГДА ВЫ ДОЛЖНЫ УЙТИ.
-68|BEAUTIFUL STOJANOW RIVER.|КРАСИВАЯ РЕКА СТОЯНОВ.                   
-69|YES|LF
-70|NO|YTN
-71|A DRUNKEN BRAWL BREAKS OUT. YOU ARE CAUGHT IN THE MIDDLE.|ПЬЯНЫЙ БОЙ РАЗРЫВАЕТСЯ. ВЫ ЗАХВАТИЛИ В СРЕДНЕЕ.
-72|THE CITY WATCH CHARGES IN. DO YOU RUN AWAY OR STAY TO CONFRONT THEM?|CITY WATCH СЧЕТАЕТ. ВЫ УБЕГАЕТЕ ИЛИ ОСТАВАЕТЕСЬ, ЧТОБЫ БЫТЬ С НИМИ?
+68|BEAUTIFUL STOJANOW RIVER.|ПРЕКРАСНАЯ РЕКА СТОЯНОВ.
+69|LF|ДА
+70|YTN|НЕТ
+71|A DRUNKEN BRAWL BREAKS OUT. YOU ARE CAUGHT IN THE MIDDLE.|НАЧИНАЕТСЯ ПЬЯНАЯ ДРАКА. ВЫ ОКАЗЫВАЕТЕСЬ В САМОМ ЕЁ ЦЕНТРЕ.
+72|THE CITY WATCH CHARGES IN. DO YOU RUN AWAY OR STAY TO CONFRONT THEM?|ГОРОДСКАЯ СТРАЖА АТАКУЕТ. ВЫ СБЕЖИТЕ ИЛИ ОСТАНЕТЕСЬ, ЧТОБЫ ПРОТИВОСТОЯТЬ СТРАЖЕ?
 73|STAY|ОСТАТЬСЯ
-74|RUN|ЗАПУСТИТЬ
-75|THE SHOPKEEPER OFFERS JEWELRY FOR SALE. 'CAN I SHOW YOU SOMETHING?'|МАГАЗИН ПРЕДЛАГАЕТ НА ПРОДАЖУ ЮВЕЛИРНЫЕ ИЗДЕЛИЯ. "МОГУ ЛИ Я ПОКАЗАТЬ ВАМ ЧТО-ТО?"
-76|'THE GAME WORKS LIKE THIS.  WE SPIN THIS TOP. IF THE GREEN SIDE COMES UP, YOU GET DOUBLE YOUR MONEY BACK.  IF A BLUE SIDE COMES UP, YOU GET YOUR MONEY BACK.  IF A RED SIDE COMES UP, YOU LOSE.'|ИГРА РАБОТАЕТ ТАК. МЫ ВИНЕМ ЭТУ ВЕРХУ. ЕСЛИ ЗЕЛЕНАЯ СТОРОНА ВЫЯВЛЯЕТСЯ, ВЫ ПОЛУЧИТЕ ВДВОЕ СВОИ ДЕНЬГИ. ЕСЛИ ПОЯВИТСЯ СИНЯЯ СТОРОНА, ВЫ ПОЛУЧИТЕ СВОИ ДЕНЬГИ. ЕСЛИ ПОДХОДИТ КРАСНАЯ СТОРОНА, ВЫ ПРОИГРЫВАЕТЕ ".
+74|RUN|БЕЖАТЬ
+75|THE SHOPKEEPER OFFERS JEWELRY FOR SALE. 'CAN I SHOW YOU SOMETHING?'|ВЛАДЕЛЕЦ ЛАВКИ ПРОДАЁТ ЮВЕЛИРНЫЕ ИЗДЕЛИЯ. 'МОГУ ЛИ Я ЧТО-ЛИБО ВАМ ПРЕДЛОЖИТЬ?'
+76|'THE GAME WORKS LIKE THIS.  WE SPIN THIS TOP. IF THE GREEN SIDE COMES UP, YOU GET DOUBLE YOUR MONEY BACK.  IF A BLUE SIDE COMES UP, YOU GET YOUR MONEY BACK.  IF A RED SIDE COMES UP, YOU LOSE.'|ИГРА ПРОХОДИТ ТАК. МЫ КРУТИМ ЭТОТ ВОЛЧОК. ЕСЛИ ВЫПАДЕТ ЗЕЛЕНАЯ СТОРОНА, ВЫ ПОЛУЧИТЕ ВДВОЕ БОЛЬШЕ ДЕНЕГ. ЕСЛИ ВЫПАДЕТ СИНЯЯ СТОРОНА, ВЫ ПОЛУЧИТЕ СВОИ ДЕНЬГИ НАЗАД. ЕСЛИ ВЫПАДЕТ КРАСНАЯ СТОРОНА, ВЫ ПРОИГРАЛИ.
 77|WHO WILL GAMBLE?|КТО БУДЕТ ИГРАТЬ?
-78|YOU HAVE |У ТЕБЯ ЕСТЬ
-79| PP.| PP.
-80|HOW MANY PLATINUM PIECES WILL YOU WAGER? (HOUSE LIMIT IS 1000)|СКОЛЬКО ПЛАТИНОВЫХ ЧАСТЕЙ ВЫ БУДЕТЕ СТАВИТЬ? (ПРЕДЕЛ НА ДОМ 1000)
-81|IT'S GREEN.  YOU GET DOUBLE YOUR MONEY BACK.|ЭТО ЗЕЛЕНЫЙ. ВЫ ПОЛУЧИТЕ ВДВОЕ СВОИ ДЕНЬГИ.
-82|IT'S BLUE.  YOU WIN.|ЭТО СИНИЙ. ТЫ ПОБЕДИЛ.
-83|RED. SORRY, YOU LOSE.|КРАСНЫЙ. ИЗВИНИТЕ, ВЫ ТЕРЯЕТЕ.
-84|WILL YOU GO AGAIN?|ВЫ УЙДЕТЕ СНОВА?
-85|YOU ATTACKED THE CITY WATCH, YOU WON'T BEAT US SO EASILY!|ВЫ НАПАДАЛИ НА ГОРОДСКИЕ ЧАСЫ, ВЫ НАС НАС НАС БЫЛО НЕ БЫСТРО!
-86|SKULLCRUSHER SPEAKS, 'I MUST GO TO MY MASTER NOW.' |SKULLCRUSHER ГОВОРИТ: "Я ДОЛЖЕН ПОЙТИ К МОЕМУ МАСТЕРУ СЕЙЧАС".
+78|YOU HAVE|У ВАС ЕСТЬ 
+79|PP.|ПЛ.
+80|HOW MANY PLATINUM PIECES WILL YOU WAGER? (HOUSE LIMIT IS 1000)|СКОЛЬКО ПЛАТИНОВЫХ МОНЕТ ВЫ ПОСТАВИТЕ? (ЛИМИТ ИГРОВОГО ДОМА 1000)
+81|IT'S GREEN.  YOU GET DOUBLE YOUR MONEY BACK.|ЗЕЛЁНОЕ. ВЫ ВЫИГРАЛИ ВДВОЕ БОЛЬШЕ ДЕНЕГ.
+82|IT'S BLUE.  YOU WIN.|СИНЕЕ. ВЫ ПОБЕДИЛИ.
+83|RED. SORRY, YOU LOSE.|КРАСНОЕ. К СОЖАЛЕНИЮ, ВЫ ПРОИГРАЛИ.             
+84|WILL YOU GO AGAIN?|ПОПРОБУЕТЕ СНОВА?
+85|YOU ATTACKED THE CITY WATCH, YOU WON'T BEAT US SO EASILY!|ВЫ АТАКУЕТЕ ГОРОДСКУЮ СТРАЖУ, ТАК ЛЕГКО НАС НЕ ПОБЕДИТЬ!
+86|SKULLCRUSHER SPEAKS, 'I MUST GO TO MY MASTER NOW.'|ЧЕРЕПОЛОМ ГОВОРИТ, 'СЕЙЧАС, Я ДОЛЖЕН ОТПРАВИТЬСЯ К СВОЕМУ ХОЗЯИНУ.'
 87|HE LEAVES.|ОН УХОДИТ.
-88|PROCLAMATIONS LXIV, LXXVIII, CIX, AND LIX.|ЗАЯВЛЕНИЯ LXIV, LXXVIII, CIX И LIX.
-89|CI.|CI.
-90|CXXVI AND CX.|CXXVI И CX.
-91|CXXXIV.|CXXXIV.
-92|CLIV.|CLIV.
-93|CXIV.|CXIV.
-94|CCIV.|CCIV.
-95|CXXIX.|CXXIX.
-96|CCI.|CCI.
-97|CXIV.|CXIV.
-98|NO ONE IS WILLING TO GAMBLE WITH SOMEONE WHO LOOKS THAT BAD.|НИКТО НЕ ХОЧЕТ ИГРАТЬ С ТЕМ, КТО ВЫГЛЯДИТ ТАК ПЛОХО.
-99|I CAN'T ACCEPT THAT WAGER.|Я НЕ ПРИНИМАЮ ЭТУ СТАВКУ.
-100|YOU DON'T HAVE ENOUGH PLATINUM.|ВАМ НЕДОСТАТОЧНО ПЛАТИНА.
+88|PROCLAMATIONS LXIV, LXXVIII, CIX, AND LIX.|ВОЗЗВАНИЯ 64, 78, 109 И 59.
+89|CI.|101.
+90|CXXVI AND CX.|126 И 110.
+91|CXXXIV.|134.
+92|CLIV.|154.
+93|CXIV.|114.
+94|CCIV.|204.
+95|CXXIX.|129.
+96|CCI.|201.
+97|CXIV.|114.
+98|NO ONE IS WILLING TO GAMBLE WITH SOMEONE WHO LOOKS THAT BAD.|НИКТО НЕ ХОЧЕТ ИГРАТЬ С КЕМ-ТО, КТО ТАК ПЛОХО ВЫГЛЯДИТ.
+99|I CAN'T ACCEPT THAT WAGER.|Я НЕ МОГУ ПРИНЯТЬ ЭТУ СТАВКУ.
+100|YOU DON'T HAVE ENOUGH PLATINUM.|У ВАС НЕДОСТАТОЧНО ПЛАТИНЫ.
