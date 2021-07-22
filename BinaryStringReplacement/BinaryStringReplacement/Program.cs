@@ -638,7 +638,7 @@ namespace BinaryStringReplacement
         private static Dictionary<char, char> loadMapping()
         {
             Dictionary<char, char> map = new Dictionary<char, char>();
-            map.Add('Ё', '@');
+            map.Add('Ё', '_');
             map.Add('Ф', 'A');
             map.Add('И', 'B');
             map.Add('С', 'C');
@@ -702,7 +702,7 @@ namespace BinaryStringReplacement
             map.Add('ъ', ']');
             map.Add('х', '[');
             map.Add('б', '<');
-            map.Add('э', '\'');
+            map.Add('э', '_');
             map.Add('ю', '>');
             map.Add('ж', ';');
             map.Add(')', ')');
@@ -710,7 +710,7 @@ namespace BinaryStringReplacement
             map.Add('.', '.');
             map.Add(':', ':');
             map.Add('-', '-');
-            map.Add('\'', '\'');
+            map.Add('\'', '"');
             map.Add('?', '?');
             map.Add('!', '!');
             map.Add(',', ',');
