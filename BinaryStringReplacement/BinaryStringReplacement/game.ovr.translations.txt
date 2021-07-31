@@ -672,7 +672,7 @@
 // Added 563-565 for Github issue #8
 564| Exit| Наз.
 // Github issue #12
-1008|THAC0   |NYFC0
+1008|THAC0   |БПКБ0
 // Github issue #52
 1009| Pick| Взл.
 // This is the Sell that goes with Ready Trade Drop Halve Join Sell ID Exit
