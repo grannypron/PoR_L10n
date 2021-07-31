@@ -2,6 +2,7 @@
 //2|scenario created by: tsr, inc.|сюжет создан ти-эс-ар инк.
 2|scenario created by:|сюжет создан:
 1002|tsr, inc|ти-эс-ар инк
+1011|version 1.3|ВЕРСИЯ 1.3
 3|jim ward|дж. уорд
 4|david cook,steve winter,mike breault|дэвид кук,стив винтер,майк брюлт
 5|game created by:|игра сделана
