@@ -380,7 +380,7 @@
 //317|Head Body Keep|Р)го И)те Л)ос
 317|Head Body Keep|Лицо Тело Ок
 318|old|до
-319|ready   action|отдых действие
+319|ready   action|Пассивно Атака
 320|new|нов
 321|Small|Низк.
 322|Large|Выс.
