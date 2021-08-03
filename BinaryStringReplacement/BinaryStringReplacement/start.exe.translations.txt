@@ -38,7 +38,7 @@
 37|Area Cast View Encamp Search Look|Кар Закл Гер У)лагерь Иск Осмотр
 38|Cast View Encamp Search Look|Закл Гер У)лагерь Иск Осмотр
 39|Save View Magic Rest Alter Exit|Сохр Гер Магия Отд Настр Уйти
-40|Cast Memorize Scribe Display Rest Exit|Зак Доб Пер эФф Отд Уйти
+40|Cast Memorize Scribe Display Rest Exit|Колд Добавить Свиток Активно Отд Уйти
 41|Order Drop Speed Icon Pics Exit|Ряд Изг Скр Знч Ав Уйти
 42|Select Exit|Выбрать Уйти
 43|Place Exit|Ставить Уйти
@@ -454,6 +454,9 @@
 1007|C D M T V A R L S B E J|Y E V N J L B P C G D X
 //"Select" left untranslated thus far - Github #60
 1008|Select|вЫбор
+1009|Hitpoints|ЗДОРОВЬЕ
+1010|AC|КБ
+1011|(Helpless)|(Беспомощный)
 // Location-specific byte replacements below
 // Compass directions
 **F649|43|00|02|43|44|01|44|00|02|3E|44|01|3E|00|02|3E|50|01|50|00|02|43|50
