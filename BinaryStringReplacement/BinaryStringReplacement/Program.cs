@@ -672,7 +672,7 @@ namespace BinaryStringReplacement
             map.Add('Ю', '>');
             map.Add('Ж', ';');
             map.Add('|', '|');
-            map.Add('ё', '@');
+            map.Add('ё', '_');
             map.Add('ф', 'a');
             map.Add('и', 'b');
             map.Add('с', 'c');
@@ -702,7 +702,7 @@ namespace BinaryStringReplacement
             map.Add('ъ', ']');
             map.Add('х', '[');
             map.Add('б', '<');
-            map.Add('э', '_');
+            map.Add('э', '\'');
             map.Add('ю', '>');
             map.Add('ж', ';');
             map.Add(')', ')');
