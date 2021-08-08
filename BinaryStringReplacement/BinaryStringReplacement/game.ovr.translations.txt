@@ -402,22 +402,22 @@
 337|Saving...Please Wait|Сохранение... Ждите
 338|Save and exit  Insert disk #|Сохр. и выйти  Встав. диск. #
 339|Mortally wounded, the dragon roars!|Смертельно раненый дракон ревёт!
-340|The spirit of Tyranthraxus flares up|Дух Тиранотракса вспыхивает,
+340|The spirit of Tyranthraxus flares up|Дух Тиранфрахия вспыхивает,
 341|from the dragon's body.|выходя из тела дракона.
 342|FINAL#|FINAL#
 343|Fools, you have but slain the body|Дураки, вы лишь убили тело,
-344|I possessed.  I cannot be defeated!"|я лишь управлял. Меня не победить!"
-345|With the power of the pool of radiance|С могуществом сияющего пруда,
+344|I possessed.  I cannot be defeated!"|которым я управлял. Меня не победить!"
+345|With the power of the pool of radiance|С мощью сияющего источника,
 346|which I moved here, to my lair,|который я перенёс в моё логово,
-347|I will still rule, by possessing one|я всё же буду править, владея одним
+347|I will still rule, by possessing one|я всё же буду править, завладев одним
 348|of you!|из вас!
 //349|No Lord Bane! I can still rule here!|Нет, владыка Бейн!  Я всё ещё могу править здесь!
 349|"No Lord Bane!  I can still rule here!|"Нет, Бэйн! Я ещё могу править тут!
 //350|I have not failed.|Я не проиграл.
 //351|Do not call me back|Не вызывайте меня обратно
-350|I have not failed.  Do not call me back|Я не проиграл.  Не вызывайте обратно
+350|I have not failed.  Do not call me back|Я не проиграл.  Не зовите меня обратно
 //352|through the pool!|через этот пруд!
-352|through the pool!"|через этот пруд!"
+352|through the pool!"|через этот источник!"
 353|Noooo...|Нееет...
 354|(NPC)|(NPC)
 355|Age|лет
