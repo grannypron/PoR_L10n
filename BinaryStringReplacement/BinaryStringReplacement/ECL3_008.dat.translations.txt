@@ -240,9 +240,9 @@
 124|'THESE ARE ALL OF THE COMMISSIONS CURRENTLY AVAILABLE.'|'НА ДАННЫЙ МОМЕНТ БОЛЬШЕ НЕТ ЗАДАНИЙ, КРОМЕ ЭТИХ'.
 125|'THESE ARE ALL OF THE COMMISSIONS CURRENTLY AVAILABLE.'|'НА ДАННЫЙ МОМЕНТ БОЛЬШЕ НЕТ ЗАДАНИЙ, КРОМЕ ЭТИХ'.
 126|THE SLUMS IMMEDIATELY TO OUR WEST NEED TO BE CLEARED OF MONSTERS.'|ТРУЩОБЫ ПРЯМО НА ЗАПАДЕ ГОРОДА НУЖНО ОЧИСТИТЬ ОТ МОНСТРОВ'.
-127|SOKAL KEEP ON THORN ISLAND MUST BE CLEARED.'|'КРЕПОСТЬ СОКОЛ НА ОСТРОВЕ ШИП НАДО ОСВОБОДИТЬ'.
-128|THE COUNCIL IS OFFERING A REWARD FOR BOOKS, MAPS, TOMES, ETC. WHICH PROVIDE USEFUL INFORMATION ABOUT PHLAN BEFORE THE FALL.  THE REWARD IS TIED TO THE VALUE OF THE INFORMATION.'|'СОВЕТ НАЗНАЧАЕТ НАГРАДЫ ЗА КНИГИ, КАРТЫ, ФОЛИАНТЫ И Т.П., В КОТОРЫХ СОДЕРЖАТСЯ ПОЛЕЗНЫЕ СВЕДЕНИЯ О ФЛАНЕ ДО ЕГО ПАДЕНИЯ. НАГРАДА ЗАВИСИТ ОТ ЦЕННОСТИ ИНФОРМАЦИИ'.
-129|A WEAPON OF GREAT POWER IS TO BE AUCTIONED TO OUR ENEMIES. THIS AUCTION IS TO BE HELD IN PODAL PLAZA.  FIND OUT WHAT THE WEAPON IS AND RETURN.'|'ОЧЕНЬ МОГУЧЕЕ ОРУЖИЕ ПРОДАЮТ С МОЛОТКА НАШИМ ВРАГАМ. АУКЦИОН НАХОДИТСЯ НА ПЛОЩАДИ ПОДОЛ. ВЫЯСНИТЕ, КАКОЕ ЭТО ОРУЖИЕ, И ВЕРНИТЕСЬ'.
+127|SOKAL KEEP ON THORN ISLAND MUST BE CLEARED.'|КРЕПОСТЬ СОКОЛ НА ОСТРОВЕ ШИП НАДО ОСВОБОДИТЬ'.
+128|THE COUNCIL IS OFFERING A REWARD FOR BOOKS, MAPS, TOMES, ETC. WHICH PROVIDE USEFUL INFORMATION ABOUT PHLAN BEFORE THE FALL.  THE REWARD IS TIED TO THE VALUE OF THE INFORMATION.'|СОВЕТ НАЗНАЧАЕТ НАГРАДЫ ЗА КНИГИ, КАРТЫ, ФОЛИАНТЫ И Т.П., В КОТОРЫХ СОДЕРЖАТСЯ ПОЛЕЗНЫЕ СВЕДЕНИЯ О ФЛАНЕ ДО ЕГО ПАДЕНИЯ. НАГРАДА ЗАВИСИТ ОТ ЦЕННОСТИ ИНФОРМАЦИИ'.
+129|A WEAPON OF GREAT POWER IS TO BE AUCTIONED TO OUR ENEMIES. THIS AUCTION IS TO BE HELD IN PODAL PLAZA.  FIND OUT WHAT THE WEAPON IS AND RETURN.'|ОЧЕНЬ МОГУЧЕЕ ОРУЖИЕ ПРОДАЮТ С МОЛОТКА НАШИМ ВРАГАМ. АУКЦИОН НАХОДИТСЯ НА ПЛОЩАДИ ПОДОЛ. ВЫЯСНИТЕ, КАКОЕ ЭТО ОРУЖИЕ, И ВЕРНИТЕСЬ'.
 130|JUNIOR COUNCILMAN CADORNA HAS A SPECIAL COMMISSION FOR YOU.  HIS CHAMBERS ARE THROUGH THE EAST DOOR.'|КАДОРНА, МЛАДШИЙ ЧЛЕН СОВЕТА, ПРЕДЛАГАЕТ ВАМ ОСОБОЕ ЗАДАНИЕ. ЕГО КОМНАТЫ НАХОДЯТСЯ ЗА ВОСТОЧНОЙ ДВЕРЬЮ'.
 131|YOU ARE SUMMONED BY THE BISHOP OF BRACCIO OF TYR. REPORT TO HIM AT TYR'S TEMPLE.'|ВАС ВЫЗЫВАЕТ БРАЧЧО, ЕПИСКОП ТИРА. ОТЧИТАЙТЕСЬ ЕМУ В ХРАМЕ ТИРА'.
 132|A LARGE GROUP OF THIEVES OPERATES OUT OF THE OLD KOVEL MANSION. THE COUNCIL WILL PAY TO HAVE THEM CLEANED OUT.'|КРУПНАЯ ШАЙКА ВОРОВ ОРУДУЕТ БЛИЗ СТАРОГО ОСОБНЯКА КОВЕЛЕЙ. СОВЕТ ЗАПЛАТИТ ЗА ИХ ЗАЧИСТКУ'.
