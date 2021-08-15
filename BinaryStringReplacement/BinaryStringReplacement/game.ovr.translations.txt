@@ -38,9 +38,9 @@
 35|INPUT THE CODE WORD:|НАЖМИТЕ КЛАВИШУ ВВОД
 36|Sorry, that's incorrect.|Это неверно.
 //37|PRESS  OR BUTTON TO CONTINUE|НАЖМИТЕ  ИЛИ КНОПКУ ДЛЯ ПРОДОЛЖЕНИЯ
-37|PRESS RETURN OR BUTTON TO CONTINUE|НАЖМИТЕ ВВОД ДЛЯ ПРОДОЛЖЕНИЯ
+37|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВВОД ДЛЯ ПРОДОЛЖЕНИЯ
 //38|PRESS / TO CONTINUE|НАЖМИТЕ / ДЛЯ ПРОДОЛЖЕНИЯ
-38|PRESS ENTER/RETURN TO CONTINUE|НАЖМИТЕ ВВОД ДЛЯ ПРОДОЛЖЕНИЯ
+38|PRESS <ENTER>/<RETURN> TO CONTINUE|НАЖМИТЕ ВВОД ДЛЯ ПРОДОЛЖЕНИЯ
 //39|~COMBAT|БОЙ
 //40|~WAIT|ЖДАТЬ
 //41|~FLEE|БЕГ
