@@ -342,7 +342,7 @@
 336|AC 3|КБ 3
 337|Of Protection|защиты
 338|Paralyzation|Паралич
-339|Ogre Power|Мощь огров
+339|Ogre Power|Мощи Огров
 340|Invisibility|Невидимость
 341|Missiles|Снаряды
 342|Elvenkind|Эльфийский
