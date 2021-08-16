@@ -229,7 +229,7 @@
 6|MOVE IN CLOSER|ПОДЪЕМ БЛИЖЕ
 7|LISTEN TO COMMENTS|СЛУШАТЬ КОММЕНТАРИИ
 8|LEAVE|ПОКИНУТЬ
-9|THE BIDDING ESCALATES TO 5,000 GOLD PIECES -- HIGH BID FROM A MAN IN PLAIN CLOTHES, NEXT TO AN OGRE.|ТОРГ ПОВЫШАЕТСЯ ДО 5000 ЧАСТЕЙ ЗОЛОТА - ВЫСОКАЯ СТАВКА ОТ МУЖЧИНЫ В ОБЫЧНОЙ ОДЕЖДЕ, СЛЕДУЮЩИЙ С ОГРЕ.
+9|THE BIDDING ESCALATES TO 5,000 GOLD PIECES -- HIGH BID FROM A MAN IN PLAIN CLOTHES, NEXT TO AN OGRE.|СТАВКА ВОЗРОСЛА ДО 5000 ЗОЛОТЫХ - БОЛЬШЕ ВСЕХ ДАЛ СКРОМНО ОДЕТЫЙ ЧЕЛОВЕК, СТОЯЩИЙ ЗА ОГРОМ.           
 10|DO YOU WISH TO:|ВЫ ХОТИТЕ:
 11|MAKE A BID|СДЕЛАТЬ СТАВКУ
 12|WAIT FOR WINNER|ЖДЕМ ПОБЕДИТЕЛЯ
