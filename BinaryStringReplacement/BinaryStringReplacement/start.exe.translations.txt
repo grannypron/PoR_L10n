@@ -456,7 +456,7 @@
 1008|Select|вЫбор
 1009|Hitpoints|ЗДОРОВЬЕ
 1010|AC|КБ
-1011|(Helpless)|(Немощный)
+1011|(Helpless)|(Уязвимый)
 // Location-specific byte replacements below
 // Compass directions
 **F649|43|00|02|43|44|01|44|00|02|3E|44|01|3E|00|02|3E|50|01|50|00|02|43|50
