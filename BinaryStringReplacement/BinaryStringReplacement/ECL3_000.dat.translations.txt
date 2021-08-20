@@ -246,7 +246,6 @@
 33|THE PRIESTS OF TYR WELCOME YOU TO THE TEMPLE.|ЖРЕЦЫ ТИРА ПРИВЕТСТВУЮТ ВАС В ХРАМЕ.
 34|MAD MAN|БЕЗУМЦЕМ
 35|YOU ARE WELCOMED BY PRIESTESS JOY OF SUNE.|ВАС ПРИВЕТСТВУЕТ ЖРИЦА БОГИНИ СУНИ.
-36|YOU WALK NEAR THE|ВЫ ПРОХОДИТЕ РЯДОМ С
 37|POISONOUS BARREN RIVER.|ЯДОВИТОЙ БЕСПЛОДНОЙ РЕКОЙ.
 38|'IT WILL COST YOU 1 PLATINUM PIECE TO REST HERE.  DO YOU WANT TO STAY?'|'ОТДЫХ ЗДЕСЬ БУДЕТ СТОИТЬ 1 ПЛАТИНОВУЮ МОНЕТУ. ВЫ ХОТИТЕ ОСТАТЬСЯ?'
 39|THE SHOPKEEPER GREETS YOU AND OFFERS YOU ITEMS FOR SALE. 'CAN I SHOW YOU SOMETHING?'|ВЛАДЕЛЕЦ ЛАВКИ ПРИВЕТСТВУЕТ ВАС И ПРЕДЛАГАЕТ ТОВАРЫ НА ПРОДАЖУ. МОГУ Я ВАМ КОЕ-ЧТО ПОКАЗАТЬ?
@@ -311,3 +310,5 @@
 98|NO ONE IS WILLING TO GAMBLE WITH SOMEONE WHO LOOKS THAT BAD.|НИКТО НЕ ХОЧЕТ ИГРАТЬ С КЕМ-ТО, КТО ТАК ПЛОХО ВЫГЛЯДИТ.
 99|I CAN'T ACCEPT THAT WAGER.|Я НЕ МОГУ ПРИНЯТЬ ЭТУ СТАВКУ.
 100|YOU DON'T HAVE ENOUGH PLATINUM.|У ВАС НЕДОСТАТОЧНО ПЛАТИНЫ.
+//36|YOU WALK NEAR THE|ВЫ ПРОХОДИТЕ РЯДОМ С
+**07DA|11|38|08|68|C2|96|80|38|00|00|00|00|00|00
