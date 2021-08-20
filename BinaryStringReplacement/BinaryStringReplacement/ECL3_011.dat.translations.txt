@@ -68,7 +68,7 @@
 @@2716|11|2069|2118|41284|01 98 00 01 80 1B 41 21 53 4E 
 @@2717|11|2073|1955|41121|00 01 07 4A 09 00 00 01 0F 4A 
 //
-184|YOU ARE ROUSTED BY THE CITY WATCH AND TOLD TO MOVE ALONG. WHAT DO YOU DO?|ВАС РАЗБУДИЛИ ГОРОДСКИЕ СТРАЖНИКИ И ПОТРЕБОВАЛИ ПОЙТИ С НИМИ. ЧТО ВЫ СДЕЛАЕТЕ?
+184|YOU ARE ROUSTED BY THE CITY WATCH AND TOLD TO MOVE ALONG. WHAT DO YOU DO?|ВАС РАЗБУДИЛИ ГОРОДСКИЕ СТРАЖНИКИ И ПОТРЕБОВАЛИ ПОЙТИ С НИМИ. ВАШИ ДЕЙСТВИЯ?
 185|GO|ПОЙТИ
 186|FIGHT|СРАЗИТЬСЯ
 187|NOTICES FOR TEACHERS AND STUDENTS ARE POSTED ON THE WALLS.  A NOTE DIRECTS MAGIC USERS AND CLERICS TO GO NORTH AND FIGHTERS AND 'ROGUES' TO GO EAST.|НА СТЕНАХ РАСКЛЕЕНЫ ОБЪЯВЛЕНИЯ ДЛЯ НАСТАВНИКОВ И УЧЕНИКОВ. УКАЗАТЕЛЬ НАПРАВЛЯЕТ МАГОВ И ЖРЕЦОВ НА СЕВЕР, А БОЙЦОВ И 'ВОРОВ' - НА ВОСТОК.

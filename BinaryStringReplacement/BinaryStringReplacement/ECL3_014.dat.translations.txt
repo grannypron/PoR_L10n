@@ -230,7 +230,7 @@
 //
 224|WHILE IN CAMP YOU ARE SUDDENLY ATTACKED BY THREE THIEVES WITH SLINGS.  THEY LAUNCH THEIR BULLETS AT THE PARTY AND THEN RUN, DISAPPERING FROM SIGHT.|ВО ВРЕМЯ ПРИВАЛА НА ВАС ВНЕЗАПНО НАПАЛО ТРОЕ ВОРОВ С ПРАЩАМИ. ОНИ МЕТНУЛИ СВОИ СНАРЯДЫ В ОТРЯД, А ЗАТЕМ ИСЧЕЗЛИ ИЗ ВИДУ.
 225|AS YOU ENTER THE ROOM A THIEF WITH A SWORD COMES OUT OF NOWHERE|КАК ТОЛЬКО ВЫ ВХОДИТЕ В КОМНАТУ, ИЗ НИОТКУДА ВОЗНИКАЕТ ВОР С МЕЧОМ
-226|.  HE TRIES TO ATTACK THE PARTY BUT YOU STOP HIM.  WHAT WILL YOU DO?|. ОН ПЫТАЕТСЯ АТАКОВАТЬ ОТРЯД, НО ВЫ ОСТАНАВЛИВАЕТЕ ЕГО. ЧТО ВЫ СДЕЛАЕТЕ?
+226|.  HE TRIES TO ATTACK THE PARTY BUT YOU STOP HIM.  WHAT WILL YOU DO?|. ОН ПЫТАЕТСЯ АТАКОВАТЬ ОТРЯД, НО ВЫ ОСТАНАВЛИВАЕТЕ ЕГО. ВАШИ ДЕЙСТВИЯ?
 227|ATTACK HIM|АТАКОВАТЬ ЕГО
 228|LET HIM GO|ОТПУСТИТЬ ЕГО
 229|, BACKSTABS A PARTY MEMBER THEN DISAPPEARS THROUGH THE WALL.|, ЗАРЕЗАЕТ СО СПИНЫ УЧАСТНИКА ОТРЯДА, А ПОТОМ ИСЧЕЗАЕТ В СТЕНЕ.
@@ -270,7 +270,7 @@
 263|SOUTH|ЮЖНЫЙ
 264|EAST|ВОСТОЧНЫЙ
 265|DON'T FOLLOW|НЕ ИДТИ ЗА НИМИ
-266|YOU HAVE CAUGHT ONE OF THE THIEVES.  THE THIEF BEGS FOR MERCY AND SAYS, 'I AM THE GUILD MASTER.  IF YOU RELEASE ME, MY THIEVES WILL NO LONGER ATTACK YOU!'  WHAT WILL YOU DO?|ВЫ ПОЙМАЛИ ОДНОГО ИЗ ВОРОВ. ОН УМОЛЯЕТ О ПОЩАДЕ И ГОВОРИТ: 'Я ГЛАВА ГИЛЬДИИ. ЕСЛИ ВЫ ОСВОБОДИТЕ МЕНЯ, МОИ ВОРЫ БОЛЬШЕ НЕ БУДУТ НАПАДАТЬ НА ВАС!' ЧТО ВЫ СДЕЛАЕТЕ?
+266|YOU HAVE CAUGHT ONE OF THE THIEVES.  THE THIEF BEGS FOR MERCY AND SAYS, 'I AM THE GUILD MASTER.  IF YOU RELEASE ME, MY THIEVES WILL NO LONGER ATTACK YOU!'  WHAT WILL YOU DO?|ВЫ ПОЙМАЛИ ОДНОГО ИЗ ВОРОВ. ОН УМОЛЯЕТ О ПОЩАДЕ И ГОВОРИТ: 'Я ГЛАВА ГИЛЬДИИ. ЕСЛИ ВЫ ОСВОБОДИТЕ МЕНЯ, МОИ ВОРЫ БОЛЬШЕ НЕ БУДУТ НАПАДАТЬ НА ВАС!' ВАШИ ДЕЙСТВИЯ?
 267|ATTACK|НАПАСТЬ
 268|RELEASE|ОСВОБОДИТЬ
 269|AFTER YOU RELEASE HIM THE THIEF SLOWLY WALKS TOWARD THE FAR DOOR THANKING YOU ALL THE WAY.  PARTWAY THROUGH THE DOOR HE SAYS, 'SUCKERS', THEN SPRINTS AWAY.|ПОСЛЕ ТОГО, КАК ВЫ ОСВОБОДИЛИ ВОРА, ОН МЕДЛЕННО ИДЁТ К ДАЛЬНЕЙ ДВЕРИ, ВСЁ ВРЕМЯ БЛАГОДАРЯ ВАС. НА ПОЛПУТИ К ДВЕРИ ОН ГОВОРИТ: "МОЛОКОСОСЫ", А ПОТОМ БРОСАЕТСЯ ПРОЧЬ.
