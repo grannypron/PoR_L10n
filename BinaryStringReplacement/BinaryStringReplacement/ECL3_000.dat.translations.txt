@@ -254,7 +254,6 @@
 42|IGNORE|ИГНОРИРОВАТЬ
 43|GRAB|СХВАТИТЬ
 44|YOU REALIZE YOU HAVE BEEN VICTIMIZED BY A PICKPOCKET.|ВЫ ПОНИМАЕТЕ, ЧТО СТАЛИ ЖЕРТВОЙ КАРМАННИКА.
-45|DOES ANYONE WANT TO GAMBLE?|КТО-НИБУДЬ ХОЧЕТ СЫГРАТЬ?
 46|YOU OVERHEAR TAVERN TALE|ВЫ ПОДСЛУШАЛИ БАЙКУ В ТАВЕРНЕ 
 47|THE SHOPKEEPER OFFERS JEWELRY FOR SALE. 'CAN I SHOW YOU SOMETHING?'|ВЛАДЕЛИЦА ЛАВКИ ПРОДАЁТ ДРАГОЦЕННОСТИ. 'ПОКАЗАТЬ ВАМ ЧТО-НИБУДЬ?'
 48|THE SHOP SPECIALIZES IN ARMS AND ARMOR. 'CAN I SHOW YOU OUR WARES?'|ЛАВКА СПЕЦИАЛИЗИРУЕТСЯ НА ОРУЖИИ И ДОСПЕХАХ. 'ПОЗВОЛИТЕ ПОКАЗАТЬ ВАМ НАШИ ТОВАРЫ?'
@@ -312,3 +311,5 @@
 100|YOU DON'T HAVE ENOUGH PLATINUM.|У ВАС НЕДОСТАТОЧНО ПЛАТИНЫ.
 //36|YOU WALK NEAR THE|ВЫ ПРОХОДИТЕ РЯДОМ С
 **07DA|11|38|08|68|C2|96|80|38|00|00|00|00|00|00
+//45|DOES ANYONE WANT TO GAMBLE?|КТО-НИБУДЬ ХОЧЕТ СЫГРАТЬ?
+**0ACB|81|23|8A|B5|90|BC|14|C3|60|6C|A6|14|3A|00|D3|54|81|8E|37|F0|00
