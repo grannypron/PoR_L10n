@@ -231,7 +231,7 @@
 115|IN THE COUNCIL CHAMBERS, THE ENTIRE CITY COUNCIL IS WAITING FOR YOU. THE LORD HIGH MAYOR, ULRICH EBERHARD, SPEAKS: 'OUR FORCES ARE MARSHALLED FOR THE ASSAULT ON VALJEVO CASTLE.|ЗДЕСЬ ВАС ОЖИДАЕТ ВЕСЬ ГОРОДСКОЙ СОВЕТ. ЛОРД-ВЕРХОВНЫЙ МЭР УЛЬРИХ ЭБЕРХАРД ПРОИЗНОСИТ: 'НАШИ СИЛЫ ГОТОВЫ К ШТУРМУ ЗАМКА ВАЛЬЕВО.
 116|'IT IS THE UNANIMOUS REQUEST OF THE COUNCIL THAT YOU LEAD THE ATTACK. YOUR SKILL AND BRAVERY HAVE WON THE ADMIRATION OF ALL PHLAN.  WE LOOK TO YOU TO HELP US WIN OUR FREEDOM.'|'СОВЕТ ЕДИНОДУШНО ПРОСИТ ВАС ВОЗГЛАВИТЬ АТАКУ. ВАШИ НАВЫКИ И ХРАБРОСТЬ СНИСКАЛИ ВОСХИЩЕНИЕ ВСЕГО ФЛАНА. МЫ НАДЕЕМСЯ, ЧТО ВЫ ПОМОЖЕТЕ НАМ ОБРЕСТИ СВОБОДУ'.
 117|YOU ARE INTERCEPTED BY THE COUNCIL GUARD. 'HALT.  YOUR PRESENCE IS NOT AUTHORIZED.  LEAVE.'  DO YOU LEAVE?|ВАС ОСТАНАВЛИВАЕТ СТРАЖНИК СОВЕТА. 'СТОЯТЬ. ВАМ НЕ РАЗРЕШЕНО ЗДЕСЬ НАХОДИТЬСЯ. ПОКИНЬТЕ ЭТО МЕСТО'. ВЫ УЙДЁТЕ?
-118|THE WAY IS BLOCKED.|ПУТЬ ЗАГОРОЖЕН.                                                         
+118|THE WAY IS BLOCKED.|ПУТЬ ЗАГОРОЖЕН.                                                            
 119|COUNCILMAN CADORNA CONFRONTS YOU. 'YOU HAVE TAKEN MY FAMILY TREASURE. I DON'T FORGET SUCH THINGS.' HE STRIDES OFF.|СОВЕТНИК КАДОРНА ВСТАЛ НА ПУТИ. 'ВЫ ЗАБРАЛИ МОЕ СЕМЕЙНОЕ СОКРОВИЩЕ. Я НЕ ЗАБЫВАЮ ТАКИХ ВЕЩЕЙ'. ЗАТЕМ ОН УХОДИТ.
 120|'BACK SO SOON? I CAN ONLY REPEAT THE EARLIER OFFERS: '|'ТАК СКОРО ВЕРНУЛИСЬ? Я МОГУ ЛИШЬ ПОВТОРИТЬ ПРЕЖНИЕ ПРЕДЛОЖЕНИЯ'.
 121|PRESS  OR BUTTON TO CONTINUE|НАЖМИТЕ ВВОД, ЧТОБЫ ПРОДОЛЖИТЬ

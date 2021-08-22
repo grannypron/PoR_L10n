@@ -309,7 +309,7 @@
 302|YOU LEAVE THE WEAPONS ALONE.|ВЫ ОСТАВЛЯЕТЕ ОРУЖИЕ В ПОКОЕ.
 303|AS YOU NEAR THE PILE OF WEAPONS AN AWFUL SMELLING CLOUD OF GAS FORMS.  THIS FOUL SMELLING GAS STUNS THE PARTY ALLOWING A GROUP OF THIEVES TO JUMP OUT OF THE SHADOWS AND ATTACK AT WILL!|ПРИ ВАШЕМ ПРИБЛИЖЕНИИ К ГОРЕ ОРУЖИЯ ПОЯВЛЯЕТСЯ ВОНЮЧЕЕ ОБЛАКО ГАЗА. ЕГО ОТВРАТИТЕЛЬНЫЙ ЗАПАХ ОШЕЛОМЛЯЕТ ОТРЯД, ПОЗВОЛИВ ШАЙКЕ ВОРОВ ВЫСКОЧИТЬ ИЗ ТЕНИ И АТАКОВАТЬ СО ВСЕХ СТОРОН!
 304|PRESS  OR BUTTON TO CONTINUE|НАЖМИТЕ ВВОД, ЧТОБЫ ПРОДОЛЖИТЬ
-305|THIS CABINET IS EMPTY.|ШКАФ ПУСТ.                             
+305|THIS CABINET IS EMPTY.|ШКАФ ПУСТ.                                
 306|AS YOU TRY TO DEACTIVATE THE TRAP YOU MANAGE TO SET IT OFF.  A LARGE NEEDLE SHOOTS OUT OF A HIDDEN COMPARTMENT HITTING A PARTY MEMBER.|ПЫТАЯСЬ ОБЕЗВРЕДИТЬ ЛОВУШКУ, ВЫ УМУДРЯЕТЕСЬ ЕЁ РАЗРЯДИТЬ. ИЗ СКРЫТОГО ОТДЕЛЕНИЯ ВЫСТРЕЛИВАЕТ БОЛЬШАЯ ИГЛА, УДАРИВ ПО УЧАСТНИКУ ОТРЯДА.
 307|YOU AVOID THE TRAP BY NOT OPENNING THE CABINET.|ВЫ ИЗБЕГАЕТЕ ЛОВУШКУ, НЕ ОТКРЫВ ШКАФ.
 308|WHO WILL TRY TO PICK THE LOCK?|КТО ПОПЫТАЕТСЯ ВЗЛОМАТЬ ЗАМОК?

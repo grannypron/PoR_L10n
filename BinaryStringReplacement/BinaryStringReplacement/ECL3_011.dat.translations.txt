@@ -75,7 +75,7 @@
 188|A SIGN ON THE WALL DIRECTS MAGIC USERS TO GO THROUGH THE EAST DOOR AND CLERICS TO GO THROUGH THE WEST DOOR.|ЗНАК НА СТЕНЕ НАПРАВЛЯЕТ МАГОВ В ВОСТОЧНУЮ ДВЕРЬ, А ЖРЕЦОВ - В ЗАПАДНУЮ.
 189|CLERICS|ЖРЕЦОВ
 190|MAGIC USERS|МАГОВ
-191|THE ROOM IS FILLED WITH DUELING PAIRS.|В ЭТОЙ КОМНАТЕ ПОЛНО ДУЭЛЯНТОВ.                                             
+191|THE ROOM IS FILLED WITH DUELING PAIRS.|В ЭТОЙ КОМНАТЕ ПОЛНО ДУЭЛЯНТОВ.                                                
 192|THE ARENA MASTER ASKS IF YOU WISH TO DUEL.  'THE DUELS  ARE EVENLY MATCHED AND NORMALLY NOT TO THE DEATH. DO YOU DUEL?'|ХОЗЯИН АРЕНЫ СПРАШИВАЕТ, ХОТИТЕ ЛИ ВЫ ПОЕДИНКА. 'ПОЕДИНКИ УСТРАИВАЮТСЯ МЕЖДУ РАВНЫМИ СОПЕРНИКАМИ И ОБЫЧНО НЕ ПРИВОДЯТ К СМЕРТИ. ХОТИТЕ ПОЕДИНКА?'
 193|WHO WILL DUEL?|КТО ХОЧЕТ ПОЕДИНКА?
 194|I CANNOT ARRANGE SUCH A DUEL.|Я НЕ МОГУ УСТРОИТЬ ТАКОЙ ПОЕДИНОК.

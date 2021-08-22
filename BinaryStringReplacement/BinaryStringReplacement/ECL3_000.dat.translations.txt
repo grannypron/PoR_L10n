@@ -254,7 +254,7 @@
 42|IGNORE|ИГНОРИРОВАТЬ
 43|GRAB|СХВАТИТЬ
 44|YOU REALIZE YOU HAVE BEEN VICTIMIZED BY A PICKPOCKET.|ВЫ ПОНИМАЕТЕ, ЧТО СТАЛИ ЖЕРТВОЙ КАРМАННИКА.
-46|YOU OVERHEAR TAVERN TALE|ВЫ ПОДСЛУШАЛИ БАЙКУ В ТАВЕРНЕ 
+46|YOU OVERHEAR TAVERN TALE |ВЫ ПОДСЛУШАЛИ БАЙКУ В ТАВЕРНЕ  
 47|THE SHOPKEEPER OFFERS JEWELRY FOR SALE. 'CAN I SHOW YOU SOMETHING?'|ВЛАДЕЛИЦА ЛАВКИ ПРОДАЁТ ДРАГОЦЕННОСТИ. 'ПОКАЗАТЬ ВАМ ЧТО-НИБУДЬ?'
 48|THE SHOP SPECIALIZES IN ARMS AND ARMOR. 'CAN I SHOW YOU OUR WARES?'|ЛАВКА СПЕЦИАЛИЗИРУЕТСЯ НА ОРУЖИИ И ДОСПЕХАХ. 'ПОЗВОЛИТЕ ПОКАЗАТЬ ВАМ НАШИ ТОВАРЫ?'
 49|THE SHOP SELLS SILVER ITEMS. 'WOULD YOU LIKE TO SEE OUR SELECTION?'|В МАГАЗИНЕ ПРОДАЮТСЯ ИЗДЕЛИЯ ИЗ СЕРЕБРА. 'ХОТИТЕ УВИДЕТЬ НАШУ ПОДБОРКУ?'
