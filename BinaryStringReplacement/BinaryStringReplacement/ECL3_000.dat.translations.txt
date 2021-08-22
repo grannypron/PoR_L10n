@@ -286,7 +286,7 @@
 75|THE SHOPKEEPER OFFERS JEWELRY FOR SALE. 'CAN I SHOW YOU SOMETHING?'|ВЛАДЕЛЕЦ ЛАВКИ ПРОДАЁТ ЮВЕЛИРНЫЕ ИЗДЕЛИЯ. 'МОГУ ЛИ Я ЧТО-ЛИБО ВАМ ПРЕДЛОЖИТЬ?'
 76|'THE GAME WORKS LIKE THIS.  WE SPIN THIS TOP. IF THE GREEN SIDE COMES UP, YOU GET DOUBLE YOUR MONEY BACK.  IF A BLUE SIDE COMES UP, YOU GET YOUR MONEY BACK.  IF A RED SIDE COMES UP, YOU LOSE.'|ИГРА ПРОХОДИТ ТАК. МЫ КРУТИМ ЭТОТ ВОЛЧОК. ЕСЛИ ВЫПАДЕТ ЗЕЛЕНАЯ СТОРОНА, ВЫ ПОЛУЧИТЕ ВДВОЕ БОЛЬШЕ ДЕНЕГ. ЕСЛИ ВЫПАДЕТ СИНЯЯ СТОРОНА, ВЫ ПОЛУЧИТЕ СВОИ ДЕНЬГИ НАЗАД. ЕСЛИ ВЫПАДЕТ КРАСНАЯ СТОРОНА, ВЫ ПРОИГРАЛИ.
 77|WHO WILL GAMBLE?|КТО БУДЕТ ИГРАТЬ?
-78|YOU HAVE|У ВАС ЕСТЬ 
+78|YOU HAVE |У ВАС ЕСТЬ  
 79|PP.|ПЛ.
 80|HOW MANY PLATINUM PIECES WILL YOU WAGER? (HOUSE LIMIT IS 1000)|СКОЛЬКО ПЛАТИНОВЫХ МОНЕТ ВЫ ПОСТАВИТЕ? (ЛИМИТ ИГРОВОГО ДОМА 1000)
 81|IT'S GREEN.  YOU GET DOUBLE YOUR MONEY BACK.|ЗЕЛЁНОЕ. ВЫ ВЫИГРАЛИ ВДВОЕ БОЛЬШЕ ДЕНЕГ.
