@@ -263,7 +263,7 @@
 52|LIX.|59.
 53|SKULLCRUSHER|ЧЕРЕПОЛОМ
 54|YOU ARE OUTSIDE THE CITY HALL. THE CITY CLERK WAITS INSIDE TO AWARD COMMISSIONS.|ВЫ РЯДОМ С РАТУШЕЙ. ГОРОДСКОЙ ПИСАРЬ ЖДЁТ ВНУТРИ, ЧТОБЫ ПРЕДЛОЖИТЬ ВОЗНАГРАЖДЕНИЕ.
-55|PROCLAMATIONS ARE POSTED ON THE WALLS, IN YOUR JOURNAL YOU NOTE|НА СТЕНАХ РАСКЛЕЕНЫ ВОЗЗВАНИЯ, ВЫ ПОМЕЧАЕТЕ В СВОЁМ ЖУРНАЛЕ 
+55|PROCLAMATIONS ARE POSTED ON THE WALLS, IN YOUR JOURNAL YOU NOTE |НА СТЕНАХ РАСКЛЕЕНЫ ВОЗЗВАНИЯ, ВЫ ПОМЕЧАЕТЕ В СВОЁМ ЖУРНАЛЕ 
 56|PROCLAMATION|ВОЗЗВАНИЕ
 57|THE DOOR IS LOCKED.  DO YOU WANT TO BREAK IN?|ДВЕРЬ ЗАПЕРТА. ХОТИТЕ ВЛОМИТЬСЯ ТУДА?
 58|'BY ORDER OF THE CITY COUNCIL,' THE HARBOR MASTER SAYS, 'THE ONLY BOAT OUT IS GOING TO SOKAL KEEP.  YOU CAN CATCH IT AT THE END OF THE PIER.'|'ПО ПРИКАЗУ ГОРОДСКОГО СОВЕТА,' - ГОВОРИТ НАЧАЛЬНИК ПОРТА, - 'В КРЕПОСТЬ СОКОЛ ХОДИТ ТОЛЬКО ОДНА ЛОДКА. ВЫ МОЖЕТЕ НАНЯТЬ ЕЁ В КОНЦЕ ПРИЧАЛА.'
@@ -291,7 +291,7 @@
 80|HOW MANY PLATINUM PIECES WILL YOU WAGER? (HOUSE LIMIT IS 1000)|СКОЛЬКО ПЛАТИНОВЫХ МОНЕТ ВЫ ПОСТАВИТЕ? (ЛИМИТ ИГРОВОГО ДОМА 1000)
 81|IT'S GREEN.  YOU GET DOUBLE YOUR MONEY BACK.|ЗЕЛЁНОЕ. ВЫ ВЫИГРАЛИ ВДВОЕ БОЛЬШЕ ДЕНЕГ.
 82|IT'S BLUE.  YOU WIN.|СИНЕЕ. ВЫ ПОБЕДИЛИ.
-83|RED. SORRY, YOU LOSE.|КРАСНОЕ. К СОЖАЛЕНИЮ, ВЫ ПРОИГРАЛИ.            
+83|RED. SORRY, YOU LOSE.|КРАСНОЕ. К СОЖАЛЕНИЮ, ВЫ ПРОИГРАЛИ.                
 84|WILL YOU GO AGAIN?|ПОПРОБУЕТЕ СНОВА?
 85|YOU ATTACKED THE CITY WATCH, YOU WON'T BEAT US SO EASILY!|ВЫ АТАКУЕТЕ ГОРОДСКУЮ СТРАЖУ, ТАК ЛЕГКО НАС НЕ ПОБЕДИТЬ!
 86|SKULLCRUSHER SPEAKS, 'I MUST GO TO MY MASTER NOW.'|ЧЕРЕПОЛОМ ГОВОРИТ, 'СЕЙЧАС, Я ДОЛЖЕН ОТПРАВИТЬСЯ К СВОЕМУ ХОЗЯИНУ.'
