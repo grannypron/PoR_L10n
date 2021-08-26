@@ -991,3 +991,5 @@
 **1D4C2|44
 // S for Small -> Y
 **1D4D9|59
+// Encampment/Save/Quit To Dos menu Y for Yes -> L - Github #72
+**197A0|4C
