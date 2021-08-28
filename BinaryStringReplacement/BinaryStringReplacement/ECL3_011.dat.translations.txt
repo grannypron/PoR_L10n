@@ -73,19 +73,19 @@
 186|FIGHT|СРАЗИТЬСЯ
 187|NOTICES FOR TEACHERS AND STUDENTS ARE POSTED ON THE WALLS.  A NOTE DIRECTS MAGIC USERS AND CLERICS TO GO NORTH AND FIGHTERS AND 'ROGUES' TO GO EAST.|НА СТЕНАХ РАСКЛЕЕНЫ ОБЪЯВЛЕНИЯ ДЛЯ НАСТАВНИКОВ И УЧЕНИКОВ. УКАЗАТЕЛЬ НАПРАВЛЯЕТ МАГОВ И ЖРЕЦОВ НА СЕВЕР, А БОЙЦОВ И 'ВОРОВ' - НА ВОСТОК.
 188|A SIGN ON THE WALL DIRECTS MAGIC USERS TO GO THROUGH THE EAST DOOR AND CLERICS TO GO THROUGH THE WEST DOOR.|ЗНАК НА СТЕНЕ НАПРАВЛЯЕТ МАГОВ В ВОСТОЧНУЮ ДВЕРЬ, А ЖРЕЦОВ - В ЗАПАДНУЮ.
-189|CLERICS|ЖРЕЦОВ
-190|MAGIC USERS|МАГОВ
-191|THE ROOM IS FILLED WITH DUELING PAIRS.|В ЭТОЙ КОМНАТЕ ПОЛНО ДУЭЛЯНТОВ.                                                
+189|CLERICS |ЖРЕЦОВ 
+190|MAGIC USERS |МАГОВ 
+191|THE ROOM IS FILLED WITH DUELING PAIRS.|В ЭТОЙ КОМНАТЕ ПОЛНО ДУЭЛЯНТОВ.                     
 192|THE ARENA MASTER ASKS IF YOU WISH TO DUEL.  'THE DUELS  ARE EVENLY MATCHED AND NORMALLY NOT TO THE DEATH. DO YOU DUEL?'|ХОЗЯИН АРЕНЫ СПРАШИВАЕТ, ХОТИТЕ ЛИ ВЫ ПОЕДИНКА. 'ПОЕДИНКИ УСТРАИВАЮТСЯ МЕЖДУ РАВНЫМИ СОПЕРНИКАМИ И ОБЫЧНО НЕ ПРИВОДЯТ К СМЕРТИ. ХОТИТЕ ПОЕДИНКА?'
 193|WHO WILL DUEL?|КТО ХОЧЕТ ПОЕДИНКА?
 194|I CANNOT ARRANGE SUCH A DUEL.|Я НЕ МОГУ УСТРОИТЬ ТАКОЙ ПОЕДИНОК.
 195|A SIGN ON THE NORTH DOOR READS 'FIGHTERS'.|ЗНАК НА СЕВЕРНОЙ ДВЕРИ ГЛАСИТ 'БОЙЦЫ'.
-196|FIGHTERS|БОЙЦОВ
-197|THIEVES|ВОРОВ
+196|FIGHTERS |БОЙЦОВ 
+197|THIEVES |ВОРОВ 
 198|A SIGN ON THE NORTH DOOR READS 'ROGUES'.|ЗНАК НА СЕВЕРНОЙ ДВЕРИ ГЛАСИТ 'ВОРЫ'.
-199|'WE TRAIN ONLY|'ЗДЕСЬ МЫ ТРЕНИРУЕМ ТОЛЬКО
+199|'WE TRAIN ONLY |'ЗДЕСЬ МЫ ТРЕНИРУЕМ ТОЛЬКО  
 200|HERE. DO YOU WANT TO TRAIN?'|. ХОТИТЕ ПОТРЕНИРОВАТЬСЯ?'
-201|PRESS  OR BUTTON TO CONTINUE|НАЖМИТЕ ВВОД, ЧТОБЫ ПРОДОЛЖИТЬ
+201|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВВОД, ЧТОБЫ ПРОДОЛЖИТЬ
 202|'DO YOU SEEK A PARTNER FOR YOUR ADVENTURING?'|'ВЫ ИЩЕТЕ СОРАТНИКА ПО ПРИКЛЮЧЕНИЯМ?'
 203|'THERE IS NO ONE WHO WILL GO WITH YOU.'|'ЗДЕСЬ НЕТ НИКОГО, КТО ПОЙДЁТ С ВАМИ.'
 204|YES|ДА
@@ -100,11 +100,11 @@
 213|THEURGIST|ТЕУРГ
 214|1 SHARE|1 ДОЛЮ
 215|2 SHARES|2 ДОЛИ
-216|3 SHARES|3 ДОЛИ
-217|PLUS A PICK OF SPECIAL ITEMS|, А ТАКЖЕ ПРИОРИТЕТ НА ПОЛУЧЕНИЕ ПРЕДМЕТОВ ИЗ ДОБЫЧИ
-218|4 SHARES|4 ДОЛИ
-219|'THERE IS A FINE|'ЕСТЬ ХОРОШИЙ 
-220|WHO WILL JOIN YOU FOR|КОТОРЫЙ ПРИСОЕДИНИТСЯ К ВАМ ЗА 
+216|3 SHARES |3 ДОЛИ 
+217| PLUS A PICK OF SPECIAL ITEMS| , А ТАКЖЕ ПРИОРИТЕТ НА ПОЛУЧЕНИЕ ПРЕДМЕТОВ ИЗ ДОБЫЧИ
+218|4 SHARES |4 ДОЛИ 
+219|'THERE IS A FINE |'ЕСТЬ ХОРОШИЙ 
+220| WHO WILL JOIN YOU FOR |  КОТОРЫЙ ПРИСОЕДИНИТСЯ К ВАМ ЗА  
 221|. IS THIS ACCEPTABLE?'|. ВЫ СОГЛАСНЫ?'
 222|'WOULD YOU LIKE TO CONSIDER SOMEONE ELSE?'|'ХОТИТЕ ОБСУДИТЬ КОГО-НИБУДЬ ДРУГОГО?'
 223|'YOUR PARTY IS TOO LARGE TO JOIN AT THIS TIME.  RETURN WHEN IT IS SMALLER.'|'СЕЙЧАС ВАШ ОТРЯД СЛИШКОМ БОЛЬШОЙ. ВОЗВРАЩАЙТЕСЬ, КОГДА ОН БУДЕТ МЕНЬШЕ'.
