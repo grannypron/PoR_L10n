@@ -244,23 +244,14 @@
 237|ON A NEARBY WALL IS A SLATE.  DRAWN ON THE SLATE IS A COMPLEX MAZE WITH THE WORDS 'NW CASTLE' UNDER IT.  YOU COPY THE CASTLE INTO YOUR JOURNAL UNDER JOURNAL ENTRY 41.|НА СОСЕДНЕЙ СТЕНЕ ПРИКРЕПЛЕНА ГРИФЕЛЬНАЯ ДОСКА. НА НЕЙ ПОД СЛОВАМИ 'СЗ ЗАМОК' ИЗОБРАЖЁН СЛОЖНЫЙ ЛАБИРИНТ. ВЫ СРИСОВЫВАЕТЕ КАРТУ В СВОЙ ЖУРНАЛ КАК ЗАМЕТКУ 41.
 238|ON THE FLOOR IS A CRUDE MAP.  IT IS A MAP OF A COMPLEX MAZE WITH THE WORDS 'NE CASTLE' UNDER IT.  YOU TAKE THE MAP AND PUT IT IN YOUR JOURNAL UNDER JOURNAL ENTRY 29.|НА ПОЛУ ЛЕЖИТ НАБРОСОК КАРТЫ СЛОЖНОГО ЛАБИРИНТА, ПОД КОТОРОЙ НАПИСАНЫ СЛОВА 'СВ ЗАМОК'. ВЫ ЗАБИРАЕТЕ ЕЁ, ПОЛОЖИВ В СВОЙ ЖУРНАЛ КАК ЗАМЕТКУ 29.
 239|IN FRONT OF YOU ARE THREE CABINETS.  WHICH ONE WILL YOU EXAMINE?|ПЕРЕД ВАМИ ТРИ ШКАФЧИКА. КАКОЙ ИЗ НИХ БУДЕТЕ ОСМАТРИВАТЬ?
-240|A|А
-241|B|Б
-242|C|В
 243|LEAVE|УЙТИ
 244|YOU SEE A WIDE COLLECTION OF RUGS AND TAPESTRIES.  TWO OF THEM LOOK EXTRAORDINARY WHILE THE OTHERS LOOK AVERAGE.|ВЫ ВИДИТЕ БОЛЬШУЮ КОЛЛЕКЦИЮ КОВРОВ И ГОБЕЛЕНОВ. ДВА ИЗ НИХ ВЫГЛЯДЯТ ЗАМЕЧАТЕЛЬНО, В ТО ВРЕМЯ КАК ОСТАЛЬНЫЕ ВПОЛНЕ ОБЫКНОВЕННЫЕ.
 245|IN FRONT OF YOU IS A WOODEN CABINET.  WHAT WILL YOU DO?|ПЕРЕД ВАМИ ДЕРЕВЯННЫЙ ШКАФ. ВАШИ ДЕЙСТВИЯ?
-246|EXAMINE THE CABINET|ОСМОТРЕТЬ ШКАФ
 247|LEAVE IT|ОСТАВИТЬ ЕГО
 248|YOU FIND A WIDE VARIETY OF SCROLLS IN SCROLL CASES.|ВЫ НАХОДИТЕ МНОГО РАЗНООБРАЗНЫХ СВИТКОВ В СПЕЦИАЛЬНЫХ КОРОБАХ.
 249|BEFORE YOU IS A TABLE WITH FOUR SMALL CASKETS ON TOP OF IT.  WHAT WILL YOU DO?|ПЕРЕД ВАМИ СТОЛ С ЧЕТЫРЬМЯ МАЛЕНЬКИМИ ШКАТУЛКАМИ. ВАШИ ДЕЙСТВИЯ?
-250|SEARCH A CASKET|ОБЫСКАТЬ ШКАТУЛКУ
 251|LEAVE|УЙТИ
 252|WHICH CASKET WILL YOU SEARCH?|КАКУЮ ШКАТУЛКУ ВЫ БУДЕТЕ ОБЫСКИВАТЬ?
-253|A|А
-254|B|Б
-255|C|В
-256|D|Г
 257|YOU FIND A POUCH OF SMALL GEMS.|ВЫ НАШЛИ МЕШОЧЕК С МЕЛКИМИ ДРАГОЦЕННЫМИ КАМНЯМИ
 258|INSIDE THIS ROOM YOU FIND A LARGE PILE OF WEAPONS AND SHIELDS.  THEY APPEAR TO BE IN GOOD CONDITION AND OF FINE QUALITY.  WHAT WILL YOU DO?|ВНУТРИ КОМНАТЫ ВЫ ОБНАРУЖИВАЕТЕ БОЛЬШУЮ КУЧУ ОРУЖИЯ И ЩИТОВ - КАЧЕСТВЕННЫХ И В ХОРОШЕМ СОСТОЯНИИ. ВАШИ ДЕЙСТВИЯ?
 259|TAKE SOME|ВЗЯТЬ НЕСКОЛЬКО
@@ -281,10 +272,7 @@
 274|YOUR MAGIC DETECTS A TRAP!|ВАША МАГИЯ ОБНАРУЖИВАЕТ ЛОВУШКУ!
 275|YOUR PARTY DETECTS A TRAP!|ВАШ ОТРЯД ЗАМЕЧАЕТ ЛОВУШКУ!
 276|WHAT DO YOU WANT TO DO?|ЧТО ВЫ ХОТИТЕ СДЕЛАТЬ?
-277|AVOID TRAP|ИЗБЕЖАТЬ ЛОВУШКИ
-278|DISARM TRAP|ОБЕЗВРЕДИТЬ ЛОВУШКУ
 279|WHO WILL DISARM THE TRAP?|КТО БУДЕТ ОБЕЗВРЕЖИВАТЬ ЛОВУШКУ?
-280|YOU DEACTIVATE THE TRAP|ВЫ ОБЕЗВРЕЖИВАЕТЕ ЛОВУШКУ
 281|A SCYTHING BLADE DROPS ACROSS THE DOORWAY, DAMAGING ONE OF THE CHARACTERS.|ЧЕРЕЗ ДВЕРНОЙ ПРОЁМ ПАДАЕТ ЛЕЗВИЕ КОСЫ, ПОРАНИВ ОДНОГО ИЗ ВАШИХ ГЕРОЕВ.
 282|THE PARTY HEARS THE CRACKING OF GLASS.  A POISONOUS GAS FILLS THE AIR!|ОТРЯД СЛЫШИТ ЗВОН РАЗБИТОГО СТЕКЛА. ВОЗДУХ НАПОЛНЯЕТСЯ ОТРАВЛЯЮЩИМ ГАЗОМ!
 283|AFTER THE PARTY ENTERS THE ROOM A NET LACED WITH SHARP BLADES FALLS ON THE PARTY.|ПОСЛЕ ТОГО КАК ОТРЯД ВХОДИТ В КОМНАТУ, СЕТКА, УКРАШЕННАЯ ОСТРЫМИ КЛИНКАМИ, ПАДАЕТ НА ОТРЯД.
@@ -308,8 +296,8 @@
 301|YOU AVOID THE TRAP BY NOT OPENING THE CASKET.|НЕ ОТКРЫВАЯ ШКАТУЛКУ, ВЫ ИЗБЕГАЕТЕ ЛОВУШКИ.
 302|YOU LEAVE THE WEAPONS ALONE.|ВЫ ОСТАВЛЯЕТЕ ОРУЖИЕ В ПОКОЕ.
 303|AS YOU NEAR THE PILE OF WEAPONS AN AWFUL SMELLING CLOUD OF GAS FORMS.  THIS FOUL SMELLING GAS STUNS THE PARTY ALLOWING A GROUP OF THIEVES TO JUMP OUT OF THE SHADOWS AND ATTACK AT WILL!|ПРИ ВАШЕМ ПРИБЛИЖЕНИИ К ГОРЕ ОРУЖИЯ ПОЯВЛЯЕТСЯ ВОНЮЧЕЕ ОБЛАКО ГАЗА. ЕГО ОТВРАТИТЕЛЬНЫЙ ЗАПАХ ОШЕЛОМЛЯЕТ ОТРЯД, ПОЗВОЛИВ ШАЙКЕ ВОРОВ ВЫСКОЧИТЬ ИЗ ТЕНИ И АТАКОВАТЬ СО ВСЕХ СТОРОН!
-304|PRESS  OR BUTTON TO CONTINUE|НАЖМИТЕ ВВОД, ЧТОБЫ ПРОДОЛЖИТЬ
-305|THIS CABINET IS EMPTY.|ШКАФ ПУСТ.                                
+304|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВВОД, ЧТОБЫ ПРОДОЛЖИТЬ
+305|THIS CABINET IS EMPTY.|ШКАФ ПУСТ.                             
 306|AS YOU TRY TO DEACTIVATE THE TRAP YOU MANAGE TO SET IT OFF.  A LARGE NEEDLE SHOOTS OUT OF A HIDDEN COMPARTMENT HITTING A PARTY MEMBER.|ПЫТАЯСЬ ОБЕЗВРЕДИТЬ ЛОВУШКУ, ВЫ УМУДРЯЕТЕСЬ ЕЁ РАЗРЯДИТЬ. ИЗ СКРЫТОГО ОТДЕЛЕНИЯ ВЫСТРЕЛИВАЕТ БОЛЬШАЯ ИГЛА, УДАРИВ ПО УЧАСТНИКУ ОТРЯДА.
 307|YOU AVOID THE TRAP BY NOT OPENNING THE CABINET.|ВЫ ИЗБЕГАЕТЕ ЛОВУШКУ, НЕ ОТКРЫВ ШКАФ.
 308|WHO WILL TRY TO PICK THE LOCK?|КТО ПОПЫТАЕТСЯ ВЗЛОМАТЬ ЗАМОК?
@@ -323,3 +311,22 @@
 316|AS YOU NEAR THE PILE OF WEAPONS AN EXTREMELY BAD SMELLING GAS FILLS THE ROOM.  THE SMELL IS DISGUSTING BUT HARMLESS ENOUGH.|КОГДА ВЫ ПРИБЛИЖАЕТЕСЬ К ГРУДЕ ОРУЖИЯ, КОМНАТУ НАПОЛНЯЕТ ЗЛОВОННЫЙ ГАЗ. ЗАПАХ ОТВРАТИТЕЛЬНЫЙ, НО НЕ ПРИЧИНЯЕТ ВРЕДА.
 317|YOU HAVE ALREADY TRIED TO PICK THIS LOCK AND HAVE FOUND THAT IT IS TOO COMPLEX FOR YOU TO HANDLE.|ВЫ УЖЕ ПЫТАЛИСЬ ВЗЛОМАТЬ ЭТОТ ЗАМОК И ОБНАРУЖИЛИ, ЧТО ОН СЛИШКОМ СЛОЖЕН ДЛЯ ВАС.
 318|YOU TRY TO PICK THE LOCK BUT IT IS TOO COMPLEX FOR YOU TO PICK.  YOU FAIL MISERABLY.|ВЫ ПЫТАЕТЕСЬ ВЗЛОМАТЬ ЗАМОК, НО ЭТО СЛИШКОМ СЛОЖНО ДЛЯ ВАС. ВЫ ТЕРПИТЕ НЕУДАЧУ.
+//240|A|А
+//241|B|Б
+//242|C|В
+//253|A|А
+//254|B|Б
+//255|C|В
+//256|D|Г
+**04B3|18
+**04B6|F0
+**04B9|10
+**0C1C|18
+**0C1F|F0
+**0C22|10
+**0C25|54
+250|SEARCH A CASKET|ОБЫСКАТЬ ШКАТУЛКУ
+246|EXAMINE THE CABINET|ОСМОТРЕТЬ ШКАФ
+277|AVOID TRAP|ИЗБЕЖАТЬ ЛОВУШКИ
+278|DISARM TRAP|ОБЕЗВРЕДИТЬ ЛОВУШКУ
+280|YOU DEACTIVATE THE TRAP|ВЫ ОБЕЗВРЕЖИВАЕТЕ ЛОВУШКУ
