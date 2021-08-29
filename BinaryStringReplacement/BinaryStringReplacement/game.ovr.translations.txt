@@ -131,7 +131,7 @@
 110|The END!|КОНЕЦ!
 111|The monsters rejoice for the party has been destroyed|МОНСТРЫ ЛИКУЮТ, ОТРЯД УНИЧТОЖЕН
 112|Press any key to continue|Нажмите любую клавишу
-113|Shop|Лавк
+113|Shop|Лавка
 114|Items:|Вещи:
 //115|Buy|И)к - Github #49
 115|Buy|Куп
@@ -651,9 +651,9 @@
 547|Exit|Уйти
 548|Select|Ы)выбор
 //549|Next|Т)след - hotkey is probably at 2D91E
-549| Next| Сл
+549| Next| След
 //550|Prev|З)пред - hotkey is probably at 2D910
-550| Prev| Пр
+550| Prev| Пред
 //551|Exit|У)назад
 551| Exit| Уйти
 552|Illegal range in Show3DSprite.|Недопустимый диапазон.
@@ -671,7 +671,7 @@
 // Added 563-565 for Github issue #4
 563|Yes No|Да Нет
 // Added 563-565 for Github issue #8
-564| Exit| Наз.
+564| Exit| Наз
 // Github issue #12
 1008|THAC0   |БПКБ0
 // Github issue #52
