@@ -278,13 +278,15 @@ namespace BinaryStringReplacement
                 // GitHub #139 - if the string has an extra 00 after it and the existing length reflects that, then we need to factor that into the length
                 if (data[foundIdx + availableLength] == 0)  // Should this be + 1?
                 {
-                    log("Found null-ended-GH139 string - id #" + id);
-                    //Append a 00 to the end of the string that we are replacing (even though it will just be replaced by the same thing)
-                    Array.Resize(ref replaceThisStrBytes, replaceThisStrBytes.Length + 1);
-                    //Add 1 to the available length
-                    availableLength++;
-                    //Append a 00 to the replacement string (this way, the length will be calculated correctly)
-                    Array.Resize(ref replacementStrBytes, replacementStrBytes.Length + 1);
+                    if (data[foundIdx - 1] == (availableLength + 1)) { 
+                        log("Found null-ended-GH139 string - id #" + id);
+                        //Append a 00 to the end of the string that we are replacing (even though it will just be replaced by the same thing)
+                        Array.Resize(ref replaceThisStrBytes, replaceThisStrBytes.Length + 1);
+                        //Add 1 to the available length
+                        availableLength++;
+                        //Append a 00 to the replacement string (this way, the length will be calculated correctly)
+                        Array.Resize(ref replacementStrBytes, replacementStrBytes.Length + 1);
+                    }
                 }
             }
 
