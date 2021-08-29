@@ -21,6 +21,11 @@ namespace BinaryStringReplacement
             gotoDestinations = new List<Pointer>();
             Dictionary<char, char> characterMap = loadMapping();
 
+            //debugCompressedString(System.Text.Encoding.ASCII.GetBytes("YOU WALK NEAR THE "));
+            //debugCompressedString(System.Text.Encoding.ASCII.GetBytes("ВЫ ПРОХОДИТЕ РЯДОМ С "));
+            //debugCompressedString(CompressString("EXAMINE THE CABINET"));
+            //return;
+
             string binFile = null;
             string transFile = null;
             if (args.Length <= 1)
@@ -165,7 +170,15 @@ namespace BinaryStringReplacement
             
             log("Completed");
         }
-        
+        private static void debugCompressedString(byte[] bStr)
+        {
+            string bytes = "";
+            foreach (byte b in bStr)
+            {
+                bytes += ((int)b).ToString("X").PadLeft(2, '0') + " ";
+            }
+            log(bytes);
+        }
         private static void runECLBatch(string eclDir)
         {
             log("Starting ECL Batch Mode");
@@ -261,7 +274,21 @@ namespace BinaryStringReplacement
                 {
                     availableLength++;
                 }
+            } else {
+                // GitHub #139 - if the string has an extra 00 after it and the existing length reflects that, then we need to factor that into the length
+                if (data[foundIdx + availableLength] == 0)  // Should this be + 1?
+                {
+                    log("Found null-ended-GH139 string - id #" + id);
+                    //Append a 00 to the end of the string that we are replacing (even though it will just be replaced by the same thing)
+                    Array.Resize(ref replaceThisStrBytes, replaceThisStrBytes.Length + 1);
+                    //Add 1 to the available length
+                    availableLength++;
+                    //Append a 00 to the replacement string (this way, the length will be calculated correctly)
+                    Array.Resize(ref replacementStrBytes, replacementStrBytes.Length + 1);
+                }
             }
+
+
 
             if (replacementStrBytes.Length > availableLength)
             {
