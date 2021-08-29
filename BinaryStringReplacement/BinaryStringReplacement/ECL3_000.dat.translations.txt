@@ -218,9 +218,9 @@
 5|'GREETINGS, COURAGEOUS ONES, I AM ROLF, APPOINTED BY THE COUNCIL TO INTRODUCE NEWCOMERS TO THE FAIR CITY OF PHLAN. IF YOU WILL ACCOMPANY ME, I WILL START THE TOUR.'|'ЗДРАВСТВУЙТЕ, ХРАБРЕЦЫ. Я РОЛЬФ, И СОВЕТ ПОРУЧИЛ МНЕ ПОКАЗЫВАТЬ ПРЕКРАСНЫЙ ГОРОД ФЛАН ВСЕМ НОВОПРИБЫВШИМ. ЕСЛИ ВЫ ПОСЛЕДУЕТЕ ЗА МНОЙ, Я НАЧНУ ЭКСКУРСИЮ'.
 6|THE MAD MAN SUDDENLY BEGINS TO SCREAM AND ATTACK EVERYONE WITHIN ARM'S REACH.|БЕЗУМЕЦ ВНЕЗАПНО НАЧИНАЕТ КРИЧАТЬ И АТАКОВАТЬ ВСЕХ В ПРЕДЕЛАХ ДОСЯГАЕМОСТИ.
 7|YOU BOARD A BOAT.|ВЫ САДИТЕСЬ В ЛОДКУ.
-8|PRESS  OR BUTTON TO CONTINUE|НАЖМИТЕ ВВОД, ЧТОБЫ ПРОДОЛЖИТЬ
+8|PRESS <RETURN> OR BUTTON TO CONTINUE|НАЖМИТЕ ВВОД, ЧТОБЫ ПРОДОЛЖИТЬ
 9|'YOU NOW FACE AN ENTRANCE TO THE TEMPLE OF TYR.  THERE ARE THREE TEMPLES IN PHLAN: TYR'S, SUNE'S, AND TEMPUS. TYR'S IS THE LARGEST AND HOUSES BISHOP BRACCIO. IF YOU WILL TURN AROUND NOW, '|'СЕЙЧАС ВЫ НАПРОТИВ ВХОДА В ХРАМ ТИРА. ВО ФЛАНЕ ЕСТЬ ТРИ ХРАМА: ТИРА, СУНИ И ТЕМПУСА. САМЫЙ БОЛЬШОЙ У ТИРА, И ТАМ ЖИВЁТ ЕПИСКОП БРАЧЧО. ЕСЛИ ВЫ ОБЕРНЁТЕСЬ, ТО УВИДИТЕ
-10|'YOU WILL SEE THE ENTRANCE TO THE PASSENGER DOCK AREA WE JUST DEPARTED.  FEW SHIPS DARE THE PERILOUS PASSAGE HERE, BUT THE COUNCIL IS DEVELOPING A PLAN TO OPEN UP THE SEA LANES.  PLEASE FOLLOW ME.'|'ПРОХОД К ПРИСТАНИ, ОТКУДА МЫ ТОЛЬКО ЧТО ВЫШЛИ. ЛИШЬ НЕМНОГИЕ КОРАБЛИ ОТПРАВЛЯЮТСЯ В РИСКОВАННЫЙ ПОХОД СЮДА, НО СОВЕТ РАЗВИВАЕТ ФЛАН, ЧТОБЫ МОРСКИЕ ПУТИ СТАЛИ ДОСТУПНЕЕ. ТЕПЕРЬ ИДИТЕ ЗА МНОЙ'.                 
+10|'YOU WILL SEE THE ENTRANCE TO THE PASSENGER DOCK AREA WE JUST DEPARTED.  FEW SHIPS DARE THE PERILOUS PASSAGE HERE, BUT THE COUNCIL IS DEVELOPING A PLAN TO OPEN UP THE SEA LANES.  PLEASE FOLLOW ME.'|'ПРОХОД К ПРИСТАНИ, ОТКУДА МЫ ТОЛЬКО ЧТО ВЫШЛИ. ЛИШЬ НЕМНОГИЕ КОРАБЛИ ОТПРАВЛЯЮТСЯ В РИСКОВАННЫЙ ПОХОД СЮДА, НО СОВЕТ РАЗВИВАЕТ ФЛАН, ЧТОБЫ МОРСКИЕ ПУТИ СТАЛИ ДОСТУПНЕЕ. ТЕПЕРЬ ИДИТЕ ЗА МНОЙ'.       
 11|'BEHIND THESE DOORS ARE THE SPECIAL TRAINING SCHOOLS  WHERE ADVENTURERS INCREASE THEIR SKILLS. LET US NOW GO TO THE CITY'S MOST IMPORTANT BUILDING.'|'ЗА ЭТИМИ ДВЕРЬМИ - СПЕЦИАЛЬНЫЕ ШКОЛЫ, ГДЕ АВАНТЮРИСТЫ УЛУЧШАЮТ СВОИ УМЕНИЯ. ТЕПЕРЬ ПОЙДЁМ К САМОМУ ВАЖНОМУ ЗДАНИЮ В ГОРОДЕ'.
 12|'WE ARE JUST OUTSIDE THE CITY HALL. PROCLAMATIONS ARE POSTED ON THESE WALLS. INSIDE, THE CITY CLERK AWARDS THE COUNCIL'S COMMISSIONS.  COMMISSIONS ARE THE QUICKEST WAY TO FAME AND FORTUNE.'|'СЕЙЧАС МЫ ОКОЛО РАТУШИ. НА СТЕНЫ НАКЛЕЕНЫ ВОЗЗВАНИЯ. ГОРОДСКОЙ ПИСАРЬ ВНУТРИ ЗДАНИЯ ВЫДАЁТ НАГРАДЫ ЗА ВЫПОЛНЕНИЕ ПОРУЧЕНИЙ СОВЕТА. ЭТИ ПОРУЧЕНИЯ - БЫСТРЫЙ СПОСОБ ЗАРАБОТАТЬ СОСТОЯНИЕ И ПРОСЛАВИТЬСЯ'.
 13|'ON YOUR RIGHT IS ONE OF THE ENTRANCE'S TO SUNE'S TEMPLE. AS WITH ALL PHLAN'S TEMPLES, VARIOUS CLERICAL SERVICES ARE OFFERED INSIDE.  ON YOUR LEFT IS AN ENTRANCE TO THE CITY PARK.'|'ПО ПРАВУЮ РУКУ НАХОДИТСЯ ВХОД В ХРАМ СУНИ. КАК И ВО ВСЕХ ОСТАЛЬНЫХ ХРАМАХ, ВНУТРИ ПРЕДЛАГАЮТСЯ САМЫЕ РАЗНЫЕ ЖРЕЧЕСКИЕ УСЛУГИ. ПО ЛЕВУЮ РУКУ - ВХОД В ГОРОДСКОЙ ПАРК'.
@@ -277,8 +277,8 @@
 66|' DO YOU SEEK HEALING?'|'ВЫ ИЩЕТЕ ИСЦЕЛЕНИЯ?'
 67|THEN YOU MUST LEAVE.|ТОГДА ВЫ ДОЛЖНЫ УЙТИ.
 68|BEAUTIFUL STOJANOW RIVER.|ПРЕКРАСНАЯ РЕКА СТОЯНОВ.
-69|LF|ДА
-70|YTN|НЕТ
+69|YES|ДА
+70|NO|НЕТ
 71|A DRUNKEN BRAWL BREAKS OUT. YOU ARE CAUGHT IN THE MIDDLE.|НАЧИНАЕТСЯ ПЬЯНАЯ ДРАКА. ВЫ ОКАЗЫВАЕТЕСЬ В САМОМ ЕЁ ЦЕНТРЕ.
 72|THE CITY WATCH CHARGES IN. DO YOU RUN AWAY OR STAY TO CONFRONT THEM?|ГОРОДСКАЯ СТРАЖА АТАКУЕТ. ВЫ СБЕЖИТЕ ИЛИ ОСТАНЕТЕСЬ, ЧТОБЫ ПРОТИВОСТОЯТЬ СТРАЖЕ?
 73|STAY|ОСТАТЬСЯ
@@ -294,7 +294,7 @@
 83|RED. SORRY, YOU LOSE.|КРАСНОЕ. К СОЖАЛЕНИЮ, ВЫ ПРОИГРАЛИ.                
 84|WILL YOU GO AGAIN?|ПОПРОБУЕТЕ СНОВА?
 85|YOU ATTACKED THE CITY WATCH, YOU WON'T BEAT US SO EASILY!|ВЫ АТАКУЕТЕ ГОРОДСКУЮ СТРАЖУ, ТАК ЛЕГКО НАС НЕ ПОБЕДИТЬ!
-86|SKULLCRUSHER SPEAKS, 'I MUST GO TO MY MASTER NOW.'|ЧЕРЕПОЛОМ ГОВОРИТ, 'СЕЙЧАС, Я ДОЛЖЕН ОТПРАВИТЬСЯ К СВОЕМУ ХОЗЯИНУ.'
+86|SKULLCRUSHER SPEAKS, 'I MUST GO TO MY MASTER NOW.' |ЧЕРЕПОЛОМ ГОВОРИТ: 'ТЕПЕРЬ Я ДОЛЖЕН ОТПРАВИТЬСЯ К СВОЕМУ ХОЗЯИНУ.' 
 87|HE LEAVES.|ОН УХОДИТ.
 88|PROCLAMATIONS LXIV, LXXVIII, CIX, AND LIX.|ВОЗЗВАНИЯ 64, 78, 109 И 59.
 89|CI.|101.
