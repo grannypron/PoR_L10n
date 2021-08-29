@@ -272,7 +272,6 @@
 274|YOUR MAGIC DETECTS A TRAP!|ВАША МАГИЯ ОБНАРУЖИВАЕТ ЛОВУШКУ!
 275|YOUR PARTY DETECTS A TRAP!|ВАШ ОТРЯД ЗАМЕЧАЕТ ЛОВУШКУ!
 276|WHAT DO YOU WANT TO DO?|ЧТО ВЫ ХОТИТЕ СДЕЛАТЬ?
-279|WHO WILL DISARM THE TRAP?|КТО БУДЕТ ОБЕЗВРЕЖИВАТЬ ЛОВУШКУ?
 281|A SCYTHING BLADE DROPS ACROSS THE DOORWAY, DAMAGING ONE OF THE CHARACTERS.|ЧЕРЕЗ ДВЕРНОЙ ПРОЁМ ПАДАЕТ ЛЕЗВИЕ КОСЫ, ПОРАНИВ ОДНОГО ИЗ ВАШИХ ГЕРОЕВ.
 282|THE PARTY HEARS THE CRACKING OF GLASS.  A POISONOUS GAS FILLS THE AIR!|ОТРЯД СЛЫШИТ ЗВОН РАЗБИТОГО СТЕКЛА. ВОЗДУХ НАПОЛНЯЕТСЯ ОТРАВЛЯЮЩИМ ГАЗОМ!
 283|AFTER THE PARTY ENTERS THE ROOM A NET LACED WITH SHARP BLADES FALLS ON THE PARTY.|ПОСЛЕ ТОГО КАК ОТРЯД ВХОДИТ В КОМНАТУ, СЕТКА, УКРАШЕННАЯ ОСТРЫМИ КЛИНКАМИ, ПАДАЕТ НА ОТРЯД.
@@ -330,3 +329,4 @@
 277|AVOID TRAP|ИЗБЕЖАТЬ ЛОВУШКИ
 278|DISARM TRAP|ОБЕЗВРЕДИТЬ ЛОВУШКУ
 280|YOU DEACTIVATE THE TRAP|ВЫ ОБЕЗВРЕЖИВАЕТЕ ЛОВУШКУ
+279|WHO WILL DISARM THE TRAP?|КТО БУДЕТ ОБЕЗВРЕЖИВАТЬ ЛОВУШКУ?
