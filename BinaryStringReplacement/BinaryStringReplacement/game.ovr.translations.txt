@@ -49,8 +49,8 @@
 //44|~WAIT|ЖДАТЬ
 //45|~FLEE|БЕГ
 //46|~ADVANCE|ПРОДВ.
-39|~COMBAT ~WAIT ~FLEE ~PARLAY|~СРАЖ. ~ВЫЖД ~УБЕЖ ~РАЗГОВ
-43|~COMBAT ~WAIT ~FLEE ~ADVANCE|~СРАЖ. ~ВЫЖД ~УБЕЖ ~ПРОДВ
+39|~COMBAT ~WAIT ~FLEE ~PARLAY|~СРАЖ ~ВЫЖД ~УБЕЖ ~РАЗГОВ
+43|~COMBAT ~WAIT ~FLEE ~ADVANCE|~СРАЖ ~ВЫЖД ~УБЕЖ ~ПРОДВ
 47|Both sides wait.|Обе стороны ждут
 48|The monsters flee.|Монстры убегают.
 //49|~HAUGHTY|НАДМЕННО
