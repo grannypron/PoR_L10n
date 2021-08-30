@@ -382,8 +382,8 @@
 318|old|до
 319|ready   action|Пассивно Атака
 320|new|нов
-321|Small|Низк.
-322|Large|Выс.
+321|Small|Низк
+322|Large|Высок
 323|Hair|Вол.
 324|Face|Лицо
 325|Is this icon ok?|Значок ок?
