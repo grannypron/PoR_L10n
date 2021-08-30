@@ -176,9 +176,9 @@
 143|is bandaged|перевязан
 144|GameSpeed|Скор.игры
 //145|Slower|Медл.
-145| Slower| Медл.
+145| Slower| Ниже
 //146|Faster|Быстр.
-146| Faster| Быстр.
+146| Faster| Выше
 //147|Exit|Уйти
 147| Exit| Уйти
 148|flees in panic|в панике бежит
@@ -942,10 +942,10 @@
 // F for Faster -> S
 **AA24|53
 // Fix for Slower / Faster menu item hotkeys in the Encamp / Alter Speed menu
-// S for Slower -> V
-**193FE|56
-// F for Faster -> S
-**193F4|53
+// S for Slower -> Y
+**193FE|59
+// F for Faster -> D
+**193F4|44
 // These are Next/Previous on Memorize (and possibly others) menu
 // N for Next -> C
 **2D91E|43
