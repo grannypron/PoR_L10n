@@ -993,3 +993,5 @@
 **1D4D9|59
 // Encampment/Save/Quit To Dos menu Y for Yes -> L - Github #72
 **197A0|4C
+// Encampment/Alter/Drop menu Y for Yes -> L - GitHub #118
+**191B8|4C
