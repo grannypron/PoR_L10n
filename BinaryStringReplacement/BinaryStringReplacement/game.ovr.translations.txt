@@ -160,7 +160,7 @@
 //131|Cast|С)за
 131|Cast |Закл 
 //132|Turn|Е)не
-132|Turn |Неее 
+132|Turn |Изгн 
 //133|Quick Done|Й)авт В)гот - Had to shorten this by one character because using the null space after this string ends up completely screwing the combat menu for reasons that I don't understand
 133|Quick Done|Авто Всё
 134|Your Teammate is Dying|Ваш товарищ умирает
@@ -697,8 +697,8 @@
 **9C04|47
 //C for Cast -> P
 **9C2B|50
-//T for Turn -> Y
-**9C42|59
+//T for Turn -> B
+**9C42|42
 //Q for Quick - > F
 **9C62|46
 //D for Done not necessary
