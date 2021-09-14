@@ -761,7 +761,7 @@
 //T for Trade -> C
 **22369|43
 //D for Drop -> L
-**22392|4A
+**22392|4C
 //S for Sell -> G
 **22473|47
 //
@@ -813,7 +813,7 @@
 // T for Trade should be C
 **21D0E|43
 // D for drop - should be L
-**21D18|4A
+**21D18|4C
 // This lets the Y command exit the View Character screen - Github #15
 **2D930|59
 //These are the Encamp menu commands - Save View Magic Rest Alter Exit
@@ -995,3 +995,5 @@
 **197A0|4C
 // Encampment/Alter/Drop menu Y for Yes -> L - GitHub #118
 **191B8|4C
+// Combat menu Y for Yes -> L - GitHub #109
+**151DE|4C
