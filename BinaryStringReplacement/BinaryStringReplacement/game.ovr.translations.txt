@@ -440,9 +440,9 @@
 369|Movement|Скорость
 370|Items|Вещи
 371|Spells|Закл. 
-372|Trade|Обмен
+372|Trade|Сбыт
 //373|Drop|Выбр - Github #15
-373|Drop|Уд.
+373|Drop |Уд.
 //374|Exit|Уйти - This is actually the Exit for the Bash/Pick/Knock menu
 374| Exit| Наз.
 //375|View:Must be unreadied|Показ:нужно отменить готовность
@@ -452,7 +452,7 @@
 377|is it Okay to lose it?|действительно удалить?
 378|Ready|Гот
 379| Use| Иии
-380| Trade| Обм
+380| Trade| Сбыт
 //381| Drop| Выбр - Github #15
 381| Drop| Уд.
 //382|Halve|Разд.
@@ -666,8 +666,8 @@
 559|is not cursed.|не проклят.
 // Had to move 227 under 290 "Pick Race"
 227|Pick|З)от
-// Had to move 296 Drop under 391 Drop It? - Github issue #4
-296|Drop| Уд.
+// Had to move 296 Drop under 391 Drop It? - Github issue #4 - this is the Character View screen.  @21ABD
+296|Drop |Долой
 // Added 563-565 for Github issue #4
 563|Yes No|Да Нет
 // Added 563-565 for Github issue #8
@@ -758,10 +758,10 @@
 **222E0|55
 //U for Use -> B
 **222F1|42
-//T for Trade -> J
-**22369|4A
-//D for Drop -> E
-**22392|45
+//T for Trade -> C
+**22369|43
+//D for Drop -> L
+**22392|4A
 //S for Sell -> G
 **22473|47
 //
@@ -810,10 +810,10 @@
 **21CE2|44
 // S for Spells should be P
 **21CF1|50
-// T for Trade should be J
-**21D0E|4A
-// D for drop - should be E
-**21D18|45
+// T for Trade should be C
+**21D0E|43
+// D for drop - should be L
+**21D18|4A
 // This lets the Y command exit the View Character screen - Github #15
 **2D930|59
 //These are the Encamp menu commands - Save View Magic Rest Alter Exit
