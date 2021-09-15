@@ -998,3 +998,5 @@
 **191B8|4C
 // Combat menu Y for Yes -> L - GitHub #109
 **151DE|4C
+// d in #d# damage string -> r - GitHub #76
+**21610|72
