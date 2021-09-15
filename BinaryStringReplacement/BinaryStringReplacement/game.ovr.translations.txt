@@ -434,9 +434,9 @@
 365|Armor|Броня
 366|Status|Статус
 //367|Damage|Урон
-367|Damage        |Урон        
+367|Damage        |  Урон        
 //368|Encumbrance|Ноша
-368|Encumbrance      |Ноша      
+368|Encumbrance      |       Ноша      
 369|Movement|Скорость
 370|Items|Вещи
 371|Spells|Закл. 
@@ -673,7 +673,7 @@
 // Added 563-565 for Github issue #8
 564| Exit| Наз
 // Github issue #12
-1008|THAC0   |БПКБ0
+1008|THAC0   |БПКБ0   
 // Github issue #52
 1009| Pick| Взл.
 // This is the Sell that goes with Ready Trade Drop Halve Join Sell ID Exit
