@@ -639,7 +639,7 @@
 535|gets back up|
 536|Name|Имя
 537|Hitpoints|Очки жизни
-538|AC|КБ
+538|AC    |КБ    
 539|(Helpless)|(Беззащитен)
 540|Nil Item pointer.|
 541|Tried to Lose item & couldn't find it!|
@@ -678,6 +678,7 @@
 1009| Pick| Взл.
 // This is the Sell that goes with Ready Trade Drop Halve Join Sell ID Exit
 1010| Sell| Прод
+1011|HP    |ОЗ    
 // Location-specific byte replacements below
 // These next 2 are for Github issue #4
 **2D989|10
