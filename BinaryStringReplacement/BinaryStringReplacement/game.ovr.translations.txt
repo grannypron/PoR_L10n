@@ -174,7 +174,7 @@
 141|Bandage|Бинт
 142|Speed Exit|Темп Уйти
 143|is bandaged|перевязан
-144|GameSpeed|Скор.игры
+144|GameSpeed (|Скор.игры (
 //145|Slower|Медл.
 145| Slower| Ниже
 //146|Faster|Быстр.
