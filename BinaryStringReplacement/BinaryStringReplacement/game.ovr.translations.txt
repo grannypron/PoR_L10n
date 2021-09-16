@@ -252,11 +252,11 @@
 212|Attack Ally:|Атак. союзн:
 213|Range =|Дальн =
 214|Target|Мишень
-215|Next Prev Manual|Сл Пр Вруч
+215|Next Prev Manual |След Пред Вручн 
 216|Center Exit|Цнтр Уйти
-217|Aim:|Цель
-218|Range =|Дальн =
-219|Center Exit|Цнтр Уйти
+217|Aim:|Цел:
+218|Range = |Дальн = 
+219|Center Exit|Центр Уйти
 220|Target|Мишень
 221|(Use Cursor keys)|(Исп. стрелки)
 222|Rakes...|Роется..
