@@ -1000,3 +1000,7 @@
 **151DE|4C
 // d in #d# damage string -> r - GitHub #76
 **21610|72
+// Hotkeys for Next (N->C), Prev (P->G), and Keep (K->J) on Body Coloring screen in new character process - GitHub #75
+**1D6BA|43
+**1D70D|47
+**1D757|4A
