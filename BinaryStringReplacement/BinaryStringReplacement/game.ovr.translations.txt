@@ -537,18 +537,18 @@
 //444|No gems or jewelry|Нет самоцветов или драгоценностей
 444|No Gems or Jewelry|Нет камней или юв.
 //445|Gem|смц
-445|Gem|Кам
+445| Gem|Зам
 //446|Gems|самоцветы
-446|Gems|Кам.
+446| Gems|Зам.
 //447|piece of jewelry|драгоценность
 447| piece of Jewelry| драгоценность
 //448|pieces of jewelry|драгоценности
 448| pieces of Jewelry| драгоценности
 449|You have a fine collection of:|У вас хорошая коллекция:
 //450|Gems|Самоцветов
-450|Gems|Кам.
+450|  Gems|Зам.
 //451|Jewelry|Драг.
-451|Jewelry|Драг.
+451|  Jewelry|Драг.
 //452|Exit|Выход
 452| Exit| Уйти
 453|Appraise :|Оценить :
