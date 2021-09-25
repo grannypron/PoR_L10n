@@ -520,15 +520,15 @@
 //433|‰Overloaded|‰перегружен
 433|Overloaded|перегружен
 //434|gems|самоцветы
-434|Gems|Кам. 
+434|Gems|Кам.
 //435|gold|золото
-435|Gold|зол.
+435|Gold|Зол.
 //436|platinum|платина
-436|Platinum|платина
-437|electrum|электрум
-438|silver|сереб.
+436|Platinum|Платина
+437|electrum|Электрум
+438|silver|Сереб.
 //439|copper|медяки
-439|Copper|медяки
+439|Copper|Медяки
 //440|jewelry|драгоценности
 440|Jewelry |Драг.
 441|Select type of coin|Выберите тип монет
@@ -537,18 +537,18 @@
 //444|No gems or jewelry|Нет самоцветов или драгоценностей
 444|No Gems or Jewelry|Нет камней или юв.
 //445|Gem|смц
-445| Gem| смц
+445|Gem|Кам
 //446|Gems|самоцветы
-446| Gems| Кам.
+446|Gems|Кам.
 //447|piece of jewelry|драгоценность
 447| piece of Jewelry| драгоценность
 //448|pieces of jewelry|драгоценности
 448| pieces of Jewelry| драгоценности
 449|You have a fine collection of:|У вас хорошая коллекция:
 //450|Gems|Самоцветов
-450|  Gems|Кам.
+450|Gems|Кам.
 //451|Jewelry|Драг.
-451|  Jewelry|  Драг.
+451|Jewelry|Драг.
 //452|Exit|Выход
 452| Exit| Уйти
 453|Appraise :|Оценить :
@@ -1004,3 +1004,18 @@
 **1D6BA|43
 **1D70D|47
 **1D757|4A
+// Coin selection screen for Trade
+// G for Gold -> P
+**2585E|50
+// P for Platinum -> G
+**258AC|47
+// E for Electrum -> '
+**258C9|27
+// S for Silver -> C
+**258E6|43
+// C for Copper -> V
+**25903|56
+// J for Jewelry -> L
+**25920|4C
+// E for Gems -> F
+**25875|46
