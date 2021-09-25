@@ -520,9 +520,9 @@
 //433|‰Overloaded|‰перегружен
 433|Overloaded|перегружен
 //434|gems|самоцветы
-434|Gems|Кам.
+434|Gems|.Кам.
 //435|gold|золото
-435|Gold|Зол.
+435|Gold|.Зол.
 //436|platinum|платина
 436|Platinum|Платина
 437|electrum|Электрум
@@ -1005,8 +1005,8 @@
 **1D70D|47
 **1D757|4A
 // Coin selection screen for Trade
-// G for Gold -> P
-**2585E|50
+// G for Gold -> .
+**2585E|2E
 // P for Platinum -> G
 **258AC|47
 // E for Electrum -> '
@@ -1017,5 +1017,5 @@
 **25903|56
 // J for Jewelry -> L
 **25920|4C
-// E for Gems -> F
-**25875|46
+// E for Gems -> R
+**25875|52
