@@ -454,7 +454,7 @@
 // This string is for the main menu hotkeys - not sure what the "J" is used for in the original
 1007|C D M T V A R L S B E J|Y E V N J L B P C G D X
 //"Select" left untranslated thus far - Github #60
-1008|Select|вЫбор
+1008|Select|Выбор
 1009|Hitpoints|ЗДОРОВЬЕ
 1010|AC|КБ
 1011|(Helpless)|(Уязвимый)
@@ -465,3 +465,5 @@
 **18C0|20|20
 // Remove 's possessive string - GitHub #104
 **2C94|20|20
+// Select on Trade money menu S -> D - Github #98
+**40A7|30
