@@ -1019,3 +1019,5 @@
 **25920|4C
 // E for Gems -> R
 **25875|52
+// Rest menu R for Rest -> C - GitHub #105
+**244D5|28
