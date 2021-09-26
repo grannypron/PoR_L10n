@@ -667,7 +667,7 @@
 // Had to move 227 under 290 "Pick Race"
 227|Pick|З)от
 // Had to move 296 Drop under 391 Drop It? - Github issue #4 - this is the Character View screen.  @21ABD
-296|Drop|Доло
+296|Drop |Долой
 // Added 563-565 for Github issue #4
 563|Yes No|Да Нет
 // Added 563-565 for Github issue #8
