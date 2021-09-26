@@ -520,9 +520,9 @@
 //433|‰Overloaded|‰перегружен
 433|Overloaded|перегружен
 //434|gems|самоцветы
-434|Gems|.Кам.
+434|Gems|Кам.
 //435|gold|золото
-435|Gold|.Зол.
+435|Gold|Зол.
 //436|platinum|платина
 436|Platinum|Платина
 437|electrum|Электрум
@@ -1005,8 +1005,8 @@
 **1D70D|47
 **1D757|4A
 // Coin selection screen for Trade
-// G for Gold -> .
-**2585E|2E
+// G for Gold -> P
+**2585E|50
 // P for Platinum -> G
 **258AC|47
 // E for Electrum -> '
@@ -1021,3 +1021,5 @@
 **25875|52
 // Rest menu R for Rest -> C - GitHub #105
 **244D5|28
+// If logic change to coin selection code - GitHub #103
+**25860|13

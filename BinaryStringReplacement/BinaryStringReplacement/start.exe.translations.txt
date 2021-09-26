@@ -108,10 +108,10 @@
 105|Copper|Медяки
 106|Silver|Серебро
 107|Electrum|Электрум
-108|Gold|.Зол.
+108|Gold|Зол.
 109|Platinum|Платина 
 //110|Gems|Самоцветы
-110|Gems|.Кам.
+110|Gems|Кам.
 111||Драгоц.
 112|Okay|ОК
 113|Animated|Оживший
@@ -296,7 +296,7 @@
 289|Copper|медяк
 290|Silver|серебро
 291|Electrum|электрум
-292|Gold|.Зол.
+292|Gold|Зол.
 293|Platinum|Платина 
 294|Ointment|Мазь
 295|Keoghtum's|Кеогтома
