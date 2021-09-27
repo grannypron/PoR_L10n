@@ -277,7 +277,7 @@
 234|memorize spells|запомнить закл.
 235|scribe any scrolls|запис. в свитки
 236|has no spells memorized|не помнит заклинаний
-237|can memorize:|может запомн:
+237|can memorize:|запомнит:
 //238|Cleric Spells:|Заклинания жреца:
 238|    Cleric Spells:| Заклинания жреца:
 239|Magic-User Spells:|Заклинания мага:
@@ -439,7 +439,8 @@
 368|Encumbrance      |       Ноша      
 369|Movement|Скорость
 370|Items|Вещи
-371|Spells|Закл. 
+// This is the Spells word from the Encampment -> Magic menu
+371|Spells|Закл.
 372|Trade|Сбыт
 //373|Drop|Выбр - Github #15
 373|Drop |Уд.
@@ -500,11 +501,11 @@
 417|will you drop?|вы выбросите?
 //418|in Memory|в памяти
 418|in Memory|в  памяти
-419|in Spell Book|в книгу
+419|in Spell Book|заклинания
 420|on Scroll|на свиток
 421|on Scrolls|на свитки
 422|to choose from|выбирается из
-423|to be memorized|будет выучено
+423|to be memorized|запомнит
 //424|to be scribed|будет записано
 424|to be scribed|будет записа.
 425|Spells|Закл.
@@ -563,7 +564,7 @@
 460|Memorize|Запомн.
 461|Scribe|Запис.
 462|Learn|Изуч.
-463|Choose Spell:|Выбр. закл:
+463|Choose Spell:|Выбранное:
 464|Cast Spell on whom|На кого наложить
 465|is a combat-only spell...|- боевое заклинание...
 466|Lose it?|Избав?
@@ -1026,3 +1027,5 @@
 // If logic change to coin selection code - GitHub #103
 **25860|13
 **25861|74|34
+// Blank out Spells word - GitHub #104
+**239CE|01|20|20|20|20|20|20
