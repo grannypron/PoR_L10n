@@ -773,8 +773,10 @@
 **170F9|50
 // V for View -> U
 **17110|55
-// E for Encamp -> K
-//**17120|4B - this one does not work right now for an unknown reason
+// E for Encamp -> K  including GitHub #71 fix
+**17120|4B
+**4115|4B
+**4129|4B
 // S for Search -> B
 **1712A|42
 // L for Look -> J
@@ -786,7 +788,7 @@
 // V for View -> U
 **17328|55
 // E for Encamp -> K
-//**17338|4B - this one MIGHT not work right now for an unknown reason
+**17338|4B
 // S for Search -> B
 **17342|42
 // L for Look -> J

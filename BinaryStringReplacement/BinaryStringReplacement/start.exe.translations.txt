@@ -35,8 +35,8 @@
 34|TROLL|ТРОЛЛЬ
 35|FIRE GIANT|ОГНЕННЫЙ ГИГАНТ
 36|HILL GIANT|ХОЛМОВОЙ ГИГАНТ
-37|Area Cast View Encamp Search Look|Карт Закл Гер У)лагерь Искать Осмотр
-38|Cast View Encamp Search Look|Закл Гер У)лагерь Искать Осмотр
+37|Area Cast View Encamp Search Look|Карт Закл Гер Лагерь Искать Осмотр
+38|Cast View Encamp Search Look|Закл Гер Лагерь Искать Осмотр
 39|Save View Magic Rest Alter Exit|Сохр Гер Магия Отд Настр Уйти
 40|Cast Memorize Scribe Display Rest Exit|Колд Добавить Свиток Активно Отд Уйти
 41|Order Drop Speed Icon Pics Exit|Ряд Изг Скр Знч Ав Уйти
